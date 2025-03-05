@@ -143,55 +143,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1741150740,
-        "tms_id": "",
-        "description": "Tina goes on a power trip.",
-        "title_suggest": {
-            "input": [
-                "Fast Time Capsules at Wagstaff School",
-                "Time Capsules at Wagstaff School",
-                "Capsules at Wagstaff School",
-                "at Wagstaff School",
-                "Wagstaff School",
-                "School"
-            ]
-        },
-        "title": "Fast Time Capsules at Wagstaff School",
-        "type": "episode",
-        "expiration_date": 1724644740,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1290.8562,
-        "episode_number": "5",
-        "original_air_date": 1702348200,
-        "auth_launch_date": 1740546000,
-        "clip_order": null,
-        "airing_id": "RADS1002192500022010",
-        "media_id": "3ad4f783d65c821be26be82841ff91619b41bfd7",
-        "modified": 1740123820,
-        "slug": "fast-time-capsules-at-wagstaff-school",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240212/thumbnails/1_242121122286-Screenshot2024-02-12at11.22.05AM.png",
-        "created": 1707361814,
-        "title_id": "2438965",
-        "season_number": "11",
-        "tv_rating": "tv-pg-l",
-        "published": 1740123820,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1724040000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240212/thumbnails/2_242121122286-Screenshot2024-02-12at11.22.05AM.png",
-        "id": "AY2GscgOC2cKYm1ap-18",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1741237140,
         "tms_id": "",
         "description": "The Belchers scramble to keep the restaurant open.",
@@ -243,6 +194,51 @@
         "launch_date": 1724644800,
         "poster": "https://media.cdn.adultswim.com/uploads/20240212/thumbnails/2_242121220501-Screenshot2024-02-12at12.20.23PM.png",
         "id": "AY2Gsh4v1E7YmWrdXLnm",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1741751940,
+        "tms_id": "",
+        "description": "Linda's new routine is wreaking havoc.",
+        "title_suggest": {
+            "input": [
+                "Sheshank Redumption",
+                "Redumption"
+            ]
+        },
+        "title": "Sheshank Redumption",
+        "type": "episode",
+        "expiration_date": 1727063940,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1290.0554,
+        "episode_number": "15",
+        "original_air_date": 1703554200,
+        "auth_launch_date": 1741150800,
+        "clip_order": null,
+        "airing_id": "RADS1002272500023151",
+        "media_id": "40267daf86f144d07cc81e8059288d5749b4dc59",
+        "modified": 1740728817,
+        "slug": "sheshank-redumption",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240226/thumbnails/1_24226948470-Screenshot2024-02-26at9.47.55AM.png",
+        "created": 1708111647,
+        "title_id": "2438975",
+        "season_number": "11",
+        "tv_rating": "tv-pg-dl",
+        "published": 1740728817,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1726459200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240226/thumbnails/2_24226948470-Screenshot2024-02-26at9.47.55AM.png",
+        "id": "AY2zY1L51E7YmWrdXLxz",
         "auth": true
     },
     {
