@@ -2,6 +2,64 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1741751940,
+        "tms_id": "EP002070020227",
+        "rating": 8.863207,
+        "description": "When Bobby's baby-sitter cancels at the last minute, Hank and Peggy have no choice but to allow Cotton to sit for Bobby so they can go on a date.",
+        "title_suggest": {
+            "input": [
+                "Death Picks Cotton",
+                "Picks Cotton",
+                "Cotton"
+            ]
+        },
+        "type": "episode",
+        "title": "Death Picks Cotton",
+        "expiration_date": 1498188599,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1367.1992,
+        "episode_number": "17",
+        "original_air_date": 1238034600,
+        "auth_launch_date": 1741150800,
+        "clip_order": null,
+        "modified": 1740729705,
+        "media_id": "e8afaf39e3c324ade9a08deff38dac24cc1d83d9",
+        "airing_id": "RADS1002272500023156",
+        "id": "8jzi_aPhS1uvJJcEocsz1A",
+        "slug": "death-picks-cotton",
+        "views": 152650,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15203520592319.jpg",
+        "created": 1402945468,
+        "title_id": "731559",
+        "season_number": "11",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1740729705,
+        "tags": [
+            "King of the Hill",
+            " KOTH",
+            " BABE14",
+            " Episode 1114",
+            " Season 11",
+            " Death Picks Cotton"
+        ],
+        "rating_count": 212,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1497583800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203520592319.jpg",
+        "cma_id": "1415487"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1741496340,
         "tms_id": "EP002070020226",
         "description": "When Arlen is struck by a sweltering heat wave, Hank gets the gang to go to a water park where everybody experiences \"the coolest wave in Texas.\"",
@@ -166,57 +224,6 @@
         "launch_date": 1497272400,
         "poster": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271247537-KingOfTheHill_1113_SuiteSmellOfExcess.png",
         "cma_id": "1413068"
-    },
-    {
-        "auth": true,
-        "auth_expiration_date": 1741150740,
-        "tms_id": "EP002070020220",
-        "rating": 8.995122,
-        "description": "When Hank talks Dale into hiring Lucky so he can pay for his wedding Luanne, Lucky gets hurt and they all get entangled in a bogus lawsuit.",
-        "title_suggest": {
-            "input": [
-                "Lucky's Wedding Suit",
-                "Wedding Suit",
-                "Suit"
-            ]
-        },
-        "type": "episode",
-        "title": "Lucky's Wedding Suit",
-        "expiration_date": 1497875399,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1432.6646,
-        "episode_number": "12",
-        "original_air_date": 1237600800,
-        "auth_launch_date": 1740546000,
-        "clip_order": null,
-        "modified": 1740124417,
-        "media_id": "e88482c13cf1d6935f3f1dea5536c6301c5cf0fb",
-        "airing_id": "RADS1002192500022015",
-        "id": "rYVgiS9vRZifp7CLuv7BNQ",
-        "slug": "luckys-wedding-suit",
-        "views": 172645,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/1_224271246577-KingOfTheHill_1005_LuckysWeddingSuit.png",
-        "created": 1402945468,
-        "title_id": "731554",
-        "season_number": "11",
-        "tv_rating": "tv-pg-l",
-        "active": false,
-        "published": 1740124417,
-        "tags": [
-            "king of the hill episode 1005 lucky's wedding suit luanne lawsuit lawyer injury dale bug spray office married marriage"
-        ],
-        "rating_count": 205,
-        "collection_title": "King of the Hill",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1497270600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271246577-KingOfTheHill_1005_LuckysWeddingSuit.png",
-        "cma_id": "1413110"
     },
     {
         "auth": true,
