@@ -2484,7 +2484,7 @@
         "launch_date": 1740178800,
         "poster": "https://media.cdn.adultswim.com/uploads/20241108/thumbnails/2_241181723355-NarutoClassic-Ep051-1920x1080.jpg",
         "id": "AZLjVismDT7oKsPdFfa-",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": null,
@@ -2533,6 +2533,55 @@
         "launch_date": 1740783600,
         "poster": "https://media.cdn.adultswim.com/uploads/20241108/thumbnails/2_241181725492-NarutoClassic-Ep052-1920x1080.jpg",
         "id": "AZLjVmTJDT7oKsPdFfa_",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Jiraiya, one of the legendary Three Ninja, suddenly appears before Ebisu and Naruto.",
+        "title_suggest": {
+            "input": [
+                "Long Time No See: Jiraiya Returns!",
+                "Time No See: Jiraiya Returns!",
+                "No See: Jiraiya Returns!",
+                "See: Jiraiya Returns!",
+                "Jiraiya Returns!",
+                "Returns!"
+            ]
+        },
+        "title": "Long Time No See: Jiraiya Returns!",
+        "expiration_date": 1742594340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "lG7zt3RpRCKLnxfZW2IJ3w",
+        "duration": 1280.9463,
+        "episode_number": "53",
+        "original_air_date": "1159664400",
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1003012500023599",
+        "media_id": "a84aed00635eebe8c53f10412089307cb1c2978b",
+        "modified": 1740959756,
+        "slug": "long-time-no-see-jiraiya-returns",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241108/thumbnails/1_241181726236-NarutoClassic-Ep053-1920x1080.jpg",
+        "created": 1730390960,
+        "season_number": "1",
+        "title_id": "641217",
+        "tv_rating": "tv-14-ds",
+        "published": 1740959756,
+        "tags": [],
+        "collection_title": "Naruto",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1741388400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20241108/thumbnails/2_241181726236-NarutoClassic-Ep053-1920x1080.jpg",
+        "id": "AZLjVqkoCjvsJgIeWAEi",
         "auth": false
     }
 ]
