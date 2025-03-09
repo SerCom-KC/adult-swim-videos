@@ -1,51 +1,5 @@
 [
     {
-        "auth_expiration_date": 1741496340,
-        "tms_id": "EP003034830064",
-        "description": "Fry, Leela and Bender develop superhuman powers and fight crime in the Big Apple.",
-        "title_suggest": {
-            "input": [
-                "Less Than Hero",
-                "Than Hero",
-                "Hero"
-            ]
-        },
-        "title": "Less Than Hero",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1401.1331,
-        "episode_number": "6",
-        "original_air_date": 1068091200,
-        "auth_launch_date": 1740891600,
-        "clip_order": null,
-        "airing_id": "RADS1002242500022362",
-        "media_id": "d10b60409e8040bcd4f27781e7757ea680c7e7d0",
-        "modified": 1740464388,
-        "slug": "less-than-hero",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220520/thumbnails/1_22520135130-FuturamaHero.png",
-        "created": 1652535013,
-        "title_id": "444750",
-        "season_number": "5",
-        "tv_rating": "tv-pg-l",
-        "published": 1740464388,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220520/thumbnails/2_22520135130-FuturamaHero.png",
-        "id": "AYDCwy8f_0O4w1rD3SNK",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1741579140,
         "tms_id": "EP003034830065",
         "description": "Hot tar turns the crotchety old professor into a middle-aged man, while the others are transformed into rambunctious children.",
@@ -228,6 +182,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220527/thumbnails/2_225271218371-Futurama_066_TheFarnsworthParabox.png",
         "id": "AYDxY0Yq_0O4w1rD3SQu",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1742097540,
+        "tms_id": "EP003034830069",
+        "description": "The gang finds wacky ways to spend extra money from a refund.",
+        "title_suggest": {
+            "input": [
+                "Three Hundred Big Boys",
+                "Hundred Big Boys",
+                "Big Boys",
+                "Boys"
+            ]
+        },
+        "title": "Three Hundred Big Boys",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1402.5011,
+        "episode_number": "11",
+        "original_air_date": 1069819200,
+        "auth_launch_date": 1741496400,
+        "clip_order": null,
+        "airing_id": "RADS1003032500023698",
+        "media_id": "b538726fd2d6b3de0fade52df866c18695e233e6",
+        "modified": 1741069618,
+        "slug": "three-hundred-big-boys",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220527/thumbnails/1_225271219341-Futurama_067_ThreeHundredBigBoys.png",
+        "created": 1653319781,
+        "title_id": "444758",
+        "season_number": "5",
+        "tv_rating": "tv-pg-l",
+        "published": 1741069618,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220527/thumbnails/2_225271219341-Futurama_067_ThreeHundredBigBoys.png",
+        "id": "AYDxic3Q208s7zyYUM9j",
         "auth": true
     }
 ]
