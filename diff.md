@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 9, 2025 at 22:30:14 EDT_
+_Last Update: March 9, 2025 at 23:30:42 EDT_
 ## Video added
 ### Summary
-2031611 Dragon Ball Z Kai: 1  
-### 2031654
-**Dragon Ball Z Kai S01E43 - Goku vs. Frieza! The Super Showdown Begins!**  
-TV-PG-LV 🔓 22:09  
-⌛ April 13, 2025 at 03:59:00 EDT  
-https://www.adultswim.com/videos/dragon-ball-z-kai/goku-vs-frieza-the-super-showdown-begins  
-seriesid=`2031611` titleid=`2031654` id=`znsKsAi9QFSeE-iHuLT1BQ` mediaid=`54c144eace96b5f7735a4dedaec01ecbc6a40422`  
-_Goku and Frieza go head to head in a vicious slugfest that threatens to destroy the planet of Namek. Krillin and Gohan are amazed by the brutality of the battle, but Piccolo believes two warriors are just warming up!_  
-<a href="https://i.cdn.turner.com/adultswim/big/video/goku-vs-frieza-the-super-showdown-begins/dragonballzkai_043_air_cid-2KW70.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/goku-vs-frieza-the-super-showdown-begins/dragonballzkai_043_air_cid-2KW70.jpg" height="144px" /></a>
+2424754 Common Side Effects: 1  
+### 2424761
+**Common Side Effects S01E07 - Blowfish**  
+TV-14-LV 🔒 22:03  
+⌛ March 30, 2025 at 23:29:00 EDT  
+https://www.adultswim.com/videos/common-side-effects/blowfish  
+seriesid=`2424754` titleid=`2424761` id=`AZS99lQv4ijrGBacAUo4` mediaid=`9c50214f65afe7353ac872f59286485f7abfa298`  
+_A chance encounter offers a risky opportunity for escape._  
+<a href="https://media.cdn.adultswim.com/uploads/20250131/thumbnails/2_25131153129-CommonSideEffects-107-Blowfish-1920x1080.jpg"><img src="https://media.cdn.adultswim.com/uploads/20250131/thumbnails/2_25131153129-CommonSideEffects-107-Blowfish-1920x1080.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
