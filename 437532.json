@@ -1,99 +1,5 @@
 [
     {
-        "auth_expiration_date": 1741579140,
-        "tms_id": "EP003034830065",
-        "description": "Hot tar turns the crotchety old professor into a middle-aged man, while the others are transformed into rambunctious children.",
-        "title_suggest": {
-            "input": [
-                "Teenage Mutant Leela's Hurdles",
-                "Mutant Leela's Hurdles",
-                "Leela's Hurdles",
-                "Hurdles"
-            ]
-        },
-        "title": "Teenage Mutant Leela's Hurdles",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1399.4313,
-        "episode_number": "7",
-        "original_air_date": 1068782400,
-        "auth_launch_date": 1740978000,
-        "clip_order": null,
-        "airing_id": "RADS1002262500022428",
-        "media_id": "24fdbdc8ea4a445a546943d776b5ca77133d6f50",
-        "modified": 1740563514,
-        "slug": "teenage-mutant-leelas-hurdles",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220521/thumbnails/1_225211650145-LeelasHurdles.png",
-        "created": 1652535105,
-        "title_id": "444752",
-        "season_number": "5",
-        "tv_rating": "tv-pg",
-        "published": 1740563514,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220521/thumbnails/2_225211650145-LeelasHurdles.png",
-        "id": "AYDCxJhO_0O4w1rD3SNL",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1741579140,
-        "tms_id": "EP003034830066",
-        "description": "Fry becomes disheartened when Leela gets involved with the mayor's aide.",
-        "title_suggest": {
-            "input": [
-                "The Why of Fry",
-                "Why of Fry",
-                "of Fry",
-                "Fry"
-            ]
-        },
-        "title": "The Why of Fry",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1398.8975,
-        "episode_number": "8",
-        "original_air_date": 1069128000,
-        "auth_launch_date": 1740978000,
-        "clip_order": null,
-        "airing_id": "RADS1002262500022426",
-        "media_id": "674e4e02c80c72214b2dbd59d84e1f009675cf85",
-        "modified": 1740562732,
-        "slug": "the-why-of-fry",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220523/thumbnails/1_225231323100-WhyFrymin.png",
-        "created": 1652894823,
-        "title_id": "444753",
-        "season_number": "5",
-        "tv_rating": "tv-pg-dl",
-        "published": 1740562732,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220523/thumbnails/2_225231323100-WhyFrymin.png",
-        "id": "AYDYNXKz_0O4w1rD3SOO",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1741924740,
         "tms_id": "EP003034830067",
         "description": "Fry, Leela and Bender attempt to collect honey from space bees.",
@@ -229,6 +135,96 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220527/thumbnails/2_225271219341-Futurama_067_ThreeHundredBigBoys.png",
         "id": "AYDxic3Q208s7zyYUM9j",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1742183940,
+        "tms_id": "EP003034830070",
+        "description": "A spaceship beams Fry aboard, then returns him the next day without a nose.",
+        "title_suggest": {
+            "input": [
+                "Spanish Fry",
+                "Fry"
+            ]
+        },
+        "title": "Spanish Fry",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1401.9338,
+        "episode_number": "12",
+        "original_air_date": 1069905600,
+        "auth_launch_date": 1741579200,
+        "clip_order": null,
+        "airing_id": "RADS1003042500023815",
+        "media_id": "c8467861e0bf6ff3b6c1acd1999b200b68cab85b",
+        "modified": 1741160516,
+        "slug": "spanish-fry",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220603/thumbnails/1_2263125027-SpanishFry.png",
+        "created": 1653679652,
+        "title_id": "444759",
+        "season_number": "5",
+        "tv_rating": "tv-pg-ds",
+        "published": 1741160516,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220603/thumbnails/2_2263125027-SpanishFry.png",
+        "id": "AYEG_P_i208s7zyYUM_U",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1742183940,
+        "tms_id": "EP003034830071",
+        "description": "Bender competes in the 3004 Earth Olympian as a fembot.",
+        "title_suggest": {
+            "input": [
+                "Bend Her",
+                "Her"
+            ]
+        },
+        "title": "Bend Her",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1397.0957,
+        "episode_number": "13",
+        "original_air_date": 1069300800,
+        "auth_launch_date": 1741579200,
+        "clip_order": null,
+        "airing_id": "RADS1003042500023817",
+        "media_id": "87b3c7991984d8ab3c44f3fc5343554ff1b9446f",
+        "modified": 1741158219,
+        "slug": "bend-her",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220606/thumbnails/1_2266106445-BendHer.png",
+        "created": 1653836830,
+        "title_id": "444755",
+        "season_number": "5",
+        "tv_rating": "tv-pg-dl",
+        "published": 1741158219,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220606/thumbnails/2_2266106445-BendHer.png",
+        "id": "AYEQW1ZL_0O4w1rD3SSb",
         "auth": true
     }
 ]
