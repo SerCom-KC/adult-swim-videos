@@ -90,6 +90,51 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1741751940,
+        "tms_id": "",
+        "description": "Linda's new routine is wreaking havoc.",
+        "title_suggest": {
+            "input": [
+                "Sheshank Redumption",
+                "Redumption"
+            ]
+        },
+        "title": "Sheshank Redumption",
+        "type": "episode",
+        "expiration_date": 1727063940,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1290.0554,
+        "episode_number": "15",
+        "original_air_date": 1703554200,
+        "auth_launch_date": 1741150800,
+        "clip_order": null,
+        "airing_id": "RADS1002272500023151",
+        "media_id": "40267daf86f144d07cc81e8059288d5749b4dc59",
+        "modified": 1740728817,
+        "slug": "sheshank-redumption",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240226/thumbnails/1_24226948470-Screenshot2024-02-26at9.47.55AM.png",
+        "created": 1708111647,
+        "title_id": "2438975",
+        "season_number": "11",
+        "tv_rating": "tv-pg-dl",
+        "published": 1740728817,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1726459200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240226/thumbnails/2_24226948470-Screenshot2024-02-26at9.47.55AM.png",
+        "id": "AY2zY1L51E7YmWrdXLxz",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1741924740,
         "tms_id": "",
         "description": "Bob is in a car accident.",
@@ -551,50 +596,5 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20231023/thumbnails/2_2310231125472-Screenshot2023-10-23at11.25.30AM.png",
         "id": "AYtGH8wC1E7YmWrdXLkQ",
         "auth": false
-    },
-    {
-        "auth_expiration_date": 1742356740,
-        "tms_id": "",
-        "description": "Linda and Gayle get a mysterious note.",
-        "title_suggest": {
-            "input": [
-                "The Pumpkinening",
-                "Pumpkinening"
-            ]
-        },
-        "title": "The Pumpkinening",
-        "type": "episode",
-        "expiration_date": 1728878340,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1291.7238,
-        "episode_number": "3",
-        "original_air_date": 1696903200,
-        "auth_launch_date": 1741752000,
-        "clip_order": null,
-        "airing_id": "RADS1003052500024063",
-        "media_id": "fef9fbc337ee64a649ac7fd5f3a7b4ca7044622f",
-        "modified": 1741327835,
-        "slug": "the-pumpkinening",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231030/thumbnails/1_231030151024-Screenshot2023-10-30at3.09.50PM.png",
-        "created": 1698185752,
-        "title_id": "2438985",
-        "season_number": "12",
-        "tv_rating": "tv-pg-l",
-        "published": 1741327835,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1728273600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20231030/thumbnails/2_231030151024-Screenshot2023-10-30at3.09.50PM.png",
-        "id": "AYtjwi6tn_kciGPPrDF_",
-        "auth": true
     }
 ]
