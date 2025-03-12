@@ -54,64 +54,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1741751940,
-        "tms_id": "EP002070020227",
-        "rating": 8.863207,
-        "description": "When Bobby's baby-sitter cancels at the last minute, Hank and Peggy have no choice but to allow Cotton to sit for Bobby so they can go on a date.",
-        "title_suggest": {
-            "input": [
-                "Death Picks Cotton",
-                "Picks Cotton",
-                "Cotton"
-            ]
-        },
-        "type": "episode",
-        "title": "Death Picks Cotton",
-        "expiration_date": 1498188599,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1367.1992,
-        "episode_number": "17",
-        "original_air_date": 1238034600,
-        "auth_launch_date": 1741150800,
-        "clip_order": null,
-        "modified": 1740729705,
-        "media_id": "e8afaf39e3c324ade9a08deff38dac24cc1d83d9",
-        "airing_id": "RADS1002272500023156",
-        "id": "8jzi_aPhS1uvJJcEocsz1A",
-        "slug": "death-picks-cotton",
-        "views": 152650,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15203520592319.jpg",
-        "created": 1402945468,
-        "title_id": "731559",
-        "season_number": "11",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1740729705,
-        "tags": [
-            "King of the Hill",
-            " KOTH",
-            " BABE14",
-            " Episode 1114",
-            " Season 11",
-            " Death Picks Cotton"
-        ],
-        "rating_count": 212,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1497583800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203520592319.jpg",
-        "cma_id": "1415487"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1742011140,
         "tms_id": "EP002070020230",
         "description": "Minh joins the Arlen Gun Club to learn skeet shooting, a skill she hopes will make an exclusive country club accept her and Kahn as new members.",
@@ -285,5 +227,53 @@
         "launch_date": 1497670200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152035200949713.jpg",
         "cma_id": "1415823"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1742356740,
+        "tms_id": "EP002070020232",
+        "description": "When Ladybird bites Hank he brings in a \"dog spiritualist,\" what Hank finds out is that he needs to become more of a leader around the house.",
+        "title_suggest": {
+            "input": [
+                "Doggone Crazy",
+                "Crazy"
+            ]
+        },
+        "title": "Doggone Crazy",
+        "type": "episode",
+        "expiration_date": 1498481999,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1368.6006,
+        "episode_number": "1",
+        "original_air_date": 1238378400,
+        "auth_launch_date": 1741752000,
+        "clip_order": null,
+        "modified": 1741327285,
+        "media_id": "395dec3662949fdb43b349cfd9f787674e5a952d",
+        "airing_id": "RADS1003052500024069",
+        "id": "iTi0CsBTQc-3Nb-Ng89g3g",
+        "slug": "doggone-crazy",
+        "views": 4418,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152035101276319.jpg",
+        "created": 1413944424,
+        "title_id": "731564",
+        "tv_rating": "tv-pg",
+        "season_number": "12",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1741327285,
+        "first_published": 1413944424,
+        "tags": [],
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1497877200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152035101276319.jpg",
+        "cma_id": "1417218"
     }
 ]
