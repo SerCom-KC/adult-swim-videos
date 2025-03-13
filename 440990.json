@@ -1,53 +1,5 @@
 [
     {
-        "auth_expiration_date": 1741838340,
-        "tms_id": "",
-        "description": "FAMILY GUY is reimagined as a series that's been on the air for 60 years.",
-        "title_suggest": {
-            "input": [
-                "'Family Guy' Through The Years",
-                "Guy' Through The Years",
-                "Through The Years",
-                "The Years",
-                "Years"
-            ]
-        },
-        "title": "'Family Guy' Through The Years",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 0,
-        "episode_number": "16",
-        "original_air_date": "1740366000",
-        "auth_launch_date": 1740632400,
-        "clip_order": null,
-        "airing_id": "RADS1002242500022276",
-        "media_id": "7afed1b309907c8eb9d4a5f099af629e94694a85",
-        "modified": 1740400120,
-        "slug": "family-guy-through-the-years",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241231/thumbnails/1_241231174845-FamilyGuy_S16_FamilyGuyThroughtheYears_Episode16.jpg",
-        "created": 1735685290,
-        "season_number": "16",
-        "title_id": "2539787",
-        "tv_rating": "tv-14-dlsv",
-        "published": 1740400120,
-        "tags": [],
-        "collection_title": "Family Guy",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20241231/thumbnails/2_241231174845-FamilyGuy_S16_FamilyGuyThroughtheYears_Episode16.jpg",
-        "id": "AZQe57mIhcl3AH3uIkji",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1742443140,
         "tms_id": "",
         "description": "To help promote the brewery to millennials, Peter adopts the millennial lifestyle.",
@@ -142,17 +94,19 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1741838340,
+        "auth_expiration_date": 1743047940,
         "tms_id": "",
-        "description": "To help get Brian's life in order, Stewie and Brian swap bodies using a machine that Stewie invents.",
+        "description": "At the vet's office, Brian meets a female show dog named Ellie. Smitten with her, he enters a show dog competition, in which the winner gets to breed with her.",
         "title_suggest": {
             "input": [
-                "Switch the Flip",
-                "the Flip",
-                "Flip"
+                "Boy (Dog) Meets Girl (Dog)",
+                "(Dog) Meets Girl (Dog)",
+                "Meets Girl (Dog)",
+                "Girl (Dog)",
+                "(Dog)"
             ]
         },
-        "title": "Switch the Flip",
+        "title": "Boy (Dog) Meets Girl (Dog)",
         "expiration_date": null,
         "type": "episode",
         "platforms": [
@@ -163,28 +117,28 @@
         ],
         "collection_id": "S-I8npXYS5W04PS9vAfgvg",
         "duration": 0,
-        "episode_number": "17",
-        "original_air_date": "1740367800",
-        "auth_launch_date": 1740632400,
+        "episode_number": "10",
+        "original_air_date": "1738899000",
+        "auth_launch_date": 1741838400,
         "clip_order": null,
-        "airing_id": "RADS1002242500022332",
-        "media_id": "7ade2d63114f78fb785c6f209137b6c080c816f0",
-        "modified": 1740640007,
-        "slug": "switch-the-flip",
+        "airing_id": "RADS1003102500024806",
+        "media_id": "39cba7c3516d65c6f07f6f4c37c6701799b85d1d",
+        "modified": 1741660172,
+        "slug": "boy-dog-meets-girl-dog",
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241231/thumbnails/1_2412311748556-FamilyGuy_S16_SwitchtheFlip_Episode17.jpg",
-        "created": 1735685679,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241231/thumbnails/1_241231170535-FamilyGuy_S16_Boy_DogMeetsGirl_Dog_Episode10.jpg",
+        "created": 1735682465,
         "season_number": "16",
-        "title_id": "2539782",
+        "title_id": "2539778",
         "tv_rating": "tv-14-dlsv",
-        "published": 1740640007,
+        "published": 1741660172,
         "tags": [],
         "collection_title": "Family Guy",
         "disable_ads": false,
         "modified_by": "ODT Listener",
         "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20241231/thumbnails/2_2412311748556-FamilyGuy_S16_SwitchtheFlip_Episode17.jpg",
-        "id": "AZQe7akXhkIHwKa-ECAi",
+        "poster": "https://media.cdn.adultswim.com/uploads/20241231/thumbnails/2_241231170535-FamilyGuy_S16_Boy_DogMeetsGirl_Dog_Episode10.jpg",
+        "id": "AZQevKAChcl3AH3uIkje",
         "auth": true
     },
     {
@@ -218,6 +172,39 @@
         "modified": 1740816686,
         "slug": "100th-episode-special",
         "id": "AZVO4Xfn4ijrGBacAU2W",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1743047940,
+        "created": 1741294989,
+        "tms_id": "",
+        "title_id": "2541125",
+        "season_number": "11",
+        "tv_rating": "tv-14-dlsv",
+        "description": "The adventures of the Griffins, an eccentric family living in New England, who are led by father Peter and mother Lois.",
+        "title_suggest": {
+            "input": [
+                "200 Episodes Later",
+                "Episodes Later",
+                "Later"
+            ]
+        },
+        "published": 1741443360,
+        "title": "200 Episodes Later",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 0,
+        "episode_number": "5",
+        "collection_title": "Family Guy",
+        "original_air_date": 1735983000,
+        "auth_launch_date": 1741838400,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1003062500024364",
+        "media_id": "0bc479ab9e9394e7d35109a20a451f54a31b8a0e",
+        "modified": 1741443360,
+        "slug": "200-episodes-later",
+        "id": "AZVtRPA0em4-xVQSK9Xy",
         "auth": true
     }
 ]
