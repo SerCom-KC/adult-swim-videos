@@ -2,25 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 14, 2025 at 18:00:14 EDT_
+_Last Update: March 14, 2025 at 18:30:42 EDT_
 ## Video added
 ### Summary
-439722 The Venture Bros.: 2  
-### 965651
-**The Venture Bros. S05E01 - Very Venture Halloween**  
-TV-14-DLV 🔓 22:31  
-⌛ December 31, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-venture-bros/very-venture-halloween  
-seriesid=`439722` titleid=`965651` id=`y_J3sjirT--ka8Xis-XUtw` mediaid=`53e39bbf758d8e5d302cda39cb43eeba5cf4aea9`  
-_Halloween Special. What do you need, a roadmap?_  
-<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116141358-venture_504_dup_20121025.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116141358-venture_504_dup_20121025.jpg" height="144px" /></a>
-### 2002581
-**The Venture Bros. S05E02 - What Color Is Your Cleansuit?**  
-TV-14-DLSV 🔓 45:13  
-⌛ December 31, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-venture-bros/what-color-is-your-cleansuit  
-seriesid=`439722` titleid=`2002581` id=`lk0dUGjxQlSFZD5KKD74Pw` mediaid=`c8d58e4ef8e821e084064a13e6f29066ac224997`  
-_Dr. Venture hires an army of college interns to help with his ambitious new science project. Dean finds love among the new recruits, but class warfare and nuclear physics threaten to tear the Venture Compound apart. And if they don't, The Monarch will._  
-<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161413254-venture_509-510_dup-20130508.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161413254-venture_509-510_dup-20130508.jpg" height="144px" /></a>
+622269 Naruto: 1  
+### 641218
+**Naruto S01E54 - The Summoning Jutsu: Wisdom of the Toad Sage!**  
+TV-14-V 🔓 22:22  
+⌛ March 28, 2025 at 17:59:00 EDT  
+https://www.adultswim.com/videos/naruto/the-summoning-jutsu-wisdom-of-the-toad-sage  
+seriesid=`622269` titleid=`641218` id=`AZLjVtnPDT7oKsPdFfbA` mediaid=`8c229034124c64d61ca7a680043cab1cc6a4ea70`  
+_The Sound Ninja Dosu appears before Gaara and intends on defeating Gaara._  
+<a href="https://media.cdn.adultswim.com/uploads/20241108/thumbnails/2_241181726448-NarutoClassic-Ep054-1920x1080.jpg"><img src="https://media.cdn.adultswim.com/uploads/20241108/thumbnails/2_241181726448-NarutoClassic-Ep054-1920x1080.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
