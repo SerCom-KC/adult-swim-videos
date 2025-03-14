@@ -2533,7 +2533,7 @@
         "launch_date": 1740783600,
         "poster": "https://media.cdn.adultswim.com/uploads/20241108/thumbnails/2_241181725492-NarutoClassic-Ep052-1920x1080.jpg",
         "id": "AZLjVmTJDT7oKsPdFfa_",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1776463140,
@@ -2582,6 +2582,57 @@
         "launch_date": 1741388400,
         "poster": "https://media.cdn.adultswim.com/uploads/20241108/thumbnails/2_241181726236-NarutoClassic-Ep053-1920x1080.jpg",
         "id": "AZLjVqkoCjvsJgIeWAEi",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "The Sound Ninja Dosu appears before Gaara and intends on defeating Gaara.",
+        "title_suggest": {
+            "input": [
+                "The Summoning Jutsu: Wisdom of the Toad Sage!",
+                "Summoning Jutsu: Wisdom of the Toad Sage!",
+                "Jutsu: Wisdom of the Toad Sage!",
+                "Wisdom of the Toad Sage!",
+                "of the Toad Sage!",
+                "the Toad Sage!",
+                "Toad Sage!",
+                "Sage!"
+            ]
+        },
+        "title": "The Summoning Jutsu: Wisdom of the Toad Sage!",
+        "expiration_date": 1743199140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "lG7zt3RpRCKLnxfZW2IJ3w",
+        "duration": 1342.2409,
+        "episode_number": "54",
+        "original_air_date": "1160269200",
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1003082500024743",
+        "media_id": "8c229034124c64d61ca7a680043cab1cc6a4ea70",
+        "modified": 1741989355,
+        "slug": "the-summoning-jutsu-wisdom-of-the-toad-sage",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241108/thumbnails/1_241181726448-NarutoClassic-Ep054-1920x1080.jpg",
+        "created": 1730390972,
+        "season_number": "1",
+        "title_id": "641218",
+        "tv_rating": "tv-14-v",
+        "published": 1741989355,
+        "tags": [],
+        "collection_title": "Naruto",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1741989600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20241108/thumbnails/2_241181726448-NarutoClassic-Ep054-1920x1080.jpg",
+        "id": "AZLjVtnPDT7oKsPdFfbA",
         "auth": false
     }
 ]
