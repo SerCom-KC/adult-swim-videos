@@ -108,6 +108,58 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1451682720,
+        "auth_expiration_date": 1700197140,
+        "tms_id": "EP007008200028",
+        "rating": 8.911361,
+        "description": "Tom goes undercover at his son's school to find out if they are being served high levels of starch.",
+        "title_suggest": {
+            "input": [
+                "Undercover"
+            ]
+        },
+        "type": "episode",
+        "title": "Undercover",
+        "expiration_date": 1747972740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
+        "duration": 698.26,
+        "episode_number": "15",
+        "original_air_date": 1157949000,
+        "clip_order": null,
+        "auth_launch_date": 1697169600,
+        "modified": 1741546924,
+        "airing_id": "RADS1003082500024734",
+        "media_id": "dc7238434110c66fd1f2f9f517fe6992a30d91e6",
+        "id": "KCurLYD7T1WMDKEw45yL3Q",
+        "slug": "undercover",
+        "views": 114466,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_211795854-tgttm_028.jpg",
+        "created": 1402945482,
+        "title_id": "639411",
+        "season_number": "2",
+        "tv_rating": "tv-14",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1741546924,
+        "tags": [
+            "tom goes to the mayor episode 28 undercover starch high school son"
+        ],
+        "rating_count": 440,
+        "collection_title": "Tom Goes To The Mayor",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1741924800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_211795854-tgttm_028.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1451682240,
         "auth_expiration_date": 1694750340,
         "tms_id": "EP007008200018",
@@ -474,59 +526,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1739509200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117953264-tgttm_015.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1451682000,
-        "auth_expiration_date": 1691121540,
-        "tms_id": "EP007008200011",
-        "rating": 8.288245,
-        "description": "The Mayor offers Tom a position as Vice Mayor of Hobo Town.  Special Guest: Fred Willard.",
-        "title_suggest": {
-            "input": [
-                "Vice Mayor",
-                "Mayor"
-            ]
-        },
-        "type": "episode",
-        "title": "Vice Mayor",
-        "expiration_date": 1741924740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
-        "duration": 706.64,
-        "episode_number": "11",
-        "original_air_date": 1118636100,
-        "clip_order": null,
-        "auth_launch_date": 1688097600,
-        "modified": 1735762990,
-        "airing_id": "RADS1012292400012150",
-        "media_id": "024c5c8bdc590025d09887294a4ec07057d6dda0",
-        "id": "rceja6K0R_2chJoTpLTg9w",
-        "slug": "vice-mayor",
-        "views": 156261,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117952155-tgttm_011.jpg",
-        "created": 1402945482,
-        "title_id": "615366",
-        "season_number": "1",
-        "tv_rating": "tv-pg-l",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1735762990,
-        "tags": [
-            "tom goes to the mayor episode 11 vice mayor fred willard hobo town"
-        ],
-        "rating_count": 451,
-        "collection_title": "Tom Goes To The Mayor",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1735880400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117952155-tgttm_011.jpg",
         "cma_id": ""
     }
 ]
