@@ -108,53 +108,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187304540037.jpg"
     },
     {
-        "auth_expiration_date": 1742097540,
-        "tms_id": "",
-        "description": "Eric welcomes Mercedes Javid and Brenda Song and punishes Grimes. He also gives his dead boss some ranch!",
-        "title_suggest": {
-            "input": [
-                "The A$AP Ferg Show",
-                "A$AP Ferg Show",
-                "Ferg Show",
-                "Show"
-            ]
-        },
-        "title": "The A$AP Ferg Show",
-        "expiration_date": 1739077140,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 675.4748,
-        "episode_number": "5",
-        "original_air_date": null,
-        "auth_launch_date": 1739077200,
-        "clip_order": null,
-        "airing_id": "RADS1002032500019545",
-        "media_id": "1157ed35bd1c2f80123f87c8c3243d7a2a056430",
-        "modified": 1739666175,
-        "slug": "the-a-ap-ferg-show",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/1_209161719538-ericandre_507_dup-20200911.jpg",
-        "created": 1600290930,
-        "season_number": "5",
-        "title_id": "2230784",
-        "tv_rating": "tv-ma-lv",
-        "published": 1739666175,
-        "tags": [],
-        "collection_title": "The Eric Andre Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1736053200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161719538-ericandre_507_dup-20200911.jpg",
-        "id": "AXSYxcBTLyLQBOXK_PN_",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1742702340,
         "tms_id": "",
         "description": "Blannibal has had enough of the show and quits, too. Eric gets into a dangerous situation with an organized crime associate. Eric and co-host Lakeith Stanfield welcome Tiffany Pollard and Naya Rivera with musical guest Big Freedia.",
@@ -336,7 +289,7 @@
         "launch_date": 1739077200,
         "poster": "https://media.cdn.adultswim.com/uploads/20201103/thumbnails/2_20113121161-ericandre_510_dup-20200915.jpg",
         "id": "AXWPF0lwLyLQBOXK_PY9",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1690171140,
@@ -572,6 +525,52 @@
         "launch_date": 1741496400,
         "poster": "https://media.cdn.adultswim.com/uploads/20230607/thumbnails/2_2367161578-TheEricAndreShow603Still002tiny.png",
         "id": "AYiXc-_g2rZC6NyF619t",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1731214740,
+        "tms_id": "EP015632430065",
+        "description": "Eric welcomes Tinashe and Chuck Liddell. Waka Flocka Flame tries ayahuasca. A police officer finds himself in a sexy pickle on Grocery Goofs.",
+        "title_suggest": {
+            "input": [
+                "Football Is Back",
+                "Is Back",
+                "Back"
+            ]
+        },
+        "title": "Football Is Back",
+        "expiration_date": 1745121540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 671.5375,
+        "episode_number": "4",
+        "original_air_date": "1686543300",
+        "auth_launch_date": 1728187200,
+        "clip_order": null,
+        "airing_id": "RADS1003102500024846",
+        "media_id": "0391c83967a775279f7177f5eb5049ff561ca753",
+        "modified": 1741669601,
+        "slug": "football-is-back",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230607/thumbnails/1_2367162352-TheEricAndreShow604Still002tiny.png",
+        "created": 1686168173,
+        "season_number": "6",
+        "title_id": "2418684",
+        "tv_rating": "tv-ma-lsv",
+        "published": 1741669601,
+        "tags": [],
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1742097600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230607/thumbnails/2_2367162352-TheEricAndreShow604Still002tiny.png",
+        "id": "AYiXdHw2Oz5CkuTcnvu3",
         "auth": false
     },
     {
