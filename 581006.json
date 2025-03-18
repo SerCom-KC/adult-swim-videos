@@ -146,57 +146,6 @@
         "cma_id": "1331342"
     },
     {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1742270340,
-        "tms_id": "EP007164450175",
-        "description": "Francine is frustrated that Stan only pretends to pay attention when she talks.  Stan takes a pill engineered by the C.I.A. to help male agents listen to females.  Stan takes too much and the pill physically transforms him into a woman.",
-        "title_suggest": {
-            "input": [
-                "Stan Goes On The Pill",
-                "Goes On The Pill",
-                "On The Pill",
-                "The Pill",
-                "Pill"
-            ]
-        },
-        "title": "Stan Goes On The Pill",
-        "type": "episode",
-        "expiration_date": 1658721540,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1290.656,
-        "episode_number": "14",
-        "original_air_date": 1396926000,
-        "clip_order": null,
-        "auth_launch_date": 1741665600,
-        "modified": 1741239505,
-        "media_id": "a2329f53c7e5eb4dbe041d5c2d0fa4fc125b4a24",
-        "airing_id": "RADS1003052500024035",
-        "id": "3QaLLUeAQY6UuvWpbOp4VA",
-        "slug": "stan-goes-on-the-pill",
-        "views": 3992,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151923975279413.jpg",
-        "created": 1411570424,
-        "season_number": "9",
-        "title_id": "2007885",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1741239505,
-        "first_published": 1411570424,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1658116800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151923975279413.jpg",
-        "cma_id": "1496103"
-    },
-    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1731041940,
@@ -1082,5 +1031,55 @@
         "launch_date": 1742184000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803218298013.jpg",
         "cma_id": "1351052"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1742875140,
+        "tms_id": "EP007164450191",
+        "description": "When Francine's sister Gwen comes to town, Hayley suspects she is up to no good. Meanwhile, Stan teaches Steve the art of hugging Aunt Gwen and Klaus shadows Roger's dramatic comments.",
+        "title_suggest": {
+            "input": [
+                "Now and Gwen",
+                "and Gwen",
+                "Gwen"
+            ]
+        },
+        "title": "Now and Gwen",
+        "type": "episode",
+        "expiration_date": 1713153540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1263.4623,
+        "episode_number": "5",
+        "original_air_date": 1416884400,
+        "auth_launch_date": 1742270400,
+        "clip_order": null,
+        "modified": 1742018313,
+        "media_id": "86d98209d9093ad062a3f4431f15a527db1fa3be",
+        "airing_id": "RADS1003132500025014",
+        "id": "yl36vIIkSmiG-pCULIEgOw",
+        "slug": "now-and-gwen",
+        "views": 1611,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152002057523219.jpg",
+        "created": 1436242823,
+        "title_id": "2019421",
+        "tv_rating": "tv-14",
+        "season_number": "10",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1742018313,
+        "first_published": 1436242823,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1712548800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002057523219.jpg",
+        "cma_id": "1413152"
     }
 ]
