@@ -2,111 +2,141 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 18, 2025 at 00:00:29 EDT_
+_Last Update: March 19, 2025 at 00:00:43 EDT_
 ## Video added
 ### Summary
-581006 American Dad: 1  
+581006 American Dad: 2  
 2003422 Bob's Burgers: 1  
-2007823 Infomercials: 1  
-### 2019421
-**American Dad S10E05 - Now and Gwen**  
+344089 Home Movies: 1  
+629835 King of the Hill: 1  
+629688 Moral Orel: 1  
+340531 The Brak Show: 1  
+### 2019423
+**American Dad S10E09 - Dreaming of a White Porsche Christmas**  
 TV-14 🔒 21:03  
-⌛ March 24, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/now-and-gwen  
-seriesid=`581006` titleid=`2019421` id=`yl36vIIkSmiG-pCULIEgOw` mediaid=`86d98209d9093ad062a3f4431f15a527db1fa3be`  
-_When Francine's sister Gwen comes to town, Hayley suspects she is up to no good. Meanwhile, Stan teaches Steve the art of hugging Aunt Gwen and Klaus shadows Roger's dramatic comments._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002057523219.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002057523219.jpg" height="144px" /></a>
-### 2438994
-**Bob's Burgers S12E12 - Ferry on My Wayward Bob and Linda**  
-TV-PG-DL 🔒 21:27  
-⌛ March 24, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/ferry-on-my-wayward-bob-and-linda  
-seriesid=`2003422` titleid=`2438994` id=`AY6h44s6C2cKYm1ap_HL` mediaid=`916f9490a4173b930127257691ff5d73a850f749`  
-_Bob and Linda celebrate Valentine's Day._  
-<a href="https://media.cdn.adultswim.com/uploads/20240520/thumbnails/2_245201527507-Screenshot2024-05-20at3.27.06PM.png"><img src="https://media.cdn.adultswim.com/uploads/20240520/thumbnails/2_245201527507-Screenshot2024-05-20at3.27.06PM.png" height="144px" /></a>
-### 2133192
-**Infomercials S07E02 - Wet Shapes**  
-TV-PG 🔓 11:17  
-⌛ April 14, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/infomercials/wet-shapes  
-seriesid=`2007823` titleid=`2133192` id=`AV95D2JXZ-onAnjDLs3a` mediaid=`f83efc6de0fc7f45065aa36d5082075f07ff7f9c`  
-_Wet Shapes are America's most beloved friend and pet but they're under attack by Wet Shapes Degenerative Disease. Join us in a telethon to fund the cure._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151087218637611.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151087218637611.jpg" height="144px" /></a>
+⌛ March 25, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/dreaming-of-a-white-porsche-christmas  
+seriesid=`581006` titleid=`2019423` id=`_tsLt6bwRmCcPuXFZqhIRA` mediaid=`cb7d7aa4862a732810b2e3ad1b67805b4b0940db`  
+_When Stan wishes he could have Principal Lewis' carefree, single life, his wish comes true! Meanwhile, in his wish world, Principal Lewis has Stan's family._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153417477876913.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153417477876913.jpg" height="144px" /></a>
+### 2019426
+**American Dad S10E11 - LGBSteve**  
+TV-14 🔒 21:02  
+⌛ March 25, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/lgb-steve  
+seriesid=`581006` titleid=`2019426` id=`hpAZ7ipbS-2g-KrM7UvHgQ` mediaid=`f58535178c8d7dc31f6c7a8d9bdd0c2bb93072a0`  
+_Hayley is dying to be on a roller derby team, but they will only let her play if her “sister” Steve will play too. Meanwhile, a magical carpenter visits Stan and Francine and Roger runs the roller rink._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152026694019616.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152026694019616.jpg" height="144px" /></a>
+### 2438995
+**Bob's Burgers S12E13 - Frigate Me Knot**  
+TV-PG-L 🔒 21:31  
+⌛ March 25, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/frigate-me-knot  
+seriesid=`2003422` titleid=`2438995` id=`AY6h5DIw5I1d0UhX5iFW` mediaid=`814a9cee23ed3b78a15fc99299186288f30734a7`  
+_Teddy confronts his past._  
+<a href="https://media.cdn.adultswim.com/uploads/20240408/thumbnails/2_24481557168-Screenshot2024-04-08at3.56.45PM.png"><img src="https://media.cdn.adultswim.com/uploads/20240408/thumbnails/2_24481557168-Screenshot2024-04-08at3.56.45PM.png" height="144px" /></a>
+### 420676
+**Home Movies S03E04 - Improving Your Life Through Improv**  
+TV-PG-L 🔓 22:29  
+⌛ April 22, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/home-movies/improving-your-life-through-improv  
+seriesid=`344089` titleid=`420676` id=`LpnFK054T5O9CJ3ACbz_tQ` mediaid=`32f434e7dc128733e717c564e6613f935dac7375`  
+_Brendon gets caught making fun of another kid at school and as a result, Mr. Lynch sends everyone to sensitivity training on a Saturday. There they learn the value of really bad improv games and experience the song "No Skin Off My Ass." Also: Paula secretly enters one of Brendon's movies in a contest._  
+<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351620529-hmovies_030.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351620529-hmovies_030.jpg" height="144px" /></a>
+### 731570
+**King of the Hill S12E06 - Behind Closed Doors**  
+TV-PG-DL 🔒 22:46  
+⌛ March 25, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/king-of-the-hill/behind-closed-doors  
+seriesid=`629835` titleid=`731570` id=`1F5XYiiFRpG-Jr7EDwemEg` mediaid=`2298fef7b4f467446ffcbac0ab8e6d2126808172`  
+_When a family "guru" shames Peggy at a school meeting, Peggy tries to bring her family closer together... causing Hank and Bobby to actively avoid her instead._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203508684519.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203508684519.jpg" height="144px" /></a>
+### 633147
+**Moral Orel S01E05 - The Blessed Union**  
+TV-MA 🔓 11:13  
+⌛ April 22, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/moral-orel/the-blessed-union  
+seriesid=`629688` titleid=`633147` id=`f4C2ubHoTUmqdCrt8HWFzw` mediaid=`14262a901a2577628990704358f6a7a32d005909`  
+_A series of improbable assumptions leads Orel from a sermon about marriage straight to the town's only sex shop._  
+<a href="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311155227-moralorel_005.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311155227-moralorel_005.jpg" height="144px" /></a>
+### 340532
+**The Brak Show S04E?? - Leave It to Brak**  
+TV-PG 🔓 12:13  
+⌛ April 22, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-brak-show/leave-it-to-brak  
+seriesid=`340531` titleid=`340532` id=`g6ETTWagTuSqGpOnN-WRLA` mediaid=`b9b83c6518ce6bab2490b2aaac6ef1c380fc22a2`  
+_Brak baby-sits Mr. Thundercleese's goldfish, Mr. Tickles, while he's away._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321444207-brak_001.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321444207-brak_001.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
 2003422 Bob's Burgers: 1  
-2007823 Infomercials: 1  
-2536171 Mashle: Magic and Muscles: 6  
-581006 American Dad: 1  
-### 2438984
-**Bob's Burgers S12E02 - Crystal Mess**  
-TV-PG-DL 🔒 21:30  
-⌛ March 17, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/crystal-mess  
-seriesid=`2003422` titleid=`2438984` id=`AY462kOhC2cKYm1ap-2e` mediaid=`a7e9a5e603adffef06881e078ccabb3281f0e720`  
-_Tina gets some help from a crystal._  
-<a href="https://media.cdn.adultswim.com/uploads/20240318/thumbnails/2_24318810496-Screenshot2024-03-18at8.10.21AM.png"><img src="https://media.cdn.adultswim.com/uploads/20240318/thumbnails/2_24318810496-Screenshot2024-03-18at8.10.21AM.png" height="144px" /></a>
-### 2043272
-**Infomercials S04E10 - Frank Pierre Presents: Pierre Resort & Casino**  
-TV-MA-V 🔒 10:43  
-⌛ March 17, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/infomercials/frank-pierre-presents-pierre-resort-casino  
-seriesid=`2007823` titleid=`2043272` id=`AV-3KdR1wdpKFAKSbWa5` mediaid=`9fac39eb7b82a83079e71a42ada5d8dd4f86b032`  
-_Renowned billionaire Frank Pierre invites you to tour his brand new Hotel and Casino._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151509813513710.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151509813513710.jpg" height="144px" /></a>
-### 2536178
-**Mashle: Magic and Muscles S01E07 - Mash Burnedead and the Puppet Master**  
- 🔒 22:33  
-⌛ March 17, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/mashle-magic-and-muscles/mash-burnedead-and-the-puppet-master  
-seriesid=`2536171` titleid=`2536178` id=`AZL50UYaJ6hTPa_yiN9H` mediaid=`4890a46890b99d009159e4ff4306175a42a6048d`  
-_Mash completes the joint extracurricular activity, and the five silver coins he collected become one gold coin. Mash learns about the existence of Lang Dorm's students who hunt coins. A black shadow approaches Mash and his friends ..._  
-<a href="https://media.cdn.adultswim.com/uploads/20241104/thumbnails/2_241141954380-Mashle-EP-07-1920x1080.jpg"><img src="https://media.cdn.adultswim.com/uploads/20241104/thumbnails/2_241141954380-Mashle-EP-07-1920x1080.jpg" height="144px" /></a>
-### 2536177
-**Mashle: Magic and Muscles S01E08 - Mash Burnedead and the Wolves of Magic**  
- 🔒 22:34  
-⌛ March 17, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/mashle-magic-and-muscles/mash-burnedead-and-the-wolves-of-magic  
-seriesid=`2536171` titleid=`2536177` id=`AZL50qDpJ6hTPa_yiN9I` mediaid=`58e40ab4c16e6f7f7135a6c23075e68e6a1b9049`  
-_Mash and Lance defeat members of Magia Lupus. They then discuss the future over cream puffs. Tom has temporarily lost his ability to use magic. That night, while Mash and friends explore the school, they discover a strange-looking Lemon ..._  
-<a href="https://media.cdn.adultswim.com/uploads/20241104/thumbnails/2_241141956132-Mashle-EP-08-1920x1080.jpg"><img src="https://media.cdn.adultswim.com/uploads/20241104/thumbnails/2_241141956132-Mashle-EP-08-1920x1080.jpg" height="144px" /></a>
-### 2536176
-**Mashle: Magic and Muscles S01E09 - Mash Burnedead and the Accelerated Battle**  
- 🔒 22:33  
-⌛ March 17, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/mashle-magic-and-muscles/mash-burnedead-and-the-accelerated-battle  
-seriesid=`2536171` titleid=`2536176` id=`AZL51AGAJ6hTPa_yiN9J` mediaid=`a276849b7485bc37635b13485f1e6b5e14b6cbd4`  
-_After discovering a door to the basement, Mash and the others are confronted by the Magia Lupus. It's Lance vs. the Third Fang Wirth and Mash vs. the Second Fang Abyss. The decisive battle begins!_  
-<a href="https://media.cdn.adultswim.com/uploads/20241104/thumbnails/2_241141957402-Mashle-EP-09-1920x1080.jpg"><img src="https://media.cdn.adultswim.com/uploads/20241104/thumbnails/2_241141957402-Mashle-EP-09-1920x1080.jpg" height="144px" /></a>
-### 2536173
-**Mashle: Magic and Muscles S01E10 - Mash Burnedead and the Divine Visionary**  
- 🔒 22:33  
-⌛ March 17, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/mashle-magic-and-muscles/mash-burnedead-and-the-divine-visionary  
-seriesid=`2536171` titleid=`2536173` id=`AZL51bNgJ6hTPa_yiN9K` mediaid=`a4b6cfc92d38f20607b195d7f3dadf50b292d912`  
-_While Mash and Lance beat their opponents and proceed to help Lemon, Dot and Finn battle the Fifth Fang Love and the Forth Fang Milo. Dot struggles against Love's strength, but his magical power increases, and he undergoes a transformation._  
-<a href="https://media.cdn.adultswim.com/uploads/20241104/thumbnails/2_241141959162-Mashle-EP-10-1920x1080.jpg"><img src="https://media.cdn.adultswim.com/uploads/20241104/thumbnails/2_241141959162-Mashle-EP-10-1920x1080.jpg" height="144px" /></a>
-### 2536175
-**Mashle: Magic and Muscles S01E11 - Mash Burnedead and the Survival of the Fittest**  
- 🔒 22:33  
-⌛ March 17, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/mashle-magic-and-muscles/mash-burnedead-and-the-survival-of-the-fittest  
-seriesid=`2536171` titleid=`2536175` id=`AZL51n5FIFyXXN-f0Mum` mediaid=`4c2c56a72bf3457ade717cfe6169126fa17b5e24`  
-_Milo launches an attack on Dot, when suddenly the Divine Visionary Rayne appears and Milo collapses. Meanwhile, Mash has made his way to the First Fang Abel. Mash reveals his quiet rage. What will be the course of this decisive battle?!_  
-<a href="https://media.cdn.adultswim.com/uploads/20241104/thumbnails/2_24114200225-Mashle-EP-11-1920x1080.jpg"><img src="https://media.cdn.adultswim.com/uploads/20241104/thumbnails/2_24114200225-Mashle-EP-11-1920x1080.jpg" height="144px" /></a>
-### 2536174
-**Mashle: Magic and Muscles S01E12 - Mash Burnedead and the Magic Mirror**  
- 🔒 22:33  
-⌛ March 17, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/mashle-magic-and-muscles/mash-burnedead-and-the-magic-mirror  
-seriesid=`2536171` titleid=`2536174` id=`AZL52UYgIFyXXN-f0Muo` mediaid=`63bb1e8f4e09e63b3780a6d482bfc13e7155e787`  
-_Mash and the others are overjoyed after the other students are released from being puppets. Meanwhile, Rayne confronts a member of Innocent Zero, but the Innocent Zero agent escapes. A new threat creeps up upon Mash and his friends ...!_  
-<a href="https://media.cdn.adultswim.com/uploads/20241104/thumbnails/2_24114201519-Mashle-EP-12-1920x1080.jpg"><img src="https://media.cdn.adultswim.com/uploads/20241104/thumbnails/2_24114201519-Mashle-EP-12-1920x1080.jpg" height="144px" /></a>
-### 2007885
-**American Dad S09E14 - Stan Goes On The Pill**  
+322328 Space Ghost Coast to Coast: 1  
+340531 The Brak Show: 1  
+344089 Home Movies: 1  
+581006 American Dad: 2  
+629688 Moral Orel: 1  
+629835 King of the Hill: 1  
+### 2438985
+**Bob's Burgers S12E03 - The Pumpkinening**  
+TV-PG-L 🔒 21:31  
+⌛ March 18, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/the-pumpkinening  
+seriesid=`2003422` titleid=`2438985` id=`AYtjwi6tn_kciGPPrDF_` mediaid=`fef9fbc337ee64a649ac7fd5f3a7b4ca7044622f`  
+_Linda and Gayle get a mysterious note._  
+<a href="https://media.cdn.adultswim.com/uploads/20231030/thumbnails/2_231030151024-Screenshot2023-10-30at3.09.50PM.png"><img src="https://media.cdn.adultswim.com/uploads/20231030/thumbnails/2_231030151024-Screenshot2023-10-30at3.09.50PM.png" height="144px" /></a>
+### 322747
+**Space Ghost Coast to Coast S02E04 - Hungry**  
+TV-PG 🔓 12:35  
+⌛ March 18, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/space-ghost-coast-to-coast/hungry  
+seriesid=`322328` titleid=`322747` id=`U_7PSt_pSz-jX_Bs4swieQ` mediaid=`a6e9c27efe6cf61e889c7b89df561c8ff6d41895`  
+_Space Ghost welcomes shiny happy Michael Stipe from R.E.M. (Space Ghost: "Is that you in the corner?"Stipe: "Yes, it is.") Later, he shares time-honored difficult-places-to-reach-while-scratching-stories with Lassie. Mujibur and Sirajul, frequent guest stars on "The Late Show with David Letterman,"mysteriously appear with Space Ghost's pizza._  
+<a href="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417951225-sgc2c_9504_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417951225-sgc2c_9504_bim.jpg" height="144px" /></a>
+### 344203
+**The Brak Show S01E01 - Goldfish**  
+TV-PG-L 🔒 11:16  
+⌛ March 18, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-brak-show/goldfish  
+seriesid=`340531` titleid=`344203` id=`VDWhpXruRNmGw5r1vUq6Pg` mediaid=`35c670bb168c03a9f973f62dab46bb33ebcc5bf4`  
+_Before going on vacation, Thundercleese asks Brak to take care of his beloved goldfish, Mr. Tickles. After Brak accidentally kills the goldfish, it appears in one of his dreams._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032142793-brak_2101.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032142793-brak_2101.jpg" height="144px" /></a>
+### 344136
+**Home Movies S02E07 - Dad**  
+TV-PG 🔒 21:44  
+⌛ March 18, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/home-movies/dad  
+seriesid=`344089` titleid=`344136` id=`U_Y1XdhaRIm-fmgndcmCPg` mediaid=`cb795fc61dc0508de49148f6178d6ca82430600f`  
+_Brendon spends the weekend with his father and his father's girlfriend, Linda, who turns out to be a very unpleasant person. Coach McGuirk, meanwhile, plays big brother to a student who is prone to sickness._  
+<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035161793-hmovies_020.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035161793-hmovies_020.jpg" height="144px" /></a>
+### 2007877
+**American Dad S09E16 - She Swill Survive**  
 TV-14 🔒 21:30  
-⌛ March 17, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/stan-goes-on-the-pill  
-seriesid=`581006` titleid=`2007885` id=`3QaLLUeAQY6UuvWpbOp4VA` mediaid=`a2329f53c7e5eb4dbe041d5c2d0fa4fc125b4a24`  
-_Francine is frustrated that Stan only pretends to pay attention when she talks.  Stan takes a pill engineered by the C.I.A. to help male agents listen to females.  Stan takes too much and the pill physically transforms him into a woman._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151923975279413.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151923975279413.jpg" height="144px" /></a>
+⌛ March 18, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/she-swill-survive  
+seriesid=`581006` titleid=`2007877` id=`UlB2vXL0QLyg3zz190qkzw` mediaid=`6e607391f85b88ba0ad7860548420dab64b9fbde`  
+_Stan is tired of Hayley being lazy and unemployed so he forces her to take a job in Roger's Bar.  Deputy Director Bullock is a regular at the bar and confesses to Hayley his secrets.  Stan takes advantage of Bullock's_  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15192397882788.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15192397882788.jpg" height="144px" /></a>
+### 2007886
+**American Dad S09E17 - Rubberneckers**  
+TV-14 🔒 21:30  
+⌛ March 18, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/rubberneckers  
+seriesid=`581006` titleid=`2007886` id=`nw6w-MZ5TBiSaM-TX8OXrQ` mediaid=`e4764ee08185598feac0722e556508c0bac175d7`  
+_Stan and Francine go out to dinner and Francine catches Stan looking at another woman.  Stan tells his co-workers that he got caught and the co-workers teach Stan about Rubbernecking, the art of checking out other woman on the sly._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151923980951911.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151923980951911.jpg" height="144px" /></a>
+### 723835
+**Moral Orel S03E09 - Closeface**  
+TV-MA 🔒 11:44  
+⌛ March 18, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/moral-orel/closeface  
+seriesid=`629688` titleid=`723835` id=`LPnVotAlQJ6Vaij6cZLx_A` mediaid=`e14fc2e50e678f1e60814056c395101172a1e8c3`  
+_Stephanie is hell-bent on Orel having a better experience than her own at the school's annual "Arms Length Dance."_  
+<a href="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311168168-moralorel_037.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311168168-moralorel_037.jpg" height="144px" /></a>
+### 731564
+**King of the Hill S12E01 - Doggone Crazy**  
+TV-PG 🔒 22:48  
+⌛ March 18, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/king-of-the-hill/doggone-crazy  
+seriesid=`629835` titleid=`731564` id=`iTi0CsBTQc-3Nb-Ng89g3g` mediaid=`395dec3662949fdb43b349cfd9f787674e5a952d`  
+_When Ladybird bites Hank he brings in a "dog spiritualist," what Hank finds out is that he needs to become more of a leader around the house._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152035101276319.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152035101276319.jpg" height="144px" /></a>

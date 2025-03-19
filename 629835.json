@@ -2,6 +2,59 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1742961540,
+        "tms_id": "EP002070020237",
+        "rating": 7.66558,
+        "description": "When a family \"guru\" shames Peggy at a school meeting, Peggy tries to bring her family closer together... causing Hank and Bobby to actively avoid her instead.",
+        "title_suggest": {
+            "input": [
+                "Behind Closed Doors",
+                "Closed Doors",
+                "Doors"
+            ]
+        },
+        "type": "episode",
+        "title": "Behind Closed Doors",
+        "expiration_date": 1498879799,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1366.365,
+        "episode_number": "6",
+        "original_air_date": 1238553000,
+        "auth_launch_date": 1742356800,
+        "clip_order": null,
+        "modified": 1741996582,
+        "media_id": "2298fef7b4f467446ffcbac0ab8e6d2126808172",
+        "airing_id": "RADS1003132500025122",
+        "id": "1F5XYiiFRpG-Jr7EDwemEg",
+        "slug": "behind-closed-doors",
+        "views": 401280,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15203508684519.jpg",
+        "created": 1402945468,
+        "title_id": "731570",
+        "season_number": "12",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1741996582,
+        "tags": [
+            "king of the hill episode 1206 behind closed doors peggy hank family guru relationship closer"
+        ],
+        "rating_count": 613,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1498275000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203508684519.jpg",
+        "cma_id": "1420227"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1742702340,
         "tms_id": "EP002070020236",
         "rating": 8.2231404958678,
@@ -104,54 +157,6 @@
         "launch_date": 1498102200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152035096124011.jpg",
         "cma_id": "1419528"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1742356740,
-        "tms_id": "EP002070020232",
-        "description": "When Ladybird bites Hank he brings in a \"dog spiritualist,\" what Hank finds out is that he needs to become more of a leader around the house.",
-        "title_suggest": {
-            "input": [
-                "Doggone Crazy",
-                "Crazy"
-            ]
-        },
-        "title": "Doggone Crazy",
-        "type": "episode",
-        "expiration_date": 1498481999,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1368.6006,
-        "episode_number": "1",
-        "original_air_date": 1238378400,
-        "auth_launch_date": 1741752000,
-        "clip_order": null,
-        "modified": 1741989364,
-        "media_id": "395dec3662949fdb43b349cfd9f787674e5a952d",
-        "airing_id": "RADS1003052500024069",
-        "id": "iTi0CsBTQc-3Nb-Ng89g3g",
-        "slug": "doggone-crazy",
-        "views": 4418,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152035101276319.jpg",
-        "created": 1413944424,
-        "title_id": "731564",
-        "tv_rating": "tv-pg",
-        "season_number": "12",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1741989364,
-        "first_published": 1413944424,
-        "tags": [],
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1497877200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152035101276319.jpg",
-        "cma_id": "1417218"
     },
     {
         "auth": true,
