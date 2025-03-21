@@ -1,60 +1,6 @@
 [
     {
         "auth": false,
-        "ott_launch_date": 1451682480,
-        "auth_expiration_date": 1692331140,
-        "tms_id": "EP007008200031",
-        "rating": 8.376269,
-        "description": "Tom tries to sell novelty beverage cups at the Mall while the Mayor celebrates Jefferton's 30th anniversary by looking for the perfect painting.",
-        "title_suggest": {
-            "input": [
-                "My Big Cups",
-                "Big Cups",
-                "Cups"
-            ]
-        },
-        "type": "episode",
-        "title": "My Big Cups",
-        "expiration_date": 1742529540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
-        "duration": 672.31,
-        "episode_number": "10",
-        "original_air_date": 1149481800,
-        "clip_order": null,
-        "auth_launch_date": 1689307200,
-        "modified": 1736089351,
-        "airing_id": "RADS1001052500013492",
-        "media_id": "6d21b0c541fb5121847f4c96db1dcc3605008a16",
-        "id": "59TV43eaTUqnZu-N1sHVGg",
-        "slug": "my-big-cups",
-        "views": 146045,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117956400-tgttm_023.jpg",
-        "created": 1402945482,
-        "title_id": "639406",
-        "season_number": "2",
-        "tv_rating": "tv-pg-l",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1736089351,
-        "tags": [
-            "tom goes to the mayor episode 23 my big cups beverage 30th anniversary mall painting"
-        ],
-        "rating_count": 396,
-        "collection_title": "Tom Goes To The Mayor",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1736485200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117956400-tgttm_023.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
         "ott_launch_date": 1451682780,
         "auth_expiration_date": 1697774340,
         "tms_id": "EP007008200015",
@@ -526,6 +472,58 @@
         "modified_by": "ODT Listener",
         "launch_date": 1739509200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117953264-tgttm_015.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1451682780,
+        "auth_expiration_date": 1700801940,
+        "tms_id": "EP007008200029",
+        "rating": 7.8767123,
+        "description": "Tom attempts a Puddins fast after his son dies from a pudding overdose.",
+        "title_suggest": {
+            "input": [
+                "Puddins"
+            ]
+        },
+        "type": "episode",
+        "title": "Puddins",
+        "expiration_date": 1748577540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
+        "duration": 689.59,
+        "episode_number": "16",
+        "original_air_date": 1158553800,
+        "clip_order": null,
+        "auth_launch_date": 1697774400,
+        "modified": 1742103149,
+        "airing_id": "RADS1003142500025713",
+        "media_id": "6a45f932e82c3566c20519993ffe56803c07849d",
+        "id": "vS_eh_iFSnGPtZqWXQU6AA",
+        "slug": "puddins",
+        "views": 110939,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117958215-tgttm_029.jpg",
+        "created": 1402945482,
+        "title_id": "639412",
+        "season_number": "2",
+        "tv_rating": "tv-14-v",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1742103149,
+        "tags": [
+            "tom goes to the mayor episode 29 puddins pudding overdose son death"
+        ],
+        "rating_count": 438,
+        "collection_title": "Tom Goes To The Mayor",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1742529600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117958215-tgttm_029.jpg",
         "cma_id": ""
     }
 ]
