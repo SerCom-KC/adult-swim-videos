@@ -2582,7 +2582,7 @@
         "launch_date": 1741388400,
         "poster": "https://media.cdn.adultswim.com/uploads/20241108/thumbnails/2_241181726236-NarutoClassic-Ep053-1920x1080.jpg",
         "id": "AZLjVqkoCjvsJgIeWAEi",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1777067940,
@@ -2633,6 +2633,58 @@
         "launch_date": 1741989600,
         "poster": "https://media.cdn.adultswim.com/uploads/20241108/thumbnails/2_241181726448-NarutoClassic-Ep054-1920x1080.jpg",
         "id": "AZLjVtnPDT7oKsPdFfbA",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Naruto continues training under Jiraiya to master the \"Summoning Jutsu,\" but he has a hard time controlling the Chakra of the Nine-Tailed Fox...",
+        "title_suggest": {
+            "input": [
+                "A Feeling of Yearning, A Flower Full of Hope",
+                "Feeling of Yearning, A Flower Full of Hope",
+                "of Yearning, A Flower Full of Hope",
+                "Yearning, A Flower Full of Hope",
+                "A Flower Full of Hope",
+                "Flower Full of Hope",
+                "Full of Hope",
+                "of Hope",
+                "Hope"
+            ]
+        },
+        "title": "A Feeling of Yearning, A Flower Full of Hope",
+        "expiration_date": 1743803940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "lG7zt3RpRCKLnxfZW2IJ3w",
+        "duration": 1274.8403,
+        "episode_number": "55",
+        "original_air_date": "1161478800",
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1003142500025719",
+        "media_id": "dae36e36801e642c4e3097862a5ede919a2c4842",
+        "modified": 1742166119,
+        "slug": "a-feeling-of-yearning-a-flower-full-of-hope",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241108/thumbnails/1_241181728365-NarutoClassic-Ep055-1920x1080.jpg",
+        "created": 1730390987,
+        "season_number": "1",
+        "title_id": "641219",
+        "tv_rating": "tv-14",
+        "published": 1742166119,
+        "tags": [],
+        "collection_title": "Naruto",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1742594400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20241108/thumbnails/2_241181728365-NarutoClassic-Ep055-1920x1080.jpg",
+        "id": "AZLjVxFYCjvsJgIeWAEj",
         "auth": false
     }
 ]
