@@ -2,25 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 23, 2025 at 02:30:43 EDT_
+_Last Update: March 23, 2025 at 04:30:45 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-2031611 Dragon Ball Z Kai: 2  
-### 2031651
-**Dragon Ball Z Kai S01E40 - Frieza's Final Transformation! The Ultimate Nightmare Begins!**  
-TV-PG-LV 🔓 22:02  
-⌛ March 23, 2025 at 01:59:00 EDT  
-https://www.adultswim.com/videos/dragon-ball-z-kai/friezas-final-transformation-the-ultimate-nightmare-begins  
-seriesid=`2031611` titleid=`2031651` id=`UhWXdPFFSee7DTZ8DTCsJA` mediaid=`1e042362c5835220ea76a19af2abbe412fecadf8`  
-_Frieza has begun his ultimate transformation, and Vegeta's only hope to defeat the monster is suffering a mortal wound. If the Saiyan warrior can convince Dende to restore his strength, he may gain the power to defeat his enemy!_  
-<a href="https://i.cdn.turner.com/adultswim/big/video/friezas-final-transformation-the-ultimate-nightmare-begins/dragonballzkai_cc_040_pt1.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/friezas-final-transformation-the-ultimate-nightmare-begins/dragonballzkai_cc_040_pt1.jpg" height="144px" /></a>
-### 2031656
-**Dragon Ball Z Kai S01E45 - Kaio-ken Times Twenty! An All-Or-Nothing Kamehame-Ha!**  
-TV-PG-LV 🔓 22:01  
-⌛ March 23, 2025 at 01:59:00 EDT  
-https://www.adultswim.com/videos/dragon-ball-z-kai/kaio-ken-times-twenty-an-all-or-nothing-kamehame-ha  
-seriesid=`2031611` titleid=`2031656` id=`ukVrWJW0TrGHmtmms2O9lg` mediaid=`6a2a3340d944310d9527e755b04904422bb77276`  
-_After suffering a savage beating at the hands of Frieza, Goku summons the awesome power of the Kaio-Ken! If his desperate attack succeeds, victory will be his, but if it fails, the Saiyan race will be eliminated!_  
-<a href="https://i.cdn.turner.com/adultswim/big/video/kaio-ken-times-twenty-an-all-or-nothing-kamehame-ha/dragonballzkai_045_air_cid-2M3WF.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/kaio-ken-times-twenty-an-all-or-nothing-kamehame-ha/dragonballzkai_045_air_cid-2M3WF.jpg" height="144px" /></a>
+2012528 Blue Exorcist: 1  
+### 2012547
+**Blue Exorcist S01E19 - An Ordinary Day**  
+TV-14 🔒 21:58  
+⌛ June 2, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/blue-exorcist/an-ordinary-day  
+seriesid=`2012528` titleid=`2012547` id=`bo5tepooR1qi3WCgeHf3XQ` mediaid=`02d3e070908550e413d41c6d95f8c64cf41d47cc`  
+_The Exorcism Cram School students are having a ball with Shima's birthday-based fortune-telling. When they discover that Izumo's birthday is coming up, they hit upon the idea of throwing her a surprise party!_  
+<a href="https://i.cdn.turner.com/adultswim/big/video/an-ordinary-day/blueexorcist_cc_19_pt4-02.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/an-ordinary-day/blueexorcist_cc_19_pt4-02.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  

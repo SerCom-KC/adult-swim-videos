@@ -379,6 +379,53 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1748923140,
+        "tms_id": "EP018691120019",
+        "description": "The Exorcism Cram School students are having a ball with Shima's birthday-based fortune-telling. When they discover that Izumo's birthday is coming up, they hit upon the idea of throwing her a surprise party!\r\n\r\n",
+        "title_suggest": {
+            "input": [
+                "An Ordinary Day",
+                "Ordinary Day",
+                "Day"
+            ]
+        },
+        "title": "An Ordinary Day",
+        "type": "episode",
+        "expiration_date": 1452614400,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "BJWRPi1uTl2j_nptAdcYOw",
+        "duration": 1318.017,
+        "episode_number": "19",
+        "original_air_date": 1404021600,
+        "clip_order": null,
+        "auth_launch_date": 1742718600,
+        "modified": 1742290101,
+        "media_id": "02d3e070908550e413d41c6d95f8c64cf41d47cc",
+        "airing_id": "RADS1003172500025938",
+        "id": "bo5tepooR1qi3WCgeHf3XQ",
+        "slug": "an-ordinary-day",
+        "views": 1917,
+        "created": 1409235246,
+        "season_number": "1",
+        "title_id": "2012547",
+        "tv_rating": "tv-14",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1742290101,
+        "first_published": 1409235246,
+        "tags": [],
+        "collection_title": "Blue Exorcist",
+        "modified_by": "ODT Listener",
+        "launch_date": 1451921100,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/an-ordinary-day/blueexorcist_cc_19_pt4-02.jpg",
+        "cma_id": "1144741"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1748836740,
         "tms_id": "EP018691120012",
         "rating": 5.3,
