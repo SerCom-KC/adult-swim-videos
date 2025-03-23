@@ -2,17 +2,16 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 23, 2025 at 04:30:45 EDT_
+_Last Update: March 23, 2025 at 05:00:43 EDT_
 ## Video added
 ### Summary
-2012528 Blue Exorcist: 1  
-### 2012547
-**Blue Exorcist S01E19 - An Ordinary Day**  
-TV-14 🔒 21:58  
-⌛ June 2, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/blue-exorcist/an-ordinary-day  
-seriesid=`2012528` titleid=`2012547` id=`bo5tepooR1qi3WCgeHf3XQ` mediaid=`02d3e070908550e413d41c6d95f8c64cf41d47cc`  
-_The Exorcism Cram School students are having a ball with Shima's birthday-based fortune-telling. When they discover that Izumo's birthday is coming up, they hit upon the idea of throwing her a surprise party!_  
-<a href="https://i.cdn.turner.com/adultswim/big/video/an-ordinary-day/blueexorcist_cc_19_pt4-02.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/an-ordinary-day/blueexorcist_cc_19_pt4-02.jpg" height="144px" /></a>
+608007 One Piece: 1  
+### 2550959
+**One Piece S17E?? - The Man's Pride! Bellamy's Last Charge!**  
+TV-14-V 🔒 21:45  
+⌛ April 13, 2025 at 04:59:00 EDT  
+https://www.adultswim.com/videos/one-piece/the-mans-pride-bellamys-last-charge  
+seriesid=`608007` titleid=`2550959` id=`AZWlxwoJem4-xVQSK9bN` mediaid=`0a4d4366a9c7a7ea5589f405839dbd63fc204fce`  
+_Law is at the whim of Doflamingo and Trebol, while Luffy deals with Bellamy, who fights to keep his honor even after being released by Doflamingo!_  
 ## Video removed
 No videos were removed.  
