@@ -108,51 +108,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187304540037.jpg"
     },
     {
-        "auth_expiration_date": 1742702340,
-        "tms_id": "",
-        "description": "Blannibal has had enough of the show and quits, too. Eric gets into a dangerous situation with an organized crime associate. Eric and co-host Lakeith Stanfield welcome Tiffany Pollard and Naya Rivera with musical guest Big Freedia.",
-        "title_suggest": {
-            "input": [
-                "Blannibal Quits",
-                "Quits"
-            ]
-        },
-        "title": "Blannibal Quits",
-        "expiration_date": 1739681940,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 684.9176,
-        "episode_number": "6",
-        "original_air_date": null,
-        "auth_launch_date": 1739682000,
-        "clip_order": null,
-        "airing_id": "RADS1001062500013669",
-        "media_id": "00bbbafd3e8d7f44bde4314b6fa823c99773a16b",
-        "modified": 1739666172,
-        "slug": "blannibal-quits",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/1_209161719212-ericandre_505_dup-20200824.jpg",
-        "created": 1600290968,
-        "season_number": "5",
-        "title_id": "2230785",
-        "tv_rating": "tv-ma-ls",
-        "published": 1739666172,
-        "tags": [],
-        "collection_title": "The Eric Andre Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1736658000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161719212-ericandre_505_dup-20200824.jpg",
-        "id": "AXSYxlIJLyLQBOXK_POA",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1743307140,
         "tms_id": "",
         "description": "Eric welcomes Luis Guzm\u00e1n and Tia Carrere. Felipe Esparza hangs out. Mike Penis returns with a guest list of his own! JPEGMAFIA, Lil Yachty, MURS, Trippie Redd and Zack Fox on a new Rapper Warrior Ninja.",
@@ -341,7 +296,7 @@
         "launch_date": 1739682000,
         "poster": "https://media.cdn.adultswim.com/uploads/20201103/thumbnails/2_201131211270-ericandre_511_S5_BTS_CENSORED_dup-20201019.jpg",
         "id": "AXWPF5rqbxpjZvbXYlbm",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1744516740,
@@ -571,6 +526,51 @@
         "launch_date": 1742097600,
         "poster": "https://media.cdn.adultswim.com/uploads/20230607/thumbnails/2_2367162352-TheEricAndreShow604Still002tiny.png",
         "id": "AYiXdHw2Oz5CkuTcnvu3",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1731819540,
+        "tms_id": "EP015632430068",
+        "description": "Eric welcomes Chanel West Coast and Donald Glover. Confusion ensues when a tow truck tows another tow truck.",
+        "title_suggest": {
+            "input": [
+                "Woodchipper Hijinks",
+                "Hijinks"
+            ]
+        },
+        "title": "Woodchipper Hijinks",
+        "type": "episode",
+        "expiration_date": 1745726340,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 667.0998,
+        "episode_number": "5",
+        "original_air_date": 1687147200,
+        "auth_launch_date": 1728792000,
+        "clip_order": null,
+        "airing_id": "RADS1003172500025822",
+        "media_id": "a0ea57ed5f5ac9941989796f060b5cf738a4f7db",
+        "modified": 1742275466,
+        "slug": "woodchipper-hijinks",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230616/thumbnails/1_236161254527-TheEricAndreShow605Still011tiny.png",
+        "created": 1686580659,
+        "title_id": "2418685",
+        "season_number": "6",
+        "tv_rating": "tv-ma-lv",
+        "published": 1742275466,
+        "tags": [],
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1742702400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230616/thumbnails/2_236161254527-TheEricAndreShow605Still011tiny.png",
+        "id": "AYiwCocbOz5CkuTcnvz1",
         "auth": false
     },
     {

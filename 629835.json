@@ -55,59 +55,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1742702340,
-        "tms_id": "EP002070020236",
-        "rating": 8.2231404958678,
-        "description": "When Hank agrees to speak at Enrique's daughter's Quinceanera (15th birthday party), Peggy's real-estate clients fall in love with the quaint Mexican neighborhood... and begin to take over.",
-        "title_suggest": {
-            "input": [
-                "Lady & Gentrification",
-                "& Gentrification",
-                "Gentrification"
-            ]
-        },
-        "type": "episode",
-        "title": "Lady & Gentrification",
-        "expiration_date": 1498793399,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1365.4641,
-        "episode_number": "5",
-        "original_air_date": 1238551200,
-        "auth_launch_date": 1742097600,
-        "clip_order": null,
-        "modified": 1741670820,
-        "media_id": "a93dad6b0e25f04d0373aa116f4196e395ea9541",
-        "airing_id": "RADS1003102500024843",
-        "id": "2_zKmN6uQ0y4BryGmhFJ5g",
-        "slug": "lady-gentrification",
-        "views": 109409,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152035093471911.jpg",
-        "created": 1402945468,
-        "title_id": "731568",
-        "season_number": "12",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1741670820,
-        "tags": [
-            "king of the hill episode 1205 lady and gentrification quince mexican neighbor yuppies real estate birthday party"
-        ],
-        "rating_count": 121,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1498188600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152035093471911.jpg",
-        "cma_id": "1419933"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1743220740,
         "tms_id": "EP002070020240",
         "rating": 7.665118,
@@ -158,6 +105,61 @@
         "launch_date": 1473478200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203508088352.jpg",
         "cma_id": "1256909"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1743307140,
+        "tms_id": "EP002070020241",
+        "rating": 7.880121,
+        "description": "When Peggy's birthday celebrations promise to disappoint her once again, she decides to plan her own party aboard a train that features a murder-mystery play.",
+        "title_suggest": {
+            "input": [
+                "Strangeness on a Train",
+                "on a Train",
+                "a Train",
+                "Train"
+            ]
+        },
+        "type": "episode",
+        "title": "Strangeness on a Train",
+        "expiration_date": 1499086799,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1367.0657,
+        "episode_number": "10",
+        "original_air_date": 1239242400,
+        "auth_launch_date": 1742702400,
+        "clip_order": null,
+        "modified": 1742276559,
+        "media_id": "d3520670cec57597ac26bbc842c0d11c634cde1b",
+        "airing_id": "RADS1003172500025817",
+        "id": "ZUCdv7m1SEWhuSiWmvH15Q",
+        "slug": "strangeness-on-a-train",
+        "views": 369262,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220527/thumbnails/1_225271217451-KingOfTheHill_1210_StrangenessOnATrain.png",
+        "created": 1402945468,
+        "title_id": "731574",
+        "season_number": "12",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1742276559,
+        "tags": [
+            "king of the hill koth episode1210 strangeness on a train peggy birthday murder mystery"
+        ],
+        "rating_count": 659,
+        "collection_title": "King of the Hill",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1498482000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220527/thumbnails/2_225271217451-KingOfTheHill_1210_StrangenessOnATrain.png",
+        "cma_id": "1421537"
     },
     {
         "auth": true,
