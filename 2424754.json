@@ -132,6 +132,51 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1744601340,
+        "tms_id": "",
+        "description": "Marshall's mushroom project grows out of hand.",
+        "title_suggest": {
+            "input": [
+                "Cliff's Edge",
+                "Edge"
+            ]
+        },
+        "title": "Cliff's Edge",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZSw237Oem4-xVQSK9KX",
+        "duration": 1363.5622,
+        "episode_number": "9",
+        "original_air_date": "1742787000",
+        "auth_launch_date": 1742787000,
+        "clip_order": null,
+        "airing_id": "RADS1003172500025948",
+        "media_id": "48699cabbc045a91b21c8f25b3721d3f082d9954",
+        "modified": 1742360076,
+        "slug": "cliffs-edge",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250131/thumbnails/1_2513115594-CommonSideEffects-109-CliffsEdge-1920x1080.jpg",
+        "created": 1738353918,
+        "season_number": "1",
+        "title_id": "2424763",
+        "tv_rating": "tv-14-lv",
+        "published": 1742360076,
+        "tags": [],
+        "collection_title": "Common Side Effects",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250131/thumbnails/2_2513115594-CommonSideEffects-109-CliffsEdge-1920x1080.jpg",
+        "id": "AZS998Fv4ijrGBacAUo6",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1742786940,
         "tms_id": "",
         "description": "Stuck in jail, Marshall faces new threats.",
@@ -175,7 +220,7 @@
         "launch_date": 1742787000,
         "poster": "https://media.cdn.adultswim.com/uploads/20250131/thumbnails/2_25131145854-CommonSideEffects-106-InTheSystem-1920x1080.jpg",
         "id": "AZS99OT8em4-xVQSK9Lz",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1743391740,
@@ -354,6 +399,6 @@
         "launch_date": 1740373200,
         "poster": "https://media.cdn.adultswim.com/uploads/20250131/thumbnails/2_251311450319-CommonSideEffects-102-LakeshoreLimited-1920x1080.jpg",
         "id": "AZSyMmV94ijrGBacAUnK",
-        "auth": false
+        "auth": true
     }
 ]
