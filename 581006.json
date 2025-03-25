@@ -151,6 +151,60 @@
         "cma_id": "2019427"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1743479940,
+        "tms_id": "EP007164450204",
+        "description": "Steve joins the high school water polo team in order to get girls. Meanwhile, Roger and Stan get a boat.",
+        "title_suggest": {
+            "input": [
+                "The Life Aquatic with Steve Smith",
+                "Life Aquatic with Steve Smith",
+                "Aquatic with Steve Smith",
+                "with Steve Smith",
+                "Steve Smith",
+                "Smith"
+            ]
+        },
+        "expiration_date": 1713758340,
+        "title": "The Life Aquatic with Steve Smith",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1273.43,
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "episode_number": "2",
+        "original_air_date": 1454986800,
+        "clip_order": null,
+        "auth_launch_date": 1742875200,
+        "modified": 1742449997,
+        "media_id": "bd13f4f6ae04673e20a7854990ba9a61a012f1a5",
+        "airing_id": "RADS1003192500026064",
+        "id": "6m-aKqOzTuiKpe2ndROi_A",
+        "slug": "the-life-aquatic-with-steve-smith",
+        "views": 3460,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152002055144810.jpg",
+        "created": 1444766976,
+        "season_number": "11",
+        "title_id": "2041475",
+        "tv_rating": "tv-14-dls",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1742449997,
+        "first_published": 1472098223,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1713153600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002055144810.jpg",
+        "cma_id": "1446249"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1731214740,
@@ -1056,55 +1110,5 @@
         "launch_date": 1742788800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820800335318.jpg",
         "cma_id": "1458910"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1742875140,
-        "tms_id": "EP007164450191",
-        "description": "When Francine's sister Gwen comes to town, Hayley suspects she is up to no good. Meanwhile, Stan teaches Steve the art of hugging Aunt Gwen and Klaus shadows Roger's dramatic comments.",
-        "title_suggest": {
-            "input": [
-                "Now and Gwen",
-                "and Gwen",
-                "Gwen"
-            ]
-        },
-        "title": "Now and Gwen",
-        "type": "episode",
-        "expiration_date": 1713153540,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1263.4623,
-        "episode_number": "5",
-        "original_air_date": 1416884400,
-        "auth_launch_date": 1742270400,
-        "clip_order": null,
-        "modified": 1742018313,
-        "media_id": "86d98209d9093ad062a3f4431f15a527db1fa3be",
-        "airing_id": "RADS1003132500025014",
-        "id": "yl36vIIkSmiG-pCULIEgOw",
-        "slug": "now-and-gwen",
-        "views": 1611,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152002057523219.jpg",
-        "created": 1436242823,
-        "title_id": "2019421",
-        "tv_rating": "tv-14",
-        "season_number": "10",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1742018313,
-        "first_published": 1436242823,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1712548800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002057523219.jpg",
-        "cma_id": "1413152"
     }
 ]
