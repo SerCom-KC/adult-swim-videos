@@ -48,52 +48,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1742961540,
-        "tms_id": "",
-        "description": "Teddy confronts his past.",
-        "title_suggest": {
-            "input": [
-                "Frigate Me Knot",
-                "Me Knot",
-                "Knot"
-            ]
-        },
-        "title": "Frigate Me Knot",
-        "type": "episode",
-        "expiration_date": 1730696340,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1291.8572,
-        "episode_number": "13",
-        "original_air_date": 1705372200,
-        "auth_launch_date": 1742356800,
-        "clip_order": null,
-        "airing_id": "RADS1003132500025117",
-        "media_id": "814a9cee23ed3b78a15fc99299186288f30734a7",
-        "modified": 1742003822,
-        "slug": "frigate-me-knot",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240408/thumbnails/1_24481557168-Screenshot2024-04-08at3.56.45PM.png",
-        "created": 1712113070,
-        "title_id": "2438995",
-        "season_number": "12",
-        "tv_rating": "tv-pg-l",
-        "published": 1742003822,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1730088000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240408/thumbnails/2_24481557168-Screenshot2024-04-08at3.56.45PM.png",
-        "id": "AY6h5DIw5I1d0UhX5iFW",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1743134340,
         "tms_id": "",
         "description": "Louise, Millie & Rudy get revenge.",
@@ -612,5 +566,54 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20231218/thumbnails/2_2312181155258-Screenshot2023-12-18at11.54.32AM.png",
         "id": "AYxrmBqE1E7YmWrdXLlR",
         "auth": false
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1743566340,
+        "tms_id": "EP012792980001",
+        "description": "Bob rallies the team to cook up some business for Grand Re-Re-Re-Opening of Bob's Burgers, sending middle child Gene to push samples in the streets, eldest daughter Tina to work the grill and youngest daughter Louise to staff the counter. The day takes an unexpected turn when the health inspector pays a visit because of a little rumor Louise started during \"show and tell\" at school.",
+        "title_suggest": {
+            "input": [
+                "Human Flesh",
+                "Flesh"
+            ]
+        },
+        "title": "Human Flesh",
+        "type": "episode",
+        "expiration_date": 1694404740,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1290.9563,
+        "episode_number": "1",
+        "original_air_date": 1372042800,
+        "clip_order": null,
+        "auth_launch_date": 1742961600,
+        "modified": 1742544098,
+        "media_id": "0921a95256111066eaef455e1148a955ae22f682",
+        "airing_id": "RADS1003192500026117",
+        "id": "g14uqnD3RnOF-R_kqpxrtA",
+        "slug": "human-flesh",
+        "views": 8319,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15208876447797.jpg",
+        "created": 1402287629,
+        "title_id": "2003423",
+        "tv_rating": "tv-14",
+        "season_number": "1",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1742544098,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1693800000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15208876447797.jpg",
+        "cma_id": "1488905"
     }
 ]
