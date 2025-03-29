@@ -67,60 +67,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1743220740,
-        "tms_id": "EP002070020240",
-        "rating": 7.665118,
-        "description": "Joseph becomes a star quarterback at Landry Middle School, and a prestigious private school comes recruiting; Joseph doesn't want to go, but Dale can't resist the payoff the private school offers him.",
-        "title_suggest": {
-            "input": [
-                "Courtship of Joseph's Father",
-                "of Joseph's Father",
-                "Joseph's Father",
-                "Father"
-            ]
-        },
-        "type": "episode",
-        "title": "Courtship of Joseph's Father",
-        "expiration_date": 1474082999,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1367.1324,
-        "episode_number": "9",
-        "original_air_date": 1238724000,
-        "auth_launch_date": 1742616000,
-        "clip_order": null,
-        "modified": 1742192815,
-        "media_id": "6fe701582455343dc4864cd4c2caee4d4c5a5fb4",
-        "airing_id": "RADS1003172500025749",
-        "id": "IkVd64sfRoO4bbeyX-xJFA",
-        "slug": "courtship-of-josephs-father",
-        "views": 241922,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15203508088352.jpg",
-        "created": 1402945468,
-        "title_id": "731573",
-        "season_number": "12",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1742192815,
-        "tags": [
-            "king of the hill episode courthship of joseph's father dale "
-        ],
-        "rating_count": 430,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1473478200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203508088352.jpg",
-        "cma_id": "1256909"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1743307140,
         "tms_id": "EP002070020241",
         "rating": 7.880121,
@@ -172,6 +118,58 @@
         "launch_date": 1498482000,
         "poster": "https://media.cdn.adultswim.com/uploads/20220527/thumbnails/2_225271217451-KingOfTheHill_1210_StrangenessOnATrain.png",
         "cma_id": "1421537"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1743825540,
+        "tms_id": "EP002070020245",
+        "rating": 8.363205,
+        "description": "Bill confines himself to a wheelchair after being diagnosed with diabetes-only to discover that he's never felt more alive.",
+        "title_suggest": {
+            "input": [
+                "Dia-Bill-Ic Shock",
+                "Shock"
+            ]
+        },
+        "type": "episode",
+        "title": "Dia-Bill-Ic Shock",
+        "expiration_date": 1499398199,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1367.1325,
+        "episode_number": "1",
+        "original_air_date": 1245031200,
+        "clip_order": null,
+        "auth_launch_date": 1743220800,
+        "modified": 1742796412,
+        "media_id": "c70859049a76d38c883a733bf4b8d18e2e53ac0e",
+        "airing_id": "RADS1003242500026398",
+        "id": "oMcjG0TbQm6r8EUZ0F3Rng",
+        "slug": "dia-bill-ic-shock",
+        "views": 135739,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15284814517225.jpg",
+        "created": 1402945468,
+        "title_id": "757050",
+        "season_number": "13",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1742796412,
+        "tags": [
+            "king of the hill koth dia bill ic shock"
+        ],
+        "rating_count": 212,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1498793400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15284814517225.jpg",
+        "cma_id": "1424002"
     },
     {
         "auth": true,
