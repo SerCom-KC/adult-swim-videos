@@ -300,7 +300,7 @@
         "launch_date": 1743328800,
         "poster": "https://media.cdn.adultswim.com/uploads/20250212/thumbnails/2_252121112274-OP707_S17E79.jpg",
         "id": "AZT67zng4ijrGBacAUuS",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1745207940,
@@ -607,6 +607,41 @@
         "modified": 1742251585,
         "slug": "the-mans-pride-bellamys-last-charge",
         "id": "AZWlxwoJem4-xVQSK9bN",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1745141340,
+        "created": 1742840747,
+        "tms_id": "",
+        "title_id": "2550962",
+        "season_number": "17",
+        "tv_rating": "tv-14",
+        "description": "Princess Mansherry's amazing power -- to heal living beings completely -- is in the hands of the Donquixote executive. It's up to Leo to save the day!",
+        "title_suggest": {
+            "input": [
+                "The Healing Princess! Save Mansherry!",
+                "Healing Princess! Save Mansherry!",
+                "Princess! Save Mansherry!",
+                "Save Mansherry!",
+                "Mansherry!"
+            ]
+        },
+        "published": 1742871205,
+        "title": "The Healing Princess! Save Mansherry!",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1306.3383,
+        "episode_number": "",
+        "collection_title": "One Piece",
+        "original_air_date": 1743314400,
+        "auth_launch_date": 1743327000,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1003242500026500",
+        "media_id": "e9401f518fc2ad19ee0142729f6ca41dc070c634",
+        "modified": 1742871205,
+        "slug": "the-healing-princess-save-mansherry",
+        "id": "AZXJZ1RvC3J9ee8ny7So",
         "auth": true
     },
     {
