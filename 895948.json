@@ -108,54 +108,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187304540037.jpg"
     },
     {
-        "auth_expiration_date": 1743307140,
-        "tms_id": "",
-        "description": "Eric welcomes Luis Guzm\u00e1n and Tia Carrere. Felipe Esparza hangs out. Mike Penis returns with a guest list of his own! JPEGMAFIA, Lil Yachty, MURS, Trippie Redd and Zack Fox on a new Rapper Warrior Ninja.",
-        "title_suggest": {
-            "input": [
-                "Named After My Dad's Penis",
-                "After My Dad's Penis",
-                "My Dad's Penis",
-                "Dad's Penis",
-                "Penis"
-            ]
-        },
-        "title": "Named After My Dad's Penis",
-        "expiration_date": 1740286740,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 675.5082,
-        "episode_number": "7",
-        "original_air_date": null,
-        "auth_launch_date": 1740286800,
-        "clip_order": null,
-        "airing_id": "RADS1001132500015784",
-        "media_id": "dac345dc57549a17c2d38edad9eef09c3e88bba0",
-        "modified": 1740066715,
-        "slug": "named-after-my-dads-penis",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/1_209161720229-ericandre_506_dup-20200910.jpg",
-        "created": 1600291229,
-        "season_number": "5",
-        "title_id": "2230786",
-        "tv_rating": "tv-ma-l",
-        "published": 1740066715,
-        "tags": [],
-        "collection_title": "The Eric Andre Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1737262800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161720229-ericandre_506_dup-20200910.jpg",
-        "id": "AXSYyk1WSeFB2d0c387_",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1743911940,
         "tms_id": "",
         "description": "Eric welcomes Robin Givens, Cleopatra Coleman and Jai Rodriguez with musical guest Toro y Moi. Bone TV gets nasty.",
@@ -389,7 +341,7 @@
         "launch_date": 1740286800,
         "poster": "https://media.cdn.adultswim.com/uploads/20230605/thumbnails/2_2365818485-EASEpisode1Thumbtiny.png",
         "id": "AYh39nedOz5CkuTcnvn7",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1730001540,
@@ -571,6 +523,54 @@
         "launch_date": 1742702400,
         "poster": "https://media.cdn.adultswim.com/uploads/20230616/thumbnails/2_236161254527-TheEricAndreShow605Still011tiny.png",
         "id": "AYiwCocbOz5CkuTcnvz1",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1732424340,
+        "tms_id": "EP015632430069",
+        "description": "Eric welcomes Chet Hanks, Natasha Lyonne, and Diplo. A realtor gets caught cheating on his wife but makes the sale nonetheless.",
+        "title_suggest": {
+            "input": [
+                "Don't You Say a Word",
+                "You Say a Word",
+                "Say a Word",
+                "a Word",
+                "Word"
+            ]
+        },
+        "title": "Don't You Say a Word",
+        "type": "episode",
+        "expiration_date": 1746331140,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 667.4668,
+        "episode_number": "6",
+        "original_air_date": 1687148100,
+        "auth_launch_date": 1729396800,
+        "clip_order": null,
+        "airing_id": "RADS1003242500026473",
+        "media_id": "a1d296b0735df1e7b726b749658ec23deef916ba",
+        "modified": 1742878495,
+        "slug": "dont-you-say-a-word",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230616/thumbnails/1_236161254209-TheEricAndreShow610Still001tiny.png",
+        "created": 1686580675,
+        "title_id": "2418686",
+        "season_number": "6",
+        "tv_rating": "tv-ma-l",
+        "published": 1742878495,
+        "tags": [],
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1743307200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230616/thumbnails/2_236161254209-TheEricAndreShow610Still001tiny.png",
+        "id": "AYiwCsPX2rZC6NyF619w",
         "auth": false
     },
     {
