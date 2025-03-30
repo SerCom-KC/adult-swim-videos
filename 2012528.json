@@ -668,6 +668,51 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1748923140,
+        "tms_id": "EP018691120020",
+        "description": "Southern Cross Monastery, where Rin and Yukio grew up, has come under attack by a mysterious assailant! Leaving behind these cryptic words: \"I will never forgive anyone related to Satan,\" the masked assailant escapes...\r\n",
+        "title_suggest": {
+            "input": [
+                "Mask"
+            ]
+        },
+        "title": "Mask",
+        "type": "episode",
+        "expiration_date": 1453285799,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "BJWRPi1uTl2j_nptAdcYOw",
+        "duration": 1318.015,
+        "episode_number": "20",
+        "original_air_date": 1404626400,
+        "clip_order": null,
+        "auth_launch_date": 1743323400,
+        "modified": 1742917734,
+        "media_id": "d2e67b1333f4f185389555bff0a68d41bca9d807",
+        "airing_id": "RADS1003242500026496",
+        "id": "ge4EXhARSDufj9jkI202vg",
+        "slug": "mask",
+        "views": 1789,
+        "created": 1409838424,
+        "season_number": "1",
+        "title_id": "2012548",
+        "tv_rating": "tv-14",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1742917734,
+        "first_published": 1409838424,
+        "tags": [],
+        "collection_title": "Blue Exorcist",
+        "modified_by": "ODT Listener",
+        "launch_date": 1450261800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/mask/blueexorcist_cc_20_pt4-02.jpg",
+        "cma_id": "1147965"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1748836740,
         "tms_id": "EP018691120008",
         "rating": 4.7,
