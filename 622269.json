@@ -2050,6 +2050,58 @@
         "auth": false
     },
     {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Naruto is finally able to draw out the Nine-Tail Chakra and utilize the \"Summoning Jutsu.\"",
+        "title_suggest": {
+            "input": [
+                "He Flies! He Jumps! He Lurks! Chief Toad Appears!",
+                "Flies! He Jumps! He Lurks! Chief Toad Appears!",
+                "He Jumps! He Lurks! Chief Toad Appears!",
+                "Jumps! He Lurks! Chief Toad Appears!",
+                "He Lurks! Chief Toad Appears!",
+                "Lurks! Chief Toad Appears!",
+                "Chief Toad Appears!",
+                "Toad Appears!",
+                "Appears!"
+            ]
+        },
+        "title": "He Flies! He Jumps! He Lurks! Chief Toad Appears!",
+        "expiration_date": 1745013540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "lG7zt3RpRCKLnxfZW2IJ3w",
+        "duration": 1274.4398,
+        "episode_number": "57",
+        "original_air_date": "1162692000",
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1003282500027568",
+        "media_id": "71cb97d95e68e3c25e670e68ab2dedae551939b9",
+        "modified": 1743375459,
+        "slug": "he-flies-he-jumps-he-lurks-chief-toad-appears",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241108/thumbnails/1_24118173033-NarutoClassic-Ep057-1920x1080.jpg",
+        "created": 1730391031,
+        "season_number": "1",
+        "title_id": "651970",
+        "tv_rating": "tv-14",
+        "published": 1743375459,
+        "tags": [],
+        "collection_title": "Naruto",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1743804000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20241108/thumbnails/2_24118173033-NarutoClassic-Ep057-1920x1080.jpg",
+        "id": "AZLjV8BODT7oKsPdFfbC",
+        "auth": false
+    },
+    {
         "auth_expiration_date": 1769813940,
         "tms_id": "",
         "description": "The fourth match is between Sakura and Ino, who are childhood friends and competitors for the affection of Sasuke.",
@@ -2738,6 +2790,6 @@
         "launch_date": 1742594400,
         "poster": "https://media.cdn.adultswim.com/uploads/20241108/thumbnails/2_241181728365-NarutoClassic-Ep055-1920x1080.jpg",
         "id": "AZLjVxFYCjvsJgIeWAEj",
-        "auth": false
+        "auth": true
     }
 ]
