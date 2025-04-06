@@ -2,61 +2,25 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 6, 2025 at 00:30:13 EDT_
+_Last Update: April 6, 2025 at 02:30:13 EDT_
 ## Video added
-### Summary
-581268 Squidbillies: 2  
-895948 The Eric Andre Show: 1  
-### 798536
-**Squidbillies S05E07 - Fatal Distraction**  
-TV-14-DLV 🔓 11:13  
-⌛ December 19, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/fatal-distraction  
-seriesid=`581268` titleid=`798536` id=`s7KPxIqHQmiVbuEA2oJNVg` mediaid=`4d2fbbcd350d86990cdbb85c225aca15b6bafc56`  
-_Early's GPS shows him the fastest route from friendship to obsession, avoiding all toll roads._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131319476-squidbillies_058_dst_cid-WJU3.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131319476-squidbillies_058_dst_cid-WJU3.jpg" height="144px" /></a>
-### 659968
-**Squidbillies S02E14 - Rebel Without A Claus**  
-TV-MA 🔓 11:18  
-⌛ February 27, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/rebel-without-a-claus  
-seriesid=`581268` titleid=`659968` id=`E4tFDomwRLmLWwgp-1KQbg` mediaid=`eaef2d4fe413bf599c98ceb4f1bcb0c20455cd42`  
-_Early ruins Christmas._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131117471-squidbillies_020.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131117471-squidbillies_020.jpg" height="144px" /></a>
-### 2418687
-**The Eric Andre Show S06E07 - Anti-weed**  
-TV-MA-LS 🔓 11:13  
-⌛ May 10, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-eric-andre-show/anti-weed  
-seriesid=`895948` titleid=`2418687` id=`AYjZOXpA2rZC6NyF6193` mediaid=`0379c858dcf529d4f4e633ce78f4b97be8abfc37`  
-_Eric welcomes Raven Symone and Benny Blanco. H09909 gets H09909fied. The Kar Kwash introduces a new car cleaning technique._  
-<a href="https://media.cdn.adultswim.com/uploads/20230705/thumbnails/2_23751456152-EAAntiWeed.png"><img src="https://media.cdn.adultswim.com/uploads/20230705/thumbnails/2_23751456152-EAAntiWeed.png" height="144px" /></a>
+No videos were added.  
 ## Video removed
 ### Summary
-322328 Space Ghost Coast to Coast: 1  
-343621 Samurai Jack: 1  
-895948 The Eric Andre Show: 1  
-### 333229
-**Space Ghost Coast to Coast S06E08 - King Dead**  
-TV-PG 🔓 12:01  
-⌛ April 5, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/space-ghost-coast-to-coast/king-dead  
-seriesid=`322328` titleid=`333229` id=`ldawDzfnQ6COIRBoxu3fDw` mediaid=`ba483cdc363c88bd6d97eea48fcdcec7c270802e`  
-_Jon Benjamin, voice of Ben Katz on Comedy Central's "Dr. Katz,"guests on a show that features rare appearances by Brak and Tansut._  
-<a href="https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_20420115384-sgc2c_9909_dst_cid-9156745.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_20420115384-sgc2c_9909_dst_cid-9156745.jpg" height="144px" /></a>
-### 343639
-**Samurai Jack S01E10 - X**  
-TV-Y7-FV 🔒 22:15  
-⌛ April 5, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/samurai-jack/x  
-seriesid=`343621` titleid=`343639` id=`8tXt0yInRmGYwjdYyoYwNg` mediaid=`0c4da8b51f6b48755a11319d0d8302ddb2e07288`  
-_Jack goes through a cave full of challenges only to find an old warrior longing to reach Valhalla._  
-<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461333521-samjack_010.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461333521-samjack_010.jpg" height="144px" /></a>
-### 2230787
-**The Eric Andre Show S05E08 - Bone TV**  
-TV-MA-LS 🔒 11:07  
-⌛ April 5, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-eric-andre-show/bone-tv  
-seriesid=`895948` titleid=`2230787` id=`AXSYyy1XLyLQBOXK_POB` mediaid=`aacf6a70f967c518dfcfb33d9f805734dacc2fcd`  
-_Eric welcomes Robin Givens, Cleopatra Coleman and Jai Rodriguez with musical guest Toro y Moi. Bone TV gets nasty._  
-<a href="https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161721227-ericandre_508_dup-20200914.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161721227-ericandre_508_dup-20200914.jpg" height="144px" /></a>
+2031611 Dragon Ball Z Kai: 2  
+### 2031653
+**Dragon Ball Z Kai S01E42 - Defeat Frieza, Goku! The Tears of the Proud Saiyan Prince!**  
+TV-PG-LV 🔒 22:02  
+⌛ April 6, 2025 at 01:59:00 EDT  
+https://www.adultswim.com/videos/dragon-ball-z-kai/defeat-frieza-goku-the-tears-of-the-proud-saiyan-prince  
+seriesid=`2031611` titleid=`2031653` id=`2SIn9g-HTCaGVn3eh6BSew` mediaid=`4a70424252ed341becb0fe88a7d9c69f74953395`  
+_Goku arrives at the battle scene only to find Vegeta battered and badly beaten. With his dying breath, the Saiyan prince reveals the truth about Frieza's roll in the death of Goku's father, prompting a fierce outburst of Saiyan pride!_  
+<a href="https://i.cdn.turner.com/adultswim/big/video/defeat-frieza-goku-the-tears-of-the-proud-saiyan-prince/dragonballzkai_042_air_cid-2KNT5.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/defeat-frieza-goku-the-tears-of-the-proud-saiyan-prince/dragonballzkai_042_air_cid-2KNT5.jpg" height="144px" /></a>
+### 2031658
+**Dragon Ball Z Kai S01E47 - Awaken, Legendary Warrior! Goku the Super Saiyan!**  
+TV-PG-LV 🔓 21:11  
+⌛ April 6, 2025 at 01:59:00 EDT  
+https://www.adultswim.com/videos/dragon-ball-z-kai/awaken-legendary-warrior-goku-the-super-saiyan  
+seriesid=`2031611` titleid=`2031658` id=`zQPCTxO7SEaHoM_f1udu4g` mediaid=`5d0c4c76bd8c53f7d6b5cc3663b2d342993dd8b3`  
+_With the help of his friends, Goku succeeds in blasting Frieza with a gargantuan Spirit Bomb! Victory seems assured, but when the monster re-emerges to strike a shockingly fatal blow - Goku undergoes a powerful transformation!_  
+<a href="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_1912101553153-thumb-2_image-152726398983120.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_1912101553153-thumb-2_image-152726398983120.jpg" height="144px" /></a>
