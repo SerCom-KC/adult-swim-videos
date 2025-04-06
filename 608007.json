@@ -248,7 +248,7 @@
         "launch_date": 1743328800,
         "poster": "https://media.cdn.adultswim.com/uploads/20250212/thumbnails/2_252121112274-OP707_S17E79.jpg",
         "id": "AZT67zng4ijrGBacAUuS",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1745207940,
@@ -629,6 +629,43 @@
         "modified": 1742862090,
         "slug": "barrier-barrier-homage-holy-fist-strikes",
         "id": "AZXJZxGS5aaI-__GJ65w",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1745744340,
+        "created": 1743523049,
+        "tms_id": "",
+        "title_id": "2550963",
+        "season_number": "17",
+        "tv_rating": "tv-14-v",
+        "description": "Se\u00f1or Pink and Franky continue their knock-down, drag-out, manly fight. As both of them are pushed to their limits, we learn Se\u00f1or's tragic past!",
+        "title_suggest": {
+            "input": [
+                "The Manly Duel! Se\u00f1or's Elegy of Love!",
+                "Manly Duel! Se\u00f1or's Elegy of Love!",
+                "Duel! Se\u00f1or's Elegy of Love!",
+                "Se\u00f1or's Elegy of Love!",
+                "Elegy of Love!",
+                "of Love!",
+                "Love!"
+            ]
+        },
+        "published": 1743773478,
+        "title": "The Manly Duel! Se\u00f1or's Elegy of Love!",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1305.6711,
+        "episode_number": "",
+        "collection_title": "One Piece",
+        "original_air_date": 1743917460,
+        "auth_launch_date": 1743930000,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1004012500028248",
+        "media_id": "cc8e7303a773f9036def54fbb76819aaa044abab",
+        "modified": 1743773478,
+        "slug": "the-manly-duel-senors-elegy-of-love",
+        "id": "AZXyEnCNC3J9ee8ny7W8",
         "auth": true
     }
 ]
