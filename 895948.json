@@ -108,51 +108,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187304540037.jpg"
     },
     {
-        "auth_expiration_date": 1743911940,
-        "tms_id": "",
-        "description": "Eric welcomes Robin Givens, Cleopatra Coleman and Jai Rodriguez with musical guest Toro y Moi. Bone TV gets nasty.",
-        "title_suggest": {
-            "input": [
-                "Bone TV",
-                "TV"
-            ]
-        },
-        "title": "Bone TV",
-        "expiration_date": 1740891540,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 667.5002,
-        "episode_number": "8",
-        "original_air_date": null,
-        "auth_launch_date": 1740891600,
-        "clip_order": null,
-        "airing_id": "RADS1002242500022367",
-        "media_id": "aacf6a70f967c518dfcfb33d9f805734dacc2fcd",
-        "modified": 1741989323,
-        "slug": "bone-tv",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/1_209161721227-ericandre_508_dup-20200914.jpg",
-        "created": 1600291286,
-        "season_number": "5",
-        "title_id": "2230787",
-        "tv_rating": "tv-ma-ls",
-        "published": 1741989323,
-        "tags": [],
-        "collection_title": "The Eric Andre Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1737867600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161721227-ericandre_508_dup-20200914.jpg",
-        "id": "AXSYyy1XLyLQBOXK_POB",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1745121540,
         "tms_id": "",
         "description": "Eric welcomes Blake Griffin and Stormy Daniels in the season finale. His crossing guard skills stink and Miss Eric Andre will be finally crowned.",
@@ -386,7 +341,7 @@
         "launch_date": 1740891600,
         "poster": "https://media.cdn.adultswim.com/uploads/20230605/thumbnails/2_2365830282-TheEricAndreShow602Still002tiny.png",
         "id": "AYh39uYSOz5CkuTcnvn8",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1730606340,
@@ -571,6 +526,50 @@
         "launch_date": 1743307200,
         "poster": "https://media.cdn.adultswim.com/uploads/20230616/thumbnails/2_236161254209-TheEricAndreShow610Still001tiny.png",
         "id": "AYiwCsPX2rZC6NyF619w",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1733029140,
+        "tms_id": "EP015632430070",
+        "description": "Eric welcomes Raven Symone and Benny Blanco. H09909 gets H09909fied. The Kar Kwash introduces a new car cleaning technique.",
+        "title_suggest": {
+            "input": [
+                "Anti-weed"
+            ]
+        },
+        "title": "Anti-weed",
+        "type": "episode",
+        "expiration_date": 1746935940,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 673.6063,
+        "episode_number": "7",
+        "original_air_date": 1687752000,
+        "auth_launch_date": 1730001600,
+        "clip_order": null,
+        "airing_id": "RADS1003312500028241",
+        "media_id": "0379c858dcf529d4f4e633ce78f4b97be8abfc37",
+        "modified": 1743487532,
+        "slug": "anti-weed",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230705/thumbnails/1_23751456152-EAAntiWeed.png",
+        "created": 1687271602,
+        "title_id": "2418687",
+        "season_number": "6",
+        "tv_rating": "tv-ma-ls",
+        "published": 1743487532,
+        "tags": [],
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1743912000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230705/thumbnails/2_23751456152-EAAntiWeed.png",
+        "id": "AYjZOXpA2rZC6NyF6193",
         "auth": false
     },
     {
