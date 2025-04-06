@@ -2,16 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 6, 2025 at 06:00:42 EDT_
+_Last Update: April 6, 2025 at 14:30:14 EDT_
 ## Video added
 ### Summary
-608007 One Piece: 1  
-### 2550964
-**One Piece S17E?? - Stardust of Death! Diamante's Storm of Vicious Attacks!**  
-TV-14-V 🔒 21:45  
-⌛ April 27, 2025 at 05:29:00 EDT  
-https://www.adultswim.com/videos/one-piece/stardust-of-death-diamantes-storm-of-vicious-attacks  
-seriesid=`608007` titleid=`2550964` id=`AZXyFkLj5aaI-__GJ69A` mediaid=`a1806b8542f723588da143a473cfd44741e128b1`  
-_Franky and Señor Pink end their harrowing duel in a manly way -- but victory knocks the wind out of even the winner's sails!_  
+2031611 Dragon Ball Z Kai: 1  
+### 2031658
+**Dragon Ball Z Kai S01E47 - Awaken, Legendary Warrior! Goku the Super Saiyan!**  
+TV-PG-LV 🔓 21:11  
+⌛ May 11, 2025 at 02:59:00 EDT  
+https://www.adultswim.com/videos/dragon-ball-z-kai/awaken-legendary-warrior-goku-the-super-saiyan  
+seriesid=`2031611` titleid=`2031658` id=`zQPCTxO7SEaHoM_f1udu4g` mediaid=`5d0c4c76bd8c53f7d6b5cc3663b2d342993dd8b3`  
+_With the help of his friends, Goku succeeds in blasting Frieza with a gargantuan Spirit Bomb! Victory seems assured, but when the monster re-emerges to strike a shockingly fatal blow - Goku undergoes a powerful transformation!_  
+<a href="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_1912101553153-thumb-2_image-152726398983120.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_1912101553153-thumb-2_image-152726398983120.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
