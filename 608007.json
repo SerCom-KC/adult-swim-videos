@@ -401,7 +401,7 @@
         "launch_date": 1743330600,
         "poster": "https://media.cdn.adultswim.com/uploads/20250310/thumbnails/2_253101145173-OP708_S17E80.jpg",
         "id": "AZV8mdD4em4-xVQSK9ZD",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1743929940,
@@ -484,7 +484,7 @@
         "modified_by": "ODT Listener",
         "launch_date": 1743931800,
         "id": "AZWByyxm4ijrGBacAU8G",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1744536540,
@@ -666,6 +666,44 @@
         "modified": 1743773478,
         "slug": "the-manly-duel-senors-elegy-of-love",
         "id": "AZXyEnCNC3J9ee8ny7W8",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1745746140,
+        "created": 1743523300,
+        "tms_id": "",
+        "title_id": "2550964",
+        "season_number": "17",
+        "tv_rating": "tv-14-v",
+        "description": "Franky and Se\u00f1or Pink end their harrowing duel in a manly way -- but victory knocks the wind out of even the winner's sails!",
+        "title_suggest": {
+            "input": [
+                "Stardust of Death! Diamante's Storm of Vicious Attacks!",
+                "of Death! Diamante's Storm of Vicious Attacks!",
+                "Death! Diamante's Storm of Vicious Attacks!",
+                "Diamante's Storm of Vicious Attacks!",
+                "Storm of Vicious Attacks!",
+                "of Vicious Attacks!",
+                "Vicious Attacks!",
+                "Attacks!"
+            ]
+        },
+        "published": 1743773479,
+        "title": "Stardust of Death! Diamante's Storm of Vicious Attacks!",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1305.6377,
+        "episode_number": "",
+        "collection_title": "One Piece",
+        "original_air_date": 1743919200,
+        "auth_launch_date": 1743931800,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1004012500028258",
+        "media_id": "a1806b8542f723588da143a473cfd44741e128b1",
+        "modified": 1743773479,
+        "slug": "stardust-of-death-diamantes-storm-of-vicious-attacks",
+        "id": "AZXyFkLj5aaI-__GJ69A",
         "auth": true
     }
 ]
