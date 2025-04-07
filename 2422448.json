@@ -133,7 +133,7 @@
         "launch_date": 1743999300,
         "poster": "https://media.cdn.adultswim.com/uploads/20250304/thumbnails/2_25342155334-AS_03_OhMyGodYes_104_LikeLiterallyEatThem-1920x1080.jpg",
         "id": "AZVkPTQWem4-xVQSK9W9",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1744604040,
@@ -238,60 +238,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250304/thumbnails/2_2534220225-AS_05_OhMyGodYes_105_23AndMe-1920x1080.jpg",
         "id": "AZVkQWKY4ijrGBacAU4V",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1745813640,
-        "tms_id": "",
-        "description": "While Sunny spirals about getting older, Tulip seeks closure in all the wrong places until Ladi takes control.",
-        "title_suggest": {
-            "input": [
-                "a beast a broad and a baker whose name is warrenmacytom",
-                "beast a broad and a baker whose name is warrenmacytom",
-                "a broad and a baker whose name is warrenmacytom",
-                "broad and a baker whose name is warrenmacytom",
-                "and a baker whose name is warrenmacytom",
-                "a baker whose name is warrenmacytom",
-                "baker whose name is warrenmacytom",
-                "whose name is warrenmacytom",
-                "name is warrenmacytom",
-                "is warrenmacytom",
-                "warrenmacytom"
-            ]
-        },
-        "title": "a beast a broad and a baker whose name is warrenmacytom",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AZVJm83rem4-xVQSK9U_",
-        "duration": 675.4748,
-        "episode_number": "6",
-        "original_air_date": "1743999300",
-        "auth_launch_date": 1743999300,
-        "clip_order": null,
-        "airing_id": "RADS1004022500028353",
-        "media_id": "cd863dadcbc7bf6eb6e76ecfab44d55a913daa33",
-        "modified": 1743579488,
-        "slug": "a-beast-a-broad-and-a-baker-whose-name-is-warrenmacytom",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250304/thumbnails/1_2534223304-AS_06_OhMyGodYes_106_BEAST-1920x1080.jpg",
-        "created": 1741143820,
-        "season_number": "1",
-        "title_id": "2477351",
-        "tv_rating": "",
-        "published": 1743579488,
-        "tags": [],
-        "collection_title": "Oh My God... Yes! A Series of Extremely Relatable Circumstances",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250304/thumbnails/2_2534223304-AS_06_OhMyGodYes_106_BEAST-1920x1080.jpg",
-        "id": "AZVkQkozem4-xVQSK9W-",
         "auth": true
     }
 ]
