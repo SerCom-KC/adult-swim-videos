@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1443383760,
         "auth_expiration_date": 1744689540,
         "tms_id": "EP019635740005",
@@ -1061,7 +1061,7 @@
         "cma_id": "1434847"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1443383700,
         "auth_expiration_date": 1744084740,
         "tms_id": "EP019635740004",
