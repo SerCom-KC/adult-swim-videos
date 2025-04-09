@@ -2,6 +2,69 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1744775940,
+        "tms_id": "EP002070020252",
+        "rating": 9.23077,
+        "description": "When Peggy throws a baby shower for Luanne, Lucky's sister Myrna and Peggy end up butting heads over how Luanne will raise her child.",
+        "title_suggest": {
+            "input": [
+                "Lucky See, Monkey Do",
+                "See, Monkey Do",
+                "Monkey Do",
+                "Do"
+            ]
+        },
+        "type": "episode",
+        "title": "Lucky See, Monkey Do",
+        "expiration_date": 1499830199,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1362.1942,
+        "episode_number": "8",
+        "original_air_date": 1265686200,
+        "auth_launch_date": 1744171200,
+        "clip_order": null,
+        "modified": 1743749785,
+        "media_id": "056761c61c25c82f78b73e0a1c0a9ff745ba1c0a",
+        "airing_id": "RADS1004032500028485",
+        "id": "1DzLdRhSQHG2EPMoIUNMqw",
+        "slug": "lucky-see-monkey-do",
+        "views": 97466,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152451893423120.jpg",
+        "created": 1402945468,
+        "title_id": "785967",
+        "season_number": "13",
+        "tv_rating": "tv-pg-l",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1743749785,
+        "tags": [
+            "Lucky See Monkey Do",
+            " Family Guy",
+            " Adult Swim",
+            " video",
+            " funny",
+            " Seth McFarlane",
+            " Griffins",
+            " Peter",
+            " Stewie",
+            " Brian"
+        ],
+        "rating_count": 195,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1499225400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152451893423120.jpg",
+        "cma_id": "1425881"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1744430340,
         "tms_id": "EP002070020250",
         "rating": 8.038697,
@@ -223,58 +286,5 @@
         "launch_date": 1499139000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152899041822513.jpg",
         "cma_id": "1425503"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1744171140,
-        "tms_id": "EP002070020247",
-        "rating": 7.7689385,
-        "description": "Hank is horrified when Ted Wassonasong tears down a quaint neighborhood home and replaces it with an ugly mansion.",
-        "title_suggest": {
-            "input": [
-                "Square-Footed Monster",
-                "Monster"
-            ]
-        },
-        "type": "episode",
-        "title": "Square-Footed Monster",
-        "expiration_date": 1499603399,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1366.3316,
-        "episode_number": "3",
-        "original_air_date": 1246845600,
-        "clip_order": null,
-        "auth_launch_date": 1743566400,
-        "modified": 1743148183,
-        "media_id": "292fa396d67cd7d6a3348b4d162ed639bbca402b",
-        "airing_id": "RADS1003272500027061",
-        "id": "jVX2iv0LTke-txKMTWxWeQ",
-        "slug": "square-footed-monster",
-        "views": 358650,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220602/thumbnails/1_22621328370-SquareFootedmin.png",
-        "created": 1402945468,
-        "title_id": "757052",
-        "tv_rating": "tv-pg-dl",
-        "season_number": "13",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1743148183,
-        "tags": [
-            "king of the hill episode square footed monster mansion"
-        ],
-        "rating_count": 528,
-        "collection_title": "King of the Hill",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1498998600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220602/thumbnails/2_22621328370-SquareFootedmin.png",
-        "cma_id": "1424997"
     }
 ]
