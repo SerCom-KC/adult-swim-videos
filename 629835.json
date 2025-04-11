@@ -172,68 +172,6 @@
         "cma_id": "1427594"
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1744343940,
-        "tms_id": "EP002070020249",
-        "rating": 8.093861,
-        "description": "With his job on the line, Principal Moss labels Bobby a \"special needs\" student to prevent slower kids from taking a No Child Left Behind standardized test.",
-        "title_suggest": {
-            "input": [
-                "No Bobby Left Behind",
-                "Bobby Left Behind",
-                "Left Behind",
-                "Behind"
-            ]
-        },
-        "type": "episode",
-        "title": "No Bobby Left Behind",
-        "expiration_date": 1499689799,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1367.099,
-        "episode_number": "5",
-        "original_air_date": 1246240800,
-        "clip_order": null,
-        "auth_launch_date": 1743739200,
-        "modified": 1743315612,
-        "media_id": "2cf0814c31b88a0c1c2a48adebae8b5b31571068",
-        "airing_id": "RADS1003282500027499",
-        "id": "_QbMf3iBSTOhNZbqSbdxDA",
-        "slug": "no-bobby-left-behind",
-        "views": 275277,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152881379976917.jpg",
-        "created": 1402945468,
-        "title_id": "757049",
-        "season_number": "13",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1743315612,
-        "tags": [
-            "No Bobby Left Behind",
-            "King of the Hill",
-            "Adult Swim",
-            "video",
-            "funny",
-            "Mike Judge",
-            "Hank",
-            "Peggy",
-            "Bobby"
-        ],
-        "rating_count": 554,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1499085000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152881379976917.jpg",
-        "cma_id": "1427216"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1744516740,
@@ -286,5 +224,56 @@
         "launch_date": 1499139000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152899041822513.jpg",
         "cma_id": "1425503"
+    },
+    {
+        "auth": true,
+        "auth_expiration_date": 1744948740,
+        "tms_id": "EP002070020254",
+        "description": "When Peggy and Hank's date night runs long, and they forget to pick up Bobby at the mall, Bobby uses their guilt to compete for their love; but his plan backfires when Peggy and Hank stop giving him everything he wants, and resolve to spend more time with him.",
+        "title_suggest": {
+            "input": [
+                "Master of Puppets I'm Pulling Your Strings!",
+                "of Puppets I'm Pulling Your Strings!",
+                "Puppets I'm Pulling Your Strings!",
+                "I'm Pulling Your Strings!",
+                "Pulling Your Strings!",
+                "Your Strings!",
+                "Strings!"
+            ]
+        },
+        "title": "Master of Puppets I'm Pulling Your Strings!",
+        "type": "episode",
+        "expiration_date": 1500002999,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1371.7037,
+        "episode_number": "10",
+        "original_air_date": 1266895800,
+        "clip_order": null,
+        "auth_launch_date": 1744344000,
+        "modified": 1743919058,
+        "media_id": "8dfc445f58db8791212c4ac007f40d16faecd2df",
+        "airing_id": "RADS1004042500028693",
+        "id": "tc5tZa88SHq-KhD6_74Fmw",
+        "slug": "master-of-puppets-im-pulling-your-strings",
+        "views": 4472,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220609/thumbnails/1_22691652101-KingOfTheHill_1303_MasterOfPuppetsImPullingYourStrings.jpg",
+        "created": 1403749241,
+        "title_id": "785969",
+        "tv_rating": "tv-pg",
+        "season_number": "13",
+        "active": false,
+        "published": 1743919058,
+        "tags": [],
+        "collection_title": "King of the Hill",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1499398200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220609/thumbnails/2_22691652101-KingOfTheHill_1303_MasterOfPuppetsImPullingYourStrings.jpg",
+        "cma_id": "1428011"
     }
 ]
