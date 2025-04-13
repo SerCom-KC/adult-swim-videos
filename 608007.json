@@ -454,7 +454,7 @@
         "launch_date": 1743931800,
         "poster": "https://media.cdn.adultswim.com/uploads/20250407/thumbnails/2_2547163740-OP710_S17E82.jpg",
         "id": "AZWByyxm4ijrGBacAU8G",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1744536540,
@@ -506,7 +506,7 @@
         "launch_date": 1744536600,
         "poster": "https://media.cdn.adultswim.com/uploads/20250407/thumbnails/2_25471641128-OP712_S17E84.jpg",
         "id": "AZWlx2cKem4-xVQSK9bO",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1744534740,
@@ -787,6 +787,46 @@
         "modified": 1744130515,
         "slug": "trueno-bastardo-kyros-furious-strike",
         "id": "AZYVj7dI5aaI-__GJ6_4",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1746350940,
+        "created": 1744118492,
+        "tms_id": "",
+        "title_id": "2550966",
+        "season_number": "17",
+        "tv_rating": "tv-14-v",
+        "description": "Pica loses his temper and turns his full wrath against King Riku, whom he hopes to destroy, ending the revolution against Doflamingo.",
+        "title_suggest": {
+            "input": [
+                "Moving Across the Ground! The Giant Statue Pica's Surprise Maneuver!",
+                "Across the Ground! The Giant Statue Pica's Surprise Maneuver!",
+                "the Ground! The Giant Statue Pica's Surprise Maneuver!",
+                "Ground! The Giant Statue Pica's Surprise Maneuver!",
+                "The Giant Statue Pica's Surprise Maneuver!",
+                "Giant Statue Pica's Surprise Maneuver!",
+                "Statue Pica's Surprise Maneuver!",
+                "Pica's Surprise Maneuver!",
+                "Surprise Maneuver!",
+                "Maneuver!"
+            ]
+        },
+        "published": 1744125226,
+        "title": "Moving Across the Ground! The Giant Statue Pica's Surprise Maneuver!",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1305.5042,
+        "episode_number": "",
+        "collection_title": "One Piece",
+        "original_air_date": 1744524000,
+        "auth_launch_date": 1744536600,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1004082500029142",
+        "media_id": "cc3360149e627b446afb9f2822d665a364240915",
+        "modified": 1744125226,
+        "slug": "moving-across-the-ground-the-giant-statue-picas-surprise-maneuver",
+        "id": "AZYVkC2BC3J9ee8ny7bp",
         "auth": true
     }
 ]
