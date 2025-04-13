@@ -400,7 +400,7 @@
         "launch_date": 1743930000,
         "poster": "https://media.cdn.adultswim.com/uploads/20250407/thumbnails/2_2547162801-OP709_01.jpg",
         "id": "AZVeIFSgem4-xVQSK9Wd",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1748231940,
@@ -555,7 +555,7 @@
         "launch_date": 1744534800,
         "poster": "https://media.cdn.adultswim.com/uploads/20250407/thumbnails/2_2547164095-OP711_S17E83.jpg",
         "id": "AZWlxwoJem4-xVQSK9bN",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1745141340,
@@ -752,6 +752,41 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250407/thumbnails/2_25471645406-OP716_S17E88.jpg",
         "id": "AZXyFkLj5aaI-__GJ69A",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1746349140,
+        "created": 1744118462,
+        "tms_id": "",
+        "title_id": "2550965",
+        "season_number": "17",
+        "tv_rating": "tv-14-v",
+        "description": "Kyros, unbowed by Diamante's vicious attacks, fights back with the anger of all of Dressrosa in order to fulfill his promise to protect Rebecca.",
+        "title_suggest": {
+            "input": [
+                "Trueno Bastardo! Kyros' Furious Strike!",
+                "Bastardo! Kyros' Furious Strike!",
+                "Kyros' Furious Strike!",
+                "Furious Strike!",
+                "Strike!"
+            ]
+        },
+        "published": 1744130515,
+        "title": "Trueno Bastardo! Kyros' Furious Strike!",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1305.6043,
+        "episode_number": "",
+        "collection_title": "One Piece",
+        "original_air_date": 1744522200,
+        "auth_launch_date": 1744534800,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1004082500029140",
+        "media_id": "eb6f7b8a4d15a81ef679c39f8d043264c2cac1ee",
+        "modified": 1744130515,
+        "slug": "trueno-bastardo-kyros-furious-strike",
+        "id": "AZYVj7dI5aaI-__GJ6_4",
         "auth": true
     }
 ]
