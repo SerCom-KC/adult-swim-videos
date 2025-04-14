@@ -1467,7 +1467,7 @@
         "launch_date": 1743998400,
         "poster": "https://media.cdn.adultswim.com/uploads/20241015/thumbnails/2_2410152337250-CopyofSailorMoon_Ep029_Thumbnail_1920x1080_Pillarbox.jpg",
         "id": "AZIQQQr6g6zBH7G86thb",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1757908740,
@@ -1516,6 +1516,104 @@
         "launch_date": 1743998400,
         "poster": "https://media.cdn.adultswim.com/uploads/20241015/thumbnails/2_2410152337567-CopyofSailorMoon_Ep030_Thumbnail_1920x1080_Pillarbox.jpg",
         "id": "AZJEEzVGGwrFHTTP9EMm",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1744430340,
+        "tms_id": "",
+        "description": "Usagi and friends meet a girl who they believe holds the final Rainbow Crystal.",
+        "title_suggest": {
+            "input": [
+                "Loved and Chased: Luna's Worst Day Ever",
+                "and Chased: Luna's Worst Day Ever",
+                "Chased: Luna's Worst Day Ever",
+                "Luna's Worst Day Ever",
+                "Worst Day Ever",
+                "Day Ever",
+                "Ever"
+            ]
+        },
+        "title": "Loved and Chased: Luna's Worst Day Ever",
+        "type": "episode",
+        "expiration_date": 1745207940,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AY_PJ8ZL5I1d0UhX5iGC",
+        "duration": 1338.5038,
+        "episode_number": "31",
+        "original_air_date": 1728077400,
+        "auth_launch_date": 1730496600,
+        "clip_order": null,
+        "airing_id": "RADS1010272400099480",
+        "media_id": "6b003164e0b991924c71a803adb506da0e16d099",
+        "modified": 1744194779,
+        "slug": "loved-and-chased-lunas-worst-day-ever",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241015/thumbnails/1_2410152338126-CopyofSailorMoon_Ep031_Thumbnail_1920x1080_Pillarbox.jpg",
+        "created": 1727723614,
+        "title_id": "2530027",
+        "season_number": "1",
+        "tv_rating": "tv-pg-v",
+        "published": 1744194779,
+        "tags": [],
+        "collection_title": "Sailor Moon",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1744603200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20241015/thumbnails/2_2410152338126-CopyofSailorMoon_Ep031_Thumbnail_1920x1080_Pillarbox.jpg",
+        "id": "AZJEWjHJGwrFHTTP9EMo",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1744430340,
+        "tms_id": "",
+        "description": "Umino seems to have fallen in love with Naru. Unfortunately, Naru only considers Umino a friend, so Usagi decides to play Cupid by getting free tickets to the amusement park and urges them to go on a date together.",
+        "title_suggest": {
+            "input": [
+                "Umino's Resolve: I'll Protect Naru",
+                "Resolve: I'll Protect Naru",
+                "I'll Protect Naru",
+                "Protect Naru",
+                "Naru"
+            ]
+        },
+        "title": "Umino's Resolve: I'll Protect Naru",
+        "type": "episode",
+        "expiration_date": 1745207940,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AY_PJ8ZL5I1d0UhX5iGC",
+        "duration": 1338.4705,
+        "episode_number": "32",
+        "original_air_date": 1728680400,
+        "auth_launch_date": 1731103200,
+        "clip_order": null,
+        "airing_id": "RADS1011012400001496",
+        "media_id": "e043994ab356e24743a054359987ea7745c53cbc",
+        "modified": 1744187539,
+        "slug": "uminos-resolve-ill-protect-naru",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241015/thumbnails/1_2410152338298-CopyofSailorMoon_Ep032_Thumbnail_1920x1080_Pillarbox.jpg",
+        "created": 1728317006,
+        "title_id": "2530028",
+        "season_number": "1",
+        "tv_rating": "tv-pg-v",
+        "published": 1744187539,
+        "tags": [],
+        "collection_title": "Sailor Moon",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1744603200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20241015/thumbnails/2_2410152338298-CopyofSailorMoon_Ep032_Thumbnail_1920x1080_Pillarbox.jpg",
+        "id": "AZJnuKFAdoSfoMZMd5MJ",
         "auth": false
     },
     {
