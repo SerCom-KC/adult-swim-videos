@@ -931,7 +931,7 @@
         "launch_date": 1744603200,
         "poster": "https://media.cdn.adultswim.com/uploads/20250304/thumbnails/2_25342126352-YOLO-S3-RainbowTrinity-304-FIGHTBATTLEOFBUBBLEGUMPARK-1920x1080.jpg",
         "id": "AZVkISLNem4-xVQSK9W2",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1745207940,
@@ -1034,6 +1034,60 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250304/thumbnails/2_25342128366-YOLO-S3-RainbowTrinity-306-SOMEONECOMEBRINGMEFOODANDENTERTAINME-1920x1080.jpg",
         "id": "AZVkIldj4ijrGBacAU4L",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1746417540,
+        "tms_id": "",
+        "description": "Sarah and Rachel go to the beach but are caught in a rip tide which takes them to Tasmania.",
+        "title_suggest": {
+            "input": [
+                "Our Lovely Jubbly, Wovley, Bubbly, Zubbly, Lovely, Bubbly Wubbly Tasmania :P",
+                "Lovely Jubbly, Wovley, Bubbly, Zubbly, Lovely, Bubbly Wubbly Tasmania :P",
+                "Jubbly, Wovley, Bubbly, Zubbly, Lovely, Bubbly Wubbly Tasmania :P",
+                "Wovley, Bubbly, Zubbly, Lovely, Bubbly Wubbly Tasmania :P",
+                "Bubbly, Zubbly, Lovely, Bubbly Wubbly Tasmania :P",
+                "Zubbly, Lovely, Bubbly Wubbly Tasmania :P",
+                "Lovely, Bubbly Wubbly Tasmania :P",
+                "Bubbly Wubbly Tasmania :P",
+                "Wubbly Tasmania :P",
+                "Tasmania :P",
+                ":P"
+            ]
+        },
+        "title": "Our Lovely Jubbly, Wovley, Bubbly, Zubbly, Lovely, Bubbly Wubbly Tasmania :P",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXNJnfSIC8QgH-t19J8N",
+        "duration": 675.0744,
+        "episode_number": "6",
+        "original_air_date": "1744603200",
+        "auth_launch_date": 1744603200,
+        "clip_order": null,
+        "airing_id": "RADS1004082500029236",
+        "media_id": "bb065bffe63349f3c209d60e1eddb594cc934f34",
+        "modified": 1744174196,
+        "slug": "our-lovely-jubbly-wovley-bubbly-zubbly-lovely-bubbly-wubbly-tasmania-p",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250304/thumbnails/1_25342129169-YOLO-S3-RainbowTrinity-303-BUBBLYWUBBLYTASMANIA-1920x1080.jpg",
+        "created": 1741142193,
+        "season_number": "3",
+        "title_id": "2449479",
+        "tv_rating": "tv-14-dlv",
+        "published": 1744174196,
+        "tags": [],
+        "collection_title": "YOLO",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250304/thumbnails/2_25342129169-YOLO-S3-RainbowTrinity-303-BUBBLYWUBBLYTASMANIA-1920x1080.jpg",
+        "id": "AZVkKXRi4ijrGBacAU4P",
         "auth": true
     }
 ]
