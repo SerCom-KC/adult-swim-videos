@@ -727,6 +727,54 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1776225540,
+        "tms_id": "",
+        "description": "Can the Metalocalypse be stopped? While overwhelmed in personal and professional crises, can celebrity frontman Nathan Explosion write the SONG OF SALVATION and save the planet from the ultimate evil: Salacia? It will be Brutal.",
+        "title_suggest": {
+            "input": [
+                "Metalocalypse: Army of the Doomstar",
+                "Army of the Doomstar",
+                "of the Doomstar",
+                "the Doomstar",
+                "Doomstar"
+            ]
+        },
+        "title": "Metalocalypse: Army of the Doomstar",
+        "expiration_date": 1717214340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "niumi9_rRkOmewx_anrpnw",
+        "duration": 5001.8633,
+        "episode_number": "14",
+        "original_air_date": null,
+        "auth_launch_date": 1744862400,
+        "clip_order": null,
+        "airing_id": "RADS1004162500031075",
+        "media_id": "738219f57e4ca02728e1a2c6b6f56d1ed829dcd3",
+        "modified": 1744847396,
+        "slug": "metalocalypse-army-of-the-doomstar",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240404/thumbnails/1_2444142691-MetalocalypseADS_06_JPEG.jpg",
+        "created": 1712254463,
+        "season_number": "4",
+        "title_id": "2424900",
+        "tv_rating": "tv-ma-lv",
+        "published": 1744847396,
+        "tags": [],
+        "collection_title": "Metalocalypse",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1714190400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240404/thumbnails/2_2444142691-MetalocalypseADS_06_JPEG.jpg",
+        "id": "AY6qUa1DC2cKYm1ap_IY",
+        "auth": true
+    },
+    {
         "auth": false,
         "ott_launch_date": 1447168560,
         "auth_expiration_date": 1719806340,
