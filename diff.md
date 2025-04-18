@@ -2,78 +2,77 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 18, 2025 at 00:00:27 EDT_
+_Last Update: April 18, 2025 at 00:30:13 EDT_
 ## Video added
 ### Summary
-581006 American Dad: 2  
-437532 Futurama: 1  
-629835 King of the Hill: 1  
-### 2069554
-**American Dad S13E01 - Paranoid_Frandroid**  
-TV-14-DLSV 🔒 21:03  
+2003422 Bob's Burgers: 2  
+439722 The Venture Bros.: 2  
+547867 Tom Goes To The Mayor: 1  
+### 2003523
+**Bob's Burgers S03E12 - Broadcast Wagstaff School News**  
+TV-PG 🔒 21:21  
 ⌛ April 24, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/paranoid-frandroid  
-seriesid=`581006` titleid=`2069554` id=`kuyoMQr6Ta62NeNv3TRsgw` mediaid=`9a7930d726aa9b94583f7600197cfc38b50e90c7`  
-_Francine becomes a conspiracy theorist. Klaus & Steve help Snot pimp out his new room._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407975132.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407975132.jpg" height="144px" /></a>
-### 2069553
-**American Dad S12E22 - West to Mexico**  
-TV-14-DLV 🔒 21:14  
+https://www.adultswim.com/videos/bobs-burgers/broadcast-wagstaff-school-news  
+seriesid=`2003422` titleid=`2003523` id=`3adw46_sRxC-g9TyOb1S4g` mediaid=`be966cc7c474aa02e26265d58d7bfe21786f3bdc`  
+_There is a "Mad Pooper" running wild at the Belcher children's middle school and Tina finds herself on a mission to get to the "bottom" of the situation._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227744679512.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227744679512.jpg" height="144px" /></a>
+### 2003522
+**Bob's Burgers S03E11 - Nude Beach**  
+TV-14 🔒 21:33  
 ⌛ April 24, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/west-to-mexico  
-seriesid=`581006` titleid=`2069553` id=`vz3Y_dibRLuu8ZDlkfKtbQ` mediaid=`199076f9e1f7b33c00570f8b218ef0d10f550e07`  
-_In an American Dad western, Stan is a wanted man hunted by Roger the bounty hunter. He ends up in a town in need of a good guy and helps Principal Lewis, Francine, Steve, and Hayley._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15188043915002.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15188043915002.jpg" height="144px" /></a>
-### 2161626
-**Futurama S07E07 - The Late Philip J. Fry**  
-TV-14-DLV 🔒 22:47  
-⌛ April 24, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/the-late-philip-j-fry  
-seriesid=`437532` titleid=`2161626` id=`AX-ZHPge_0O4w1rD3R2F` mediaid=`dbe38874b94e90d3309f8f2fc3945b3e7846ea19`  
-_The Professor invents a one-way time machine that takes the crew ever further into the future with no hope of returning._  
-<a href="https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171421184-Futurama_707_TheLatePhillipJFry.png"><img src="https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171421184-Futurama_707_TheLatePhillipJFry.png" height="144px" /></a>
-### 785974
-**King of the Hill S13E15 - Serves Me Right for Giving General George S. Patton the Bathroom Key**  
-TV-PG-L 🔒 22:50  
-⌛ April 24, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/serves-me-right-for-giving-general-george-s-patton-the-bathroom-key  
-seriesid=`629835` titleid=`785974` id=`3tt6JdcPR9SHRABxoQGWBg` mediaid=`05bc3bbda534d6612479d78021f6133c40236309`  
-_When Hank is given a box full of his late father's belongings, he discovers a list of his father's off-the-wall last wishes; including wanting Hank to flush his ashes down a toilet that General George S. Patton once used._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15295043004673.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15295043004673.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/bobs-burgers/nude-beach  
+seriesid=`2003422` titleid=`2003522` id=`-iEHRbHnQaKmCbMl2ZZQeQ` mediaid=`4d479a4000b4c5f006811ad5bb56110aedb5ec29`  
+_Hugo, the loathsome health inspector who torments Bob, quits his job to become a nudist after discovering the town's new nude beach. His replacement, Tommy, seems nice enough until he blackmails the Belchers into letting him perform his terrible music at the restaurant, which drives all the customers away. Unable to tolerate it anymore, Bob decides upon the lesser of two evils and braves the nude beach (and bares... well, everything else) to find Hugo and bring him back._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227744265846.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15227744265846.jpg" height="144px" /></a>
+### 2024901
+**The Venture Bros. S06E02 - Hostile Makeover**  
+TV-14-DLV 🔓 23:05  
+⌛ February 4, 2026 at 23:59:00 EST  
+https://www.adultswim.com/videos/the-venture-bros/hostile-makeover  
+seriesid=`439722` titleid=`2024901` id=`HViKUpuYSkSbCiaC2rZFEg` mediaid=`bfef2000f20f0edad4fc64b7cbd442d062279a54`  
+_The Ventures are back! And they’re movin’ on up to a deluxe apartment in the sky. But will mo’ money bring mo’ problems? And can The Monarch handle the commute?_  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161414449-venture_603_dup_20151208.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161414449-venture_603_dup_20151208.jpg" height="144px" /></a>
+### 2024902
+**The Venture Bros. S06E03 - Maybe No Go**  
+TV-14-DLV 🔓 22:33  
+⌛ February 4, 2026 at 23:59:00 EST  
+https://www.adultswim.com/videos/the-venture-bros/maybe-no-go  
+seriesid=`439722` titleid=`2024902` id=`QpmKcwyqSgmzgZTk2EuZzA` mediaid=`553f44e139dad779500d10f2ad81c4673f7f1c32`  
+_As White & Billy grapple with their arch enemy back in the old ‘hood, Doc realizes he can’t face his new responsibilities alone when a whale of an enemy shows him how they arch uptown._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161414319-venture_604_dup_20151123.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161414319-venture_604_dup_20151123.jpg" height="144px" /></a>
+### 607107
+**Tom Goes To The Mayor S01E02 - Pioneer Island**  
+TV-PG 🔓 11:33  
+⌛ June 26, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/tom-goes-to-the-mayor/pioneer-island  
+seriesid=`547867` titleid=`607107` id=`4Y8oUeIOSya7ux4a42RlvQ` mediaid=`750238ec74b8f7f87bb8fddafe2039b7cc1e6c35`  
+_Tom and the Mayor try to celebrate a relic of Jefferton's past by rebuilding a Western-themed amusement park called Pioneer Island. Patton Oswalt guest stars as Zynx, a new threat to the Mayor's power._  
+<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117834500-tgttm_002.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117834500-tgttm_002.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-437532 Futurama: 1  
-581006 American Dad: 2  
-629835 King of the Hill: 1  
-### 2161621
-**Futurama S07E02 - In-A-Gadda-Da-Leela**  
- 🔒 22:29  
+2003422 Bob's Burgers: 2  
+547867 Tom Goes To The Mayor: 1  
+### 2003513
+**Bob's Burgers S03E02 - Full Bars**  
+TV-PG 🔒 21:15  
 ⌛ April 17, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/in-a-gadda-da-leela  
-seriesid=`437532` titleid=`2161621` id=`AX8IgtUf208s7zyYUMHk` mediaid=`96ac6f982b28a89eb8f4463806fd86ecd3819e39`  
-_Leela and Zapp Brannigan find themselves stranded on an Eden-like planet._  
-<a href="https://media.cdn.adultswim.com/uploads/20220223/thumbnails/2_22223943455-Futurama_702_InAGaddaDaLeela.png"><img src="https://media.cdn.adultswim.com/uploads/20220223/thumbnails/2_22223943455-Futurama_702_InAGaddaDaLeela.png" height="144px" /></a>
-### 2069541
-**American Dad S12E10 - A Nice Night for a Drive**  
-TV-14 🔒 21:14  
+https://www.adultswim.com/videos/bobs-burgers/full-bars  
+seriesid=`2003422` titleid=`2003513` id=`ClXtTaMsTqeJ9gW6Fx286w` mediaid=`1721ac667fd17a767f9bf556b07ec3cee6429731`  
+_The Belcher kids break their Halloween tradition by ditching their usual trick-or-treating route and venturing off to Kingshead Island, a posh neighborhood that is known for distributing full-sized candy bars. Meanwhile, Bob and Linda attend Teddy's annual "Black and Orange" party._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15295038587449.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15295038587449.jpg" height="144px" /></a>
+### 2003512
+**Bob's Burgers S03E01 - Ear-sy Rider**  
+TV-14 🔒 21:30  
 ⌛ April 17, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/a-nice-night-for-a-drive  
-seriesid=`581006` titleid=`2069541` id=`Jv3Vtv7GTM2hwe473Cu2Vg` mediaid=`afa206c1964b52fc4ec86c6fd2c1cee8a5deaddf`  
-_Klaus gets transferred into the navigation system of Stan's car after Stan refuses to pay for a life-saving surgery. Steve and his friends prank Roger's Frank character and he terrorizes them for revenge._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751872861710.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751872861710.jpg" height="144px" /></a>
-### 2069544
-**American Dad S12E09 - The Witches of Langley**  
-TV-14 🔒 21:14  
+https://www.adultswim.com/videos/bobs-burgers/ear-sy-rider  
+seriesid=`2003422` titleid=`2003512` id=`WQLkpD32SgOYEJ164dTdtQ` mediaid=`d9e7f05f7437f4a44494080bb3fd91b2633c9909`  
+_A biker gang hangs out at Bob's Burgers as they mourn the loss of their beloved leader "Horny Dave." Meanwhile, Louise has an identity crisis when her bunny ears are stolen and everyone - including the biker gang - rallies around her._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216333406213.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152216333406213.jpg" height="144px" /></a>
+### 635907
+**Tom Goes To The Mayor S02E09 - Saxman**  
+TV-14 🔓 11:14  
 ⌛ April 17, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-witches-of-langley  
-seriesid=`581006` titleid=`2069544` id=`Y5ttR_r4RD--F5vHW1jb0Q` mediaid=`f524e2ce4adaa19a62f9f626c9b3d30456d8fd2a`  
-_Steve and his friends take up witchcraft to gain power and popularity at school. Stan and Klaus become obsessed with remembering 90s bands._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751869065413.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751869065413.jpg" height="144px" /></a>
-### 785969
-**King of the Hill S13E10 - Master of Puppets I'm Pulling Your Strings!**  
-TV-PG 🔒 22:51  
-⌛ April 17, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/master-of-puppets-im-pulling-your-strings  
-seriesid=`629835` titleid=`785969` id=`tc5tZa88SHq-KhD6_74Fmw` mediaid=`8dfc445f58db8791212c4ac007f40d16faecd2df`  
-_When Peggy and Hank's date night runs long, and they forget to pick up Bobby at the mall, Bobby uses their guilt to compete for their love; but his plan backfires when Peggy and Hank stop giving him everything he wants, and resolve to spend more time with him._  
-<a href="https://media.cdn.adultswim.com/uploads/20220609/thumbnails/2_22691652101-KingOfTheHill_1303_MasterOfPuppetsImPullingYourStrings.jpg"><img src="https://media.cdn.adultswim.com/uploads/20220609/thumbnails/2_22691652101-KingOfTheHill_1303_MasterOfPuppetsImPullingYourStrings.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/tom-goes-to-the-mayor/saxman  
+seriesid=`547867` titleid=`635907` id=`ZiwyDpkpTeKv8OPjhbc-GQ` mediaid=`f2c691e024c5817ed6dd036bd60da82315859433`  
+_The Mayor hires a smooth jazz saxman, managed by Tom, to perform at the Grand Opening of a Waterbed Galleria._  
+<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117956236-tgttm_022.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117956236-tgttm_022.jpg" height="144px" /></a>
