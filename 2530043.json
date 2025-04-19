@@ -45,6 +45,51 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1748059140,
+        "tms_id": "",
+        "description": "Kydd and Felixx finally take down an alien! That looks eerily like an old man\u2026 but it's not actually an old man\u2026.is it?",
+        "title_suggest": {
+            "input": [
+                "Alien Autopsy",
+                "Autopsy"
+            ]
+        },
+        "title": "Alien Autopsy",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZBvkmVYSaru9Cdsy7Cx",
+        "duration": 660.5265,
+        "episode_number": "2",
+        "original_air_date": 1720412100,
+        "auth_launch_date": 1745035200,
+        "clip_order": null,
+        "airing_id": "RADS1004132500030898",
+        "media_id": "818c762599cfca54853442d1fb0b20e2581f1069",
+        "modified": 1744610464,
+        "slug": "alien-autopsy",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240708/thumbnails/1_24781035178-PSICOPS_SEASON1_EP102_SHOWSTILLS_IMAGE2_LEFTTORIGHT_BITSIECHIEFBEEF.jpg",
+        "created": 1720036483,
+        "title_id": "2530045",
+        "season_number": "1",
+        "tv_rating": "tv-ma-v",
+        "published": 1744610464,
+        "tags": [],
+        "collection_title": "Psi-Cops",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240708/thumbnails/2_24781035178-PSICOPS_SEASON1_EP102_SHOWSTILLS_IMAGE2_LEFTTORIGHT_BITSIECHIEFBEEF.jpg",
+        "id": "AZB6Kd_Ng6zBH7G86tgg",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1745639940,
         "tms_id": "",
         "description": "Kydd and Felixx allow a reanimated corpse to terrorize a military base until they are paid properly.",
@@ -87,51 +132,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20241016/thumbnails/2_241016111328-PSICOPS_SEASON1_EP122_SHOWSTILLS_IMAGE3_WEREWOLFGOAT.jpg",
         "id": "AZHe-r74Saru9Cdsy79a",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1745035140,
-        "tms_id": "",
-        "description": "What's the best way to determine whether a house is to blame for all the murders that took place there? Fill it with serial killers, obviously.",
-        "title_suggest": {
-            "input": [
-                "Murder House",
-                "House"
-            ]
-        },
-        "title": "Murder House",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AZBvkmVYSaru9Cdsy7Cx",
-        "duration": 660.5265,
-        "episode_number": "21",
-        "original_air_date": 1726461000,
-        "auth_launch_date": 1742011200,
-        "clip_order": null,
-        "airing_id": "RADS1003082500024763",
-        "media_id": "bc8e8ad421a3b36723a76fe41f26fed0e4af3232",
-        "modified": 1741586673,
-        "slug": "murder-house",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241016/thumbnails/1_2410161111481-PSICOPS_SEASON1_EP121_SHOWSTILLS_IMAGE3_CHIEFBEEFBLINDS.jpg",
-        "created": 1726022974,
-        "title_id": "2530059",
-        "season_number": "1",
-        "tv_rating": "tv-ma-v",
-        "published": 1741586673,
-        "tags": [],
-        "collection_title": "Psi-Cops",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20241016/thumbnails/2_2410161111481-PSICOPS_SEASON1_EP121_SHOWSTILLS_IMAGE3_CHIEFBEEFBLINDS.jpg",
-        "id": "AZHe_H4Jg6zBH7G86thS",
         "auth": true
     },
     {
