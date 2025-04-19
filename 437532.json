@@ -48,6 +48,52 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1745639940,
+        "tms_id": "EP003034830095",
+        "description": "Earth is overrun by a race of intelligent felines.",
+        "title_suggest": {
+            "input": [
+                "That Darn Katz!",
+                "Darn Katz!",
+                "Katz!"
+            ]
+        },
+        "title": "That Darn Katz!",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1349.7151,
+        "episode_number": "8",
+        "original_air_date": "1647826200",
+        "auth_launch_date": 1745035200,
+        "clip_order": null,
+        "airing_id": "RADS1004132500030885",
+        "media_id": "4b0ef0ac67a865b3fd74aae8672c5f6f83dff5d7",
+        "modified": 1744610467,
+        "slug": "that-darn-katz",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220317/thumbnails/1_223171421537-Futurama_708_ThatDarnKatz.png",
+        "created": 1647541321,
+        "season_number": "7",
+        "title_id": "2161627",
+        "tv_rating": "tv-14-dlv",
+        "published": 1744610467,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171421537-Futurama_708_ThatDarnKatz.png",
+        "id": "AX-ZHX6j208s7zyYUMWE",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1745207940,
         "tms_id": "EP003034830091",
         "description": "The crew races to future-Rome to unearth the shocking secret of Leonardo da Vinci.",
@@ -136,54 +182,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220310/thumbnails/2_22310132798-Futurama_706_LethalInspection.png",
         "id": "AX91FeOz208s7zyYUMR1",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1745035140,
-        "tms_id": "EP003034830089",
-        "description": "The latest trend in social networking and having no life takes over Earth; and Fry posts an embarrassing video of Leela on-line.",
-        "title_suggest": {
-            "input": [
-                "Attack of the Killer App",
-                "of the Killer App",
-                "the Killer App",
-                "Killer App",
-                "App"
-            ]
-        },
-        "title": "Attack of the Killer App",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1356.8889,
-        "episode_number": "3",
-        "original_air_date": "1646618400",
-        "auth_launch_date": 1744430400,
-        "clip_order": null,
-        "airing_id": "RADS1004052500028737",
-        "media_id": "8c7dd6b2dc8ebff0269e3afb89e17479f0baadb8",
-        "modified": 1744006673,
-        "slug": "attack-of-the-killer-app",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/1_22311145473-Futurama_703_AttackOfTheKillerApp.png",
-        "created": 1646153156,
-        "season_number": "7",
-        "title_id": "2161622",
-        "tv_rating": "tv-14-dlv",
-        "published": 1744006673,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311145473-Futurama_703_AttackOfTheKillerApp.png",
-        "id": "AX9GX8hF_0O4w1rD3Rw3",
         "auth": true
     },
     {
