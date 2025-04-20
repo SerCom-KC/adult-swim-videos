@@ -94,5 +94,53 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20250401/thumbnails/2_25411721333-Lazarus-S01E02-1920x1080.png",
         "id": "AZXzPR80C3J9ee8ny7XO",
         "auth": true
+    },
+    {
+        "auth_expiration_date": 1746935940,
+        "tms_id": "",
+        "description": "Searching Skinner's house and interviewing his old colleague reveals a new lead. Axel and Leland go to Istanbul but have trouble with local thugs.",
+        "title_suggest": {
+            "input": [
+                "(Dub) Long Way From Home",
+                "Long Way From Home",
+                "Way From Home",
+                "From Home",
+                "Home"
+            ]
+        },
+        "title": "(Dub) Long Way From Home",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZXxrR2H5aaI-__GJ688",
+        "duration": 1449.4814,
+        "episode_number": "3",
+        "original_air_date": "1745121600",
+        "auth_launch_date": 1745121600,
+        "clip_order": null,
+        "airing_id": "RADS1004152500030999",
+        "media_id": "b5ef6f01474feacb422b31ea8c13f3d85483722c",
+        "modified": 1744744947,
+        "slug": "dub-long-way-from-home",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250401/thumbnails/1_2541172580-Lazarus-S01E03-1920x1080.png",
+        "created": 1743542735,
+        "season_number": "1",
+        "title_id": "2536262",
+        "tv_rating": "tv-14-v",
+        "published": 1744744947,
+        "tags": [],
+        "collection_title": "Lazarus",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250401/thumbnails/2_2541172580-Lazarus-S01E03-1920x1080.png",
+        "id": "AZXzPtQbC3J9ee8ny7XP",
+        "auth": true
     }
 ]
