@@ -457,7 +457,7 @@
         "launch_date": 1744536600,
         "poster": "https://media.cdn.adultswim.com/uploads/20250407/thumbnails/2_25471641128-OP712_S17E84.jpg",
         "id": "AZWlx2cKem4-xVQSK9bO",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1748836740,
@@ -554,7 +554,7 @@
         "launch_date": 1745141400,
         "poster": "https://media.cdn.adultswim.com/uploads/20250407/thumbnails/2_25471643317-OP714_S17E86.jpg",
         "id": "AZXJZ1RvC3J9ee8ny7So",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1745139540,
@@ -744,6 +744,41 @@
         "modified": 1744671096,
         "slug": "a-decisive-battle-in-midair-zoros-new-special-secret-technique-blasts",
         "id": "AZY2B_9X5aaI-__GJ7CB",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1746955740,
+        "created": 1744663236,
+        "tms_id": "",
+        "title_id": "2550968",
+        "season_number": "17",
+        "tv_rating": "tv-14-v",
+        "description": "Zoro finishes off Pica as his body crumbles onto the city. Meanwhile, the Tontattas finish demolishing the SMILE Factory.",
+        "title_suggest": {
+            "input": [
+                "So Long! Bellamy's Farewell Blow!",
+                "Long! Bellamy's Farewell Blow!",
+                "Bellamy's Farewell Blow!",
+                "Farewell Blow!",
+                "Blow!"
+            ]
+        },
+        "published": 1744670784,
+        "title": "So Long! Bellamy's Farewell Blow!",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1306.2716,
+        "episode_number": "",
+        "collection_title": "One Piece",
+        "original_air_date": 1745128800,
+        "auth_launch_date": 1745141400,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1004142500030985",
+        "media_id": "afa0b63fc61d3413cc6358344ed361624682ab02",
+        "modified": 1744670784,
+        "slug": "so-long-bellamys-farewell-blow",
+        "id": "AZY2CE8cC3J9ee8ny7fL",
         "auth": true
     },
     {
