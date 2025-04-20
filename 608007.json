@@ -506,7 +506,7 @@
         "launch_date": 1744534800,
         "poster": "https://media.cdn.adultswim.com/uploads/20250407/thumbnails/2_2547164095-OP711_S17E83.jpg",
         "id": "AZWlxwoJem4-xVQSK9bN",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1745141340,
@@ -602,7 +602,7 @@
         "launch_date": 1745139600,
         "poster": "https://media.cdn.adultswim.com/uploads/20250407/thumbnails/2_25471642375-OP713_S17E85.jpg",
         "id": "AZXJZxGS5aaI-__GJ65w",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1745744340,
@@ -703,6 +703,47 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250407/thumbnails/2_25471645406-OP716_S17E88.jpg",
         "id": "AZXyFkLj5aaI-__GJ69A",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1746953940,
+        "created": 1744663215,
+        "tms_id": "",
+        "title_id": "2550967",
+        "season_number": "17",
+        "tv_rating": "tv-14-v",
+        "description": "With the lives of King Riku, Usopp, and the others on the old King's Plateau at risk, Zoro discovers a powerful technique to counter Pica.",
+        "title_suggest": {
+            "input": [
+                "A Decisive Battle in Midair! Zoro's New Special Secret Technique Blasts!",
+                "Decisive Battle in Midair! Zoro's New Special Secret Technique Blasts!",
+                "Battle in Midair! Zoro's New Special Secret Technique Blasts!",
+                "in Midair! Zoro's New Special Secret Technique Blasts!",
+                "Midair! Zoro's New Special Secret Technique Blasts!",
+                "Zoro's New Special Secret Technique Blasts!",
+                "New Special Secret Technique Blasts!",
+                "Special Secret Technique Blasts!",
+                "Secret Technique Blasts!",
+                "Technique Blasts!",
+                "Blasts!"
+            ]
+        },
+        "published": 1744671096,
+        "title": "A Decisive Battle in Midair! Zoro's New Special Secret Technique Blasts!",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1305.671,
+        "episode_number": "",
+        "collection_title": "One Piece",
+        "original_air_date": 1745127000,
+        "auth_launch_date": 1745139600,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1004142500030983",
+        "media_id": "7b294e717769c774e79c5f0d939e95164bb496a6",
+        "modified": 1744671096,
+        "slug": "a-decisive-battle-in-midair-zoros-new-special-secret-technique-blasts",
+        "id": "AZY2B_9X5aaI-__GJ7CB",
         "auth": true
     },
     {
