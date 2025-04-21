@@ -779,11 +779,7 @@
     },
     {
         "auth_expiration_date": 1746350940,
-        "created": 1744118492,
         "tms_id": "",
-        "title_id": "2550966",
-        "season_number": "17",
-        "tv_rating": "tv-14-v",
         "description": "Pica loses his temper and turns his full wrath against King Riku, whom he hopes to destroy, ending the revolution against Doflamingo.",
         "title_suggest": {
             "input": [
@@ -799,21 +795,38 @@
                 "Maneuver!"
             ]
         },
-        "published": 1744125226,
         "title": "Moving Across the Ground! The Giant Statue Pica's Surprise Maneuver!",
         "type": "episode",
-        "tags": [],
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
         "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
         "duration": 1305.5042,
-        "episode_number": "",
-        "collection_title": "One Piece",
+        "episode_number": "90",
         "original_air_date": 1744524000,
         "auth_launch_date": 1744536600,
-        "modified_by": "ODT Listener",
+        "clip_order": null,
         "airing_id": "RADS1004082500029142",
         "media_id": "cc3360149e627b446afb9f2822d665a364240915",
-        "modified": 1744125226,
+        "modified": 1745272107,
         "slug": "moving-across-the-ground-the-giant-statue-picas-surprise-maneuver",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250421/thumbnails/1_25421174106-OP718_S17E90.jpg",
+        "created": 1744118492,
+        "title_id": "2550966",
+        "season_number": "17",
+        "tv_rating": "tv-14-v",
+        "published": 1745272107,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "undefined undefined",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250421/thumbnails/2_25421174106-OP718_S17E90.jpg",
         "id": "AZYVkC2BC3J9ee8ny7bp",
         "auth": true
     }
