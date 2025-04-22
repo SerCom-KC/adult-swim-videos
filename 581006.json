@@ -53,54 +53,6 @@
     },
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1745899140,
-        "tms_id": "EP007164450256",
-        "description": "Francine's dinner party goes awry when the mysterious Dinner Party Killer threatens it and the family.",
-        "title_suggest": {
-            "input": [
-                "Death by Dinner Party",
-                "by Dinner Party",
-                "Dinner Party",
-                "Party"
-            ]
-        },
-        "expiration_date": 1743998340,
-        "type": "episode",
-        "title": "Death by Dinner Party",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1261.727,
-        "episode_number": "7",
-        "original_air_date": 1523237400,
-        "auth_launch_date": 1745294400,
-        "clip_order": null,
-        "media_id": "e524725c55622f97e042234e1b3e0e191ba02398",
-        "modified": 1744903299,
-        "airing_id": "RADS1004162500031077",
-        "slug": "death-by-dinner-party",
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152000725179111.jpg",
-        "created": 1520007234,
-        "season_number": "13",
-        "title_id": "2069560",
-        "tv_rating": "tv-14-dlv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1744903299,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1743393600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000725179111.jpg",
-        "id": "AWHnfcH0NWyh42wYnlIQ",
-        "auth": true
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1745812740,
         "tms_id": "EP007164450255",
         "description": "Stan deals with childhood issues of abandonment. Klaus starts a website to embarrass the Smith family about their fails.",
@@ -941,6 +893,53 @@
         "launch_date": 1743393600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407975132.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1745294340,
+        "tms_id": "EP007164450243",
+        "description": "Francine reconnects with her birth family when she starts craving the experience of having a big family. Stan becomes a Picker based on his obsession with American Pickers.",
+        "title_suggest": {
+            "input": [
+                "Family Plan",
+                "Plan"
+            ]
+        },
+        "title": "Family Plan",
+        "type": "episode",
+        "expiration_date": 1743393540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1274.1,
+        "episode_number": "17",
+        "original_air_date": 1502933400,
+        "clip_order": null,
+        "auth_launch_date": 1744689600,
+        "modified": 1744263795,
+        "media_id": "0f93080aa6b0323ad5903785a29dee7bc94ca049",
+        "airing_id": "RADS1004092500030207",
+        "id": "pGjzE7geRJu1VCwFhvFK4Q",
+        "slug": "family-plan",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151820795951913.jpg",
+        "created": 1500651817,
+        "season_number": "12",
+        "title_id": "2069548",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1744263795,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1742788800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820795951913.jpg",
+        "cma_id": "1453904"
     },
     {
         "auth": true,
