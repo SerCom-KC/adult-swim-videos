@@ -1,51 +1,5 @@
 [
     {
-        "auth_expiration_date": 1745639940,
-        "tms_id": "EP003034830095",
-        "description": "Earth is overrun by a race of intelligent felines.",
-        "title_suggest": {
-            "input": [
-                "That Darn Katz!",
-                "Darn Katz!",
-                "Katz!"
-            ]
-        },
-        "title": "That Darn Katz!",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1349.7151,
-        "episode_number": "8",
-        "original_air_date": "1647826200",
-        "auth_launch_date": 1745035200,
-        "clip_order": null,
-        "airing_id": "RADS1004132500030885",
-        "media_id": "4b0ef0ac67a865b3fd74aae8672c5f6f83dff5d7",
-        "modified": 1744610467,
-        "slug": "that-darn-katz",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220317/thumbnails/1_223171421537-Futurama_708_ThatDarnKatz.png",
-        "created": 1647541321,
-        "season_number": "7",
-        "title_id": "2161627",
-        "tv_rating": "tv-14-dlv",
-        "published": 1744610467,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171421537-Futurama_708_ThatDarnKatz.png",
-        "id": "AX-ZHX6j208s7zyYUMWE",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1745726340,
         "tms_id": "EP003034830096",
         "description": "The theory of evolution is put to the test on a planet inhabited by robots.",
@@ -228,6 +182,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220331/thumbnails/2_223311318278-Futurama_712_TheMutantsAreRevolting.png",
         "id": "AX_cbPGw_0O4w1rD3R6k",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1746244740,
+        "tms_id": "EP003034830106",
+        "description": "In this festive three-part episode, the Planet Express crew races to preserve the traditional practices of the classic holidays of Xmas, Robanukah and Kwanzaa.",
+        "title_suggest": {
+            "input": [
+                "Holiday Spectacular",
+                "Spectacular"
+            ]
+        },
+        "title": "Holiday Spectacular",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1358.6573,
+        "episode_number": "13",
+        "original_air_date": 1649638800,
+        "auth_launch_date": 1745640000,
+        "clip_order": null,
+        "airing_id": "RADS1004202500031700",
+        "media_id": "45c5ee170eea384ec307c4bce5c9ead516753217",
+        "modified": 1745215764,
+        "slug": "holiday-spectacular",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220408/thumbnails/1_2248155290-Futurama_713_TheFuturamaHolidaySpectacular.png",
+        "created": 1649426535,
+        "title_id": "2161632",
+        "season_number": "7",
+        "tv_rating": "tv-14-dlv",
+        "published": 1745215764,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220408/thumbnails/2_2248155290-Futurama_713_TheFuturamaHolidaySpectacular.png",
+        "id": "AYAJe5Lg208s7zyYUMiQ",
         "auth": true
     }
 ]
