@@ -1,51 +1,5 @@
 [
     {
-        "auth_expiration_date": 1745726340,
-        "tms_id": "EP003034830096",
-        "description": "The theory of evolution is put to the test on a planet inhabited by robots.",
-        "title_suggest": {
-            "input": [
-                "A Clockwork Origin",
-                "Clockwork Origin",
-                "Origin"
-            ]
-        },
-        "title": "A Clockwork Origin",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1367.2325,
-        "episode_number": "9",
-        "original_air_date": "1648429200",
-        "auth_launch_date": 1745121600,
-        "clip_order": null,
-        "airing_id": "RADS1004142500030964",
-        "media_id": "79fcc6e49a378ce9db1f31b3acad061b00cb0968",
-        "modified": 1744694919,
-        "slug": "a-clockwork-origin",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220322/thumbnails/1_223221442419-Futurama_709_AClockworkOrigin.png",
-        "created": 1647974570,
-        "season_number": "7",
-        "title_id": "2161628",
-        "tv_rating": "tv-14-dlv",
-        "published": 1744694919,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220322/thumbnails/2_223221442419-Futurama_709_AClockworkOrigin.png",
-        "id": "AX-y8FjQ_0O4w1rD3R4A",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1745812740,
         "tms_id": "EP003034830097",
         "description": "Crew members are able to swap minds thanks to a state-of-the-art gadget.",
@@ -227,6 +181,50 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220408/thumbnails/2_2248155290-Futurama_713_TheFuturamaHolidaySpectacular.png",
         "id": "AYAJe5Lg208s7zyYUMiQ",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1746331140,
+        "tms_id": "EP003034830107",
+        "description": "The crew members encounter a bizarre alien with the power to change their sexual characteristics.",
+        "title_suggest": {
+            "input": [
+                "Neutopia"
+            ]
+        },
+        "title": "Neutopia",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1352.1842,
+        "episode_number": "1",
+        "original_air_date": 1649640600,
+        "auth_launch_date": 1745726400,
+        "clip_order": null,
+        "airing_id": "RADS1004202500031688",
+        "media_id": "ec048a6d6dcd49d54fe06226c29bc105014a3c30",
+        "modified": 1745299351,
+        "slug": "neutopia",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220408/thumbnails/1_224815693-Futurama_807_Neutopia.png",
+        "created": 1649426691,
+        "title_id": "2161639",
+        "season_number": "8",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1745299351,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220408/thumbnails/2_224815693-Futurama_807_Neutopia.png",
+        "id": "AYAJffX2_0O4w1rD3R95",
         "auth": true
     }
 ]
