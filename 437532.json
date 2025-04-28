@@ -1,97 +1,5 @@
 [
     {
-        "auth_expiration_date": 1745812740,
-        "tms_id": "EP003034830097",
-        "description": "Crew members are able to swap minds thanks to a state-of-the-art gadget.",
-        "title_suggest": {
-            "input": [
-                "The Prisoner of Benda",
-                "Prisoner of Benda",
-                "of Benda",
-                "Benda"
-            ]
-        },
-        "title": "The Prisoner of Benda",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1349.6817,
-        "episode_number": "10",
-        "original_air_date": "1648431000",
-        "auth_launch_date": 1745208000,
-        "clip_order": null,
-        "airing_id": "RADS1004162500031050",
-        "media_id": "4644c02fc88f0d0bab9bbe44a239bba9fa3047b7",
-        "modified": 1744782443,
-        "slug": "the-prisoner-of-benda",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220322/thumbnails/1_223221443183-Futurama_710_ThePrisonerOfBenda.png",
-        "created": 1647974609,
-        "season_number": "7",
-        "title_id": "2161629",
-        "tv_rating": "tv-14-dlv",
-        "published": 1744782443,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220322/thumbnails/2_223221443183-Futurama_710_ThePrisonerOfBenda.png",
-        "id": "AX-y8PC9208s7zyYUMZf",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1745812740,
-        "tms_id": "EP003034830098",
-        "description": "After a bungled Earth invasion, alien leader Lrrr faces a midlife crisis.",
-        "title_suggest": {
-            "input": [
-                "Lrrreconcilable Ndndifferences",
-                "Ndndifferences"
-            ]
-        },
-        "title": "Lrrreconcilable Ndndifferences",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1362.0607,
-        "episode_number": "11",
-        "original_air_date": 1649034000,
-        "auth_launch_date": 1745208000,
-        "clip_order": null,
-        "airing_id": "RADS1004162500031052",
-        "media_id": "1e37e9393599f355022ec6db004cde33854c0ae9",
-        "modified": 1744782428,
-        "slug": "lrrreconcilable-ndndifferences",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220331/thumbnails/1_223311317260-Futurama_711_LrrreconsilableNdndifferences.png",
-        "created": 1648670588,
-        "title_id": "2161630",
-        "season_number": "7",
-        "tv_rating": "tv-14-dlv",
-        "published": 1744782428,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220331/thumbnails/2_223311317260-Futurama_711_LrrreconsilableNdndifferences.png",
-        "id": "AX_cbL0n_0O4w1rD3R6j",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1746158340,
         "tms_id": "EP003034830099",
         "description": "Leela leads an army of underground mutants in a rebellion against the surface people.",
@@ -225,6 +133,97 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220408/thumbnails/2_224815693-Futurama_807_Neutopia.png",
         "id": "AYAJffX2_0O4w1rD3R95",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1746417540,
+        "tms_id": "EP003034830108",
+        "description": "Bender gains the ability to self-replicate, threatening to overrun Earth with vast swarms of copies of himself.",
+        "title_suggest": {
+            "input": [
+                "Benderama"
+            ]
+        },
+        "title": "Benderama",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1361.994,
+        "episode_number": "2",
+        "original_air_date": 1650243600,
+        "auth_launch_date": 1745812800,
+        "clip_order": null,
+        "airing_id": "RADS1004232500031863",
+        "media_id": "6e1f051d2fb05114672491a1e1d0a4eb09d6d909",
+        "modified": 1745426542,
+        "slug": "benderama",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220418/thumbnails/1_22418106491-Benderama.png",
+        "created": 1649984539,
+        "title_id": "2161636",
+        "season_number": "8",
+        "tv_rating": "tv-14-dlv",
+        "published": 1745426542,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220418/thumbnails/2_22418106491-Benderama.png",
+        "id": "AYAqvgpD208s7zyYUMli",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1746417540,
+        "tms_id": "EP003034830109",
+        "description": "When Bender dies, his disembodied software begins haunting the Planet Express building.",
+        "title_suggest": {
+            "input": [
+                "Ghost in the Machines",
+                "in the Machines",
+                "the Machines",
+                "Machines"
+            ]
+        },
+        "title": "Ghost in the Machines",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1360.359,
+        "episode_number": "3",
+        "original_air_date": 1650245400,
+        "auth_launch_date": 1745812800,
+        "clip_order": null,
+        "airing_id": "RADS1004232500031865",
+        "media_id": "efe2cab3c2e8a2130eb6675f798aa7e3fd13e849",
+        "modified": 1745427152,
+        "slug": "ghost-in-the-machines",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220418/thumbnails/1_22418101258-GitM.png",
+        "created": 1649984539,
+        "title_id": "2161638",
+        "season_number": "8",
+        "tv_rating": "tv-14-dlv",
+        "published": 1745427152,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220418/thumbnails/2_22418101258-GitM.png",
+        "id": "AYAqvgvA208s7zyYUMlj",
         "auth": true
     }
 ]
