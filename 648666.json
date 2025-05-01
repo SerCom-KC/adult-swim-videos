@@ -1030,6 +1030,59 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1447168500,
+        "auth_expiration_date": 1717214340,
+        "tms_id": "EP008519090002",
+        "rating": 8.94595,
+        "description": "In an attempt to make their next album the most brutal ever, Dethklok commissions a Russian nuclear submarine to record deep in the Nordic waters.  Underwater, the band copes with seasickness, whale and radar pings infecting their tracks, and loss of food and oxygen.",
+        "title_suggest": {
+            "input": [
+                "Dethwater"
+            ]
+        },
+        "type": "episode",
+        "title": "Dethwater",
+        "expiration_date": 1782878340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "niumi9_rRkOmewx_anrpnw",
+        "duration": 691.4004004,
+        "episode_number": "2",
+        "original_air_date": 1155527100,
+        "clip_order": null,
+        "auth_launch_date": 1711512000,
+        "modified": 1746036680,
+        "media_id": "d334316dc8117a2209bfe795c45d4513d6f42014",
+        "airing_id": "RADS1004302500033861",
+        "id": "I3XWJSalRJi3kKkZii0x5Q",
+        "slug": "dethwater",
+        "views": 657196,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_203111122139-metalocalypse_102.jpg",
+        "created": 1402945469,
+        "title_id": "648668",
+        "season_number": "1",
+        "tv_rating": "tv-ma-v",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1746036680,
+        "tags": [
+            "dethklok metalocalypse episode 2 dethwater submarine trench underwater friends"
+        ],
+        "rating_count": 3034,
+        "collection_title": "Metalocalypse",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1746072000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111122139-metalocalypse_102.jpg",
+        "cma_id": "1372588"
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1458568740,
         "auth_expiration_date": 1716955140,
         "tms_id": "EP008519090015",

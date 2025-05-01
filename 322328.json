@@ -1504,6 +1504,52 @@
     },
     {
         "auth_expiration_date": null,
+        "tms_id": "EP001022180096",
+        "description": "Space Ghost is the target of a lawsuit filed against him by former co-stars Jan and Jace. The twins employ the services of the infamous Dr. Nightmare to represent their case. Space Ghost acquires attorney Greta Van Susteren.",
+        "title_suggest": {
+            "input": [
+                "Lawsuit"
+            ]
+        },
+        "title": "Lawsuit",
+        "expiration_date": 1767157140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+        "duration": 705.1378,
+        "episode_number": "4",
+        "original_air_date": "903756600",
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1004302500033857",
+        "media_id": "d7f0e678f8e4732dfacca8cc3110fbbe1fc34b07",
+        "modified": 1746036682,
+        "slug": "lawsuit",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_204201144245-sgc2c_9804_dst_cid-9139559.jpg",
+        "created": 1689872329,
+        "season_number": "5",
+        "title_id": "325268",
+        "tv_rating": "tv-pg",
+        "published": 1746036682,
+        "tags": [
+            "sgc2c space ghost coast to coast episode 60 lawsuit jan jace lawyer dr nightmare great van susteren"
+        ],
+        "collection_title": "Space Ghost Coast to Coast",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1746072000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201144245-sgc2c_9804_dst_cid-9139559.jpg",
+        "id": "AYl0PWxwOz5CkuTcnwR_",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": null,
         "tms_id": "EP001022180086",
         "description": "Space Ghost attempts to take Ghost Planet to the United States, and consequently focuses the show on various aspects of America. Zorak fools Space Ghost into thinking that his mantis droppings are his children.",
         "title_suggest": {
@@ -3813,6 +3859,56 @@
         "modified_by": "Dominique Barfield",
         "launch_date": 1474391840,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/shut-up/homepage_cnplanet_Shutup.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1449257520,
+        "auth_expiration_date": 1684900799,
+        "tms_id": "EP001022180060",
+        "rating": 7.5034013,
+        "description": "Debuting on Valentine's Day, this episode finds Space Ghost heartbroken over a failed relationship. The despondent Ghost finds that not even the antics of comedian Carrot Top can lure him from his lovesick stupor.",
+        "title_suggest": {
+            "input": [
+                "Lovesick"
+            ]
+        },
+        "type": "episode",
+        "title": "Lovesick",
+        "expiration_date": 1773201540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+        "duration": 684.9342676,
+        "episode_number": "3",
+        "original_air_date": 918878400,
+        "clip_order": null,
+        "auth_launch_date": 1668056400,
+        "modified": 1746036682,
+        "airing_id": "RADS1004302500033858",
+        "media_id": "ef00ebb69d4b8650c32dbcc1917d902d6631510c",
+        "id": "uBR6GwTJTdG-MYOGMp8Jrg",
+        "slug": "lovesick",
+        "views": 42922,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/1_20417955168-sgc2c_9603_dst_cid-9266508.jpg",
+        "created": 1402945476,
+        "title_id": "322332",
+        "season_number": "3",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1746036682,
+        "tags": [],
+        "rating_count": 147,
+        "collection_title": "Space Ghost Coast to Coast",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1746072000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417955168-sgc2c_9603_dst_cid-9266508.jpg",
         "cma_id": ""
     },
     {
