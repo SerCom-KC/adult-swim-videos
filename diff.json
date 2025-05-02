@@ -1,7 +1,6 @@
 {
-    "updated": 1746170605,
-    "added": [],
-    "removed": [
+    "updated": 1746176259,
+    "added": [
         {
             "auth": false,
             "ott_launch_date": 1447168500,
@@ -28,7 +27,7 @@
             "original_air_date": 1156131900,
             "clip_order": null,
             "auth_launch_date": 1712116800,
-            "modified": 1746169177,
+            "modified": 1746176174,
             "media_id": "ad6e20083762afee43aa4930e767083a0911c684",
             "airing_id": "RADS1006052400073924",
             "id": "S4AUYs9jTRaEAeI2mZEDcA",
@@ -43,7 +42,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1746169177,
+            "published": 1746176174,
             "tags": [
                 "dethklok metalocalypse episode 3 birthdayface nothing party"
             ],
@@ -58,5 +57,6 @@
             "collection_title_id": "648666",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
