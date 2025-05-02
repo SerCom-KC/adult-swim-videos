@@ -1,6 +1,60 @@
 [
     {
         "auth": true,
+        "auth_expiration_date": 1746763140,
+        "rating": 8.903991,
+        "description": "A social worker mistakenly believes that Hank is physically abusing his son.",
+        "title_suggest": {
+            "input": [
+                "Pilot"
+            ]
+        },
+        "type": "episode",
+        "title": "Pilot",
+        "expiration_date": 1407268243,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1382.2142,
+        "episode_number": "1",
+        "original_air_date": 1236049200,
+        "clip_order": null,
+        "auth_launch_date": 1746158400,
+        "modified": 1745735393,
+        "airing_id": "RADS1004252500032654",
+        "media_id": "022100817025beb82ae6173f25a7943511414558",
+        "id": "CyXc3ROpRjCebpCPkhu7ZA",
+        "slug": "pilot",
+        "views": 463331,
+        "created": 1402945468,
+        "title_id": "728402",
+        "tv_rating": "tv-pg-dl",
+        "season_number": "1",
+        "active": false,
+        "published": 1745735393,
+        "tags": [
+            "king of the hill",
+            "season 1",
+            "episode 1",
+            "pilot",
+            "social worker",
+            "mistake",
+            "hank",
+            "physical",
+            "abuse",
+            "son"
+        ],
+        "rating_count": 677,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1294808400,
+        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_52715.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1746590340,
         "tms_id": "EP002070020268",
@@ -186,66 +240,6 @@
         "launch_date": 1500208200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15245189649781.jpg",
         "cma_id": "1433713"
-    },
-    {
-        "auth": true,
-        "auth_expiration_date": 1746158340,
-        "tms_id": "EP002070020265",
-        "rating": 8.741034,
-        "description": "Thankful to finally have something in common with his son, Hank is proud when Bobby's knowledge of beef earns him a spot on a college team bound for the State Championships.",
-        "title_suggest": {
-            "input": [
-                "To Sirloin With Love",
-                "Sirloin With Love",
-                "With Love",
-                "Love"
-            ]
-        },
-        "type": "episode",
-        "title": "To Sirloin With Love",
-        "expiration_date": 1500694199,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1367.1991,
-        "episode_number": "20",
-        "original_air_date": 1274495400,
-        "clip_order": null,
-        "auth_launch_date": 1745553600,
-        "modified": 1745176770,
-        "media_id": "9264f258ae722f3680a09d6dc3afcc5f689b602f",
-        "airing_id": "RADS1004202500031648",
-        "id": "phUI2jr1RoacJ-g2mYj_OQ",
-        "slug": "to-sirloin-with-love",
-        "views": 199466,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220621/thumbnails/1_226211410419-KingOfTheHill_1317_ToSirloinWithLove.png",
-        "created": 1402945468,
-        "title_id": "785983",
-        "season_number": "13",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "published": 1745176770,
-        "tags": [
-            "To Sirloin With Love",
-            "King of the Hill",
-            "Adult Swim",
-            "video",
-            "funny",
-            "Mike Judge",
-            "Hank",
-            "Peggy",
-            "Bobby"
-        ],
-        "rating_count": 390,
-        "collection_title": "King of the Hill",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1500089400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220621/thumbnails/2_226211410419-KingOfTheHill_1317_ToSirloinWithLove.png",
-        "cma_id": "1433755"
     },
     {
         "auth": true,

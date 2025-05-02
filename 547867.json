@@ -54,59 +54,6 @@
     },
     {
         "auth": false,
-        "ott_launch_date": 1451682780,
-        "auth_expiration_date": 1697774340,
-        "tms_id": "EP007008200015",
-        "rating": 8.715221,
-        "description": "Tom makes a new friend on the Internet.",
-        "title_suggest": {
-            "input": [
-                "Friendship Alliance",
-                "Alliance"
-            ]
-        },
-        "type": "episode",
-        "title": "Friendship Alliance",
-        "expiration_date": 1746158340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
-        "duration": 673.64,
-        "episode_number": "17",
-        "original_air_date": 1154925000,
-        "clip_order": null,
-        "auth_launch_date": 1694750400,
-        "modified": 1739738089,
-        "airing_id": "RADS1002162500021735",
-        "media_id": "71c1a45015f4dd42434a93cebe3cfdeec5a61d3e",
-        "id": "AiL8W6G6TD2UJ4S3Tm38pQ",
-        "slug": "friendship-alliance",
-        "views": 118222,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117958366-tgttm_030.jpg",
-        "created": 1402945482,
-        "title_id": "639413",
-        "season_number": "2",
-        "tv_rating": "tv-14-v",
-        "active": true,
-        "ott_expiration_date": null,
-        "published": 1739738089,
-        "tags": [
-            "tom goes to the mayor episode 30 friendship alliance internet chat"
-        ],
-        "rating_count": 611,
-        "collection_title": "Tom Goes To The Mayor",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1740114000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117958366-tgttm_030.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
         "ott_launch_date": 1451681820,
         "auth_expiration_date": 1703825940,
         "tms_id": "EP007008200004",
@@ -421,6 +368,61 @@
         "modified_by": "ODT Listener",
         "launch_date": 1741323600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_211795648-tgttm_021.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1451681820,
+        "auth_expiration_date": 1704085199,
+        "tms_id": "EP007008200005",
+        "rating": 8.462963,
+        "description": "Tom creates a T-shirt that reads \"Rats Off to Ya\" for Christmas. It becomes a local phenomenon, but the idea is quickly stolen from Tom by a local novelty store.  Jeff Garlin appears as Pat Croece, the novelty store owner.",
+        "title_suggest": {
+            "input": [
+                "Rats Off To Ya",
+                "Off To Ya",
+                "To Ya",
+                "Ya"
+            ]
+        },
+        "type": "episode",
+        "title": "Rats Off To Ya",
+        "expiration_date": 1752206340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
+        "duration": 700.9,
+        "episode_number": "4",
+        "original_air_date": 1103517000,
+        "clip_order": null,
+        "auth_launch_date": 1701406800,
+        "modified": 1745731757,
+        "airing_id": "RADS1004252500032679",
+        "media_id": "2995848883f99b05173ce71cb26f881bf53d7d8c",
+        "id": "ls1SsyXOSXOf3Jp2Uvqgyg",
+        "slug": "rats-off-to-ya",
+        "views": 93313,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117835245-tgttm_004.jpg",
+        "created": 1402945482,
+        "title_id": "607109",
+        "season_number": "1",
+        "tv_rating": "tv-pg",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1745731757,
+        "tags": [
+            "tom goes to the mayor tgttm episode 4 rats off to ya christmas"
+        ],
+        "rating_count": 324,
+        "collection_title": "Tom Goes To The Mayor",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1746158400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117835245-tgttm_004.jpg",
         "cma_id": ""
     },
     {
