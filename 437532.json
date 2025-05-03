@@ -1,50 +1,5 @@
 [
     {
-        "auth_expiration_date": 1746244740,
-        "tms_id": "EP003034830106",
-        "description": "In this festive three-part episode, the Planet Express crew races to preserve the traditional practices of the classic holidays of Xmas, Robanukah and Kwanzaa.",
-        "title_suggest": {
-            "input": [
-                "Holiday Spectacular",
-                "Spectacular"
-            ]
-        },
-        "title": "Holiday Spectacular",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1358.6573,
-        "episode_number": "13",
-        "original_air_date": 1649638800,
-        "auth_launch_date": 1745640000,
-        "clip_order": null,
-        "airing_id": "RADS1004202500031700",
-        "media_id": "45c5ee170eea384ec307c4bce5c9ead516753217",
-        "modified": 1745215764,
-        "slug": "holiday-spectacular",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220408/thumbnails/1_2248155290-Futurama_713_TheFuturamaHolidaySpectacular.png",
-        "created": 1649426535,
-        "title_id": "2161632",
-        "season_number": "7",
-        "tv_rating": "tv-14-dlv",
-        "published": 1745215764,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220408/thumbnails/2_2248155290-Futurama_713_TheFuturamaHolidaySpectacular.png",
-        "id": "AYAJe5Lg208s7zyYUMiQ",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1746331140,
         "tms_id": "EP003034830107",
         "description": "The crew members encounter a bizarre alien with the power to change their sexual characteristics.",
@@ -223,6 +178,54 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220420/thumbnails/2_22420143104-Futurama_803_LawAndOracle.png",
         "id": "AYBIPk8H208s7zyYUMpP",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1746849540,
+        "tms_id": "EP003034830111",
+        "description": "After testifying against the Robot Mafia, Bender goes into hiding in the witness relocation program.",
+        "title_suggest": {
+            "input": [
+                "The Silence of the Clamps",
+                "Silence of the Clamps",
+                "of the Clamps",
+                "the Clamps",
+                "Clamps"
+            ]
+        },
+        "title": "The Silence of the Clamps",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1360.359,
+        "episode_number": "5",
+        "original_air_date": "1650850200",
+        "auth_launch_date": 1746244800,
+        "clip_order": null,
+        "airing_id": "RADS1004282500032748",
+        "media_id": "1a530fd9e1915c972e6e55547e2b9cba5e4a1560",
+        "modified": 1745858512,
+        "slug": "the-silence-of-the-clamps",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220420/thumbnails/1_224201433182-Futurama_801_TheSilenceOfTheClamps.png",
+        "created": 1650479606,
+        "season_number": "8",
+        "title_id": "2161633",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1745858512,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220420/thumbnails/2_224201433182-Futurama_801_TheSilenceOfTheClamps.png",
+        "id": "AYBIQClS_0O4w1rD3SCd",
         "auth": true
     }
 ]

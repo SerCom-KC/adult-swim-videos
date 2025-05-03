@@ -190,5 +190,101 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20250401/thumbnails/2_25411740505-Lazarus-S01E04-1920x1080.png",
         "id": "AZXzTOKwC3J9ee8ny7XS",
         "auth": true
+    },
+    {
+        "auth_expiration_date": 1746849540,
+        "tms_id": "",
+        "description": "Genius hacker Eleina finds a potential lead to Skinner. The Lazarus team splits into two groups to investigate it, but both end up getting shot at.",
+        "title_suggest": {
+            "input": [
+                "(Sub) Life in the Fast Lane",
+                "Life in the Fast Lane",
+                "in the Fast Lane",
+                "the Fast Lane",
+                "Fast Lane",
+                "Lane"
+            ]
+        },
+        "title": "(Sub) Life in the Fast Lane",
+        "expiration_date": 1748750340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZXxrR2H5aaI-__GJ688",
+        "duration": 1370.3357,
+        "episode_number": "2",
+        "original_air_date": null,
+        "auth_launch_date": 1746244800,
+        "clip_order": null,
+        "airing_id": "RADS1005022500034412",
+        "media_id": "1c06693377ddd27b3bfceb8e90b8845c1e69cf5e",
+        "modified": 1746221451,
+        "slug": "sub-life-in-the-fast-lane",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250423/thumbnails/1_254231536554-Lazarus-S01E02-1920x1080.png",
+        "created": 1745437023,
+        "season_number": "1",
+        "title_id": "2551018",
+        "tv_rating": "tv-14-dv",
+        "published": 1746221451,
+        "tags": [],
+        "collection_title": "Lazarus",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1746849600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250423/thumbnails/2_254231536554-Lazarus-S01E02-1920x1080.png",
+        "id": "AZZkJ1tY5aaI-__GJ7F1",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1748059140,
+        "tms_id": "",
+        "description": "The miracle drug, Hapna, now threatens to wipe out humanity. A chronic jail-breaker named Axel is asked to find the only man with a cure: Dr. Skinner.",
+        "title_suggest": {
+            "input": [
+                "(Sub) Goodbye Cruel World",
+                "Goodbye Cruel World",
+                "Cruel World",
+                "World"
+            ]
+        },
+        "title": "(Sub) Goodbye Cruel World",
+        "expiration_date": 1753761540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZXxrR2H5aaI-__GJ688",
+        "duration": 1370.3356,
+        "episode_number": "1",
+        "original_air_date": null,
+        "auth_launch_date": 1746244800,
+        "clip_order": null,
+        "airing_id": "RADS1005022500034348",
+        "media_id": "249e9c8e9cec58ff77e50b1489bec6cc314109c7",
+        "modified": 1746227817,
+        "slug": "sub-goodbye-cruel-world",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250423/thumbnails/1_25423153674-Lazarus-S01E01-1920x1080.png",
+        "created": 1745436977,
+        "season_number": "1",
+        "title_id": "2551030",
+        "tv_rating": "tv-14-lv",
+        "published": 1746227817,
+        "tags": [],
+        "collection_title": "Lazarus",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1746244800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250423/thumbnails/2_25423153674-Lazarus-S01E01-1920x1080.png",
+        "id": "AZZkJqfW5aaI-__GJ7F0",
+        "auth": false
     }
 ]
