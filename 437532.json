@@ -1,49 +1,5 @@
 [
     {
-        "auth_expiration_date": 1746331140,
-        "tms_id": "EP003034830107",
-        "description": "The crew members encounter a bizarre alien with the power to change their sexual characteristics.",
-        "title_suggest": {
-            "input": [
-                "Neutopia"
-            ]
-        },
-        "title": "Neutopia",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1352.1842,
-        "episode_number": "1",
-        "original_air_date": 1649640600,
-        "auth_launch_date": 1745726400,
-        "clip_order": null,
-        "airing_id": "RADS1004202500031688",
-        "media_id": "ec048a6d6dcd49d54fe06226c29bc105014a3c30",
-        "modified": 1745299351,
-        "slug": "neutopia",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220408/thumbnails/1_224815693-Futurama_807_Neutopia.png",
-        "created": 1649426691,
-        "title_id": "2161639",
-        "season_number": "8",
-        "tv_rating": "tv-14-dlsv",
-        "published": 1745299351,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220408/thumbnails/2_224815693-Futurama_807_Neutopia.png",
-        "id": "AYAJffX2_0O4w1rD3R95",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1746417540,
         "tms_id": "EP003034830108",
         "description": "Bender gains the ability to self-replicate, threatening to overrun Earth with vast swarms of copies of himself.",
@@ -226,6 +182,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220420/thumbnails/2_224201433182-Futurama_801_TheSilenceOfTheClamps.png",
         "id": "AYBIQClS_0O4w1rD3SCd",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1746935940,
+        "tms_id": "EP003034830112",
+        "description": "Leela becomes a Hollywood Big Shot after creating a hit children's television series.",
+        "title_suggest": {
+            "input": [
+                "Yo Leela Leela",
+                "Leela Leela",
+                "Leela"
+            ]
+        },
+        "title": "Yo Leela Leela",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1352.1842,
+        "episode_number": "6",
+        "original_air_date": "1651453200",
+        "auth_launch_date": 1746331200,
+        "clip_order": null,
+        "airing_id": "RADS1004282500032825",
+        "media_id": "4d9dcf02b8d460c31288918cd1dddcc72ac9d3df",
+        "modified": 1745903184,
+        "slug": "yo-leela-leela",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/1_224271257303-Futurama_808_YoLeelaLeela.png",
+        "created": 1651078665,
+        "season_number": "8",
+        "title_id": "2161640",
+        "tv_rating": "tv-14-dlv",
+        "published": 1745903184,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271257303-Futurama_808_YoLeelaLeela.png",
+        "id": "AYBr9RXD_0O4w1rD3SG-",
         "auth": true
     }
 ]
