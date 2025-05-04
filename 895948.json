@@ -108,51 +108,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187304540037.jpg"
     },
     {
-        "auth_expiration_date": 1746331140,
-        "tms_id": "",
-        "description": "Eric Andre is back! Lil Nas X and Karrueche Tran sit in the chair. Denzel Curry gets his teeth done. A Jewish exterminator hopes to capture the mother of all flies before the High Holy Days. Ranch it up enters the housing market.",
-        "title_suggest": {
-            "input": [
-                "Bugs Weekly",
-                "Weekly"
-            ]
-        },
-        "title": "Bugs Weekly",
-        "type": "episode",
-        "expiration_date": 1743307140,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 675.4081,
-        "episode_number": "1",
-        "original_air_date": 1685937600,
-        "auth_launch_date": 1743307200,
-        "clip_order": null,
-        "airing_id": "RADS1003242500026475",
-        "media_id": "16f72ae14a59aab3ed11f89b649445d1093d0ec7",
-        "modified": 1742885361,
-        "slug": "bugs-weekly",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230605/thumbnails/1_2365818485-EASEpisode1Thumbtiny.png",
-        "created": 1685639821,
-        "title_id": "2418681",
-        "season_number": "6",
-        "tv_rating": "tv-ma-l",
-        "published": 1742885361,
-        "tags": [],
-        "collection_title": "The Eric Andre Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1740286800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20230605/thumbnails/2_2365818485-EASEpisode1Thumbtiny.png",
-        "id": "AYh39nedOz5CkuTcnvn7",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1746935940,
         "tms_id": "",
         "description": "Eric welcomes Mia Khalifa and Jaleel White. Human statutes have a brutal fight in New York City. Goober Driver goes off roading.",
@@ -380,7 +335,7 @@
         "launch_date": 1743307200,
         "poster": "https://media.cdn.adultswim.com/uploads/20230616/thumbnails/2_236161254209-TheEricAndreShow610Still001tiny.png",
         "id": "AYiwCsPX2rZC6NyF619w",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1733029140,
@@ -914,6 +869,58 @@
         "launch_date": 1598414427,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/eric-andre-interviews-the-hot-babes-of-instagram-ana-montana/ericandre_HGOI_102_AnaMontana.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1446739500,
+        "auth_expiration_date": 1653278340,
+        "tms_id": "EP015632430001",
+        "rating": 6.927671,
+        "description": "Eric interviews George Clooney and Dolph Lundgren.",
+        "title_suggest": {
+            "input": [
+                "Dolph Lundgren",
+                "Lundgren"
+            ]
+        },
+        "type": "episode",
+        "title": "Dolph Lundgren",
+        "expiration_date": 1749355140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 675.8675342,
+        "episode_number": "1",
+        "original_air_date": 1337574600,
+        "clip_order": null,
+        "auth_launch_date": 1650254400,
+        "modified": 1745904684,
+        "media_id": "76f2140141ba40414454cb81fcea6ac265600557",
+        "airing_id": "RADS1004282500032815",
+        "id": "tY4Rp0fZSJSE82XR6MUMbg",
+        "slug": "dolph-lundgren",
+        "views": 223292,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_2034167301-ericandre_101_dup-20120910.jpg",
+        "created": 1402945479,
+        "title_id": "895949",
+        "season_number": "1",
+        "tv_rating": "tv-14-dlv",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1745904684,
+        "tags": [],
+        "rating_count": 2461,
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1746331200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034167301-ericandre_101_dup-20120910.jpg",
+        "cma_id": "1406376"
     },
     {
         "auth": false,
