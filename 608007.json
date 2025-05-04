@@ -548,7 +548,7 @@
         "launch_date": 1745744400,
         "poster": "https://media.cdn.adultswim.com/uploads/20250407/thumbnails/2_25471644439-OP715_S17E87.jpg",
         "id": "AZXyEnCNC3J9ee8ny7W8",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1750046340,
@@ -749,7 +749,7 @@
         "launch_date": 1746349200,
         "poster": "https://media.cdn.adultswim.com/uploads/20250421/thumbnails/2_254211738473-OP717_S17E89.jpg",
         "id": "AZYVj7dI5aaI-__GJ6_4",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1746350940,
@@ -802,6 +802,43 @@
         "launch_date": 1746351000,
         "poster": "https://media.cdn.adultswim.com/uploads/20250421/thumbnails/2_25421174106-OP718_S17E90.jpg",
         "id": "AZYVkC2BC3J9ee8ny7bp",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1748163540,
+        "created": 1745864601,
+        "tms_id": "",
+        "title_id": "2550971",
+        "season_number": "17",
+        "tv_rating": "tv-14-v",
+        "description": "Law's attack proves powerful, but the depth of Doflamingo's power is greater than expected. Luffy stares down the counterattack with an amazing power.",
+        "title_suggest": {
+            "input": [
+                "A Collision of Haki! Luffy vs. Doflamingo!",
+                "Collision of Haki! Luffy vs. Doflamingo!",
+                "of Haki! Luffy vs. Doflamingo!",
+                "Haki! Luffy vs. Doflamingo!",
+                "Luffy vs. Doflamingo!",
+                "vs. Doflamingo!",
+                "Doflamingo!"
+            ]
+        },
+        "published": 1745870445,
+        "title": "A Collision of Haki! Luffy vs. Doflamingo!",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1305.5042,
+        "episode_number": "",
+        "collection_title": "One Piece",
+        "original_air_date": 1746336600,
+        "auth_launch_date": 1746349200,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1004282500032831",
+        "media_id": "e54b57e434a4231d59d620fee3210953b51ef8c7",
+        "modified": 1745870445,
+        "slug": "a-collision-of-haki-luffy-vs-doflamingo",
+        "id": "AZZ9o66SC3J9ee8ny7om",
         "auth": true
     },
     {
