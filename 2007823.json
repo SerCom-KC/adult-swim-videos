@@ -202,7 +202,7 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15282098449926.jpg"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1749527940,
         "tms_id": "",
@@ -404,6 +404,53 @@
         "auth": false
     },
     {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1735016340,
+        "tms_id": "EP027786570034",
+        "description": "Want to become hotter? Sarah Squirm presents a revolutionary new cosmetic procedure that will leave you breathless, and ga-ga-ga-gorgeous!",
+        "title_suggest": {
+            "input": [
+                "Flayaway"
+            ]
+        },
+        "title": "Flayaway",
+        "expiration_date": 1748923140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
+        "duration": 666.54,
+        "episode_number": "4",
+        "original_air_date": 1545123600,
+        "auth_launch_date": 1731992400,
+        "clip_order": null,
+        "media_id": "c2232994d8e771ce0fcbdd4af18f3d6cd042930a",
+        "modified": 1746080180,
+        "airing_id": "RADS1004302500033968",
+        "slug": "flayaway",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15447314743491.jpg",
+        "created": 1544124764,
+        "season_number": "8",
+        "title_id": "2187508",
+        "tv_rating": "tv-ma-lv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1746080180,
+        "tags": [],
+        "collection_title": "Infomercials",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1746504000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15447314743491.jpg",
+        "id": "AWeFAhMFAsbXwNj3wAaC",
+        "auth": false
+    },
+    {
         "auth_expiration_date": 1698119940,
         "tms_id": "EP027786570036",
         "description": "A Silicon Valley mega-corporation beta tests its first genetically engineered employee.",
@@ -491,50 +538,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20200429/thumbnails/2_20429111277-infomercials_SkeletonLandlord_Pilot.jpg",
         "id": "AXHGdRFORs3h4hI_X3QA",
         "auth": false
-    },
-    {
-        "auth_expiration_date": 1746503940,
-        "tms_id": "SH024427680000",
-        "description": "Three stories from Mulchtown: a man has frog problems; snacks are found; police arrest a worm.",
-        "title_suggest": {
-            "input": [
-                "Mulchtown"
-            ]
-        },
-        "title": "Mulchtown",
-        "expiration_date": 1743479940,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
-        "duration": 674.4738,
-        "episode_number": "6",
-        "original_air_date": "1465286400",
-        "auth_launch_date": 1743480000,
-        "clip_order": null,
-        "airing_id": "RADS1003262500026819",
-        "media_id": "ba6162d15b49f24577364ac0c155cbbac58a8fff",
-        "modified": 1743064079,
-        "slug": "mulchtown",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200902/thumbnails/1_20921510578-infomercials_mulchtown_dup_060216.jpg",
-        "created": 1598972401,
-        "season_number": "6",
-        "title_id": "2086421",
-        "tv_rating": "tv-14-v",
-        "published": 1743064079,
-        "tags": [],
-        "collection_title": "Infomercials",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1741064400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_20921510578-infomercials_mulchtown_dup_060216.jpg",
-        "id": "AXRKLparSeFB2d0c38uH",
-        "auth": true
     },
     {
         "auth_expiration_date": 1699333140,

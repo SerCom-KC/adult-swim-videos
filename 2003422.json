@@ -432,56 +432,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1746503940,
-        "tms_id": "EP012792980053",
-        "description": "Determined to have a perfect Thanksgiving, Bob meticulously prepares the family turkey. But, to his horror, he finds that someone then dumps the turkey in the toilet in an act of Thanksgiving sabotage.",
-        "title_suggest": {
-            "input": [
-                "Turkey in a Can",
-                "in a Can",
-                "a Can",
-                "Can"
-            ]
-        },
-        "title": "Turkey in a Can",
-        "type": "episode",
-        "expiration_date": 1666583940,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1274.0728,
-        "episode_number": "5",
-        "original_air_date": 1416798000,
-        "auth_launch_date": 1745899200,
-        "clip_order": null,
-        "modified": 1745533641,
-        "media_id": "7988a96e056706b043193c01d941367e05c15716",
-        "airing_id": "RADS1004242500031906",
-        "id": "oKS-s_nDTPW06xmPrkV5Lw",
-        "slug": "turkey-in-a-can",
-        "views": 6204,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-153132725097715.jpg",
-        "created": 1416806423,
-        "title_id": "2030308",
-        "tv_rating": "tv-14",
-        "season_number": "4",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1745533641,
-        "first_published": 1416806423,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1665979200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153132725097715.jpg",
-        "cma_id": "1461131"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1746676740,
         "tms_id": "EP012792980055",
         "description": "To Tina's delight, Bob becomes the substitute \"Home Ec\" teacher at her school and ends up creating a full-scale restaurant in the classroom. However, her excitement is short-lived as Bob's position causes father/daughter friction. But when Gene and Louise go to work for Bob's \"school\" restaurant, Linda must fend for herself at the family's other restaurant (aka Bob's Burgers).",
@@ -623,5 +573,56 @@
         "launch_date": 1667188800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15126755202705.jpg",
         "cma_id": "1463609"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1747108740,
+        "tms_id": "EP012792980063",
+        "description": "The Belchers take a trip on a train, and to their dismay, Louise, Gene and Tina are seated in a separate train car. Never one to follow the rules, Louise ropes the children into helping her on her mission to steal the vast chocolate supply from the restaurant car! Meanwhile, Bob and Linda indulge in some wine tasting and have a \"taste-off\" with a snobby couple.",
+        "title_suggest": {
+            "input": [
+                "The Kids Rob a Train",
+                "Kids Rob a Train",
+                "Rob a Train",
+                "a Train",
+                "Train"
+            ]
+        },
+        "title": "The Kids Rob a Train",
+        "type": "episode",
+        "expiration_date": 1669006740,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1289.021,
+        "episode_number": "15",
+        "original_air_date": 1418612400,
+        "clip_order": null,
+        "auth_launch_date": 1746504000,
+        "modified": 1746078744,
+        "media_id": "ac5753e20556bd176c26fd56dad1f85d5cb194f6",
+        "airing_id": "RADS1004302500033865",
+        "id": "xx3aqtTlTuuRU3V__UcHJA",
+        "slug": "the-kids-rob-a-train",
+        "views": 7238,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151803238483417.jpg",
+        "created": 1411571297,
+        "season_number": "4",
+        "title_id": "2030317",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1746078744,
+        "first_published": 1411571297,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1668402000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803238483417.jpg",
+        "cma_id": "1465533"
     }
 ]
