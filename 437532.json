@@ -1,53 +1,5 @@
 [
     {
-        "auth_expiration_date": 1746849540,
-        "tms_id": "EP003034830111",
-        "description": "After testifying against the Robot Mafia, Bender goes into hiding in the witness relocation program.",
-        "title_suggest": {
-            "input": [
-                "The Silence of the Clamps",
-                "Silence of the Clamps",
-                "of the Clamps",
-                "the Clamps",
-                "Clamps"
-            ]
-        },
-        "title": "The Silence of the Clamps",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1360.359,
-        "episode_number": "5",
-        "original_air_date": "1650850200",
-        "auth_launch_date": 1746244800,
-        "clip_order": null,
-        "airing_id": "RADS1004282500032748",
-        "media_id": "1a530fd9e1915c972e6e55547e2b9cba5e4a1560",
-        "modified": 1745858512,
-        "slug": "the-silence-of-the-clamps",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220420/thumbnails/1_224201433182-Futurama_801_TheSilenceOfTheClamps.png",
-        "created": 1650479606,
-        "season_number": "8",
-        "title_id": "2161633",
-        "tv_rating": "tv-14-dlsv",
-        "published": 1745858512,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220420/thumbnails/2_224201433182-Futurama_801_TheSilenceOfTheClamps.png",
-        "id": "AYBIQClS_0O4w1rD3SCd",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1746935940,
         "tms_id": "EP003034830112",
         "description": "Leela becomes a Hollywood Big Shot after creating a hit children's television series.",
@@ -231,6 +183,54 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220502/thumbnails/2_2252153309-Futurama_809_FryAmTheEggMan.png",
         "id": "AYCGQx-I208s7zyYUMzS",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1747454340,
+        "tms_id": "EP003034830119",
+        "description": "The crew uncovers a dark secret concerning a covert mission undertaken by the Professor and Dr. Zoidberg many years earlier.",
+        "title_suggest": {
+            "input": [
+                "The Tip of the Zoidberg",
+                "Tip of the Zoidberg",
+                "of the Zoidberg",
+                "the Zoidberg",
+                "Zoidberg"
+            ]
+        },
+        "title": "The Tip of the Zoidberg",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1361.8605,
+        "episode_number": "10",
+        "original_air_date": 1652662800,
+        "auth_launch_date": 1746849600,
+        "clip_order": null,
+        "airing_id": "RADS1005022500034360",
+        "media_id": "61c241241688e8d23ce717361eb120bd9aa18368",
+        "modified": 1746423001,
+        "slug": "the-tip-of-the-zoidberg",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220516/thumbnails/1_225161017225-Zoidberg.png",
+        "created": 1652478306,
+        "title_id": "2161637",
+        "season_number": "8",
+        "tv_rating": "tv-14-dlv",
+        "published": 1746423001,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220516/thumbnails/2_225161017225-Zoidberg.png",
+        "id": "AYC_YeoQ_0O4w1rD3SMe",
         "auth": true
     }
 ]

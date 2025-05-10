@@ -228,6 +228,52 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1716005640,
+        "tms_id": "",
+        "description": "This Adult Swim Smalls Variety Pack features work from Samantha Lane, Felipe Di Poi, and Chloe Troast.",
+        "title_suggest": {
+            "input": [
+                "Variety Pack #2",
+                "Pack #2",
+                "#2"
+            ]
+        },
+        "title": "Variety Pack #2",
+        "type": "episode",
+        "expiration_date": 1778212740,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWlKh6kVHl5gR6828yqi",
+        "duration": 671.1705,
+        "episode_number": "2",
+        "original_air_date": 1714191300,
+        "auth_launch_date": 1714191300,
+        "clip_order": null,
+        "airing_id": "RADS1005092500035391",
+        "media_id": "dd7f0b5bab9cf361ac954e413086da4f4d7d2cf8",
+        "modified": 1746832044,
+        "slug": "variety-pack-2",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240429/thumbnails/1_24429109422-Screenshot2024-04-29at10.09.13AM.png",
+        "created": 1713646775,
+        "title_id": "2506632",
+        "season_number": "6",
+        "tv_rating": "tv-14-dlv",
+        "published": 1746832044,
+        "tags": [],
+        "collection_title": "Smalls",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1746849600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240429/thumbnails/2_24429109422-Screenshot2024-04-29at10.09.13AM.png",
+        "id": "AY79Tq4YC2cKYm1ap_XY",
+        "auth": false
+    },
+    {
         "auth_expiration_date": 1716007440,
         "tms_id": "",
         "description": "Karl asks Penny on a date and puts his job on the line.",
