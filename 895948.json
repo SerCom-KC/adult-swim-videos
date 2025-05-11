@@ -108,51 +108,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187304540037.jpg"
     },
     {
-        "auth_expiration_date": 1746935940,
-        "tms_id": "",
-        "description": "Eric welcomes Mia Khalifa and Jaleel White. Human statutes have a brutal fight in New York City. Goober Driver goes off roading.",
-        "title_suggest": {
-            "input": [
-                "Jaleel Blanco",
-                "Blanco"
-            ]
-        },
-        "title": "Jaleel Blanco",
-        "type": "episode",
-        "expiration_date": 1743911940,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 672.2049,
-        "episode_number": "2",
-        "original_air_date": 1685938500,
-        "auth_launch_date": 1743912000,
-        "clip_order": null,
-        "airing_id": "RADS1002242500022365",
-        "media_id": "38a89c8adc96d928ba17aa8b6560f0d3c8ee16ac",
-        "modified": 1743489684,
-        "slug": "jaleel-blanco",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230605/thumbnails/1_2365830282-TheEricAndreShow602Still002tiny.png",
-        "created": 1685639849,
-        "title_id": "2418682",
-        "season_number": "6",
-        "tv_rating": "tv-ma-ls",
-        "published": 1743489684,
-        "tags": [],
-        "collection_title": "The Eric Andre Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1740891600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20230605/thumbnails/2_2365830282-TheEricAndreShow602Still002tiny.png",
-        "id": "AYh39uYSOz5CkuTcnvn8",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1747540740,
         "tms_id": "EP015632430066",
         "description": "Eric welcomes Jon Hamm and Blac Chyna. A priest and a rabbi walk into a confessional booth...",
@@ -379,7 +334,7 @@
         "launch_date": 1743912000,
         "poster": "https://media.cdn.adultswim.com/uploads/20230705/thumbnails/2_23751456152-EAAntiWeed.png",
         "id": "AYjZOXpA2rZC6NyF6193",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1733633940,
@@ -658,6 +613,62 @@
         "launch_date": 1598472033,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/eric-andre-interviews-the-hot-babes-of-instagram-lindsey-pelas/ericandre_HGOI_101_LindseyPelas.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1446739620,
+        "auth_expiration_date": 1660535940,
+        "tms_id": "EP015632430002",
+        "rating": 7.4415135,
+        "description": "Eric interviews Russel Brand, Rick Fox and Kristanna Loken.",
+        "title_suggest": {
+            "input": [
+                "Rick Fox, Russell Brand, Kristanna Loken",
+                "Fox, Russell Brand, Kristanna Loken",
+                "Russell Brand, Kristanna Loken",
+                "Brand, Kristanna Loken",
+                "Kristanna Loken",
+                "Loken"
+            ]
+        },
+        "type": "episode",
+        "title": "Rick Fox, Russell Brand, Kristanna Loken",
+        "expiration_date": 1749959940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 668.6006006,
+        "episode_number": "2",
+        "original_air_date": 1338179400,
+        "clip_order": null,
+        "auth_launch_date": 1657512000,
+        "modified": 1746507013,
+        "media_id": "57767a850451587fe0d7083d05b5cc0fcdd15dd1",
+        "airing_id": "RADS1005052500034462",
+        "id": "YmdaV6FvRPS7Xep_ipcZXw",
+        "slug": "rick-fox-russell-brand-kristanna-loken",
+        "views": 157140,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_2034167567-ericandre_102_dup-20120910.jpg",
+        "created": 1402945479,
+        "title_id": "895950",
+        "season_number": "1",
+        "tv_rating": "tv-14-dlsv",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1746507013,
+        "tags": [],
+        "rating_count": 1137,
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1746936000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034167567-ericandre_102_dup-20120910.jpg",
+        "cma_id": "1410888"
     },
     {
         "auth": false,

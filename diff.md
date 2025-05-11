@@ -2,215 +2,173 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 10, 2025 at 00:30:14 EDT_
+_Last Update: May 11, 2025 at 00:30:42 EDT_
 ## Video added
 ### Summary
 581006 American Dad: 2  
 2003422 Bob's Burgers: 2  
 437532 Futurama: 1  
 629835 King of the Hill: 1  
-2530043 Psi-Cops: 1  
-2326791 Smalls: 1  
-### 2186666
-**American Dad S14E17 - Enter Stanman**  
-TV-14-DLSV 🔒 21:02  
-⌛ May 16, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/enter-stanman  
-seriesid=`581006` titleid=`2186666` id=`AXKUOGgeRs3h4hI_X4BU` mediaid=`a652830cd64657aa616de584015fae4b65270b2e`  
-_Roger helps Stan enter Francine's dreams after he becomes insecure about their contents._  
-<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068956584-americandad_1317_air_cid-3Y8P6.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068956584-americandad_1317_air_cid-3Y8P6.jpg" height="144px" /></a>
-### 2186665
-**American Dad S14E16 - Pride Before the Fail**  
-TV-14-DLSV 🔒 21:03  
-⌛ May 16, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/pride-before-the-fail  
-seriesid=`581006` titleid=`2186665` id=`AXKUOAGSRs3h4hI_X4BT` mediaid=`f9f7945f1cad6a5f1870836f0cdded3be56b78b3`  
-_Roger tries to force Hayley into graduating from community college so he can move into her room. Klaus repairs Francine's car._  
-<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068956328-americandad_1316_air_cid-3Y3D1.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068956328-americandad_1316_air_cid-3Y3D1.jpg" height="144px" /></a>
-### 2030321
-**Bob's Burgers S04E20 - Gene It On**  
-TV-14-DLV 🔒 21:31  
-⌛ May 16, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/gene-it-on  
-seriesid=`2003422` titleid=`2030321` id=`wWlw54Z8TwmdAibq5WkgmQ` mediaid=`934a5df202b2d9c777f98a3dd91cf0f6256a9c28`  
-_Tina decides to try out for the cheerleading squad, but it's actually Gene who gets noticed in the crowd for his spirit and cheering ability. Meanwhile, during her cheer audition, Tina falls and bites her tongue, leaving her unable to speak - and a mischievous Louise steps up to be her translator._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803250778217.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803250778217.jpg" height="144px" /></a>
-### 2030322
-**Bob's Burgers S04E21 - Wharf Horse**  
-TV-14-DLV 🔒 21:27  
-⌛ May 16, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/wharf-horse  
-seriesid=`2003422` titleid=`2030322` id=`88Z8t86DQx2V4A-u_ykrRA` mediaid=`faf0940a5beb8ed8cd9d36a37b722c552d8671a4`  
-_Motivated by the promise of a new beachside burger joint, Bob conspires with Felix to convince Mr. Fischoeder to sell Wonder Wharf. Meanwhile, Tina protests the destruction of the wharf's carousel by chaining herself to it._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870795147218.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870795147218.jpg" height="144px" /></a>
-### 2161637
-**Futurama S08E10 - The Tip of the Zoidberg**  
-TV-14-DLV 🔒 22:41  
-⌛ May 16, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/the-tip-of-the-zoidberg  
-seriesid=`437532` titleid=`2161637` id=`AYC_YeoQ_0O4w1rD3SMe` mediaid=`61c241241688e8d23ce717361eb120bd9aa18368`  
-_The crew uncovers a dark secret concerning a covert mission undertaken by the Professor and Dr. Zoidberg many years earlier._  
-<a href="https://media.cdn.adultswim.com/uploads/20220516/thumbnails/2_225161017225-Zoidberg.png"><img src="https://media.cdn.adultswim.com/uploads/20220516/thumbnails/2_225161017225-Zoidberg.png" height="144px" /></a>
-### 728407
-**King of the Hill S01E07 - Hank's Unmentionable Problem**  
-TV-PG 🔒 23:07  
-⌛ May 16, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/hanks-unmentionable-problem  
-seriesid=`629835` titleid=`728407` id=`RmFr6Ow5SW-AdMeCjWWrVA` mediaid=`a3ac8a044e85ef5320b0fd62ec6dbdda024e647a`  
-_Hank is greatly embarrassed when word of his irregularity spreads throughout the community._  
-<a href="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_1303337365281009403.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_1303337365281009403.jpg" height="144px" /></a>
-### 2530048
-**Psi-Cops S01E05 - Small Townies**  
-TV-MA-V 🔒 11:00  
-⌛ June 13, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/psi-cops/small-townies  
-seriesid=`2530043` titleid=`2530048` id=`AZDCmWQ7g6zBH7G86tgr` mediaid=`573cc786159741f9c68277450d956a704ade59f5`  
-_The Psi Cops Duo explore small town living, cars that crash into nothing, and meet the charming locals like Old Bill…. and Old Bill…. and…Old Bill…_  
-<a href="https://media.cdn.adultswim.com/uploads/20240722/thumbnails/2_2472293596-PSICOPS_SEASON1_EP105_SHOWSTILLS_IMAGE1_LEFTTORIGHT_KYDDFELIXXDEADPOLICEMANINTRUNK.jpg"><img src="https://media.cdn.adultswim.com/uploads/20240722/thumbnails/2_2472293596-PSICOPS_SEASON1_EP105_SHOWSTILLS_IMAGE1_LEFTTORIGHT_KYDDFELIXXDEADPOLICEMANINTRUNK.jpg" height="144px" /></a>
-### 2506632
-**Smalls S06E02 - Variety Pack #2**  
-TV-14-DLV 🔓 11:11  
-⌛ May 7, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/smalls/variety-pack-2  
-seriesid=`2326791` titleid=`2506632` id=`AY79Tq4YC2cKYm1ap_XY` mediaid=`dd7f0b5bab9cf361ac954e413086da4f4d7d2cf8`  
-_This Adult Swim Smalls Variety Pack features work from Samantha Lane, Felipe Di Poi, and Chloe Troast._  
-<a href="https://media.cdn.adultswim.com/uploads/20240429/thumbnails/2_24429109422-Screenshot2024-04-29at10.09.13AM.png"><img src="https://media.cdn.adultswim.com/uploads/20240429/thumbnails/2_24429109422-Screenshot2024-04-29at10.09.13AM.png" height="144px" /></a>
-## Video removed
-### Summary
-2003422 Bob's Burgers: 2  
-2529996 Sailor Moon: 1  
-2530043 Psi-Cops: 1  
+2551003 Lazarus: 2  
 343621 Samurai Jack: 1  
-437532 Futurama: 1  
-581006 American Dad: 2  
 581268 Squidbillies: 2  
-608360 Robot Chicken: 5  
-629835 King of the Hill: 1  
-### 2030650
-**Bob's Burgers S04E11 - Easy Com-Mercial, Easy Go-Mercial**  
- 🔒 21:31  
-⌛ May 9, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/easy-com-mercial-easy-go-mercial  
-seriesid=`2003422` titleid=`2030650` id=`0piNZQkURO2_ioAArzVaDQ` mediaid=`32a217133a8ac5c350ce74d883d03128bc11a763`  
-_To compete with fellow "restaurateur" Jimmy Pesto, and his blowout Super Bowl event, Bob is determined to create a Bob's Burgers commercial to air during the big game. In an effort to outshine Pesto, the Belchers recruit Randy, a documentarian, to assist with the filmmaking, and hire on former pro football star Connie Frye to be the celebrity endorser._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267557634713.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267557634713.jpg" height="144px" /></a>
-### 2030312
-**Bob's Burgers S04E10 - Presto Tina-O**  
-TV-PG 🔒 21:19  
-⌛ May 9, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/presto-tina-o  
-seriesid=`2003422` titleid=`2030312` id=`a3omBXSlQo6tXn-uAY3Qbw` mediaid=`705586d67a09cc1167d7c48e17ac064c32631814`  
-_Tina becomes a magician's assistant in order to get closer to Jimmy Jr., while Bob becomes the victim of a magician's "curse."_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267554432417.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267554432417.jpg" height="144px" /></a>
-### 2529997
-**Sailor Moon S01E01 - The Crybaby: Usagi's Beautiful Transformation**  
-TV-PG-V 🔒 23:08  
-⌛ May 9, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/sailor-moon/the-crybaby-usagis-beautiful-transformation  
-seriesid=`2529996` titleid=`2529997` id=`AY_PRjYpC2cKYm1ap_8B` mediaid=`d30b4d38a78a19292c40d435959762990a50dfb1`  
-_Usagi Tsukino is transformed into Sailor Moon, the guardian who fights for love and justice._  
-<a href="https://media.cdn.adultswim.com/uploads/20240603/thumbnails/2_24631313378-SailorMoon_Ep001_Thumbnail_1920x1080_Pillarbox.jpg"><img src="https://media.cdn.adultswim.com/uploads/20240603/thumbnails/2_24631313378-SailorMoon_Ep001_Thumbnail_1920x1080_Pillarbox.jpg" height="144px" /></a>
-### 2530056
-**Psi-Cops S01E24 - The Cave - Part 2**  
-TV-MA-SV 🔒 11:00  
-⌛ May 9, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/psi-cops/the-cave-part-2  
-seriesid=`2530043` titleid=`2530056` id=`AZIBLGvSSaru9Cdsy8C2` mediaid=`a318cc52bc72b1cc87e8c7ad6a928391d563fe59`  
-_Kydd and Felixx learn that the most important tool for a Psi Cop is rope. Tons and tons of rope._  
-<a href="https://media.cdn.adultswim.com/uploads/20241016/thumbnails/2_2410161114265-PSICOPS_SEASON1_EP124_SHOWSTILLS_IMAGE4_LEFTTORIGHT_KYDDFELIXXOILED.jpg"><img src="https://media.cdn.adultswim.com/uploads/20241016/thumbnails/2_2410161114265-PSICOPS_SEASON1_EP124_SHOWSTILLS_IMAGE4_LEFTTORIGHT_KYDDFELIXXOILED.jpg" height="144px" /></a>
+895948 The Eric Andre Show: 1  
+### 2186668
+**American Dad S14E19 - Eight Fires**  
+TV-14-DLV 🔒 21:03  
+⌛ May 17, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/eight-fires  
+seriesid=`581006` titleid=`2186668` id=`AXKUOWJFRs3h4hI_X4BV` mediaid=`2412130d6a5552f78e822b08ee88af3591e098c6`  
+_Roger helps Francine with her terrible cooking by bringing her to a remote Patagonian island. Stan gets a nail in his head and can't speak._  
+<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_206895827-americandad_1319_air_cid-40TM5.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_206895827-americandad_1319_air_cid-40TM5.jpg" height="144px" /></a>
+### 2186667
+**American Dad S14E18 - No Weddings and a Funeral**  
+TV-14-DLSV 🔒 21:03  
+⌛ May 17, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/no-weddings-and-a-funeral  
+seriesid=`581006` titleid=`2186667` id=`AXKUOOtwC8QgH-t19Jj5` mediaid=`227a8ca62f4142fbe1833efa2c1294ad352383bd`  
+_Klaus leaves the family after one too many harassments. 15 years later, they reconnect for his funeral._  
+<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068957301-americandad_1318_air_cid-3YD31.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068957301-americandad_1318_air_cid-3YD31.jpg" height="144px" /></a>
+### 2065453
+**Bob's Burgers S05E01 - Work Hard or Die Trying, Girl**  
+TV-PG-DLV 🔒 21:45  
+⌛ May 17, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/work-hard-or-die-trying-girl  
+seriesid=`2003422` titleid=`2065453` id=`BEPB1YKHSWiwLid9P9MDvw` mediaid=`e3a4128e30e4fad60510ffa9fc1dbfd397edb2de`  
+_When Gene's musical doesn't get picked for the school's fall performance, he stages an underground show with Louise. Wagstaff Middle School families feud when they learn Eugene planned his show on the same night as Courtney's musical._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/work-hard-or-die-trying-girl/bobsburgers_414_air_cid-2P2TD.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/work-hard-or-die-trying-girl/bobsburgers_414_air_cid-2P2TD.jpg" height="144px" /></a>
+### 2030323
+**Bob's Burgers S04E22 - World Wharf II: The Wharfening**  
+ 🔒 21:27  
+⌛ May 17, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/world-wharf-ii-the-wharfening  
+seriesid=`2003422` titleid=`2030323` id=`YBPqZIbqSzSImhQb9EkpCg` mediaid=`45bc926d5c137606e9bd2cc847a7537efb943f94`  
+_It's Linda and the kids to the rescue when Felix takes desperate measures, and puts Bob and Mr. Fischoeder in danger._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187079760401.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187079760401.jpg" height="144px" /></a>
+### 2161643
+**Futurama S08E11 - Cold Warriors**  
+TV-14-LV 🔒 22:47  
+⌛ May 17, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/futurama/cold-warriors  
+seriesid=`437532` titleid=`2161643` id=`AYC_Yf9T_0O4w1rD3SMf` mediaid=`53472dbcb3e157b58ae5f946fee4600abc62e664`  
+_Fry's sneezing reintroduces the common cold to the world of the future, with devastating consequences._  
+<a href="https://media.cdn.adultswim.com/uploads/20220516/thumbnails/2_225161021194-FryCold.png"><img src="https://media.cdn.adultswim.com/uploads/20220516/thumbnails/2_225161021194-FryCold.png" height="144px" /></a>
+### 728409
+**King of the Hill S01E08 - Shins of the Father**  
+TV-PG-DLV 🔒 23:03  
+⌛ May 17, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/king-of-the-hill/shins-of-the-father  
+seriesid=`629835` titleid=`728409` id=`-o2Bvyo3SumyUWCXaPvHRQ` mediaid=`94b390d0fb59aede419d37dcfb5730de91c6213d`  
+_Much to Peggy's dismay, Hank's sexist father drops by to celebrate Bobby's birthday._  
+<a href="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_41597.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_41597.jpg" height="144px" /></a>
+### 2536265
+**Lazarus S01E06 - (Dub) Heaven Is a Place on Earth**  
+TV-14-V 🔒 24:08  
+⌛ May 31, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/lazarus/dub-heaven-is-a-place-on-earth  
+seriesid=`2551003` titleid=`2536265` id=`AZXzVLfFC3J9ee8ny7XW` mediaid=`aa8241d1a5292cb2a5f8993073cf4e8713882b3c`  
+_A secluded commune where Eleina once lived is identified as a potential hiding spot for Skinner. She and Leland infiltrate it to find out for sure._  
+<a href="https://media.cdn.adultswim.com/uploads/20250401/thumbnails/2_2541174905-Lazarus-S01E06-1920x1080.png"><img src="https://media.cdn.adultswim.com/uploads/20250401/thumbnails/2_2541174905-Lazarus-S01E06-1920x1080.png" height="144px" /></a>
+### 2551027
+**Lazarus S02E03 - (Sub) Long Way From Home**  
+TV-14-LV 🔓 00:00  
+⌛ June 7, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/lazarus/sub-long-way-from-home  
+seriesid=`2551003` titleid=`2551027` id=`AZZkKUJMC3J9ee8ny7lA` mediaid=`c1e02ac3b3b1f36a9c31db7ba480c59f6fd85d6e`  
+_Searching Skinner's house and interviewing his old colleague reveals a new lead. Axel and Leland go to Istanbul but have trouble with local thugs._  
+<a href="https://media.cdn.adultswim.com/uploads/20250423/thumbnails/2_254231538388-Lazarus-S01E03-1920x1080.png"><img src="https://media.cdn.adultswim.com/uploads/20250423/thumbnails/2_254231538388-Lazarus-S01E03-1920x1080.png" height="144px" /></a>
 ### 343642
 **Samurai Jack S02E02 - XV**  
 TV-Y7-FV 🔒 22:40  
-⌛ May 9, 2025 at 23:59:00 EDT  
+⌛ May 26, 2025 at 23:59:00 EDT  
 https://www.adultswim.com/videos/samurai-jack/xv  
 seriesid=`343621` titleid=`343642` id=`jwKQXdyORPiFyZFEzEcBBA` mediaid=`750136612ba1229697d6448f3e73a8ba95d52fc2`  
 _Story 1: Jack vs. the Worm. Story 2: The Metal-Eaters. Story 3: Jack, the Gargoyle, and the Fairy._  
 <a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461642466-samjack_015.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461642466-samjack_015.jpg" height="144px" /></a>
-### 2161633
-**Futurama S08E05 - The Silence of the Clamps**  
-TV-14-DLSV 🔒 22:40  
-⌛ May 9, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/the-silence-of-the-clamps  
-seriesid=`437532` titleid=`2161633` id=`AYBIQClS_0O4w1rD3SCd` mediaid=`1a530fd9e1915c972e6e55547e2b9cba5e4a1560`  
-_After testifying against the Robot Mafia, Bender goes into hiding in the witness relocation program._  
-<a href="https://media.cdn.adultswim.com/uploads/20220420/thumbnails/2_224201433182-Futurama_801_TheSilenceOfTheClamps.png"><img src="https://media.cdn.adultswim.com/uploads/20220420/thumbnails/2_224201433182-Futurama_801_TheSilenceOfTheClamps.png" height="144px" /></a>
-### 2186653
-**American Dad S14E04 - Rabbit Ears**  
-TV-14-L 🔒 21:02  
-⌛ May 9, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/rabbit-ears  
-seriesid=`581006` titleid=`2186653` id=`AWlKnTxTHl5gR6828yqj` mediaid=`8c82fe0846f1bf0ef9182a0f0f16c9352bde8b8f`  
-_A CIA agent will do anything to protect his homeland and family._  
-<a href="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541514235-americandad_1304_air_cid-3W0VV.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541514235-americandad_1304_air_cid-3W0VV.jpg" height="144px" /></a>
-### 2186654
-**American Dad S14E05 - Jeff and the Dank Ass Weed Factory**  
-TV-14-DLV 🔒 21:02  
-⌛ May 9, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/jeff-and-the-dank-ass-weed-factory  
-seriesid=`581006` titleid=`2186654` id=`AXHhHOCBC8QgH-t19Irb` mediaid=`022551a4b3c53d8870bea9672d2dbf06cb59f0c3`  
-_A CIA agent will do anything to protect his homeland and family._  
-<a href="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541514515-americandad_1305_air_cid-3W4MY.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541514515-americandad_1305_air_cid-3W4MY.jpg" height="144px" /></a>
-### 706482
-**Squidbillies S03E05 - Mephistopheles Traveled Below To A Southern State Whose Motto Is "Wisdom, Justice, and Moderation"**  
-TV-14-DLV 🔓 11:14  
-⌛ May 9, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/mephistopheles-traveled-below-to-a-southern-state-whose-motto-is-wisdom-justice-and-moderation  
-seriesid=`581268` titleid=`706482` id=`BClnItxvTXCImfvDOqTLsA` mediaid=`eae5bd69d091e2ef5cb57a53db2ac671b36bde81`  
-_Rusty's soul is a pawn in the endgame between good and evil._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131132282-squidbillies_025_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131132282-squidbillies_025_bim.jpg" height="144px" /></a>
 ### 859423
 **Squidbillies S06E02 - Class of '86**  
 TV-14-DLSV 🔓 11:01  
-⌛ May 9, 2025 at 23:59:00 EDT  
+⌛ January 23, 2026 at 23:59:00 EST  
 https://www.adultswim.com/videos/squidbillies/class-of-86  
 seriesid=`581268` titleid=`859423` id=`yER7qQefRTKcRvquLkPDZw` mediaid=`156304fac509c8293d493d74bcbcc5e41b80ea86`  
 _At his high school reunion, the Sheriff settles an old score._  
 <a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131321483-squidbillies_504_dup-20110912.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131321483-squidbillies_504_dup-20110912.jpg" height="144px" /></a>
-### 2020470
-**Robot Chicken S07E18 - The Hobbit: There and Bennigan's**  
-TV-MA 🔒 10:51  
-⌛ May 9, 2025 at 23:59:59 EDT  
-https://www.adultswim.com/videos/robot-chicken/the-hobbit-there-and-bennigans  
-seriesid=`608360` titleid=`2020470` id=`6sWRQ4SrQEekGUM1YpcRlg` mediaid=`55080ab6f42ee534fb400d472e1f8ec94281bb77`  
-_The Creators of Robot Chicken wonder what happens when Dumbledore breaks bad, we get to see the kinds of movies Walt Disney really wanted to make, where sheep go when people are done counting them, and G.I. Joe Extreme!_  
-<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461210576-robotchicken_135_dup.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461210576-robotchicken_135_dup.jpg" height="144px" /></a>
-### 2072668
-**Robot Chicken S08E01 - Garbage Sushi**  
-TV-14-DLSV 🔒 11:26  
-⌛ May 9, 2025 at 23:59:59 EDT  
-https://www.adultswim.com/videos/robot-chicken/garbage-sushi  
-seriesid=`608360` titleid=`2072668` id=`H1c62e-OSYGPt3ZgrOxatw` mediaid=`44cf38d5cc680d1fe8a85da0d9943c0bcee0ca57`  
-_Hollywood's so bad it's good when Godzilla fights Jason. How does Bob the Builder deal with competition from Handy Manny? Dinosaur Train's an improbable train! The Little Match girl finds a new, deadly use for her matches._  
-<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461214186-robotchicken_801_dup-20151013.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461214186-robotchicken_801_dup-20151013.jpg" height="144px" /></a>
-### 2020473
-**Robot Chicken S07E19 - Chipotle Miserables**  
-TV-MA 🔒 11:09  
-⌛ May 9, 2025 at 23:59:59 EDT  
-https://www.adultswim.com/videos/robot-chicken/chipotle-miserables  
-seriesid=`608360` titleid=`2020473` id=`JIc17E9JQgGMJ3AEi76Sgw` mediaid=`94f4fe2d6a2842832aaf3342c71bb34fc329df14`  
-_The Robot Chicken writers imagine where the Velociraptors from Jurassic Park learned to be so clever, our friends from Duck Dynasty take a trip to Duckberg, and as the season comes to an end, will we see the cancellation of Robot Chicken...again?_  
-<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461211365-robotchicken_138_dup-20140807.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461211365-robotchicken_138_dup-20140807.jpg" height="144px" /></a>
-### 2020471
-**Robot Chicken S07E17 - Batman Forever 21**  
-TV-MA 🔒 11:27  
-⌛ May 9, 2025 at 23:59:59 EDT  
-https://www.adultswim.com/videos/robot-chicken/batman-forever-21  
-seriesid=`608360` titleid=`2020471` id=`_Ho1S1M3Qqe9B6hG9H5-BQ` mediaid=`46f548dbc3b4912ddaa4a6bcb47e1a1971016a70`  
-_From the minds of the writers, we see how Bear Grylls deal with some Wild Things, Dr. Ryan Stone calls a radio station, Brainy Smurf manipulates events in House of Smurfs, and Baloo discovers he hasn't always just been a bear in the jungle._  
-<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046125281-robotchicken_136_dup.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046125281-robotchicken_136_dup.jpg" height="144px" /></a>
-### 2020474
-**Robot Chicken S07E16 - The Robot Chicken Bitch Pudding Special**  
-TV-MA-L 🔒 11:26  
-⌛ May 9, 2025 at 23:59:59 EDT  
-https://www.adultswim.com/videos/robot-chicken/the-robot-chicken-bitch-pudding-special  
-seriesid=`608360` titleid=`2020474` id=`uxgy1PJeT2eIHmS4J8KLKw` mediaid=`57ad7cb2d9363e503515c4a3e9f756e8e892606a`  
-_Robot Chicken fan-favorite character Bitch Pudding gets her time to shine in a brand new solo special! When her fellow citizens in Pastryville get tired of suffering Bitch Pudding's abuse, they hatch a plot to eliminate her once and for all! Now Bitch Pudding will blaze a trail of raging revenge, and the world better learn how to duck and cover!_  
-<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046129489-robotchicken_701_special_dup.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046129489-robotchicken_701_special_dup.jpg" height="144px" /></a>
-### 728403
-**King of the Hill S01E02 - Square Peg**  
-TV-PG-DL 🔒 22:47  
-⌛ May 9, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/square-peg  
-seriesid=`629835` titleid=`728403` id=`k2hvZecOQLyfcWTNk3GDfw` mediaid=`6b863c5f4fe39c43bb413bb12364f562f6f6f690`  
-_Peggy is chosen to teach a Sex Ed class._  
-<a href="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_52716.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_52716.jpg" height="144px" /></a>
+### 706482
+**Squidbillies S03E05 - Mephistopheles Traveled Below To A Southern State Whose Motto Is "Wisdom, Justice, and Moderation"**  
+TV-14-DLV 🔓 11:14  
+⌛ January 23, 2026 at 23:59:00 EST  
+https://www.adultswim.com/videos/squidbillies/mephistopheles-traveled-below-to-a-southern-state-whose-motto-is-wisdom-justice-and-moderation  
+seriesid=`581268` titleid=`706482` id=`BClnItxvTXCImfvDOqTLsA` mediaid=`eae5bd69d091e2ef5cb57a53db2ac671b36bde81`  
+_Rusty's soul is a pawn in the endgame between good and evil._  
+<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131132282-squidbillies_025_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131132282-squidbillies_025_bim.jpg" height="144px" /></a>
+### 895950
+**The Eric Andre Show S01E02 - Rick Fox, Russell Brand, Kristanna Loken**  
+TV-14-DLSV 🔓 11:08  
+⌛ June 14, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-eric-andre-show/rick-fox-russell-brand-kristanna-loken  
+seriesid=`895948` titleid=`895950` id=`YmdaV6FvRPS7Xep_ipcZXw` mediaid=`57767a850451587fe0d7083d05b5cc0fcdd15dd1`  
+_Eric interviews Russel Brand, Rick Fox and Kristanna Loken._  
+<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034167567-ericandre_102_dup-20120910.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034167567-ericandre_102_dup-20120910.jpg" height="144px" /></a>
+## Video removed
+### Summary
+2003422 Bob's Burgers: 2  
+437532 Futurama: 1  
+581006 American Dad: 2  
+629835 King of the Hill: 1  
+895948 The Eric Andre Show: 1  
+### 2030315
+**Bob's Burgers S04E12 - The Frond Files**  
+TV-14-DLSV 🔒 21:39  
+⌛ May 10, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/the-frond-files  
+seriesid=`2003422` titleid=`2030315` id=`MygFPLHKSNOeHoZjHF2PiQ` mediaid=`32be91dd74c61d2a2e6aa9b2b2012b41d0ed6e02`  
+_Bob and Linda visit the school and learn that their kids' essays about their fantasy version of Wagstaff are "too creative" and "offensive." Eugene transforms the school into a "Fart School for the Gifted"; Tina, to her delight, depicts a world where she is romanced by countless zombie teenage boys; and Louise creates a school where she takes down a robotic Mr. Frond from the future._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267561861218.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151267561861218.jpg" height="144px" /></a>
+### 2030314
+**Bob's Burgers S04E13 - Mazel Tina**  
+TV-14-DLSV 🔒 21:34  
+⌛ May 10, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/mazel-tina  
+seriesid=`2003422` titleid=`2030314` id=`kDyq7D52Td-yWvGflYNsKA` mediaid=`34f5e5ab484ac95ddc1dbc79cef599815cb4ca10`  
+_Tina isn't invited to her classmate Tammy's Bat Mitzvah, but ends up at the party anyway, because Bob and the family were hired to cater. Despite the invite snub, Tina is excited to scope out the BFOS (boys from other schools). Things go awry and Louise and Tammy end up missing, so, to her total delight, Tina is left center stage._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803233765316.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803233765316.jpg" height="144px" /></a>
+### 2161640
+**Futurama S08E06 - Yo Leela Leela**  
+TV-14-DLV 🔒 22:32  
+⌛ May 10, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/futurama/yo-leela-leela  
+seriesid=`437532` titleid=`2161640` id=`AYBr9RXD_0O4w1rD3SG-` mediaid=`4d9dcf02b8d460c31288918cd1dddcc72ac9d3df`  
+_Leela becomes a Hollywood Big Shot after creating a hit children's television series._  
+<a href="https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271257303-Futurama_808_YoLeelaLeela.png"><img src="https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271257303-Futurama_808_YoLeelaLeela.png" height="144px" /></a>
+### 2186655
+**American Dad S14E06 - Lost Boys**  
+TV-14-DLSV 🔒 21:03  
+⌛ May 10, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/lost-boys  
+seriesid=`581006` titleid=`2186655` id=`AXHljrNBC8QgH-t19ItW` mediaid=`9ec06bb7e290f7458fd4d051664fa2ab4d4eeeca`  
+_Roger breaks up Steve's friendship with Snot, Barry & Toshi. Jeff realizes he has a flair for house flipping and gets Stan, Francine and Hayley involved._  
+<a href="https://media.cdn.adultswim.com/uploads/20200505/thumbnails/2_20551157419-americandad_1306_air_cid-3WG5F.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200505/thumbnails/2_20551157419-americandad_1306_air_cid-3WG5F.jpg" height="144px" /></a>
+### 2186656
+**American Dad S14E07 - Shark?!**  
+TV-14-DLSV 🔒 21:02  
+⌛ May 10, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/shark  
+seriesid=`581006` titleid=`2186656` id=`AXJvyubqC8QgH-t19Jcm` mediaid=`b82b40cdacf62517a95ec85e2d2fd35f7526d809`  
+_Stan has Roger pretend to be a shark to help Steve overcome his fears. Hayley's friend Danuta becomes romantically interested in Klaus._  
+<a href="https://media.cdn.adultswim.com/uploads/20200720/thumbnails/2_207201324519-americandad_1307_air_cid-3WPDR.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200720/thumbnails/2_207201324519-americandad_1307_air_cid-3WPDR.jpg" height="144px" /></a>
+### 728404
+**King of the Hill S01E03 - The Order of the Straight Arrow**  
+TV-PG-DL 🔒 23:10  
+⌛ May 10, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/king-of-the-hill/the-order-of-the-straight-arrow  
+seriesid=`629835` titleid=`728404` id=`pemVazewQ8ydxAN9x63miw` mediaid=`23f68c139cbe88008418509fc71518d65356b7d7`  
+_Hank and his friends take Bobby's scout troop on a rite of passage journey in the wilderness._  
+<a href="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_52717.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_52717.jpg" height="144px" /></a>
+### 2418682
+**The Eric Andre Show S06E02 - Jaleel Blanco**  
+TV-MA-LS 🔒 11:12  
+⌛ May 10, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-eric-andre-show/jaleel-blanco  
+seriesid=`895948` titleid=`2418682` id=`AYh39uYSOz5CkuTcnvn8` mediaid=`38a89c8adc96d928ba17aa8b6560f0d3c8ee16ac`  
+_Eric welcomes Mia Khalifa and Jaleel White. Human statutes have a brutal fight in New York City. Goober Driver goes off roading._  
+<a href="https://media.cdn.adultswim.com/uploads/20230605/thumbnails/2_2365830282-TheEricAndreShow602Still002tiny.png"><img src="https://media.cdn.adultswim.com/uploads/20230605/thumbnails/2_2365830282-TheEricAndreShow602Still002tiny.png" height="144px" /></a>
