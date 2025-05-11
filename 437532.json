@@ -1,51 +1,5 @@
 [
     {
-        "auth_expiration_date": 1746935940,
-        "tms_id": "EP003034830112",
-        "description": "Leela becomes a Hollywood Big Shot after creating a hit children's television series.",
-        "title_suggest": {
-            "input": [
-                "Yo Leela Leela",
-                "Leela Leela",
-                "Leela"
-            ]
-        },
-        "title": "Yo Leela Leela",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1352.1842,
-        "episode_number": "6",
-        "original_air_date": "1651453200",
-        "auth_launch_date": 1746331200,
-        "clip_order": null,
-        "airing_id": "RADS1004282500032825",
-        "media_id": "4d9dcf02b8d460c31288918cd1dddcc72ac9d3df",
-        "modified": 1745903184,
-        "slug": "yo-leela-leela",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/1_224271257303-Futurama_808_YoLeelaLeela.png",
-        "created": 1651078665,
-        "season_number": "8",
-        "title_id": "2161640",
-        "tv_rating": "tv-14-dlv",
-        "published": 1745903184,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271257303-Futurama_808_YoLeelaLeela.png",
-        "id": "AYBr9RXD_0O4w1rD3SG-",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1747022340,
         "tms_id": "EP003034830113",
         "description": "The crew members alter history when they travel back in time to the American Revolution.",
@@ -231,6 +185,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220516/thumbnails/2_225161017225-Zoidberg.png",
         "id": "AYC_YeoQ_0O4w1rD3SMe",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1747540740,
+        "tms_id": "EP003034830120",
+        "description": "Fry's sneezing reintroduces the common cold to the world of the future, with devastating consequences.",
+        "title_suggest": {
+            "input": [
+                "Cold Warriors",
+                "Warriors"
+            ]
+        },
+        "title": "Cold Warriors",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1367.0657,
+        "episode_number": "11",
+        "original_air_date": 1652664600,
+        "auth_launch_date": 1746936000,
+        "clip_order": null,
+        "airing_id": "RADS1005052500034431",
+        "media_id": "53472dbcb3e157b58ae5f946fee4600abc62e664",
+        "modified": 1746510652,
+        "slug": "cold-warriors",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220516/thumbnails/1_225161021194-FryCold.png",
+        "created": 1652478312,
+        "title_id": "2161643",
+        "season_number": "8",
+        "tv_rating": "tv-14-lv",
+        "published": 1746510652,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220516/thumbnails/2_225161021194-FryCold.png",
+        "id": "AYC_Yf9T_0O4w1rD3SMf",
         "auth": true
     }
 ]

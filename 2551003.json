@@ -238,6 +238,56 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1748750340,
+        "tms_id": "",
+        "description": "A secluded commune where Eleina once lived is identified as a potential hiding spot for Skinner. She and Leland infiltrate it to find out for sure.",
+        "title_suggest": {
+            "input": [
+                "(Dub) Heaven Is a Place on Earth",
+                "Heaven Is a Place on Earth",
+                "Is a Place on Earth",
+                "a Place on Earth",
+                "Place on Earth",
+                "on Earth",
+                "Earth"
+            ]
+        },
+        "title": "(Dub) Heaven Is a Place on Earth",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZXxrR2H5aaI-__GJ688",
+        "duration": 1448.8141,
+        "episode_number": "6",
+        "original_air_date": null,
+        "auth_launch_date": 1746936000,
+        "clip_order": null,
+        "airing_id": "RADS1005052500034448",
+        "media_id": "aa8241d1a5292cb2a5f8993073cf4e8713882b3c",
+        "modified": 1746510642,
+        "slug": "dub-heaven-is-a-place-on-earth",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250401/thumbnails/1_2541174905-Lazarus-S01E06-1920x1080.png",
+        "created": 1743544170,
+        "season_number": "1",
+        "title_id": "2536265",
+        "tv_rating": "tv-14-v",
+        "published": 1746510642,
+        "tags": [],
+        "collection_title": "Lazarus",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250401/thumbnails/2_2541174905-Lazarus-S01E06-1920x1080.png",
+        "id": "AZXzVLfFC3J9ee8ny7XW",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1746849540,
         "tms_id": "",
         "description": "Genius hacker Eleina finds a potential lead to Skinner. The Lazarus team splits into two groups to investigate it, but both end up getting shot at.",
@@ -331,6 +381,54 @@
         "launch_date": 1746244800,
         "poster": "https://media.cdn.adultswim.com/uploads/20250423/thumbnails/2_25423153674-Lazarus-S01E01-1920x1080.png",
         "id": "AZZkJqfW5aaI-__GJ7F0",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Searching Skinner's house and interviewing his old colleague reveals a new lead. Axel and Leland go to Istanbul but have trouble with local thugs.",
+        "title_suggest": {
+            "input": [
+                "(Sub) Long Way From Home",
+                "Long Way From Home",
+                "Way From Home",
+                "From Home",
+                "Home"
+            ]
+        },
+        "title": "(Sub) Long Way From Home",
+        "expiration_date": 1749355140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZXxrR2H5aaI-__GJ688",
+        "duration": 0,
+        "episode_number": "3",
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1005062500034486",
+        "media_id": "c1e02ac3b3b1f36a9c31db7ba480c59f6fd85d6e",
+        "modified": 1746568846,
+        "slug": "sub-long-way-from-home",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250423/thumbnails/1_254231538388-Lazarus-S01E03-1920x1080.png",
+        "created": 1745437147,
+        "season_number": "2",
+        "title_id": "2551027",
+        "tv_rating": "tv-14-lv",
+        "published": 1746568846,
+        "tags": [],
+        "collection_title": "Lazarus",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1746936000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250423/thumbnails/2_254231538388-Lazarus-S01E03-1920x1080.png",
+        "id": "AZZkKUJMC3J9ee8ny7lA",
         "auth": false
     }
 ]
