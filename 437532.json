@@ -1,97 +1,5 @@
 [
     {
-        "auth_expiration_date": 1747022340,
-        "tms_id": "EP003034830113",
-        "description": "The crew members alter history when they travel back in time to the American Revolution.",
-        "title_suggest": {
-            "input": [
-                "All the Presidents' Heads",
-                "the Presidents' Heads",
-                "Presidents' Heads",
-                "Heads"
-            ]
-        },
-        "title": "All the Presidents' Heads",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1357.8565,
-        "episode_number": "7",
-        "original_air_date": "1651455000",
-        "auth_launch_date": 1746417600,
-        "clip_order": null,
-        "airing_id": "RADS1004292500032903",
-        "media_id": "4199f625db91985ff43df26ba80ad81e52b3e8a9",
-        "modified": 1745990564,
-        "slug": "all-the-presidents-heads",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/1_224271258140-Futurama_810_AllThePresidentsHeads.png",
-        "created": 1651078701,
-        "season_number": "8",
-        "title_id": "2161642",
-        "tv_rating": "tv-14-dlv",
-        "published": 1745990564,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271258140-Futurama_810_AllThePresidentsHeads.png",
-        "id": "AYBr9aIs208s7zyYUMwK",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1747022340,
-        "tms_id": "EP003034830114",
-        "description": "Leela becomes obsessed with hunting down a mysterious, four-dimensional space whale.",
-        "title_suggest": {
-            "input": [
-                "Mobius Dick",
-                "Dick"
-            ]
-        },
-        "title": "Mobius Dick",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1360.2256,
-        "episode_number": "8",
-        "original_air_date": "1652058000",
-        "auth_launch_date": 1746417600,
-        "clip_order": null,
-        "airing_id": "RADS1004292500032905",
-        "media_id": "9f1e6c0789a42bf8f891d98ae1e7785ef3943603",
-        "modified": 1745997279,
-        "slug": "mobius-dick",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220502/thumbnails/1_22521532321-Futurama_802_MobiusDick.png",
-        "created": 1651519959,
-        "season_number": "8",
-        "title_id": "2161634",
-        "tv_rating": "tv-14-dlv",
-        "published": 1745997279,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220502/thumbnails/2_22521532321-Futurama_802_MobiusDick.png",
-        "id": "AYCGQrCM208s7zyYUMzR",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1747367940,
         "tms_id": "EP003034830118",
         "description": "Fry nurtures an alien egg that hatches into a horrific monster.",
@@ -230,6 +138,96 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220516/thumbnails/2_225161021194-FryCold.png",
         "id": "AYC_Yf9T_0O4w1rD3SMf",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1747627140,
+        "tms_id": "EP003034830121",
+        "description": "Bender evolves into a godlike being after vastly increasing his processing power.",
+        "title_suggest": {
+            "input": [
+                "Over Clock Wise",
+                "Clock Wise",
+                "Wise"
+            ]
+        },
+        "title": "Over Clock Wise",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1351.6836,
+        "episode_number": "12",
+        "original_air_date": 1653267600,
+        "auth_launch_date": 1747022400,
+        "clip_order": null,
+        "airing_id": "RADS1005072500034659",
+        "media_id": "15cbc1163ecd72df1823a023623ef7eec4fe4acb",
+        "modified": 1747012111,
+        "slug": "over-clock-wise",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220523/thumbnails/1_22523153549-Overclockmin.png",
+        "created": 1653012793,
+        "title_id": "2161644",
+        "season_number": "8",
+        "tv_rating": "tv-14-lv",
+        "published": 1747012111,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220523/thumbnails/2_22523153549-Overclockmin.png",
+        "id": "AYDfPYfb208s7zyYUM6q",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1747627140,
+        "tms_id": "EP003034830122",
+        "description": "Futurama is reconceived in three alternate animation styles: classic black-and-white, old-school videogame, and Japanese anime.",
+        "title_suggest": {
+            "input": [
+                "Reincarnation"
+            ]
+        },
+        "title": "Reincarnation",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1351.6837,
+        "episode_number": "13",
+        "original_air_date": 1653269400,
+        "auth_launch_date": 1747022400,
+        "clip_order": null,
+        "airing_id": "RADS1005072500034661",
+        "media_id": "558bc43d743eab423f42f5bb6a31d54b226e7e8e",
+        "modified": 1747012370,
+        "slug": "reincarnation",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220523/thumbnails/1_22523132665-Reanimation.png",
+        "created": 1653012793,
+        "title_id": "2161645",
+        "season_number": "8",
+        "tv_rating": "tv-14-dlv",
+        "published": 1747012370,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220523/thumbnails/2_22523132665-Reanimation.png",
+        "id": "AYDfPYlg208s7zyYUM6r",
         "auth": true
     }
 ]
