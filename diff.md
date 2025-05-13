@@ -2,117 +2,103 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 12, 2025 at 00:30:13 EDT_
+_Last Update: May 13, 2025 at 00:30:41 EDT_
 ## Video added
 ### Summary
-2003422 Bob's Burgers: 4  
-437532 Futurama: 2  
-### 2438991
-**Bob's Burgers S12E09 - FOMO You Didn't**  
-TV-PG-L 🔓 21:32  
-⌛ May 18, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/fomo-you-didnt  
-seriesid=`2003422` titleid=`2438991` id=`AY59c3EuC2cKYm1ap_Aj` mediaid=`86b34eef0b237e7bf4667743300d3f4f34975979`  
-_Tina feels left out._  
-<a href="https://media.cdn.adultswim.com/uploads/20240401/thumbnails/2_24411146151-Screenshot2024-04-01at11.45.52AM.png"><img src="https://media.cdn.adultswim.com/uploads/20240401/thumbnails/2_24411146151-Screenshot2024-04-01at11.45.52AM.png" height="144px" /></a>
-### 2438989
-**Bob's Burgers S12E07 - Loft in Bedslation**  
-TV-PG-L 🔓 21:28  
-⌛ May 18, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/loft-in-bedslation  
-seriesid=`2003422` titleid=`2438989` id=`AY59c87jC2cKYm1ap_Ak` mediaid=`2221df118bf882fe4bcbfcb3532a3daefbafcda3`  
-_The Belchers try to build a loft bed._  
-<a href="https://media.cdn.adultswim.com/uploads/20240401/thumbnails/2_2441114461-Screenshot2024-04-01at11.43.30AM.png"><img src="https://media.cdn.adultswim.com/uploads/20240401/thumbnails/2_2441114461-Screenshot2024-04-01at11.43.30AM.png" height="144px" /></a>
-### 2438990
-**Bob's Burgers S12E08 - Stuck in the Kitchen with You**  
-TV-PG-DL 🔓 21:31  
-⌛ May 18, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/stuck-in-the-kitchen-with-you  
-seriesid=`2003422` titleid=`2438990` id=`AYvP5RU81E7YmWrdXLk3` mediaid=`2b49795bdb2af0f82b3cd727c56fdf1bc0e89aef`  
-_The Belcher's visit a retirement home._  
-<a href="https://media.cdn.adultswim.com/uploads/20231120/thumbnails/2_2311201751338-Screenshot2023-11-20at5.50.41PM.png"><img src="https://media.cdn.adultswim.com/uploads/20231120/thumbnails/2_2311201751338-Screenshot2023-11-20at5.50.41PM.png" height="144px" /></a>
-### 2065452
-**Bob's Burgers S05E02 - Tina and the Real Ghost**  
-TV-PG-L 🔒 21:41  
-⌛ May 18, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/tina-and-the-real-ghost  
-seriesid=`2003422` titleid=`2065452` id=`0UchfJ9QQq67BajtsFo_mQ` mediaid=`361d2b05361465169061b980ccc315fcd577fafd`  
-_Tina begins an out-of-this-world romance with a ghost that is believed to be living in the Belcher's basement. And when Bob realizes that an in-house ghost may increase revenues, he too becomes a fan of the paranormal entity._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/tina-and-the-real-ghost/bobsburgers_413_air_cid-2M2WP.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/tina-and-the-real-ghost/bobsburgers_413_air_cid-2M2WP.jpg" height="144px" /></a>
-### 2161644
-**Futurama S08E12 - Over Clock Wise**  
-TV-14-LV 🔒 22:31  
-⌛ May 18, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/over-clock-wise  
-seriesid=`437532` titleid=`2161644` id=`AYDfPYfb208s7zyYUM6q` mediaid=`15cbc1163ecd72df1823a023623ef7eec4fe4acb`  
-_Bender evolves into a godlike being after vastly increasing his processing power._  
-<a href="https://media.cdn.adultswim.com/uploads/20220523/thumbnails/2_22523153549-Overclockmin.png"><img src="https://media.cdn.adultswim.com/uploads/20220523/thumbnails/2_22523153549-Overclockmin.png" height="144px" /></a>
-### 2161645
-**Futurama S08E13 - Reincarnation**  
-TV-14-DLV 🔒 22:31  
-⌛ May 18, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/reincarnation  
-seriesid=`437532` titleid=`2161645` id=`AYDfPYlg208s7zyYUM6r` mediaid=`558bc43d743eab423f42f5bb6a31d54b226e7e8e`  
-_Futurama is reconceived in three alternate animation styles: classic black-and-white, old-school videogame, and Japanese anime._  
-<a href="https://media.cdn.adultswim.com/uploads/20220523/thumbnails/2_22523132665-Reanimation.png"><img src="https://media.cdn.adultswim.com/uploads/20220523/thumbnails/2_22523132665-Reanimation.png" height="144px" /></a>
+581006 American Dad: 1  
+2003422 Bob's Burgers: 1  
+2007823 Infomercials: 1  
+608360 Robot Chicken: 5  
+### 2186670
+**American Dad S14E21 - Downtown**  
+TV-14-DLV 🔒 21:03  
+⌛ May 19, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/downtown  
+seriesid=`581006` titleid=`2186670` id=`AXKUOl5bC8QgH-t19Jj7` mediaid=`e352edca867a17986f9a34a9dc0813a5791ca7d9`  
+_Hayley drives Steve to a testing center in "no good" downtown but they end up stranded in a worse suburban neighborhood. Stan, Francine, and Roger mistakenly go downtown to rescue them._  
+<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_206895975-americandad_1321_air_cid-46P0N.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_206895975-americandad_1321_air_cid-46P0N.jpg" height="144px" /></a>
+### 2065450
+**Bob's Burgers S05E03 - Friends with Burger-Fits**  
+TV-PG-DLV 🔒 21:41  
+⌛ May 19, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/friends-with-burger-fits  
+seriesid=`2003422` titleid=`2065450` id=`Pt77Jy4sQGykImwmhEjCMg` mediaid=`f5614ca6513be1771ebc2149900fbe59a6209964`  
+_Bob becomes Teddy's workout buddy after finding out his burgers contributed to Teddy's bad health. The two enroll in a stuntman boot camp where their friendship is put to the test. The kids make an ice rink in the freezer._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/friends-with-burger-fits/bobsburgers_411_air_cid-2K876.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/friends-with-burger-fits/bobsburgers_411_air_cid-2K876.jpg" height="144px" /></a>
+### 2191427
+**Infomercials S09E01 - When Panties Fly**  
+TV-MA-S 🔓 11:21  
+⌛ June 9, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/infomercials/when-panties-fly  
+seriesid=`2007823` titleid=`2191427` id=`AW8BAtn13HMJfT8do6Zt` mediaid=`2d0e66f4c1cf249651ddbcd4f44010193827d79d`  
+_A video exploring the existential meaning of panties in modern life. It'll make people be more gentle with their panties the next time they wash it._  
+<a href="https://media.cdn.adultswim.com/uploads/20191213/thumbnails/2_1912131545531-infomercials_WhenPantiesFly_dup-20191213.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191213/thumbnails/2_1912131545531-infomercials_WhenPantiesFly_dup-20191213.jpg" height="144px" /></a>
+### 2020471
+**Robot Chicken S07E17 - Batman Forever 21**  
+TV-MA 🔒 11:27  
+⌛ December 15, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/robot-chicken/batman-forever-21  
+seriesid=`608360` titleid=`2020471` id=`_Ho1S1M3Qqe9B6hG9H5-BQ` mediaid=`46f548dbc3b4912ddaa4a6bcb47e1a1971016a70`  
+_From the minds of the writers, we see how Bear Grylls deal with some Wild Things, Dr. Ryan Stone calls a radio station, Brainy Smurf manipulates events in House of Smurfs, and Baloo discovers he hasn't always just been a bear in the jungle._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046125281-robotchicken_136_dup.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046125281-robotchicken_136_dup.jpg" height="144px" /></a>
+### 2020473
+**Robot Chicken S07E19 - Chipotle Miserables**  
+TV-MA 🔒 11:09  
+⌛ December 15, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/robot-chicken/chipotle-miserables  
+seriesid=`608360` titleid=`2020473` id=`JIc17E9JQgGMJ3AEi76Sgw` mediaid=`94f4fe2d6a2842832aaf3342c71bb34fc329df14`  
+_The Robot Chicken writers imagine where the Velociraptors from Jurassic Park learned to be so clever, our friends from Duck Dynasty take a trip to Duckberg, and as the season comes to an end, will we see the cancellation of Robot Chicken...again?_  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461211365-robotchicken_138_dup-20140807.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461211365-robotchicken_138_dup-20140807.jpg" height="144px" /></a>
+### 2072668
+**Robot Chicken S08E01 - Garbage Sushi**  
+TV-14-DLSV 🔒 11:26  
+⌛ December 15, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/robot-chicken/garbage-sushi  
+seriesid=`608360` titleid=`2072668` id=`H1c62e-OSYGPt3ZgrOxatw` mediaid=`44cf38d5cc680d1fe8a85da0d9943c0bcee0ca57`  
+_Hollywood's so bad it's good when Godzilla fights Jason. How does Bob the Builder deal with competition from Handy Manny? Dinosaur Train's an improbable train! The Little Match girl finds a new, deadly use for her matches._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461214186-robotchicken_801_dup-20151013.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461214186-robotchicken_801_dup-20151013.jpg" height="144px" /></a>
+### 2020470
+**Robot Chicken S07E18 - The Hobbit: There and Bennigan's**  
+TV-MA 🔒 10:51  
+⌛ December 15, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/robot-chicken/the-hobbit-there-and-bennigans  
+seriesid=`608360` titleid=`2020470` id=`6sWRQ4SrQEekGUM1YpcRlg` mediaid=`55080ab6f42ee534fb400d472e1f8ec94281bb77`  
+_The Creators of Robot Chicken wonder what happens when Dumbledore breaks bad, we get to see the kinds of movies Walt Disney really wanted to make, where sheep go when people are done counting them, and G.I. Joe Extreme!_  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461210576-robotchicken_135_dup.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461210576-robotchicken_135_dup.jpg" height="144px" /></a>
+### 2020474
+**Robot Chicken S07E16 - The Robot Chicken Bitch Pudding Special**  
+TV-MA-L 🔒 11:26  
+⌛ December 15, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/robot-chicken/the-robot-chicken-bitch-pudding-special  
+seriesid=`608360` titleid=`2020474` id=`uxgy1PJeT2eIHmS4J8KLKw` mediaid=`57ad7cb2d9363e503515c4a3e9f756e8e892606a`  
+_Robot Chicken fan-favorite character Bitch Pudding gets her time to shine in a brand new solo special! When her fellow citizens in Pastryville get tired of suffering Bitch Pudding's abuse, they hatch a plot to eliminate her once and for all! Now Bitch Pudding will blaze a trail of raging revenge, and the world better learn how to duck and cover!_  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046129489-robotchicken_701_special_dup.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046129489-robotchicken_701_special_dup.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 4  
-437532 Futurama: 2  
-608007 One Piece: 1  
-### 2030316
-**Bob's Burgers S04E14 - Uncle Teddy**  
- 🔒 21:34  
-⌛ May 11, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/uncle-teddy  
-seriesid=`2003422` titleid=`2030316` id=`6ZcfIvgnRS62_HwcBG6rmw` mediaid=`de97cd35eb93adb8713128a87cd4b280a8668594`  
-_When Bob and Linda leave town for a romantic getaway (at a Burger Convention), they ask Teddy to babysit Tina, Gene and Louise. While the parents are away, Teddy is eager to earn the coveted title of "Uncle Teddy" and does so by putting Tina's crush in his rightful place after discovering that he was just using her for - gasp - free burgers! Hijinks ensue._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15180323541537.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15180323541537.jpg" height="144px" /></a>
-### 2438987
-**Bob's Burgers S12E05 - Seven-Tween Again**  
-TV-PG-L 🔓 21:28  
-⌛ May 11, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/seven-tween-again  
-seriesid=`2003422` titleid=`2438987` id=`AY5dN0G25I1d0UhX5iFE` mediaid=`08d73872c31a6f4c2e28b6402b1fa3aeb82cba65`  
-_Gene doesn't want to grow up._  
-<a href="https://media.cdn.adultswim.com/uploads/20240325/thumbnails/2_243251247137-Screenshot2024-03-25at12.46.41PM.png"><img src="https://media.cdn.adultswim.com/uploads/20240325/thumbnails/2_243251247137-Screenshot2024-03-25at12.46.41PM.png" height="144px" /></a>
-### 2438988
-**Bob's Burgers S12E06 - Beach, Please**  
-TV-PG-L 🔓 21:31  
-⌛ May 11, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/beach-please  
-seriesid=`2003422` titleid=`2438988` id=`AY5dN8OW5I1d0UhX5iFF` mediaid=`997fbe2401930b446e244816586dde086e35d580`  
-_Its beach clean-up day._  
-<a href="https://media.cdn.adultswim.com/uploads/20240325/thumbnails/2_243251248197-Screenshot2024-03-25at12.47.39PM.png"><img src="https://media.cdn.adultswim.com/uploads/20240325/thumbnails/2_243251248197-Screenshot2024-03-25at12.47.39PM.png" height="144px" /></a>
-### 2438986
-**Bob's Burgers S12E04 - Driving Big Dummy**  
-TV-PG-L 🔓 21:31  
-⌛ May 11, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/driving-big-dummy  
-seriesid=`2003422` titleid=`2438986` id=`AY5dNtBWC2cKYm1ap-6g` mediaid=`fdbe726a7c585ecb94a1fa918d728e6fe026a769`  
-_Bob and Teddy take a road trip._  
-<a href="https://media.cdn.adultswim.com/uploads/20240325/thumbnails/2_24325124614-Screenshot2024-03-25at12.45.35PM.png"><img src="https://media.cdn.adultswim.com/uploads/20240325/thumbnails/2_24325124614-Screenshot2024-03-25at12.45.35PM.png" height="144px" /></a>
-### 2161642
-**Futurama S08E07 - All the Presidents' Heads**  
-TV-14-DLV 🔒 22:37  
-⌛ May 11, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/all-the-presidents-heads  
-seriesid=`437532` titleid=`2161642` id=`AYBr9aIs208s7zyYUMwK` mediaid=`4199f625db91985ff43df26ba80ad81e52b3e8a9`  
-_The crew members alter history when they travel back in time to the American Revolution._  
-<a href="https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271258140-Futurama_810_AllThePresidentsHeads.png"><img src="https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271258140-Futurama_810_AllThePresidentsHeads.png" height="144px" /></a>
-### 2161634
-**Futurama S08E08 - Mobius Dick**  
-TV-14-DLV 🔒 22:40  
-⌛ May 11, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/mobius-dick  
-seriesid=`437532` titleid=`2161634` id=`AYCGQrCM208s7zyYUMzR` mediaid=`9f1e6c0789a42bf8f891d98ae1e7785ef3943603`  
-_Leela becomes obsessed with hunting down a mysterious, four-dimensional space whale._  
-<a href="https://media.cdn.adultswim.com/uploads/20220502/thumbnails/2_22521532321-Futurama_802_MobiusDick.png"><img src="https://media.cdn.adultswim.com/uploads/20220502/thumbnails/2_22521532321-Futurama_802_MobiusDick.png" height="144px" /></a>
-### 2550954
-**One Piece S17E78 - Advance, Law! The Kindhearted Man's Final Fight!**  
-TV-14-V 🔒 21:35  
-⌛ May 11, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/one-piece/advance-law-the-kindhearted-mans-final-fight  
-seriesid=`608007` titleid=`2550954` id=`AZT67G2O4ijrGBacAUuR` mediaid=`8642e270c20cb4d42d9fd8143f2134ee1a8c214f`  
-_Doflamingo and his Family begin to zero in on Corazon and Law's whereabouts, but Corazon has a plan to hide Law long enough to let him escape._  
-<a href="https://media.cdn.adultswim.com/uploads/20250212/thumbnails/2_25212119388-OP706_01.jpg"><img src="https://media.cdn.adultswim.com/uploads/20250212/thumbnails/2_25212119388-OP706_01.jpg" height="144px" /></a>
+2003422 Bob's Burgers: 1  
+2007823 Infomercials: 1  
+581006 American Dad: 1  
+### 2030317
+**Bob's Burgers S04E15 - The Kids Rob a Train**  
+TV-PG-DL 🔓 21:29  
+⌛ May 12, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/the-kids-rob-a-train  
+seriesid=`2003422` titleid=`2030317` id=`xx3aqtTlTuuRU3V__UcHJA` mediaid=`ac5753e20556bd176c26fd56dad1f85d5cb194f6`  
+_The Belchers take a trip on a train, and to their dismay, Louise, Gene and Tina are seated in a separate train car. Never one to follow the rules, Louise ropes the children into helping her on her mission to steal the vast chocolate supply from the restaurant car! Meanwhile, Bob and Linda indulge in some wine tasting and have a "taste-off" with a snobby couple._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803238483417.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803238483417.jpg" height="144px" /></a>
+### 2134722
+**Infomercials S07E01 - The Suplex Duplex Complex**  
+TV-PG-V 🔓 11:17  
+⌛ May 12, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/infomercials/the-suplex-duplex-complex  
+seriesid=`2007823` titleid=`2134722` id=`AV9ZLuOfSPzxOkLuqbaH` mediaid=`bc1074812303ed6dc38ece9108c67bd6f11d003a`  
+_A neighboring pair of wrestling tag teams learn the downsides of life without a landlord._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108720778805.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108720778805.jpg" height="144px" /></a>
+### 2186658
+**American Dad S14E09 - The Hall Monitor and the Lunch Lady**  
+TV-14-DLV 🔒 21:03  
+⌛ May 12, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/the-hall-monitor-and-the-lunch-lady  
+seriesid=`581006` titleid=`2186658` id=`AXJvzECkRs3h4hI_X383` mediaid=`6490a2bd27fa15fc083144e6e78af56d354415a2`  
+_Steve goes undercover as a school hall monitor. Roger and Stan go catatonic after witnessing a grisly escalator accident._  
+<a href="https://media.cdn.adultswim.com/uploads/20200707/thumbnails/2_20771216588-americandad_1309_air_cid-3WXYC.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200707/thumbnails/2_20771216588-americandad_1309_air_cid-3WXYC.jpg" height="144px" /></a>

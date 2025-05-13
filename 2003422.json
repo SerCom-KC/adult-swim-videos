@@ -451,6 +451,56 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1747713540,
+        "tms_id": "EP012792980073",
+        "description": "Bob becomes Teddy's workout buddy after finding out his burgers contributed to Teddy's bad health. The two enroll in a stuntman boot camp where their friendship is put to the test. The kids make an ice rink in the freezer.",
+        "title_suggest": {
+            "input": [
+                "Friends with Burger-Fits",
+                "with Burger-Fits",
+                "Burger-Fits"
+            ]
+        },
+        "expiration_date": 1670821140,
+        "title": "Friends with Burger-Fits",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1301.2669336,
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "episode_number": "3",
+        "original_air_date": 1442883600,
+        "clip_order": null,
+        "auth_launch_date": 1747108800,
+        "modified": 1747093793,
+        "media_id": "f5614ca6513be1771ebc2149900fbe59a6209964",
+        "airing_id": "RADS1005072500034681",
+        "id": "Pt77Jy4sQGykImwmhEjCMg",
+        "slug": "friends-with-burger-fits",
+        "views": 2,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1441802468,
+        "season_number": "5",
+        "title_id": "2065450",
+        "tv_rating": "tv-pg-dlv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1747093793,
+        "first_published": 1442892021,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1670216400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/friends-with-burger-fits/bobsburgers_411_air_cid-2K876.jpg",
+        "cma_id": "1470042"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1747540740,
         "tms_id": "EP012792980065",
         "description": "It's Linda and the kids to the rescue when Felix takes desperate measures, and puts Bob and Mr. Fischoeder in danger.",
@@ -596,56 +646,5 @@
         "launch_date": 1669006800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803250778217.jpg",
         "cma_id": "1468048"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1747108740,
-        "tms_id": "EP012792980063",
-        "description": "The Belchers take a trip on a train, and to their dismay, Louise, Gene and Tina are seated in a separate train car. Never one to follow the rules, Louise ropes the children into helping her on her mission to steal the vast chocolate supply from the restaurant car! Meanwhile, Bob and Linda indulge in some wine tasting and have a \"taste-off\" with a snobby couple.",
-        "title_suggest": {
-            "input": [
-                "The Kids Rob a Train",
-                "Kids Rob a Train",
-                "Rob a Train",
-                "a Train",
-                "Train"
-            ]
-        },
-        "title": "The Kids Rob a Train",
-        "type": "episode",
-        "expiration_date": 1669006740,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1289.021,
-        "episode_number": "15",
-        "original_air_date": 1418612400,
-        "clip_order": null,
-        "auth_launch_date": 1746504000,
-        "modified": 1746078744,
-        "media_id": "ac5753e20556bd176c26fd56dad1f85d5cb194f6",
-        "airing_id": "RADS1004302500033865",
-        "id": "xx3aqtTlTuuRU3V__UcHJA",
-        "slug": "the-kids-rob-a-train",
-        "views": 7238,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151803238483417.jpg",
-        "created": 1411571297,
-        "season_number": "4",
-        "title_id": "2030317",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1746078744,
-        "first_published": 1411571297,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1668402000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803238483417.jpg",
-        "cma_id": "1465533"
     }
 ]
