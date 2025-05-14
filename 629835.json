@@ -98,6 +98,60 @@
     },
     {
         "auth": true,
+        "auth_expiration_date": 1747799940,
+        "rating": 8.602563,
+        "description": "Hank must choose between attending the Dallas Mower Expo or coaching his wife at the state Boggle championships.",
+        "title_suggest": {
+            "input": [
+                "Peggy the Boggle Champ",
+                "the Boggle Champ",
+                "Boggle Champ",
+                "Champ"
+            ]
+        },
+        "type": "episode",
+        "title": "Peggy the Boggle Champ",
+        "expiration_date": 1407268243,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1388.5872,
+        "episode_number": "9",
+        "original_air_date": 1230953400,
+        "auth_launch_date": 1747195200,
+        "modified": 1747103875,
+        "airing_id": "RADS1005072500034750",
+        "media_id": "b63d0e116dbe766f5d27d33f6b5072f7a5c1a373",
+        "id": "LH3bngIBStuXjR7L8e2SSA",
+        "slug": "peggy-the-boggle-champ",
+        "views": 114793,
+        "created": 1402945468,
+        "title_id": "728410",
+        "season_number": "1",
+        "tv_rating": "tv-pg-l",
+        "active": false,
+        "published": 1747103875,
+        "tags": [
+            "Peggy the Boggle Champ",
+            " King of the Hill",
+            " Adult Swim",
+            " video",
+            " funny",
+            " Mike Judge",
+            " Hank",
+            " Peggy",
+            " Bobby"
+        ],
+        "rating_count": 156,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1279857600,
+        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_23542.jpg"
+    },
+    {
+        "auth": true,
         "auth_expiration_date": 1747454340,
         "rating": 7.2788205,
         "description": "Hank is greatly embarrassed when word of his irregularity spreads throughout the community.",
@@ -144,49 +198,6 @@
         "launch_date": 1310702400,
         "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_1303337365281009403.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": true,
-        "auth_expiration_date": 1747195140,
-        "tms_id": "EP002070020004",
-        "description": "Hank promises to find Luanne a new boyfriend in forty-eight hours.",
-        "title_suggest": {
-            "input": [
-                "Luanne's Saga",
-                "Saga"
-            ]
-        },
-        "expiration_date": 1406839800,
-        "title": "Luanne's Saga",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1357.1891,
-        "episode_number": "4",
-        "original_air_date": 1238121000,
-        "clip_order": null,
-        "auth_launch_date": 1746590400,
-        "modified": 1746171892,
-        "airing_id": "RADS1004302500033977",
-        "media_id": "e07691b280bf278854ada3c510ffe817c7e4ff75",
-        "id": "RyGEdJZTRf6M2sXO8ZhcDg",
-        "slug": "luannes-saga",
-        "created": 1403628351,
-        "season_number": "1",
-        "title_id": "728406",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "published": 1746171892,
-        "first_published": 1404526829,
-        "tags": [],
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1404526829,
-        "poster": "",
-        "cma_id": "979700"
     },
     {
         "auth": true,
