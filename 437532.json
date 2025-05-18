@@ -1,50 +1,5 @@
 [
     {
-        "auth_expiration_date": 1747540740,
-        "tms_id": "EP003034830120",
-        "description": "Fry's sneezing reintroduces the common cold to the world of the future, with devastating consequences.",
-        "title_suggest": {
-            "input": [
-                "Cold Warriors",
-                "Warriors"
-            ]
-        },
-        "title": "Cold Warriors",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1367.0657,
-        "episode_number": "11",
-        "original_air_date": 1652664600,
-        "auth_launch_date": 1746936000,
-        "clip_order": null,
-        "airing_id": "RADS1005052500034431",
-        "media_id": "53472dbcb3e157b58ae5f946fee4600abc62e664",
-        "modified": 1746510652,
-        "slug": "cold-warriors",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220516/thumbnails/1_225161021194-FryCold.png",
-        "created": 1652478312,
-        "title_id": "2161643",
-        "season_number": "8",
-        "tv_rating": "tv-14-lv",
-        "published": 1746510652,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220516/thumbnails/2_225161021194-FryCold.png",
-        "id": "AYC_Yf9T_0O4w1rD3SMf",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1748059140,
         "tms_id": "EP003034830124",
         "description": "An ancient prophecy predicts the world will end in the year 3012.",
@@ -227,6 +182,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220523/thumbnails/2_22523132665-Reanimation.png",
         "id": "AYDfPYlg208s7zyYUM6r",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1748145540,
+        "tms_id": "EP003034830125",
+        "description": "Leela becomes campaign manager for a presidential candidate whose birth certificate is mysteriously missing.",
+        "title_suggest": {
+            "input": [
+                "Decision 3012",
+                "3012"
+            ]
+        },
+        "title": "Decision 3012",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1356.7221,
+        "episode_number": "3",
+        "original_air_date": "1654477200",
+        "auth_launch_date": 1747540800,
+        "clip_order": null,
+        "airing_id": "RADS1005122500035474",
+        "media_id": "2dc1d77c226c5a92bebe2a9eaba3208375c90c5c",
+        "modified": 1747349163,
+        "slug": "decision-3012",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220531/thumbnails/1_225311247238-Futurama_903_Decision3012.png",
+        "created": 1654015651,
+        "season_number": "9",
+        "title_id": "2161648",
+        "tv_rating": "tv-14-dl",
+        "published": 1747349163,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220531/thumbnails/2_225311247238-Futurama_903_Decision3012.png",
+        "id": "AYEbA-6H208s7zyYUNBi",
         "auth": true
     }
 ]
