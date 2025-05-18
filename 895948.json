@@ -57,6 +57,58 @@
         "cma_id": ""
     },
     {
+        "auth": false,
+        "ott_launch_date": 1446739980,
+        "auth_expiration_date": 1661140740,
+        "tms_id": "EP015632430007",
+        "rating": 7.7519183,
+        "description": "Eric interviews Tatyana Ali and Arnold Schwarzenegger.",
+        "title_suggest": {
+            "input": [
+                "Tatyana Ali",
+                "Ali"
+            ]
+        },
+        "type": "episode",
+        "title": "Tatyana Ali",
+        "expiration_date": 1750564740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 662.7340674,
+        "episode_number": "3",
+        "original_air_date": 1338784200,
+        "clip_order": null,
+        "auth_launch_date": 1658116800,
+        "modified": 1747348217,
+        "media_id": "a45428eede40c85f2b5825296103e9204cb89797",
+        "airing_id": "RADS1005122500035498",
+        "id": "6wiJ5yM4SxyvOYAonm7uWg",
+        "slug": "tatyana-ali",
+        "views": 104416,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_2034168168-ericandre_103_dup-20120601.jpg",
+        "created": 1402945479,
+        "title_id": "895951",
+        "season_number": "1",
+        "tv_rating": "tv-14-dlsv",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1747348217,
+        "tags": [],
+        "rating_count": 782,
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1747540800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034168168-ericandre_103_dup-20120601.jpg",
+        "cma_id": "1414901"
+    },
+    {
         "ott_launch_date": 1519140660,
         "auth": false,
         "auth_expiration_date": 1573621140,
@@ -106,52 +158,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1542949200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187304540037.jpg"
-    },
-    {
-        "auth_expiration_date": 1747540740,
-        "tms_id": "EP015632430066",
-        "description": "Eric welcomes Jon Hamm and Blac Chyna. A priest and a rabbi walk into a confessional booth...",
-        "title_suggest": {
-            "input": [
-                "Rim the Reaper",
-                "the Reaper",
-                "Reaper"
-            ]
-        },
-        "title": "Rim the Reaper",
-        "expiration_date": 1744516740,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 675.5082,
-        "episode_number": "3",
-        "original_air_date": "1686542400",
-        "auth_launch_date": 1744516800,
-        "clip_order": null,
-        "airing_id": "RADS1003032500023702",
-        "media_id": "c4fdd7c1472fac20dc91ce24be73239a9062e499",
-        "modified": 1744121243,
-        "slug": "rim-the-reaper",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230607/thumbnails/1_2367161578-TheEricAndreShow603Still002tiny.png",
-        "created": 1686168137,
-        "season_number": "6",
-        "title_id": "2418683",
-        "tv_rating": "tv-ma-ls",
-        "published": 1744121243,
-        "tags": [],
-        "collection_title": "The Eric Andre Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1741496400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20230607/thumbnails/2_2367161578-TheEricAndreShow603Still002tiny.png",
-        "id": "AYiXc-_g2rZC6NyF619t",
-        "auth": true
     },
     {
         "auth_expiration_date": 1748145540,
@@ -379,7 +385,7 @@
         "launch_date": 1744516800,
         "poster": "https://media.cdn.adultswim.com/uploads/20230705/thumbnails/2_2375155340-EAOldYeller.png",
         "id": "AYjZOaps2rZC6NyF6194",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1751169540,
