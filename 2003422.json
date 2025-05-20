@@ -350,56 +350,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1747713540,
-        "tms_id": "EP012792980073",
-        "description": "Bob becomes Teddy's workout buddy after finding out his burgers contributed to Teddy's bad health. The two enroll in a stuntman boot camp where their friendship is put to the test. The kids make an ice rink in the freezer.",
-        "title_suggest": {
-            "input": [
-                "Friends with Burger-Fits",
-                "with Burger-Fits",
-                "Burger-Fits"
-            ]
-        },
-        "expiration_date": 1670821140,
-        "title": "Friends with Burger-Fits",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 1301.2669336,
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "episode_number": "3",
-        "original_air_date": 1442883600,
-        "clip_order": null,
-        "auth_launch_date": 1747108800,
-        "modified": 1747093793,
-        "media_id": "f5614ca6513be1771ebc2149900fbe59a6209964",
-        "airing_id": "RADS1005072500034681",
-        "id": "Pt77Jy4sQGykImwmhEjCMg",
-        "slug": "friends-with-burger-fits",
-        "views": 2,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1441802468,
-        "season_number": "5",
-        "title_id": "2065450",
-        "tv_rating": "tv-pg-dlv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1747093793,
-        "first_published": 1442892021,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1670216400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/friends-with-burger-fits/bobsburgers_411_air_cid-2K876.jpg",
-        "cma_id": "1470042"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1747799940,
         "tms_id": "EP012792980072",
         "description": "While Bob is boycotting the holiday, Linda and the kids spend Thanksgiving at the first annual Fischoeder Turk-tacular Turkey Town Festival. However, a wild bird attack leads to total mayhem.",
@@ -648,5 +598,55 @@
         "launch_date": 1672030800,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/cant-buy-me-math/bobsburgers_422_air_cid-2PH64.jpg",
         "cma_id": "1480237"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1748318340,
+        "tms_id": "EP012792980082",
+        "description": "Linda's sister, Gayle, arrives at the restaurant in tears because her date cancelled on her and she had tickets to Yarnival. Desperate to get out of the house after being grounded, the kids compete to be Aunt Gayle's date via an essay contest.",
+        "title_suggest": {
+            "input": [
+                "The Gayle Tales",
+                "Gayle Tales",
+                "Tales"
+            ]
+        },
+        "expiration_date": 1672635540,
+        "title": "The Gayle Tales",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1298.2335669,
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "episode_number": "13",
+        "original_air_date": 1448245800,
+        "clip_order": null,
+        "auth_launch_date": 1747713600,
+        "modified": 1747415435,
+        "media_id": "d331c693a7224bdab96e555da2374d01992c1507",
+        "airing_id": "RADS1005132500035632",
+        "id": "zrdbrKwgT8i9Ac0WkNpSWw",
+        "slug": "the-gayle-tales",
+        "views": 1,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1446214524,
+        "season_number": "5",
+        "title_id": "2065462",
+        "tv_rating": "tv-pg-dlv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1747415435,
+        "first_published": 1448252443,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1672030800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-gayle-tales/bobsburgers_501_air_cid-2N2CW.jpg",
+        "cma_id": "1475402"
     }
 ]

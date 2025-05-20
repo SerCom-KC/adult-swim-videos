@@ -6859,6 +6859,60 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1447443540,
+        "auth_expiration_date": 1693540740,
+        "tms_id": "EP007008180026",
+        "rating": 8.03332,
+        "description": "The squids fail to learn a valuable lesson about conservation.",
+        "title_suggest": {
+            "input": [
+                "Earth Worst",
+                "Worst"
+            ]
+        },
+        "type": "episode",
+        "title": "Earth Worst",
+        "expiration_date": 1769835540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 656.3003003,
+        "episode_number": "6",
+        "original_air_date": 1203915600,
+        "clip_order": null,
+        "auth_launch_date": 1679112000,
+        "modified": 1747595463,
+        "media_id": "70c47df58e5186a0492ab5d0499723ac13c04e5c",
+        "airing_id": "RADS1005182500036202",
+        "id": "fl6qfje7TSmMzQjx2TdvCw",
+        "slug": "earth-worst",
+        "views": 545235,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/1_20413113264-squidbillies_026_bim.jpg",
+        "created": 1402945477,
+        "title_id": "706483",
+        "season_number": "3",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1747595463,
+        "tags": [
+            "squidbillies episode 26 earth worst hippies sheriff commune environment"
+        ],
+        "rating_count": 2521,
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1747713600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413113264-squidbillies_026_bim.jpg",
+        "cma_id": "1418478"
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1447443780,
         "auth_expiration_date": 1693540740,
         "tms_id": "EP007008180036",
@@ -8428,6 +8482,61 @@
         "launch_date": 1719633600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141150475-squidbillies_913_dup-20171019.jpg",
         "cma_id": "2108967"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447445460,
+        "auth_expiration_date": 1719633540,
+        "tms_id": "EP007008180064",
+        "rating": 6.314168,
+        "description": "Early proves he's smarter than a town full of idiots.",
+        "title_suggest": {
+            "input": [
+                "Velvet Messiah",
+                "Messiah"
+            ]
+        },
+        "type": "episode",
+        "title": "Velvet Messiah",
+        "expiration_date": 1769835540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+        "duration": 676.500417,
+        "episode_number": "3",
+        "original_air_date": 1317008700,
+        "clip_order": null,
+        "auth_launch_date": 1719028800,
+        "modified": 1747595482,
+        "media_id": "2cd84feb6f15358b92a5cd4d1b05a1d3e0d57932",
+        "airing_id": "RADS1005182500036203",
+        "id": "uxyvFbcYQzyY5G6cTRwjQA",
+        "slug": "velvet-messiah",
+        "views": 119313,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/1_204131322183-squidbillies_502_dup-20110908.jpg",
+        "created": 1402945477,
+        "title_id": "859421",
+        "season_number": "6",
+        "tv_rating": "tv-14-dlv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1747595482,
+        "tags": [
+            "adult swim",
+            "squidbillies"
+        ],
+        "rating_count": 974,
+        "collection_title": "Squidbillies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1747713600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131322183-squidbillies_502_dup-20110908.jpg",
+        "cma_id": "1377479"
     },
     {
         "auth": false,
