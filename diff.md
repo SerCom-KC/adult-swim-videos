@@ -2,88 +2,166 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 20, 2025 at 00:00:42 EDT_
+_Last Update: May 21, 2025 at 00:30:34 EDT_
 ## Video added
 ### Summary
-581006 American Dad: 1  
+581006 American Dad: 2  
 2003422 Bob's Burgers: 1  
-2007823 Infomercials: 1  
-343621 Samurai Jack: 1  
-581268 Squidbillies: 2  
-### 2197417
-**American Dad S15E12 - Ghost Dad**  
+344089 Home Movies: 1  
+629835 King of the Hill: 1  
+629688 Moral Orel: 1  
+340531 The Brak Show: 1  
+### 2197420
+**American Dad S15E14 - First, Do No Farm**  
  🔒 21:03  
-⌛ May 26, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/ghost-dad  
-seriesid=`581006` titleid=`2197417` id=`AXb8Nb3EQJ_4Uej5kTlN` mediaid=`710148d4b0cfcc77671ef9b3d3fe2bac5cadb4b9`  
-_Stan struggles to cope with the untimely death of his father. Meanwhile, a simple canoeing trip does catastrophic damage to Hayley and Jeff's relationship._  
-<a href="https://media.cdn.adultswim.com/uploads/20210113/thumbnails/2_21113945464-americandad_1413_air_cid-D8CWH-GhostDad.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210113/thumbnails/2_21113945464-americandad_1413_air_cid-D8CWH-GhostDad.jpg" height="144px" /></a>
-### 2065462
-**Bob's Burgers S05E13 - The Gayle Tales**  
-TV-PG-DLV 🔒 21:38  
-⌛ May 26, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/the-gayle-tales  
-seriesid=`2003422` titleid=`2065462` id=`zrdbrKwgT8i9Ac0WkNpSWw` mediaid=`d331c693a7224bdab96e555da2374d01992c1507`  
-_Linda's sister, Gayle, arrives at the restaurant in tears because her date cancelled on her and she had tickets to Yarnival. Desperate to get out of the house after being grounded, the kids compete to be Aunt Gayle's date via an essay contest._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/the-gayle-tales/bobsburgers_501_air_cid-2N2CW.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-gayle-tales/bobsburgers_501_air_cid-2N2CW.jpg" height="144px" /></a>
-### 2007826
-**Infomercials S03E01 - Broomshakalaka**  
-TV-14-LV 🔓 10:35  
-⌛ June 16, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/infomercials/broomshakalaka  
-seriesid=`2007823` titleid=`2007826` id=`AV-2_sJ8wdpKFAKSbWYY` mediaid=`20cd6e2709abbcf7ecd5d3d9a2119f3e03801712`  
-_Denny Boffa wants to save viewers time with his new invention: an all-in-one multi-purpose broom tool called the Broomshakalaka. But when things go violently wrong on set, Denny is the one running out of time._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15150986087747.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15150986087747.jpg" height="144px" /></a>
-### 343643
-**Samurai Jack S02E03 - XVI**  
-TV-Y7-FV 🔒 22:39  
-⌛ May 16, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/samurai-jack/xvi  
-seriesid=`343621` titleid=`343643` id=`9hmaQ0LrSCe7L-Tnac1jOg` mediaid=`4c4bf91cf4d589bae3fd2384aeed97e3b61a08af`  
-_Jack is kidnapped and placed in a chain gang of warriors chosen to battle in front of a coliseum audience against the Dome of Doom's Champions._  
-<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461643253-samjack_016.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461643253-samjack_016.jpg" height="144px" /></a>
-### 706483
-**Squidbillies S03E06 - Earth Worst**  
-TV-14-DLSV 🔓 10:56  
-⌛ January 30, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/earth-worst  
-seriesid=`581268` titleid=`706483` id=`fl6qfje7TSmMzQjx2TdvCw` mediaid=`70c47df58e5186a0492ab5d0499723ac13c04e5c`  
-_The squids fail to learn a valuable lesson about conservation._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413113264-squidbillies_026_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413113264-squidbillies_026_bim.jpg" height="144px" /></a>
-### 859421
-**Squidbillies S06E03 - Velvet Messiah**  
-TV-14-DLV 🔓 11:16  
-⌛ January 30, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/velvet-messiah  
-seriesid=`581268` titleid=`859421` id=`uxyvFbcYQzyY5G6cTRwjQA` mediaid=`2cd84feb6f15358b92a5cd4d1b05a1d3e0d57932`  
-_Early proves he's smarter than a town full of idiots._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131322183-squidbillies_502_dup-20110908.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131322183-squidbillies_502_dup-20110908.jpg" height="144px" /></a>
+⌛ May 27, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/first-do-no-farm  
+seriesid=`581006` titleid=`2197420` id=`AXb8NlWcQJ_4Uej5kTlO` mediaid=`a111ef26a58899f5877beae3cf1c82d8da4ecbef`  
+_Concerned that Hayley is too soft-hearted, Stan attempts to make her "farm tough" by turning the house into an urban homestead._  
+<a href="https://media.cdn.adultswim.com/uploads/20210113/thumbnails/2_21113946252-americandad_1416_air_cid-C5T13-DoNoFarm.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210113/thumbnails/2_21113946252-americandad_1416_air_cid-C5T13-DoNoFarm.jpg" height="144px" /></a>
+### 2197418
+**American Dad S15E13 - Men ll Boyz**  
+ 🔒 21:03  
+⌛ May 27, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/men-ll-boyz  
+seriesid=`581006` titleid=`2197418` id=`AXb8Ng9qbxpjZvbXYl-E` mediaid=`a3c50599ddad5888052e958466f7e6923ef146b6`  
+_Klaus enlists Stan, Roger and Jeff to join him on a wild bachelor party weekend._  
+<a href="https://media.cdn.adultswim.com/uploads/20210113/thumbnails/2_2111394673-americandad_1414_air_cid-D8CW1-MentoBoyz.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210113/thumbnails/2_2111394673-americandad_1414_air_cid-D8CW1-MentoBoyz.jpg" height="144px" /></a>
+### 2065463
+**Bob's Burgers S05E14 - Li'l Hard Dad**  
+TV-PG-DLV 🔒 21:32  
+⌛ May 27, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/lil-hard-dad  
+seriesid=`2003422` titleid=`2065463` id=`ge6stmRQRkWvKjDZIsQ0aA` mediaid=`db29d2e9cf5df46bca0482bfd5ab84039895f9ea`  
+_Bob's obsessed with his automatic helicopter. When it falls apart, he demands a refund and disputes with the manufacturer. Gene assists Bob but things end up in a helicopter battle. Louise and Linda help Tina prepare for her oral book report._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/lil-hard-dad/bobsburgers_502_air_cid-30HPH.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/lil-hard-dad/bobsburgers_502_air_cid-30HPH.jpg" height="144px" /></a>
+### 438272
+**Home Movies S03E13 - Coffins and Cradles**  
+TV-PG-DL 🔓 22:41  
+⌛ May 12, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/home-movies/coffins-and-cradles  
+seriesid=`344089` titleid=`438272` id=`ZipqHcoUSEK11b9EUtBueA` mediaid=`27c5825cf65aa21ec24016a59f19ee636ad197da`  
+_The kids are preparing for Halloween, Linda (Brendon's new stepmother) is preparing to have a baby, and Coach McGuirk is preparing to have the romantic night of his life. Despite all this, no one is prepared when things start to go wrong._  
+<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351626257-hmovies_039.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351626257-hmovies_039.jpg" height="144px" /></a>
+### 728415
+**King of the Hill S02E01 - Texas City Twister**  
+TV-PG-DL 🔒 23:01  
+⌛ May 27, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/king-of-the-hill/texas-city-twister  
+seriesid=`629835` titleid=`728415` id=`prAfWxPjSmynN2lJ17_Kmg` mediaid=`79108140513a0276f49936c3080c0e615a90cf19`  
+_Hank stages a rescue attempt when a tornado bears down on Peggy and Luanne inside a trailer park._  
+<a href="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_3909983229960290380.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_3909983229960290380.jpg" height="144px" /></a>
+### 653297
+**Moral Orel S02E04 - Elemental Orel**  
+TV-MA 🔓 11:20  
+⌛ June 24, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/moral-orel/elemental-orel  
+seriesid=`629688` titleid=`653297` id=`xtdyH8VnRROEMhcAwFZxYA` mediaid=`235b2bfcbee7992ebf662bcc05a5c35a34c2a39a`  
+_Orel solves puzzling and mysterious capers through the sheer power of his righteous logic._  
+<a href="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111557404-moralorel_017.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111557404-moralorel_017.jpg" height="144px" /></a>
+### 434933
+**The Brak Show S02E08 - The Runaway**  
+TV-PG 🔓 11:40  
+⌛ June 24, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-brak-show/the-runaway  
+seriesid=`340531` titleid=`434933` id=`RKn6u4Z1RIegXWO_yTE7tg` mediaid=`da789940515cd8a5efa906b4cb4f7dd5958f69cf`  
+_Space Ghost travels back in time to arrest Brak for crimes committed in the future._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321429404-brak_2208.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321429404-brak_2208.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
 2003422 Bob's Burgers: 1  
-2007823 Infomercials: 1  
-581006 American Dad: 1  
-### 2065450
-**Bob's Burgers S05E03 - Friends with Burger-Fits**  
-TV-PG-DLV 🔒 21:41  
-⌛ May 19, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/friends-with-burger-fits  
-seriesid=`2003422` titleid=`2065450` id=`Pt77Jy4sQGykImwmhEjCMg` mediaid=`f5614ca6513be1771ebc2149900fbe59a6209964`  
-_Bob becomes Teddy's workout buddy after finding out his burgers contributed to Teddy's bad health. The two enroll in a stuntman boot camp where their friendship is put to the test. The kids make an ice rink in the freezer._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/friends-with-burger-fits/bobsburgers_411_air_cid-2K876.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/friends-with-burger-fits/bobsburgers_411_air_cid-2K876.jpg" height="144px" /></a>
-### 2133192
-**Infomercials S07E02 - Wet Shapes**  
-TV-PG 🔒 11:17  
-⌛ May 19, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/infomercials/wet-shapes  
-seriesid=`2007823` titleid=`2133192` id=`AV95D2JXZ-onAnjDLs3a` mediaid=`f83efc6de0fc7f45065aa36d5082075f07ff7f9c`  
-_Wet Shapes are America's most beloved friend and pet but they're under attack by Wet Shapes Degenerative Disease. Join us in a telethon to fund the cure._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151087218637611.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151087218637611.jpg" height="144px" /></a>
-### 2186670
-**American Dad S14E21 - Downtown**  
-TV-14-DLV 🔒 21:03  
-⌛ June 1, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/downtown  
-seriesid=`581006` titleid=`2186670` id=`AXKUOl5bC8QgH-t19Jj7` mediaid=`e352edca867a17986f9a34a9dc0813a5791ca7d9`  
-_Hayley drives Steve to a testing center in "no good" downtown but they end up stranded in a worse suburban neighborhood. Stan, Francine, and Roger mistakenly go downtown to rescue them._  
-<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_206895975-americandad_1321_air_cid-46P0N.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_206895975-americandad_1321_air_cid-46P0N.jpg" height="144px" /></a>
+322328 Space Ghost Coast to Coast: 2  
+340537 Aqua Teen Hunger Force: 2  
+344089 Home Movies: 1  
+581006 American Dad: 2  
+629688 Moral Orel: 1  
+629835 King of the Hill: 1  
+648666 Metalocalypse: 1  
+### 2065455
+**Bob's Burgers S05E04 - Dawn of the Peck**  
+TV-PG-DLV 🔓 21:30  
+⌛ May 20, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/dawn-of-the-peck  
+seriesid=`2003422` titleid=`2065455` id=`SmjARULQRayI7fqg43Kw5g` mediaid=`6593b29f3c92e638760bc4c876a5f9e78006e018`  
+_While Bob is boycotting the holiday, Linda and the kids spend Thanksgiving at the first annual Fischoeder Turk-tacular Turkey Town Festival. However, a wild bird attack leads to total mayhem._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/dawn-of-the-peck/bobsburgers_416_air_cid-2P5DP.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/dawn-of-the-peck/bobsburgers_416_air_cid-2P5DP.jpg" height="144px" /></a>
+### 322643
+**Space Ghost Coast to Coast S03E06 - Boo!**  
+TV-PG 🔓 10:48  
+⌛ May 20, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/space-ghost-coast-to-coast/boo  
+seriesid=`322328` titleid=`322643` id=`AYl0LttSOz5CkuTcnwR2` mediaid=`894344cfdec5faaa403a3b6de8d3a6e9a375a690`  
+_Space Ghost turns to experts for advice on supernatural phenomena such as the disappearance of his phantom cruiser keys. Michael Norman, ghost expert and author of Historic Haunted America, and Bill Nye are all too happy to help him out._  
+<a href="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_2041795727-sgc2c_9606_dst_cid-9105379.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_2041795727-sgc2c_9606_dst_cid-9105379.jpg" height="144px" /></a>
+### 326191
+**Space Ghost Coast to Coast S05E08 - Rio Ghosto**  
+TV-PG 🔓 11:50  
+⌛ May 20, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/space-ghost-coast-to-coast/rio-ghosto  
+seriesid=`322328` titleid=`326191` id=`AYl0Qajs2rZC6NyF61-R` mediaid=`ecde579451db751f82f87139c9e40cd5dc2f28c0`  
+_Pursuing a movie career, Space Ghost seeks advice from the director of 'Mall Rats,' Kevin Smith, and actor Ben Stiller. Hollywood director Jim Jarmusch also makes an appearance._  
+<a href="https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_20420114797-sgc2c_9808_air_cid-9131900.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_20420114797-sgc2c_9808_air_cid-9131900.jpg" height="144px" /></a>
+### 786552
+**Aqua Teen Hunger Force S07E08 - IAMAPOD**  
+TV-MA 🔓 11:21  
+⌛ May 20, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/aqua-teen-hunger-force/iamapod  
+seriesid=`340537` titleid=`786552` id=`77GljNhNQ-KGUVtgIjfqKQ` mediaid=`742c0935391c9a8baede2abe1385bb13e72c80f3`  
+_Shake's new acquaintance has two loves in life: The band Chickenfoot, and human replication._  
+<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225957552-athf_096_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225957552-athf_096_BIM.jpg" height="144px" /></a>
+### 786553
+**Aqua Teen Hunger Force S07E09 - Hands On A Hamburger**  
+TV-14-DLV 🔓 11:08  
+⌛ May 20, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/aqua-teen-hunger-force/hands-on-a-hamburger  
+seriesid=`340537` titleid=`786553` id=`ddunmXNvRgCY6kMS6ze3jg` mediaid=`6c52e7f77e4a3d484beb3b3b4e565d1bf28a10a8`  
+_Shake and Frylock touch a massive cheeseburger._  
+<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225958178-athf_097_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225958178-athf_097_BIM.jpg" height="144px" /></a>
+### 420675
+**Home Movies S03E03 - Bad Influences**  
+TV-PG-L 🔓 22:20  
+⌛ May 20, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/home-movies/bad-influences  
+seriesid=`344089` titleid=`420675` id=`4ERvSX98Tral7gf3MLcNiA` mediaid=`2f0b15d0048e494df55af9af792da3f61f3497da`  
+_The camera does add 10 pounds, but so does binging on junk food. Brendon and Jason are gaining weight at an alarming rate, so in order break the "fat-enabling" cycle, they decide never to see each other again._  
+<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351620205-hmovies_029.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351620205-hmovies_029.jpg" height="144px" /></a>
+### 2186671
+**American Dad S14E22 - Cheek to Cheek: A Stripper's Story**  
+TV-14-DLSV 🔓 21:03  
+⌛ May 20, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/cheek-to-cheek-a-strippers-story  
+seriesid=`581006` titleid=`2186671` id=`AXKUOra-C8QgH-t19Jj8` mediaid=`ffbb1a99f3f42c324ea4eee7ae4ffc812f2759c8`  
+_Roger enlists Jeff as his protégé in order to open his dream chivalric strip club. Klaus moves into Steve's room._  
+<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068959310-americandad_1322_air_cid-46P0T.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068959310-americandad_1322_air_cid-46P0T.jpg" height="144px" /></a>
+### 2197405
+**American Dad S15E01 - 100 Years A Solid Fool**  
+ 🔓 21:02  
+⌛ May 20, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/100-years-a-solid-fool  
+seriesid=`581006` titleid=`2197405` id=`AXb4FOmcbxpjZvbXYl98` mediaid=`6d7b30a6744c4e0fa261c8c75c342afa602af483`  
+_While running an errand in Little Columbia, Stan is confronted by his hidden past._  
+<a href="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121431217-americandad_1401_air_cid-8X9NH-TenYearsASolidFool.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121431217-americandad_1401_air_cid-8X9NH-TenYearsASolidFool.jpg" height="144px" /></a>
+### 633146
+**Moral Orel S01E04 - Waste**  
+TV-MA 🔓 11:34  
+⌛ May 20, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/moral-orel/waste  
+seriesid=`629688` titleid=`633146` id=`3ENSjrGrRg6nCQ0rI2f4cg` mediaid=`8c6284a781035928667f1c88e9c9d93d2e2f9cf5`  
+_When Orel learns that God hates waste he decides to recycle his own urine._  
+<a href="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111551456-moralorel_004.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111551456-moralorel_004.jpg" height="144px" /></a>
+### 728410
+**King of the Hill S01E09 - Peggy the Boggle Champ**  
+TV-PG-L 🔓 23:08  
+⌛ May 20, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/king-of-the-hill/peggy-the-boggle-champ  
+seriesid=`629835` titleid=`728410` id=`LH3bngIBStuXjR7L8e2SSA` mediaid=`b63d0e116dbe766f5d27d33f6b5072f7a5c1a373`  
+_Hank must choose between attending the Dallas Mower Expo or coaching his wife at the state Boggle championships._  
+<a href="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_23542.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_23542.jpg" height="144px" /></a>
+### 651227
+**Metalocalypse S01E06 - Dethkomedy**  
+TV-MA-V 🔓 11:32  
+⌛ May 20, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/metalocalypse/dethkomedy  
+seriesid=`648666` titleid=`651227` id=`Anbl-5uDQ5Go-Qm92bX8Bw` mediaid=`f39d2eebd6a0b3f872a149096fc9ae2d1a932858`  
+_In a legendary bad move, Dethklok decides to do standup comedy.  Pickles remains traumatized by a heckler while the rest of Dethklok learns that comedy is all about embracing the hate.  Dethklok finds that they are very much naturals at this.  The physical comedy routine they work out really kills._  
+<a href="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111123233-metalocalypse_106.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_203111123233-metalocalypse_106.jpg" height="144px" /></a>
