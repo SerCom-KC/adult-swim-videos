@@ -1596,7 +1596,7 @@
         "auth": false
     },
     {
-        "auth_expiration_date": null,
+        "auth_expiration_date": 1751255940,
         "tms_id": "EP001022180085",
         "description": "Joey, an overzealous ex-intern, annoys Space Ghost with his antics. In retribution, Space Ghost destroys the pest and shuttles his corpse into outer space for disposal.",
         "title_suggest": {
@@ -1618,11 +1618,11 @@
         "duration": 659.8926,
         "episode_number": "9",
         "original_air_date": "926737200",
-        "auth_launch_date": null,
+        "auth_launch_date": 1748404800,
         "clip_order": null,
-        "airing_id": "RADS1005132400069924",
+        "airing_id": "RADS1005212500036460",
         "media_id": "8132698a1d36f2c45c1e6f53c377334daadb4ebc",
-        "modified": 1715611133,
+        "modified": 1747840315,
         "slug": "pal-joey",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_204201147458-sgc2c_9809_dst_cid-9140303.jpg",
@@ -1630,7 +1630,7 @@
         "season_number": "5",
         "title_id": "330042",
         "tv_rating": "tv-pg",
-        "published": 1715611133,
+        "published": 1747840315,
         "tags": [
             "sgc2c space ghost coast to coast episode 65 pal joey intern fired michael moore"
         ],
@@ -2042,7 +2042,7 @@
     {
         "auth": false,
         "ott_launch_date": 1449258240,
-        "auth_expiration_date": 1684900799,
+        "auth_expiration_date": 1751255940,
         "tms_id": "EP001022180013",
         "rating": 7.4831805,
         "description": "Marshall \"Duh\" Staxx of the musical group Green Jelly and yodeller Wylie Gustafson are the freaks du jour in this aptly named episode. The show also features a video pirate who identifies himself only as \"Commander Andy of the Cosmos.\"",
@@ -2065,9 +2065,9 @@
         "episode_number": "7",
         "original_air_date": 900127800,
         "clip_order": null,
-        "auth_launch_date": 1668056400,
-        "modified": 1727909465,
-        "airing_id": "RADS1010022400095994",
+        "auth_launch_date": 1748404800,
+        "modified": 1747840350,
+        "airing_id": "RADS1005212500036462",
         "media_id": "54c6eb980691dd3f11ccc6a7e1d6c2c96507059b",
         "id": "HNCUe7ZySQeCx-5aau_nOg",
         "slug": "freak-show",
@@ -2080,7 +2080,7 @@
         "tv_rating": "tv-pg",
         "active": false,
         "ott_expiration_date": null,
-        "published": 1727909465,
+        "published": 1747840350,
         "tags": [],
         "rating_count": 327,
         "collection_title": "Space Ghost Coast to Coast",
