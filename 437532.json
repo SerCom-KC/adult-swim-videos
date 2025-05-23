@@ -47,54 +47,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1747972740,
-        "tms_id": "EP003034830123",
-        "description": "Bender fathers a child with the office soda machine.",
-        "title_suggest": {
-            "input": [
-                "The Bots and the Bees",
-                "Bots and the Bees",
-                "and the Bees",
-                "the Bees",
-                "Bees"
-            ]
-        },
-        "title": "The Bots and the Bees",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1359.725,
-        "episode_number": "1",
-        "original_air_date": "1653872400",
-        "auth_launch_date": 1747368000,
-        "clip_order": null,
-        "airing_id": "RADS1005082500035152",
-        "media_id": "f90356dadba6bf1e8f808608cd159a5dd3e4f272",
-        "modified": 1747255261,
-        "slug": "the-bots-and-the-bees",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220525/thumbnails/1_225251151511-Futurama_901_TheBotsAndTheBees.png",
-        "created": 1653493919,
-        "season_number": "9",
-        "title_id": "2161646",
-        "tv_rating": "tv-14-dls",
-        "published": 1747255261,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220525/thumbnails/2_225251151511-Futurama_901_TheBotsAndTheBees.png",
-        "id": "AYD76u7O_0O4w1rD3SRg",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1748145540,
         "tms_id": "EP003034830125",
         "description": "Leela becomes campaign manager for a presidential candidate whose birth certificate is mysteriously missing.",
@@ -184,6 +136,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220531/thumbnails/2_225311247524-Futurama_904_ThiefOfBaghead.png",
         "id": "AYEbBFqv_0O4w1rD3STn",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1748577540,
+        "tms_id": "EP003034830128",
+        "description": "Amy and Leela become addicted to \"Nectar\", a nutritional supplement that boosts their performance in the future sport of Butterfly Derby.",
+        "title_suggest": {
+            "input": [
+                "The Butterjunk Effect",
+                "Butterjunk Effect",
+                "Effect"
+            ]
+        },
+        "title": "The Butterjunk Effect",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1377.4427,
+        "episode_number": "6",
+        "original_air_date": 1655083800,
+        "auth_launch_date": 1747972800,
+        "clip_order": null,
+        "airing_id": "RADS1005142500035809",
+        "media_id": "9e3424837a1fc06a922f06d55c9f9477fb7a93c2",
+        "modified": 1747807843,
+        "slug": "the-butterjunk-effect",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220609/thumbnails/1_22691646364-Futurama_906_TheButterjunkEffect.png",
+        "created": 1654739451,
+        "title_id": "2161651",
+        "season_number": "9",
+        "tv_rating": "tv-14-dl",
+        "published": 1747807843,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220609/thumbnails/2_22691646364-Futurama_906_TheButterjunkEffect.png",
+        "id": "AYFGKD6N208s7zyYUNFs",
         "auth": true
     },
     {
