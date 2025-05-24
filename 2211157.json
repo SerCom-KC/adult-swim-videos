@@ -95,11 +95,11 @@
         "launch_date": 1745035200,
         "poster": "https://media.cdn.adultswim.com/uploads/20191003/thumbnails/2_191031047369-Primal_001_dup-20190815.jpg",
         "id": "AW2DqMKt1YiBSfg0KXWq",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1746244740,
+        "auth_expiration_date": 1758340740,
         "tms_id": "",
         "description": "In the harshness of the primordial winter a herd of woolly mammoths hunt for the murderers of one of their own.",
         "title_suggest": {
@@ -122,11 +122,11 @@
         "duration": 1346.612,
         "episode_number": "3",
         "original_air_date": 1570680000,
-        "auth_launch_date": 1737176400,
+        "auth_launch_date": 1749268800,
         "clip_order": null,
         "media_id": "7064ac186335739861b588ea592d27d7b8536ad0",
-        "modified": 1745861790,
-        "airing_id": "RADS1001132500015273",
+        "modified": 1748059221,
+        "airing_id": "RADS1005232500037723",
         "slug": "a-cold-death",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20191004/thumbnails/1_191041426462-Primal_003_dup-20190815.jpg",
@@ -136,7 +136,7 @@
         "tv_rating": "tv-14-v",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1745861790,
+        "published": 1748059221,
         "tags": [],
         "collection_title": "Primal",
         "disable_ads": false,
@@ -353,7 +353,7 @@
             ]
         },
         "title": "Coven of the Damned",
-        "expiration_date": 1740200340,
+        "expiration_date": 1752292740,
         "type": "episode",
         "platforms": [
             "android",
@@ -367,9 +367,9 @@
         "original_air_date": "1603078200",
         "auth_launch_date": 1740200400,
         "clip_order": null,
-        "airing_id": "RADS1001132500015271",
+        "airing_id": "RADS1005232500037721",
         "media_id": "7634b7ce2fb08a7b1672b58a0c0c3d3b07f5f19f",
-        "modified": 1740066716,
+        "modified": 1748059222,
         "slug": "coven-of-the-damned",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20201006/thumbnails/1_201061141225-Primal_009.jpg",
@@ -377,12 +377,12 @@
         "season_number": "1",
         "title_id": "2211166",
         "tv_rating": "tv-14-v",
-        "published": 1740066716,
+        "published": 1748059222,
         "tags": [],
         "collection_title": "Primal",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1737176400,
+        "launch_date": 1749268800,
         "poster": "https://media.cdn.adultswim.com/uploads/20201006/thumbnails/2_201061141225-Primal_009.jpg",
         "id": "AXT6Ka-jLyLQBOXK_PPE",
         "auth": true
@@ -477,7 +477,7 @@
         "launch_date": 1748059200,
         "poster": "https://media.cdn.adultswim.com/uploads/20201005/thumbnails/2_201051249559-Primal_006_dup-20200417.jpg",
         "id": "AXTz9A3zSeFB2d0c39Jd",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": null,
