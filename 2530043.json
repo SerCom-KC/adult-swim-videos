@@ -1,50 +1,5 @@
 [
     {
-        "auth_expiration_date": 1748059140,
-        "tms_id": "",
-        "description": "Kydd and Felixx finally take down an alien! That looks eerily like an old man\u2026 but it's not actually an old man\u2026.is it?",
-        "title_suggest": {
-            "input": [
-                "Alien Autopsy",
-                "Autopsy"
-            ]
-        },
-        "title": "Alien Autopsy",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AZBvkmVYSaru9Cdsy7Cx",
-        "duration": 660.5265,
-        "episode_number": "2",
-        "original_air_date": 1720412100,
-        "auth_launch_date": 1745035200,
-        "clip_order": null,
-        "airing_id": "RADS1004132500030898",
-        "media_id": "818c762599cfca54853442d1fb0b20e2581f1069",
-        "modified": 1744610464,
-        "slug": "alien-autopsy",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240708/thumbnails/1_24781035178-PSICOPS_SEASON1_EP102_SHOWSTILLS_IMAGE2_LEFTTORIGHT_BITSIECHIEFBEEF.jpg",
-        "created": 1720036483,
-        "title_id": "2530045",
-        "season_number": "1",
-        "tv_rating": "tv-ma-v",
-        "published": 1744610464,
-        "tags": [],
-        "collection_title": "Psi-Cops",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240708/thumbnails/2_24781035178-PSICOPS_SEASON1_EP102_SHOWSTILLS_IMAGE2_LEFTTORIGHT_BITSIECHIEFBEEF.jpg",
-        "id": "AZB6Kd_Ng6zBH7G86tgg",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1748663940,
         "tms_id": "",
         "description": "Kydd and Felixx attend a slumber party and learn that mirror demons aren't nearly as scary as their own reflections.",
@@ -221,6 +176,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20240722/thumbnails/2_2472293596-PSICOPS_SEASON1_EP105_SHOWSTILLS_IMAGE1_LEFTTORIGHT_KYDDFELIXXDEADPOLICEMANINTRUNK.jpg",
         "id": "AZDCmWQ7g6zBH7G86tgr",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1751083140,
+        "tms_id": "",
+        "description": "What do swamp hillbillies, a snake god and Eric all have in common? Fancy Hats!",
+        "title_suggest": {
+            "input": [
+                "Mutant Snake",
+                "Snake"
+            ]
+        },
+        "title": "Mutant Snake",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZBvkmVYSaru9Cdsy7Cx",
+        "duration": 660.5599,
+        "episode_number": "7",
+        "original_air_date": 1722225600,
+        "auth_launch_date": 1748059200,
+        "clip_order": null,
+        "airing_id": "RADS1005152500036094",
+        "media_id": "b76db6c9ea3650d9a26bc43237fa9df53579ba85",
+        "modified": 1747892745,
+        "slug": "mutant-snake",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240729/thumbnails/1_24729946167-PSICOPS_SEASON1_EP107_SHOWSTILLS_IMAGE3_KYDDINTESTINESCHOKING.jpg",
+        "created": 1721917354,
+        "title_id": "2530050",
+        "season_number": "1",
+        "tv_rating": "tv-ma-v",
+        "published": 1747892745,
+        "tags": [],
+        "collection_title": "Psi-Cops",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240729/thumbnails/2_24729946167-PSICOPS_SEASON1_EP107_SHOWSTILLS_IMAGE3_KYDDINTESTINESCHOKING.jpg",
+        "id": "AZDqRbETg6zBH7G86tg0",
         "auth": true
     }
 ]
