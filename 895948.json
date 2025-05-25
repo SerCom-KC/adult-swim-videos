@@ -160,52 +160,6 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187304540037.jpg"
     },
     {
-        "auth_expiration_date": 1748145540,
-        "tms_id": "EP015632430065",
-        "description": "Eric welcomes Tinashe and Chuck Liddell. Waka Flocka Flame tries ayahuasca. A police officer finds himself in a sexy pickle on Grocery Goofs.",
-        "title_suggest": {
-            "input": [
-                "Football Is Back",
-                "Is Back",
-                "Back"
-            ]
-        },
-        "title": "Football Is Back",
-        "expiration_date": 1745121540,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 671.5375,
-        "episode_number": "4",
-        "original_air_date": "1686543300",
-        "auth_launch_date": 1745121600,
-        "clip_order": null,
-        "airing_id": "RADS1003102500024846",
-        "media_id": "0391c83967a775279f7177f5eb5049ff561ca753",
-        "modified": 1744705883,
-        "slug": "football-is-back",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230607/thumbnails/1_2367162352-TheEricAndreShow604Still002tiny.png",
-        "created": 1686168173,
-        "season_number": "6",
-        "title_id": "2418684",
-        "tv_rating": "tv-ma-lsv",
-        "published": 1744705883,
-        "tags": [],
-        "collection_title": "The Eric Andre Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1742097600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20230607/thumbnails/2_2367162352-TheEricAndreShow604Still002tiny.png",
-        "id": "AYiXdHw2Oz5CkuTcnvu3",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1748750340,
         "tms_id": "EP015632430068",
         "description": "Eric welcomes Chanel West Coast and Donald Glover. Confusion ensues when a tow truck tows another tow truck.",
@@ -431,7 +385,7 @@
         "launch_date": 1745121600,
         "poster": "https://media.cdn.adultswim.com/uploads/20230705/thumbnails/2_2375112508-EAKrftPunkReturns.png",
         "id": "AYkM9G6k2rZC6NyF6197",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1751774340,
@@ -478,6 +432,58 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20230705/thumbnails/2_2375158553-EATheColdEpisode.png",
         "id": "AYkM9LH4Oz5CkuTcnwD4",
         "auth": false
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1446739980,
+        "auth_expiration_date": 1661745540,
+        "tms_id": "EP015632430003",
+        "rating": 7.6801624,
+        "description": "Eric interviews Real Housewife Brandi Glanville and Vice President Joe Biden.",
+        "title_suggest": {
+            "input": [
+                "Brandi Glanville",
+                "Glanville"
+            ]
+        },
+        "type": "episode",
+        "title": "Brandi Glanville",
+        "expiration_date": 1751169540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 672.4004004,
+        "episode_number": "4",
+        "original_air_date": 1339389000,
+        "clip_order": null,
+        "auth_launch_date": 1658721600,
+        "modified": 1747978247,
+        "media_id": "9e00c59244988286d9e5ef603cd7ec9bd8c56c55",
+        "airing_id": "RADS1005162500036194",
+        "id": "Jfc4P-0nQRCFAvBO5jKGQg",
+        "slug": "brandi-glanville",
+        "views": 157834,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_2034168373-ericandre_104_dup-20120607.jpg",
+        "created": 1402945479,
+        "title_id": "895952",
+        "season_number": "1",
+        "tv_rating": "tv-14-dlv",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1747978247,
+        "tags": [],
+        "rating_count": 988,
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1748145600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034168373-ericandre_104_dup-20120607.jpg",
+        "cma_id": "1419234"
     },
     {
         "auth": false,

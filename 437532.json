@@ -1,50 +1,5 @@
 [
     {
-        "auth_expiration_date": 1748145540,
-        "tms_id": "EP003034830125",
-        "description": "Leela becomes campaign manager for a presidential candidate whose birth certificate is mysteriously missing.",
-        "title_suggest": {
-            "input": [
-                "Decision 3012",
-                "3012"
-            ]
-        },
-        "title": "Decision 3012",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1356.7221,
-        "episode_number": "3",
-        "original_air_date": "1654477200",
-        "auth_launch_date": 1747540800,
-        "clip_order": null,
-        "airing_id": "RADS1005122500035474",
-        "media_id": "2dc1d77c226c5a92bebe2a9eaba3208375c90c5c",
-        "modified": 1747349163,
-        "slug": "decision-3012",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220531/thumbnails/1_225311247238-Futurama_903_Decision3012.png",
-        "created": 1654015651,
-        "season_number": "9",
-        "title_id": "2161648",
-        "tv_rating": "tv-14-dl",
-        "published": 1747349163,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220531/thumbnails/2_225311247238-Futurama_903_Decision3012.png",
-        "id": "AYEbA-6H208s7zyYUNBi",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1748231940,
         "tms_id": "EP003034830126",
         "description": "Bender joins the paparazzi and attempts to photograph a famous actor whose face has never been seen.",
@@ -180,6 +135,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220609/thumbnails/2_22691645323-Futurama_905_ZappDingbat.png",
         "id": "AYFGKF0d208s7zyYUNFt",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1748750340,
+        "tms_id": "EP003034830130",
+        "description": "Fry is the victim of a horrific sausage-making accident.",
+        "title_suggest": {
+            "input": [
+                "Fun on a Bun",
+                "on a Bun",
+                "a Bun",
+                "Bun"
+            ]
+        },
+        "title": "Fun on a Bun",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1384.7166,
+        "episode_number": "8",
+        "original_air_date": "1655688600",
+        "auth_launch_date": 1748145600,
+        "clip_order": null,
+        "airing_id": "RADS1005162500036183",
+        "media_id": "9dc33dee3d9d04bf548f5eff953a3651fca0039b",
+        "modified": 1747977614,
+        "slug": "fun-on-a-bun",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220615/thumbnails/1_226151058181-Futurama_908_FunOnABun.png",
+        "created": 1655305105,
+        "season_number": "9",
+        "title_id": "2161653",
+        "tv_rating": "tv-14-dlv",
+        "published": 1747977614,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220615/thumbnails/2_226151058181-Futurama_908_FunOnABun.png",
+        "id": "AYFn32_V208s7zyYUNIk",
         "auth": true
     },
     {
