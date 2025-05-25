@@ -869,7 +869,7 @@
         },
         "title": "Fourth Gear! The Phenomenal Bounce-Man!",
         "type": "episode",
-        "expiration_date": null,
+        "expiration_date": 1749979860,
         "platforms": [
             "android",
             "ios",
@@ -882,9 +882,9 @@
         "original_air_date": 1747548120,
         "auth_launch_date": 1747560720,
         "clip_order": null,
-        "airing_id": "RADS1005122500035527",
+        "airing_id": "RADS1005232500037779",
         "media_id": "f46d11ec7075985c988ed214e10ee6d5b0d8765d",
-        "modified": 1748004655,
+        "modified": 1748165750,
         "slug": "fourth-gear-the-phenomenal-bounce-man",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20250515/thumbnails/1_255151715154-OP726_S17E98.png",
@@ -892,12 +892,12 @@
         "title_id": "2550974",
         "season_number": "17",
         "tv_rating": "tv-14-v",
-        "published": 1748004655,
+        "published": 1748165750,
         "tags": [],
         "collection_title": "One Piece",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": null,
+        "launch_date": 1749375120,
         "poster": "https://media.cdn.adultswim.com/uploads/20250515/thumbnails/2_255151715154-OP726_S17E98.png",
         "id": "AZbGVvSZC3J9ee8ny7vp",
         "auth": true
@@ -935,6 +935,41 @@
         "modified": 1747834259,
         "slug": "a-massive-counterattack-doflamingos-awakening",
         "id": "AZbmBSce5aaI-__GJ7QB",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1749979860,
+        "created": 1747615833,
+        "tms_id": "",
+        "title_id": "2550979",
+        "season_number": "17",
+        "tv_rating": "tv-14-v",
+        "description": "Fourth Gear gives Luffy the power he needs to head off Doflamingo at every strike! But will he have enough energy left to finish the job?",
+        "title_suggest": {
+            "input": [
+                "Luffy! An All-Out Leo Bazooka!",
+                "An All-Out Leo Bazooka!",
+                "All-Out Leo Bazooka!",
+                "Leo Bazooka!",
+                "Bazooka!"
+            ]
+        },
+        "published": 1747834260,
+        "title": "Luffy! An All-Out Leo Bazooka!",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1303.7358,
+        "episode_number": "",
+        "collection_title": "One Piece",
+        "original_air_date": 1748152980,
+        "auth_launch_date": 1748165520,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1005192500036217",
+        "media_id": "752d81edce8911129233cd170d2a1f128ad9cfa3",
+        "modified": 1747834260,
+        "slug": "luffy-an-all-out-leo-bazooka",
+        "id": "AZbmBV9F5aaI-__GJ7QC",
         "auth": true
     }
 ]
