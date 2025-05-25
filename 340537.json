@@ -139,7 +139,7 @@
         "original_air_date": 1062992700,
         "clip_order": null,
         "auth_launch_date": 1740546000,
-        "modified": 1748181346,
+        "modified": 1748181923,
         "media_id": "b587ea7799ecbc571b710c9215dcb456100f1a46",
         "airing_id": "RADS1002192500022028",
         "id": "7X6xFy2xToSAzVa7santhQ",
@@ -154,7 +154,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1748181346,
+        "published": 1748181923,
         "tags": [
             "ATHF aqua teen hunger force episode super squatter 26"
         ],
@@ -1121,6 +1121,60 @@
         "cma_id": "1193472"
     },
     {
+        "auth": true,
+        "ott_launch_date": 1445970180,
+        "auth_expiration_date": 1748318340,
+        "tms_id": "EP004662930033",
+        "rating": 8.514999,
+        "description": "It's Halloween at the Aqua Teen headquarters, and a monster comes down from the attic... to get his mail.   Much to his chagrin, the monster is unable to scare anyone - until he reveals a gruesome secret!",
+        "title_suggest": {
+            "input": [
+                "The Shaving",
+                "Shaving"
+            ]
+        },
+        "type": "episode",
+        "title": "The Shaving",
+        "expiration_date": 1741751940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "tCNv3vG8S92F8kgKu9_1Vg",
+        "duration": 691.2669336,
+        "episode_number": "19",
+        "original_air_date": 1067229900,
+        "clip_order": null,
+        "auth_launch_date": 1741752000,
+        "modified": 1748181922,
+        "media_id": "1b9f2a0a6c8e893a2ab0274583db94ddd05ae1d3",
+        "airing_id": "RADS1003052500024088",
+        "id": "LqlHkPm0Q0K_1KEl7H2V4w",
+        "slug": "the-shaving",
+        "views": 579293,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/1_202241547421-athf_037_dup-20170112.jpg",
+        "created": 1402945461,
+        "title_id": "448352",
+        "season_number": "2",
+        "tv_rating": "tv-14-lv",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1748181922,
+        "tags": [
+            "aqua teen hunger force athf episode 37 the shaving halloween willie nelson juice grape"
+        ],
+        "rating_count": 2798,
+        "collection_title": "Aqua Teen Hunger Force",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1741150800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241547421-athf_037_dup-20170112.jpg",
+        "cma_id": "1236950"
+    },
+    {
         "auth": false,
         "ott_launch_date": 1446126240,
         "auth_expiration_date": 1764737940,
@@ -1260,7 +1314,7 @@
         "original_air_date": 1055130300,
         "clip_order": null,
         "auth_launch_date": 1739941200,
-        "modified": 1748180727,
+        "modified": 1748181922,
         "media_id": "b72ebd75686668232da4492ec58d6da3501b2c4c",
         "airing_id": "RADS1002132500021489",
         "id": "UOxPYCXtR0KtqjZMibRHeg",
@@ -1275,7 +1329,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1748180727,
+        "published": 1748181922,
         "tags": [],
         "rating_count": 5823,
         "collection_title": "Aqua Teen Hunger Force",
