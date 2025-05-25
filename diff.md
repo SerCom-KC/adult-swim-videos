@@ -2,92 +2,98 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 25, 2025 at 09:30:13 EDT_
+_Last Update: May 25, 2025 at 10:00:13 EDT_
 ## Video added
 ### Summary
-340537 Aqua Teen Hunger Force: 6  
-343621 Samurai Jack: 1  
-### 344935
-**Aqua Teen Hunger Force S01E03 - Bus of the Undead**  
-TV-PG-L 🔒 11:17  
-⌛ May 26, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/bus-of-the-undead  
-seriesid=`340537` titleid=`344935` id=`rvtcVqV8R-KCPOegDstoTQ` mediaid=`2967b08c1b9e3b1dbedea20bffc42a83811de126`  
-_Master Shake becomes convinced that a vampire bus is waiting for him outside. So, the Aqua Teens go to Memphis on a fact-finding mission._  
-<a href="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_20224157346-athf_003_dst_cid-9206635.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_20224157346-athf_003_dst_cid-9206635.jpg" height="144px" /></a>
-### 438040
-**Aqua Teen Hunger Force S01E18 - Cybernetic Ghost of Christmas Past**  
+340537 Aqua Teen Hunger Force: 5  
+343621 Samurai Jack: 6  
+### 447814
+**Aqua Teen Hunger Force S02E10 - Broodwich**  
 TV-PG-DL 🔒 11:08  
 ⌛ May 26, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/cybernetic-ghost-of-christmas-past  
-seriesid=`340537` titleid=`438040` id=`d7-JoPZ8RV-akd-YeudfDA` mediaid=`4bbc4f8cea1aedc11d7b1a0552c04f63f30d054a`  
-_A robot comes over and causes Carl's house--and pool--to fill with blood._  
-<a href="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241525162-athf_018_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241525162-athf_018_BIM.jpg" height="144px" /></a>
-### 846829
-**Aqua Teen Hunger Force S08E03 - Intervention**  
-TV-MA 🔒 11:16  
-⌛ June 10, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/intervention  
-seriesid=`340537` titleid=`846829` id=`UnScc8qVTAG1OOeE8hwceg` mediaid=`67c7bb03ba253364cd7f6c180ad55ad8c602c965`  
-_In this very special episode of Aqua Unit Patrol Squad 1, Carl's drinking problem comes to an ugly head._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_2022510464-aups1_1004_dup-20110519.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_2022510464-aups1_1004_dup-20110519.jpg" height="144px" /></a>
-### 434942
-**Aqua Teen Hunger Force S01E12 - Love Mummy**  
-TV-PG-L 🔒 11:16  
+https://www.adultswim.com/videos/aqua-teen-hunger-force/broodwich  
+seriesid=`340537` titleid=`447814` id=`gOyU0O4JRbunDksWdyBGNA` mediaid=`48ec9b13fbe68bbfd5bda6580f32d3798db1602b`  
+_A sandwich made from pure evil tempts Shake's taste buds._  
+<a href="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241539172-athf_028_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241539172-athf_028_BIM.jpg" height="144px" /></a>
+### 444403
+**Aqua Teen Hunger Force S02E03 - Super Bowl**  
+TV-PG-LV 🔒 11:08  
 ⌛ May 26, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/love-mummy  
-seriesid=`340537` titleid=`434942` id=`Aiuk1vNhSwymG5A7_g1Ztg` mediaid=`d9d2c086ee9acf3f62e357de9cdeb603ca5512bf`  
-_Frylock discovers a mummy in the crawlspace under the Aqua Teens' house. The mummy begins to extort favors from Frylock with the threat of an ancient Egyptian curse._  
-<a href="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241522154-athf_012_dst_cid-9243184.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241522154-athf_012_dst_cid-9243184.jpg" height="144px" /></a>
-### 786556
-**Aqua Teen Hunger Force S07E12 - One Hundred**  
-TV-MA 🔒 11:13  
-⌛ June 10, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/one-hundred  
-seriesid=`340537` titleid=`786556` id=`YWpd8tcfQEePg_F8EgM9cw` mediaid=`5249851bb77cbe7bea90cd0c42f12c26e6aa45fa`  
-_The one hundredth episode of Aqua Teen Hunger Force arrives with some startling revelations._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_2022510020-athf_100_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_2022510020-athf_100_BIM.jpg" height="144px" /></a>
-### 438038
-**Aqua Teen Hunger Force S01E16 - PDA**  
-TV-14 🔒 11:16  
+https://www.adultswim.com/videos/aqua-teen-hunger-force/super-bowl  
+seriesid=`340537` titleid=`444403` id=`UOxPYCXtR0KtqjZMibRHeg` mediaid=`b72ebd75686668232da4492ec58d6da3501b2c4c`  
+_Meatwad wins some tickets to the Super Bowl.  Who will he take with him to the big game?_  
+<a href="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241526357-athf_021_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241526357-athf_021_BIM.jpg" height="144px" /></a>
+### 444402
+**Aqua Teen Hunger Force S02E04 - Super Hero**  
+TV-PG-DL 🔒 11:09  
 ⌛ May 26, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/pda  
-seriesid=`340537` titleid=`438038` id=`EE5gKMYtRjGmlVQSD0Gleg` mediaid=`9500a0f63afabac79243109063f8e8873abed4ef`  
-_Master Shake loses his PDA and he's convinced that it has been stolen by a mysterious, unknown Tar Monster._  
-<a href="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241524195-athf_016_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241524195-athf_016_BIM.jpg" height="144px" /></a>
-### 2115100
-**Samurai Jack S05E09 - C**  
-TV-14-V 🔒 22:28  
+https://www.adultswim.com/videos/aqua-teen-hunger-force/super-hero  
+seriesid=`340537` titleid=`444402` id=`HMQtJggrQEivODzvtwFJWA` mediaid=`c9d68fca9b6068dd8c5e8df5f6eee344a82a400b`  
+_Who is the "Drizzle"?  Master Shake attempts to con his friends into believing that this "superhero"is real._  
+<a href="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_20224153625-athf_022_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_20224153625-athf_022_BIM.jpg" height="144px" /></a>
+### 447750
+**Aqua Teen Hunger Force S02E07 - Super Sirloin**  
+TV-14-L 🔒 11:26  
 ⌛ May 26, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/samurai-jack/c  
-seriesid=`343621` titleid=`2115100` id=`h7eKkC2fSWGKICy6kJciBA` mediaid=`34de15fa02fd41232ec3e5e7977e1b0970b3270d`  
-_Samurai Jack's worst fear is realized when he faces off against Aku, and the demon makes a shocking discovery about Ashi that puts her in grave danger._  
-<a href="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471431502-samjack_100_dup-20170510.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471431502-samjack_100_dup-20170510.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/aqua-teen-hunger-force/super-sirloin  
+seriesid=`340537` titleid=`447750` id=`OHbUN5QbSiGqDt0J2HJsRg` mediaid=`b4ab2715307a60d76cf992c697e560ef43d74521`  
+_Meatwad's fixation with a new rap star embroils the Aqua Teens in a sinister plot.  Garbage, patio furniture and cows collide together to create an evil scheme._  
+<a href="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241537489-athf_025_dst_cid-9265935.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241537489-athf_025_dst_cid-9265935.jpg" height="144px" /></a>
+### 447751
+**Aqua Teen Hunger Force S02E08 - Super Squatter**  
+TV-PG-LV 🔒 10:51  
+⌛ May 26, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/aqua-teen-hunger-force/super-squatter  
+seriesid=`340537` titleid=`447751` id=`7X6xFy2xToSAzVa7santhQ` mediaid=`b587ea7799ecbc571b710c9215dcb456100f1a46`  
+_After Shake flushes all the monthly bills down the toilet, the Aqua Teens must cope with life without electricity._  
+<a href="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241538246-athf_026_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241538246-athf_026_BIM.jpg" height="144px" /></a>
+### 343622
+**Samurai Jack S01E01 - I**  
+TV-Y7-FV 🔒 23:57  
+⌛ May 26, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/samurai-jack/i  
+seriesid=`343621` titleid=`343622` id=`lOFto1GHQHmGHlenySvVrA` mediaid=`7313f4b1d2601bbdb38a3673864829e0895ed67f`  
+_When Aku is reborn to set forth his reign of terror, the Emperor's son is sent off to learn the ways of the samurai. That boy becomes a man and attempts to slay Aku with a mighty sword, but Aku banishes him to the future._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461324524-samjack_001.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461324524-samjack_001.jpg" height="144px" /></a>
+### 343631
+**Samurai Jack S01E02 - II**  
+TV-Y7-FV 🔒 23:40  
+⌛ May 26, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/samurai-jack/ii  
+seriesid=`343621` titleid=`343631` id=`UPe22r3XRJCT5ECsgJlEMA` mediaid=`e698cbcdbfc962a4d3690d9aa592417b523bd718`  
+_The Samurai lands in the future and is named Jack. He is enlisted by a race of dogs to destroy Aku._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461325197-samjack_002.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461325197-samjack_002.jpg" height="144px" /></a>
+### 343632
+**Samurai Jack S01E03 - III**  
+TV-Y7-FV 🔒 23:57  
+⌛ May 26, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/samurai-jack/iii  
+seriesid=`343621` titleid=`343632` id=`nSed-On8SaOVcoGVCRAyGA` mediaid=`b1da5a120fbd8aef001649d4ba2842710ab7bb9d`  
+_Jack gets weapons and beats back Aku's army of beetles saving the canine race._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461328546-samjack_003.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461328546-samjack_003.jpg" height="144px" /></a>
+### 343640
+**Samurai Jack S01E06 - VI**  
+TV-Y7-FV 🔒 22:50  
+⌛ May 26, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/samurai-jack/vi  
+seriesid=`343621` titleid=`343640` id=`9A8JCksUQqOT4rE0krg9qA` mediaid=`610e8be9442d6e30ec716279159a2b69bfe03bd5`  
+_Aku morphs himself into a woman in order to keep Jack from returning to the past to destroy him._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461330179-samjack_006.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461330179-samjack_006.jpg" height="144px" /></a>
+### 343634
+**Samurai Jack S01E07 - VII**  
+TV-Y7-FV 🔒 23:54  
+⌛ May 26, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/samurai-jack/vii  
+seriesid=`343621` titleid=`343634` id=`9NB4fpTrTsGvyJLl6rnfgw` mediaid=`8aa47e892bbd7d5f94222a8e786dd85cb3b48279`  
+_Jack must get past three blind archers to reach an all-powerful wishing well._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461330452-samjack_007.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461330452-samjack_007.jpg" height="144px" /></a>
+### 343638
+**Samurai Jack S01E11 - XI**  
+TV-Y7-FV 🔒 22:37  
+⌛ May 26, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/samurai-jack/xi  
+seriesid=`343621` titleid=`343638` id=`EkoAX4KCSFu348U2AT8XbA` mediaid=`2c1b8ba51d7e71807669f26bd9ea09bf4713bdc0`  
+_When Jack and a Scotsman meet on a never-ending bridge, they end up shackled together and on the run from bounty hunters._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461641124-samjack_011.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461641124-samjack_011.jpg" height="144px" /></a>
 ## Video removed
-### Summary
-340537 Aqua Teen Hunger Force: 2  
-625330 IGPX: 1  
-### 786551
-**Aqua Teen Hunger Force S07E07 - Larry Miller Hair System**  
-TV-MA 🔒 11:15  
-⌛ June 10, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/larry-miller-hair-system  
-seriesid=`340537` titleid=`786551` id=`HhZlvn-6QGmvmlUC5nWD6g` mediaid=`7beee841a78e232c95c860fffa60de416c39fb9b`  
-_A computer simulation helps Carl see what his life would have been like with a full head of hair._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225957266-athf_095_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225957266-athf_095_BIM.jpg" height="144px" /></a>
-### 438039
-**Aqua Teen Hunger Force S01E17 - Mail Order Bride**  
-TV-PG-DL 🔒 11:26  
-⌛ May 26, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/mail-order-bride  
-seriesid=`340537` titleid=`438039` id=`dDhroWvPSKyJZAsvAdocbQ` mediaid=`805a3a000777f97b1f24dfb74439e4b4ac2051b8`  
-_Master Shake and Carl Split the cost of bringing a mail order bride over from Russia whom they both plan to marry._  
-<a href="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241524529-athf_017_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241524529-athf_017_BIM.jpg" height="144px" /></a>
-### 627622
-**IGPX S01E02 - Win or Lose**  
-TV-Y7-FV 🔓 22:50  
-⌛ May 30, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/igpx/win-or-lose  
-seriesid=`625330` titleid=`627622` id=`7UqBCTv6SGyLAh1Wy3TUTA` mediaid=`d70a9e67ab353bec93743dd1a573079e74866e3a`  
-_Episode 2 - Win or Lose_  
-<a href="https://media.cdn.adultswim.com/uploads/20240122/thumbnails/2_241221622386-Screenshot2024-01-22at4.22.13PM.png"><img src="https://media.cdn.adultswim.com/uploads/20240122/thumbnails/2_241221622386-Screenshot2024-01-22at4.22.13PM.png" height="144px" /></a>
+No videos were removed.  
