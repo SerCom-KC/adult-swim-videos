@@ -1,7 +1,6 @@
 {
-    "updated": 1748110540,
-    "added": [],
-    "removed": [
+    "updated": 1748131480,
+    "added": [
         {
             "auth_expiration_date": 1749182340,
             "tms_id": "EP045818780005",
@@ -21,14 +20,14 @@
                 "fire-tv"
             ],
             "collection_id": "AXNJnfSIC8QgH-t19J8N",
-            "duration": 675.4748,
+            "duration": 675.4414,
             "episode_number": "5",
             "original_air_date": 1676264400,
             "auth_launch_date": 1740114000,
             "clip_order": null,
             "airing_id": "RADS1002162500021707",
             "media_id": "331d9f47ec28d84d70b71c84ef559b11e59f52d4",
-            "modified": 1740066714,
+            "modified": 1748131288,
             "slug": "jamberoo",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20230211/thumbnails/1_232111543383-YOLO205Still001tiny.png",
@@ -36,7 +35,7 @@
             "title_id": "2412381",
             "season_number": "2",
             "tv_rating": "tv-14-lv",
-            "published": 1740066714,
+            "published": 1748131288,
             "tags": [],
             "collection_title": "YOLO",
             "disable_ads": false,
@@ -49,5 +48,6 @@
             "collection_title_id": "2224723",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
