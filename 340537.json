@@ -1183,60 +1183,6 @@
         "cma_id": "1173496"
     },
     {
-        "auth": true,
-        "ott_launch_date": 1445970180,
-        "auth_expiration_date": 1748318340,
-        "tms_id": "EP004662930033",
-        "rating": 8.514999,
-        "description": "It's Halloween at the Aqua Teen headquarters, and a monster comes down from the attic... to get his mail.   Much to his chagrin, the monster is unable to scare anyone - until he reveals a gruesome secret!",
-        "title_suggest": {
-            "input": [
-                "The Shaving",
-                "Shaving"
-            ]
-        },
-        "type": "episode",
-        "title": "The Shaving",
-        "expiration_date": 1741751940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "tCNv3vG8S92F8kgKu9_1Vg",
-        "duration": 691.2669336,
-        "episode_number": "19",
-        "original_air_date": 1067229900,
-        "clip_order": null,
-        "auth_launch_date": 1741752000,
-        "modified": 1748182950,
-        "media_id": "1b9f2a0a6c8e893a2ab0274583db94ddd05ae1d3",
-        "airing_id": "RADS1003052500024088",
-        "id": "LqlHkPm0Q0K_1KEl7H2V4w",
-        "slug": "the-shaving",
-        "views": 579293,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/1_202241547421-athf_037_dup-20170112.jpg",
-        "created": 1402945461,
-        "title_id": "448352",
-        "season_number": "2",
-        "tv_rating": "tv-14-lv",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1748182950,
-        "tags": [
-            "aqua teen hunger force athf episode 37 the shaving halloween willie nelson juice grape"
-        ],
-        "rating_count": 2798,
-        "collection_title": "Aqua Teen Hunger Force",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1741150800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241547421-athf_037_dup-20170112.jpg",
-        "cma_id": "1236950"
-    },
-    {
         "auth": false,
         "ott_launch_date": 1446126240,
         "auth_expiration_date": 1764737940,
@@ -1376,7 +1322,7 @@
         "original_air_date": 1064202300,
         "clip_order": null,
         "auth_launch_date": 1741150800,
-        "modified": 1748182951,
+        "modified": 1748183748,
         "media_id": "b9106dc938578ca44c2315c58edf5957d21a5dff",
         "airing_id": "RADS1002272500023177",
         "id": "Q37bDJRERrSbMMNqquRmAQ",
@@ -1391,7 +1337,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1748182951,
+        "published": 1748183748,
         "tags": [
             "athf aqua teen hunger force episode super trivia 27"
         ],
@@ -1402,6 +1348,60 @@
         "launch_date": 1740546000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241538464-athf_027_BIM.jpg",
         "cma_id": "1208015"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1444576920,
+        "auth_expiration_date": 1748318340,
+        "tms_id": "EP004662930004",
+        "rating": 8.4368305,
+        "description": "Master Shake rents out Meatwad's room to moon people. They end up being a bad influence on Meatwad. Frylock blasts them with his eye beams until they flee the planet.",
+        "title_suggest": {
+            "input": [
+                "Mayhem of the Mooninites",
+                "of the Mooninites",
+                "the Mooninites",
+                "Mooninites"
+            ]
+        },
+        "type": "episode",
+        "title": "Mayhem of the Mooninites",
+        "expiration_date": 1738731540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "tCNv3vG8S92F8kgKu9_1Vg",
+        "duration": 668.3670337,
+        "episode_number": "4",
+        "original_air_date": 1003114800,
+        "clip_order": null,
+        "auth_launch_date": 1738731600,
+        "modified": 1748183748,
+        "media_id": "a5d5f7d2771cdc41c63b2d8a836f0439ed078265",
+        "airing_id": "RADS1001302500018842",
+        "id": "QeYtNMpnTze70vq5WIEDBw",
+        "slug": "mayhem-of-the-mooninites",
+        "views": 561877,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/1_202241511197-athf_004_dst_cid-9217930.jpg",
+        "created": 1402945461,
+        "title_id": "345420",
+        "season_number": "1",
+        "tv_rating": "tv-14",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1748183748,
+        "tags": [],
+        "rating_count": 2248,
+        "collection_title": "Aqua Teen Hunger Force",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1738126800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241511197-athf_004_dst_cid-9217930.jpg",
+        "cma_id": "1136125"
     },
     {
         "auth": true,
@@ -1716,6 +1716,59 @@
         "cma_id": "1227352"
     },
     {
+        "auth": true,
+        "ott_launch_date": 1444576020,
+        "auth_expiration_date": 1748318340,
+        "tms_id": "EP004662930001",
+        "rating": 7.4408345,
+        "description": "Dr. Weird invents a giant mechanical robot that destroys Carl's car.  The Aqua Teens head to the mall to see if they can solve the mystery.",
+        "title_suggest": {
+            "input": [
+                "Rabbot"
+            ]
+        },
+        "type": "episode",
+        "title": "Rabbot",
+        "expiration_date": 1738126740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "tCNv3vG8S92F8kgKu9_1Vg",
+        "duration": 719.6339673,
+        "episode_number": "1",
+        "original_air_date": 978166800,
+        "clip_order": null,
+        "auth_launch_date": 1738126800,
+        "modified": 1748184642,
+        "media_id": "166f32dca518d22055844f664e89c0ac4e3d2f4a",
+        "airing_id": "RADS1001232500017139",
+        "id": "ZzNclzF2TnCLjhVZ5iS3rQ",
+        "slug": "rabbot",
+        "views": 579858,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/1_20224156477-athf_001_dst_cid-9204907.jpg",
+        "created": 1402945461,
+        "title_id": "340538",
+        "season_number": "1",
+        "tv_rating": "tv-pg-l",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1748184642,
+        "tags": [
+            "aqua teen hunger force athf episode 1 rabbot premiere first car hair mall robot"
+        ],
+        "rating_count": 2493,
+        "collection_title": "Aqua Teen Hunger Force",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1737522000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_20224156477-athf_001_dst_cid-9204907.jpg",
+        "cma_id": "340538"
+    },
+    {
         "auth": false,
         "ott_launch_date": 1446126300,
         "auth_expiration_date": 1764133199,
@@ -1886,6 +1939,58 @@
     },
     {
         "auth": true,
+        "ott_launch_date": 1445969820,
+        "auth_expiration_date": 1748318340,
+        "tms_id": "EP004662930030",
+        "rating": 8.75912,
+        "description": "Emory and Ogelthorpe create the ultimate remote control, only to have it fall into Shake's hands.",
+        "title_suggest": {
+            "input": [
+                "Universal Re-Monster",
+                "Re-Monster"
+            ]
+        },
+        "type": "episode",
+        "title": "Universal Re-Monster",
+        "expiration_date": 1741150740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "tCNv3vG8S92F8kgKu9_1Vg",
+        "duration": 666.7007007,
+        "episode_number": "12",
+        "original_air_date": 1064807100,
+        "clip_order": null,
+        "auth_launch_date": 1741150800,
+        "modified": 1748183753,
+        "media_id": "bf6473d133b22bd8264fc072284299bab040582a",
+        "airing_id": "RADS1002272500023175",
+        "id": "eW7r9eM4SrOUKDzg7pzCfA",
+        "slug": "universal-re-monster",
+        "views": 581717,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/1_20224154059-athf_030_BIM_1HEKD.jpg",
+        "created": 1402945461,
+        "title_id": "447816",
+        "season_number": "2",
+        "tv_rating": "tv-14",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1748183753,
+        "tags": [],
+        "rating_count": 2329,
+        "collection_title": "Aqua Teen Hunger Force",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1740546000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_20224154059-athf_030_BIM_1HEKD.jpg",
+        "cma_id": "1216348"
+    },
+    {
+        "auth": true,
         "ott_launch_date": 1445969700,
         "auth_expiration_date": 1748318340,
         "tms_id": "EP004662930028",
@@ -1910,7 +2015,7 @@
         "original_air_date": 1067834700,
         "clip_order": null,
         "auth_launch_date": 1741752000,
-        "modified": 1748180729,
+        "modified": 1748184920,
         "media_id": "48ec9b13fbe68bbfd5bda6580f32d3798db1602b",
         "airing_id": "RADS1003052500024086",
         "id": "gOyU0O4JRbunDksWdyBGNA",
@@ -1925,7 +2030,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1748180729,
+        "published": 1748184920,
         "tags": [
             "athf aqua teen hunger force episode broodwich episode 28"
         ],
@@ -1936,6 +2041,59 @@
         "launch_date": 1741150800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241539172-athf_028_BIM.jpg",
         "cma_id": "1210600"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1445969760,
+        "auth_expiration_date": 1748318340,
+        "tms_id": "EP004662930029",
+        "rating": 6.98155,
+        "description": "Meatwad gains the power to see the near future.  Shake tries to make a few bucks with Meatwad's new psychic abilities.",
+        "title_suggest": {
+            "input": [
+                "Meatzone"
+            ]
+        },
+        "type": "episode",
+        "title": "Meatzone",
+        "expiration_date": 1741150740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "tCNv3vG8S92F8kgKu9_1Vg",
+        "duration": 668.7007007,
+        "episode_number": "11",
+        "original_air_date": 1063597500,
+        "clip_order": null,
+        "auth_launch_date": 1741150800,
+        "modified": 1748184654,
+        "media_id": "c12a359c752d00c8776c19436fa1b56cdc90f02f",
+        "airing_id": "RADS1002272500023179",
+        "id": "gvlFw93zQKizNAC23_LeOQ",
+        "slug": "meatzone",
+        "views": 569316,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/1_202241539423-athf_029_BIM.jpg",
+        "created": 1402945461,
+        "title_id": "447815",
+        "season_number": "2",
+        "tv_rating": "tv-14-d",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1748184654,
+        "tags": [
+            "athf aqua teen hunger force episode meatzone meatwad 29"
+        ],
+        "rating_count": 4879,
+        "collection_title": "Aqua Teen Hunger Force",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1740546000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241539423-athf_029_BIM.jpg",
+        "cma_id": "1213593"
     },
     {
         "auth": true,
