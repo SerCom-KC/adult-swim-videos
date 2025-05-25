@@ -821,7 +821,7 @@
         },
         "title": "Anger Erupts! I Will Take Everything upon Myself!",
         "type": "episode",
-        "expiration_date": null,
+        "expiration_date": 1749978060,
         "platforms": [
             "android",
             "ios",
@@ -834,9 +834,9 @@
         "original_air_date": 1747546380,
         "auth_launch_date": 1747558920,
         "clip_order": null,
-        "airing_id": "RADS1005122500035525",
+        "airing_id": "RADS1005232500037777",
         "media_id": "85a661838556422dfe2903c2781d4604a7f868d4",
-        "modified": 1748004668,
+        "modified": 1748163949,
         "slug": "anger-erupts-i-will-take-everything-upon-myself",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20250515/thumbnails/1_255151714180-OP725_s17E97.jpg",
@@ -844,12 +844,12 @@
         "title_id": "2550973",
         "season_number": "17",
         "tv_rating": "tv-14-v",
-        "published": 1748004668,
+        "published": 1748163949,
         "tags": [],
         "collection_title": "One Piece",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": null,
+        "launch_date": 1749373320,
         "poster": "https://media.cdn.adultswim.com/uploads/20250515/thumbnails/2_255151714180-OP725_s17E97.jpg",
         "id": "AZbGVroCC3J9ee8ny7vo",
         "auth": true
@@ -900,6 +900,41 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250515/thumbnails/2_255151715154-OP726_S17E98.png",
         "id": "AZbGVvSZC3J9ee8ny7vp",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1749978060,
+        "created": 1747615819,
+        "tms_id": "",
+        "title_id": "2550975",
+        "season_number": "17",
+        "tv_rating": "tv-14",
+        "description": "King Riku calls out to his people: survive long enough for Luffy to vanquish the last of the royal family -- Doflamingo himself!",
+        "title_suggest": {
+            "input": [
+                "A Massive Counterattack! Doflamingo's Awakening!",
+                "Massive Counterattack! Doflamingo's Awakening!",
+                "Counterattack! Doflamingo's Awakening!",
+                "Doflamingo's Awakening!",
+                "Awakening!"
+            ]
+        },
+        "published": 1747834259,
+        "title": "A Massive Counterattack! Doflamingo's Awakening!",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1305.304,
+        "episode_number": "",
+        "collection_title": "One Piece",
+        "original_air_date": 1748151240,
+        "auth_launch_date": 1748163720,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1005192500036215",
+        "media_id": "f642ab6954f7f7f7683eb1dbf6e5bead5cb80653",
+        "modified": 1747834259,
+        "slug": "a-massive-counterattack-doflamingos-awakening",
+        "id": "AZbmBSce5aaI-__GJ7QB",
         "auth": true
     }
 ]
