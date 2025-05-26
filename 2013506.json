@@ -7330,6 +7330,53 @@
         "auth": false
     },
     {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Rick left the kids in a matrix. Not chill, broh.",
+        "title_suggest": {
+            "input": [
+                "Summer of All Fears",
+                "of All Fears",
+                "All Fears",
+                "Fears"
+            ]
+        },
+        "title": "Summer of All Fears",
+        "expiration_date": 1756958340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 1393.0249,
+        "episode_number": "1",
+        "original_air_date": "1748228400",
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1005232500038034",
+        "media_id": "d127ba1617355f67a7ed0f32ae578de917ce1f8e",
+        "modified": 1748025955,
+        "slug": "summer-of-all-fears",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250516/thumbnails/1_255161450178-RAM-S08E01-1920x1080.png",
+        "created": 1747421436,
+        "season_number": "8",
+        "title_id": "2555951",
+        "tv_rating": "tv-14-lv",
+        "published": 1748025955,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1748228400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250516/thumbnails/2_255161450178-RAM-S08E01-1920x1080.png",
+        "id": "AZbabxumC3J9ee8ny70V",
+        "auth": false
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
