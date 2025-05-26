@@ -1,7 +1,6 @@
 {
-    "updated": 1748236298,
-    "added": [],
-    "removed": [
+    "updated": 1748237018,
+    "added": [
         {
             "auth": true,
             "ott_launch_date": 1445970000,
@@ -29,7 +28,7 @@
             "original_air_date": 1070251200,
             "clip_order": null,
             "auth_launch_date": 1742356800,
-            "modified": 1748234721,
+            "modified": 1748236825,
             "media_id": "71cfdf78973c934e88bff28b01b705c4a30bccfd",
             "airing_id": "RADS1003132500025143",
             "id": "A0Sgx06vRe2lOsm9-H4TOQ",
@@ -44,7 +43,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1748234721,
+            "published": 1748236825,
             "tags": [
                 "frat aliens",
                 "dr. weird",
@@ -78,5 +77,6 @@
             "collection_title_id": "340537",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
