@@ -1,63 +1,6 @@
 {
-    "updated": 1748245118,
+    "updated": 1748245151,
     "added": [
-        {
-            "auth": true,
-            "ott_launch_date": 1445970240,
-            "auth_expiration_date": 1748318340,
-            "tms_id": "EP004662930038",
-            "rating": 8.481435,
-            "description": "It's the week after Thanksgiving, and the Aqua Teens are visited by a robotic turkey.",
-            "title_suggest": {
-                "input": [
-                    "The Dressing",
-                    "Dressing"
-                ]
-            },
-            "type": "episode",
-            "title": "The Dressing",
-            "expiration_date": 1742356740,
-            "platforms": [
-                "web",
-                "mobile",
-                "ott"
-            ],
-            "collection_id": "tCNv3vG8S92F8kgKu9_1Vg",
-            "duration": 663.5338672,
-            "episode_number": "21",
-            "original_air_date": 1071460800,
-            "clip_order": null,
-            "auth_launch_date": 1742356800,
-            "modified": 1748244965,
-            "media_id": "ce7ceb31c3342beca0d95e7f0c82aac91b3f1aec",
-            "airing_id": "RADS1003132500025139",
-            "id": "W6uJJSUdTXqVTWPc1m19ig",
-            "slug": "the-dressing",
-            "views": 472890,
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/1_202241549181-athf_039_BIM.jpg",
-            "created": 1402945461,
-            "title_id": "449393",
-            "season_number": "2",
-            "tv_rating": "tv-14-lv",
-            "active": true,
-            "ott_expiration_date": null,
-            "blacklist": [],
-            "published": 1748244965,
-            "tags": [],
-            "rating_count": 1805,
-            "collection_title": "Aqua Teen Hunger Force",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1741752000,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241549181-athf_039_BIM.jpg",
-            "cma_id": "1243277",
-            "collection_slug": "aqua-teen-hunger-force",
-            "collection_title_id": "340537",
-            "online_exclusives": false
-        }
-    ],
-    "removed": [
         {
             "auth": true,
             "ott_launch_date": 1445970120,
@@ -164,6 +107,63 @@
             "launch_date": 1742356800,
             "poster": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241551104-athf_043_dst_cid-9283392.jpg",
             "cma_id": "1259565",
+            "collection_slug": "aqua-teen-hunger-force",
+            "collection_title_id": "340537",
+            "online_exclusives": false
+        }
+    ],
+    "removed": [
+        {
+            "auth": true,
+            "ott_launch_date": 1445970240,
+            "auth_expiration_date": 1748318340,
+            "tms_id": "EP004662930038",
+            "rating": 8.481435,
+            "description": "It's the week after Thanksgiving, and the Aqua Teens are visited by a robotic turkey.",
+            "title_suggest": {
+                "input": [
+                    "The Dressing",
+                    "Dressing"
+                ]
+            },
+            "type": "episode",
+            "title": "The Dressing",
+            "expiration_date": 1742356740,
+            "platforms": [
+                "web",
+                "mobile",
+                "ott"
+            ],
+            "collection_id": "tCNv3vG8S92F8kgKu9_1Vg",
+            "duration": 663.5338672,
+            "episode_number": "21",
+            "original_air_date": 1071460800,
+            "clip_order": null,
+            "auth_launch_date": 1742356800,
+            "modified": 1748244965,
+            "media_id": "ce7ceb31c3342beca0d95e7f0c82aac91b3f1aec",
+            "airing_id": "RADS1003132500025139",
+            "id": "W6uJJSUdTXqVTWPc1m19ig",
+            "slug": "the-dressing",
+            "views": 472890,
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/1_202241549181-athf_039_BIM.jpg",
+            "created": 1402945461,
+            "title_id": "449393",
+            "season_number": "2",
+            "tv_rating": "tv-14-lv",
+            "active": true,
+            "ott_expiration_date": null,
+            "blacklist": [],
+            "published": 1748244965,
+            "tags": [],
+            "rating_count": 1805,
+            "collection_title": "Aqua Teen Hunger Force",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1741752000,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241549181-athf_039_BIM.jpg",
+            "cma_id": "1243277",
             "collection_slug": "aqua-teen-hunger-force",
             "collection_title_id": "340537",
             "online_exclusives": false
