@@ -2,6 +2,56 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1748923140,
+        "tms_id": "EP012792980092",
+        "description": "The upcoming Land Ship parade could mean increased business for Bob, until he learns that two port-o-potties will be placed in front of the restaurant. Meanwhile, Tina learns from her friends that she's boring, so she joins up with Jordan who has been vandalizing the school with graffiti. But when Jordan wants to spray graffiti on the Land Ship, Tina must decide between ruining the parade and disappointing her new crush.",
+        "title_suggest": {
+            "input": [
+                "The Land Ship",
+                "Land Ship",
+                "Ship"
+            ]
+        },
+        "title": "The Land Ship",
+        "type": "episode",
+        "expiration_date": 1675054740,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1301.0333667,
+        "episode_number": "2",
+        "original_air_date": 1475721000,
+        "clip_order": null,
+        "auth_launch_date": 1748318400,
+        "modified": 1748151338,
+        "media_id": "cc14511aefcd6eae90b4bd7a9640f8dbc95ec1aa",
+        "airing_id": "RADS1005192500036350",
+        "id": "1wkLQSpVSe6417MkEhhR3g",
+        "slug": "the-land-ship",
+        "views": 10516,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1475385041,
+        "title_id": "2097190",
+        "tv_rating": "tv-pg",
+        "season_number": "6",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1748151338,
+        "first_published": 1475385041,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1674450000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-land-ship/bobsburgers_511_air_cid-2WX46.jpg",
+        "cma_id": "1430229"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1748750340,
         "tms_id": "EP012792980089",
         "description": "Bob and Louise are thrilled when they meet Hawk, star of their favorite 70's samurai vs. monster movies. When they find out Hawk is estranged from his daughter, who starred as Chick in his movies, they engineer a Hawk and Chick reunion.",
@@ -586,55 +636,5 @@
         "launch_date": 1673845200,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/the-oeder-games/bobsburgers_508_air_cid-33DRJ.jpg",
         "cma_id": "1478688"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1748318340,
-        "tms_id": "EP012792980082",
-        "description": "Linda's sister, Gayle, arrives at the restaurant in tears because her date cancelled on her and she had tickets to Yarnival. Desperate to get out of the house after being grounded, the kids compete to be Aunt Gayle's date via an essay contest.",
-        "title_suggest": {
-            "input": [
-                "The Gayle Tales",
-                "Gayle Tales",
-                "Tales"
-            ]
-        },
-        "expiration_date": 1672635540,
-        "title": "The Gayle Tales",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 1298.2335669,
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "episode_number": "13",
-        "original_air_date": 1448245800,
-        "clip_order": null,
-        "auth_launch_date": 1747713600,
-        "modified": 1747415435,
-        "media_id": "d331c693a7224bdab96e555da2374d01992c1507",
-        "airing_id": "RADS1005132500035632",
-        "id": "zrdbrKwgT8i9Ac0WkNpSWw",
-        "slug": "the-gayle-tales",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1446214524,
-        "season_number": "5",
-        "title_id": "2065462",
-        "tv_rating": "tv-pg-dlv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1747415435,
-        "first_published": 1448252443,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1672030800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-gayle-tales/bobsburgers_501_air_cid-2N2CW.jpg",
-        "cma_id": "1475402"
     }
 ]
