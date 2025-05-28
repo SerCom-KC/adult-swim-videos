@@ -2,7 +2,7 @@
     {
         "auth": false,
         "ott_launch_date": null,
-        "auth_expiration_date": 1721188740,
+        "auth_expiration_date": 1752638340,
         "tms_id": "EP002989350042",
         "rating": 8.683472,
         "description": "In a suspicious coincidence, Melissa and Jason each break their arms. This may affect the current film in production, but Brendon is also worried that he is dumb, or at the very least, that Melissa is smarter than he is. Meanwhile, McGuirk wants desperately to become a lifeguard.",
@@ -24,10 +24,10 @@
         "episode_number": "11",
         "original_air_date": 1037588400,
         "clip_order": null,
-        "auth_launch_date": 1718164800,
-        "modified": 1748230131,
+        "auth_launch_date": 1749614400,
+        "modified": 1748404904,
         "media_id": "7e2775da36f568957fdbd28c5ee6ce5ef7f6a990",
-        "airing_id": "RADS1004302500034132",
+        "airing_id": "RADS1005252500038156",
         "id": "1jVnCfTPTneifhJSJYaUbw",
         "slug": "broken-dreams",
         "views": 387824,
@@ -40,7 +40,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1748230131,
+        "published": 1748404904,
         "tags": [
             "home movies episode 37 broken dreams melissa jason break arm broken coach mcguirk lifeguard"
         ],
@@ -105,7 +105,7 @@
         "cma_id": "983605"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1751428740,
         "tms_id": "EP002989350037",
@@ -314,5 +314,61 @@
         "launch_date": 1745985600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351624175-hmovies_036.jpg",
         "cma_id": "978544"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1723003140,
+        "tms_id": "EP002989350045",
+        "rating": 8.687079,
+        "description": "Brendon begins writing reviews for a movie website called movie-winner-or-weiner.com.  Jason and Melissa are excited because Brendon gets passes for all of them to see the premiere of \"All That Violence\".  Meanwhile, Coach McGuirk wreaks havoc because he's finally got a friend \"on the inside\".",
+        "title_suggest": {
+            "input": [
+                "Everyone's Entitled to My Opinion",
+                "Entitled to My Opinion",
+                "to My Opinion",
+                "My Opinion",
+                "Opinion"
+            ]
+        },
+        "type": "episode",
+        "title": "Everyone's Entitled to My Opinion",
+        "expiration_date": 1751428740,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "CQMThq0uQi6kHeqdPOaQQw",
+        "duration": 1344.6006006,
+        "episode_number": "1",
+        "original_air_date": 1068537600,
+        "clip_order": null,
+        "auth_launch_date": 1719979200,
+        "modified": 1748248261,
+        "media_id": "6a47ae549f5b2c7b7414d3a86cfba991a9857695",
+        "airing_id": "RADS1005212500036489",
+        "id": "fhfvso9iTi-4J1k9KUlz7Q",
+        "slug": "everyones-entitled-to-my-opinion",
+        "views": 453187,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/1_20351621174-hmovies_040.jpg",
+        "created": 1402945467,
+        "title_id": "446850",
+        "season_number": "4",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1748248261,
+        "tags": [
+            "home movies episode 40 brendon jason melissa everyones entitled to my opinion review movie winner weiner"
+        ],
+        "rating_count": 1192,
+        "collection_title": "Home Movies",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1748404800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351621174-hmovies_040.jpg",
+        "cma_id": "988854"
     }
 ]

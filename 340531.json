@@ -173,7 +173,7 @@
         },
         "type": "episode",
         "title": "Goldfish",
-        "expiration_date": 1745985540,
+        "expiration_date": 1752638340,
         "platforms": [
             "web",
             "mobile",
@@ -185,9 +185,9 @@
         "original_air_date": 999484200,
         "clip_order": null,
         "auth_launch_date": 1745985600,
-        "modified": 1745558916,
+        "modified": 1748404895,
         "media_id": "35c670bb168c03a9f973f62dab46bb33ebcc5bf4",
-        "airing_id": "RADS1003202500026227",
+        "airing_id": "RADS1005252500038562",
         "id": "VDWhpXruRNmGw5r1vUq6Pg",
         "slug": "goldfish",
         "views": 229175,
@@ -200,7 +200,7 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1745558916,
+        "published": 1748404895,
         "tags": [
             "brak show episode 1 goldfish premiere babysit thundercleese lake toilet death tickles"
         ],
@@ -208,12 +208,12 @@
         "collection_title": "The Brak Show",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1742961600,
+        "launch_date": 1749614400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032142793-brak_2101.jpg",
         "cma_id": "1469990"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1451673480,
         "auth_expiration_date": 1751428740,
         "tms_id": "EP004625740007",
@@ -264,57 +264,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1745380800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321425296-brak_2107.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1748404740,
-        "tms_id": "EP004625740003",
-        "description": "Brak baby-sits Mr. Thundercleese's goldfish, Mr. Tickles, while he's away.",
-        "title_suggest": {
-            "input": [
-                "Leave It to Brak",
-                "It to Brak",
-                "to Brak",
-                "Brak"
-            ]
-        },
-        "title": "Leave It to Brak",
-        "type": "episode",
-        "expiration_date": 1752033540,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kO2EmOL4QNu0WyD_1GSm5w",
-        "duration": 733.67,
-        "episode_number": "",
-        "original_air_date": 977389200,
-        "clip_order": null,
-        "auth_launch_date": 1745380800,
-        "modified": 1747918869,
-        "media_id": "b9b83c6518ce6bab2490b2aaac6ef1c380fc22a2",
-        "airing_id": "RADS1005222500037428",
-        "id": "g6ETTWagTuSqGpOnN-WRLA",
-        "slug": "leave-it-to-brak",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/1_20321444207-brak_001.jpg",
-        "created": 1413400256,
-        "season_number": "4",
-        "title_id": "340532",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1747918869,
-        "first_published": 1413400256,
-        "tags": [],
-        "collection_title": "The Brak Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1749009600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321444207-brak_001.jpg",
         "cma_id": ""
     },
     {
@@ -428,7 +377,7 @@
     {
         "auth": false,
         "ott_launch_date": 1451673660,
-        "auth_expiration_date": 1745985540,
+        "auth_expiration_date": 1752638340,
         "tms_id": "EP004625740014",
         "rating": 8.4886055,
         "description": "Dad gets upset with the neighborhood association and decides to run for its presidency. With the help of Brak and Zorak, he puts an ad in the newspaper filled with lies about the current president, Galrog. In retaliation, Galrog challenges Dad to a public debate.",
@@ -451,9 +400,9 @@
         "episode_number": "4",
         "original_air_date": 1022470200,
         "clip_order": null,
-        "auth_launch_date": 1742961600,
-        "modified": 1746161085,
-        "airing_id": "RADS1004302500034158",
+        "auth_launch_date": 1749614400,
+        "modified": 1748405825,
+        "airing_id": "RADS1005252500038564",
         "media_id": "cf6195ba06dd46765db861ee6d8b7803df99199b",
         "id": "mccXjb2PR8mGvHrJRsWTHg",
         "slug": "president-dad",
@@ -467,7 +416,7 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1746161085,
+        "published": 1748405825,
         "tags": [
             "brak show episode 13 president dad neighborhood association debate galrog"
         ],
@@ -478,6 +427,62 @@
         "launch_date": 1746590400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321428163-brak_2204.jpg",
         "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1451673840,
+        "auth_expiration_date": 1747799940,
+        "tms_id": "EP004625740021",
+        "rating": 8.393286,
+        "description": "It's \"Take Your Son to Work Day\" and Brak is bumming because his dad doesn't have a job. Also, giant ants.",
+        "title_suggest": {
+            "input": [
+                "We Ski In Peace",
+                "Ski In Peace",
+                "In Peace",
+                "Peace"
+            ]
+        },
+        "type": "episode",
+        "title": "We Ski In Peace",
+        "expiration_date": 1751428740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "kO2EmOL4QNu0WyD_1GSm5w",
+        "duration": 678.63,
+        "episode_number": "11",
+        "original_air_date": 1041222600,
+        "clip_order": null,
+        "auth_launch_date": 1744776000,
+        "modified": 1747841889,
+        "media_id": "62096cd9e247e6f8df5863725f3fd32fcc6afb13",
+        "airing_id": "RADS1005212500036510",
+        "id": "txlx10CfRjSGghpXrlZz-g",
+        "slug": "we-ski-in-peace",
+        "views": 160591,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/1_20321430550-brak_2211.jpg",
+        "created": 1402945478,
+        "title_id": "438041",
+        "season_number": "2",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1747841889,
+        "tags": [
+            "brak show episode 20 we ski in peace take your son to work day giant ants"
+        ],
+        "rating_count": 417,
+        "collection_title": "The Brak Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1748404800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321430550-brak_2211.jpg",
+        "cma_id": "1468686"
     },
     {
         "auth": false,
