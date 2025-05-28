@@ -373,7 +373,7 @@
         "cma_id": "1397822"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447450560,
         "auth_expiration_date": 1748404740,
         "tms_id": "EP009235020019",
@@ -641,7 +641,7 @@
         "cma_id": "1467238"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447450380,
         "auth_expiration_date": 1756699140,
         "tms_id": "EP009235020012",
@@ -1852,7 +1852,7 @@
         },
         "type": "episode",
         "title": "Vacation",
-        "expiration_date": 1730260740,
+        "expiration_date": 1752638340,
         "platforms": [
             "web",
             "mobile",
@@ -1864,9 +1864,9 @@
         "original_air_date": 1307937600,
         "clip_order": null,
         "auth_launch_date": 1730260800,
-        "modified": 1729837989,
+        "modified": 1748404901,
         "media_id": "5436b80b84b60a71e0a5376558cc9ceea99e6f83",
-        "airing_id": "RADS1010232400099207",
+        "airing_id": "RADS1005252500038554",
         "id": "wZei93tJQQiqvbBfVRy_fg",
         "slug": "vacation",
         "views": 264882,
@@ -1879,13 +1879,13 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1729837989,
+        "published": 1748404901,
         "tags": [],
         "rating_count": 891,
         "collection_title": "Superjail!",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1727236800,
+        "launch_date": 1749614400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200421/thumbnails/2_204211057581-superjail_209_bim.jpg",
         "cma_id": "840324"
     },

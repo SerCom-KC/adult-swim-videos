@@ -104,7 +104,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447439700,
         "auth_expiration_date": 1748404740,
         "tms_id": "EP004625760042",
@@ -1116,7 +1116,7 @@
         },
         "type": "episode",
         "title": "Green Fever",
-        "expiration_date": 1721188740,
+        "expiration_date": 1752638340,
         "platforms": [
             "web",
             "mobile",
@@ -1128,9 +1128,9 @@
         "original_air_date": 1101703500,
         "clip_order": null,
         "auth_launch_date": 1721188800,
-        "modified": 1721742382,
+        "modified": 1748404900,
         "media_id": "1a8bdf2b36734185e00f0658cfe1a6a7984857dc",
-        "airing_id": "RADS1007112400080747",
+        "airing_id": "RADS1005252500038549",
         "id": "P3mSxnN1T_Sf--qFKvqLMQ",
         "slug": "green-fever",
         "views": 206618,
@@ -1143,7 +1143,7 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1721742382,
+        "published": 1748404900,
         "tags": [
             "sealab 2021 green fever episode 42"
         ],
@@ -1151,7 +1151,7 @@
         "collection_title": "Sealab 2021",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1718164800,
+        "launch_date": 1749614400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200416/thumbnails/2_2041691212-sealab_042.jpg",
         "cma_id": ""
     },
@@ -1370,7 +1370,7 @@
         "cma_id": "1468184"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447439340,
         "auth_expiration_date": 1756699199,
         "tms_id": "EP004625760038",

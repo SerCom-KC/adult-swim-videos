@@ -1091,7 +1091,7 @@
         "cma_id": "1323747"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447784880,
         "auth_expiration_date": 1756699140,
         "tms_id": "EP008994530052",
@@ -1866,7 +1866,7 @@
         "cma_id": "1334329"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447785060,
         "auth_expiration_date": 1748404740,
         "tms_id": "EP008994530047",
@@ -2475,7 +2475,7 @@
     {
         "auth": false,
         "ott_launch_date": 1447784940,
-        "auth_expiration_date": 1746590340,
+        "auth_expiration_date": 1756699140,
         "tms_id": "EP008994530044",
         "rating": 7.89054,
         "description": "When a young actress stumbles upon Casey's remains in the woods, she unknowingly sets his reanimation in motion. (Guest starring: Patrick Duffy, Maynard Keenan, Wendell Pierce, John C Reilly, Al Yankovic)",
@@ -2497,9 +2497,9 @@
         "episode_number": "3",
         "original_air_date": 1268627400,
         "clip_order": null,
-        "auth_launch_date": 1718164800,
-        "modified": 1746168401,
-        "airing_id": "RADS1006062400074654",
+        "auth_launch_date": 1749614400,
+        "modified": 1748404926,
+        "airing_id": "RADS1005252500038560",
         "media_id": "1f5f001030de87938db960e2c01f627fed1c6166",
         "id": "shtN5SkXSzuXjkauatL9jA",
         "slug": "reanimated",
@@ -2512,7 +2512,7 @@
         "tv_rating": "tv-ma",
         "active": true,
         "ott_expiration_date": null,
-        "published": 1746168401,
+        "published": 1748404926,
         "tags": [],
         "rating_count": 1955,
         "collection_title": "Tim and Eric Awesome Show Great Job!",
