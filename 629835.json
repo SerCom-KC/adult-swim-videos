@@ -66,6 +66,53 @@
         "cma_id": "982284"
     },
     {
+        "auth": false,
+        "auth_expiration_date": 1748491140,
+        "description": "When Bobby discovers a talent for target shooting, Hank discovers that an experience from his own childhood is affecting his aim.",
+        "title_suggest": {
+            "input": [
+                "How to Fire a Rifle Without Really Trying",
+                "to Fire a Rifle Without Really Trying",
+                "Fire a Rifle Without Really Trying",
+                "a Rifle Without Really Trying",
+                "Rifle Without Really Trying",
+                "Without Really Trying",
+                "Really Trying",
+                "Trying"
+            ]
+        },
+        "title": "How to Fire a Rifle Without Really Trying",
+        "type": "episode",
+        "expiration_date": 1403886600,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1394.6933,
+        "episode_number": "2",
+        "original_air_date": 1231210800,
+        "clip_order": null,
+        "auth_launch_date": 1747886400,
+        "modified": 1747799133,
+        "airing_id": "RADS1005132500035761",
+        "media_id": "0ab051c56f241f33804b14ad6c6078021f191287",
+        "id": "_i0nhA0VSzGgRtDn1xAeVg",
+        "slug": "how-to-fire-a-rifle-without-really-trying",
+        "created": 1403628530,
+        "season_number": "2",
+        "title_id": "728414",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "published": 1747799133,
+        "tags": [],
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1403628523,
+        "poster": "",
+        "cma_id": ""
+    },
+    {
         "auth": true,
         "auth_expiration_date": 1749009540,
         "tms_id": "EP002070020020",
@@ -210,54 +257,5 @@
         "launch_date": 1414812600,
         "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_14489.jpg",
         "cma_id": "1028877"
-    },
-    {
-        "auth": true,
-        "auth_expiration_date": 1749095940,
-        "tms_id": "EP002070020021",
-        "rating": 8.4840425531915,
-        "description": "It's the battle of the ages when Hank and his friends face off against four teenagers for a game of paintball.\r\n",
-        "title_suggest": {
-            "input": [
-                "The Man Who Shot Cane Skretteburg ",
-                "Man Who Shot Cane Skretteburg",
-                "Who Shot Cane Skretteburg",
-                "Shot Cane Skretteburg",
-                "Cane Skretteburg",
-                "Skretteburg"
-            ]
-        },
-        "type": "episode",
-        "title": "The Man Who Shot Cane Skretteburg ",
-        "expiration_date": 1407268243,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1408.5738,
-        "episode_number": "7",
-        "original_air_date": 1231470000,
-        "clip_order": null,
-        "auth_launch_date": 1748491200,
-        "modified": 1748329911,
-        "airing_id": "RADS1005212500036551",
-        "media_id": "b85c3914ddfdef8953b0b76b0a7613b7740cca58",
-        "id": "z15UJer0TSyTM_DcJbxz2A",
-        "slug": "the-man-who-shot-cane-skretteburg",
-        "views": 109159,
-        "created": 1402945468,
-        "title_id": "728420",
-        "season_number": "2",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "published": 1748329911,
-        "tags": [],
-        "rating_count": 188,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1232082000,
-        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_14494.jpg",
-        "cma_id": ""
     }
 ]

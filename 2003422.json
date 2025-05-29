@@ -337,6 +337,56 @@
         "auth": false
     },
     {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1748491140,
+        "tms_id": "EP012792980084",
+        "description": "Bob and Linda head out on the town for a date but to Linda's dismay, Bob's idea of romance proves trivial. Meanwhile, a wild chinchilla chase ensues after the school pet that Louis was charged with watching escapes out the front door.",
+        "title_suggest": {
+            "input": [
+                "Adventures in Chinchilla-Sitting",
+                "in Chinchilla-Sitting",
+                "Chinchilla-Sitting"
+            ]
+        },
+        "expiration_date": 1673240340,
+        "title": "Adventures in Chinchilla-Sitting",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1288.4004004,
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "episode_number": "15",
+        "original_air_date": 1448935200,
+        "clip_order": null,
+        "auth_launch_date": 1747886400,
+        "modified": 1747758047,
+        "media_id": "9ae3bd4895fe2026c5cc392a0880ce22fe6ec9fd",
+        "airing_id": "RADS1005132500035760",
+        "id": "EwK0rT-OR7-XEWIg3JcDsw",
+        "slug": "adventures-in-chinchilla-sitting",
+        "views": 4,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1448307650,
+        "season_number": "5",
+        "title_id": "2065464",
+        "tv_rating": "tv-pg-dlv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1747758047,
+        "first_published": 1448943618,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1672635600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/adventures-in-chinchilla-sitting/bobsburgers_503_air_cid-2N2D0.jpg",
+        "cma_id": "1475842"
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1748663940,
@@ -585,56 +635,5 @@
         "launch_date": 1673845200,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/the-oeder-games/bobsburgers_508_air_cid-33DRJ.jpg",
         "cma_id": "1478688"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1749095940,
-        "tms_id": "EP012792980094",
-        "description": "When Gayle is injured, Linda sends Bob off to pick her up so she doesn't miss out on the Thanksgiving festivities. But a snowstorm derails his trip home and his epic plan to prepare the turkey is foiled.",
-        "title_suggest": {
-            "input": [
-                "Gayle Makin' Bob Sled",
-                "Makin' Bob Sled",
-                "Bob Sled",
-                "Sled"
-            ]
-        },
-        "title": "Gayle Makin' Bob Sled",
-        "type": "episode",
-        "expiration_date": 1675054740,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1298.5338672,
-        "episode_number": "4",
-        "original_air_date": 1484794800,
-        "clip_order": null,
-        "auth_launch_date": 1748491200,
-        "modified": 1748326578,
-        "media_id": "129e1c8d99bfd9ce3d6b214e4de5021aead414eb",
-        "airing_id": "RADS1005212500036550",
-        "id": "v6nNJ5WAThuzJULB1NDY5w",
-        "slug": "gayle-makin-bob-sled",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1484460645,
-        "title_id": "2097192",
-        "tv_rating": "tv-pg",
-        "season_number": "6",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1748326578,
-        "first_published": 1484460645,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1674450000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/gayle-makin-bob-sled/bobsburgers_517_air_cid-2X4TJ.jpg",
-        "cma_id": "1432023"
     }
 ]
