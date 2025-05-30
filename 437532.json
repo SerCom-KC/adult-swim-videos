@@ -1,51 +1,5 @@
 [
     {
-        "auth_expiration_date": 1748577540,
-        "tms_id": "EP003034830128",
-        "description": "Amy and Leela become addicted to \"Nectar\", a nutritional supplement that boosts their performance in the future sport of Butterfly Derby.",
-        "title_suggest": {
-            "input": [
-                "The Butterjunk Effect",
-                "Butterjunk Effect",
-                "Effect"
-            ]
-        },
-        "title": "The Butterjunk Effect",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1377.4427,
-        "episode_number": "6",
-        "original_air_date": 1655083800,
-        "auth_launch_date": 1747972800,
-        "clip_order": null,
-        "airing_id": "RADS1005142500035809",
-        "media_id": "9e3424837a1fc06a922f06d55c9f9477fb7a93c2",
-        "modified": 1747807843,
-        "slug": "the-butterjunk-effect",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220609/thumbnails/1_22691646364-Futurama_906_TheButterjunkEffect.png",
-        "created": 1654739451,
-        "title_id": "2161651",
-        "season_number": "9",
-        "tv_rating": "tv-14-dl",
-        "published": 1747807843,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220609/thumbnails/2_22691646364-Futurama_906_TheButterjunkEffect.png",
-        "id": "AYFGKD6N208s7zyYUNFs",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1748750340,
         "tms_id": "EP003034830130",
         "description": "Fry is the victim of a horrific sausage-making accident.",
@@ -229,6 +183,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220621/thumbnails/2_226211416352-Futurama_910_NearDeathWish.png",
         "id": "AYGHex9h3sQvipyea9U5",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1749182340,
+        "tms_id": "EP003034830138",
+        "description": "The crew stages a casino heist to recover stolen property from the Robot Mafia.",
+        "title_suggest": {
+            "input": [
+                "Viva Mars Vegas",
+                "Mars Vegas",
+                "Vegas"
+            ]
+        },
+        "title": "Viva Mars Vegas",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1363.7624,
+        "episode_number": "11",
+        "original_air_date": "1656896400",
+        "auth_launch_date": 1748577600,
+        "clip_order": null,
+        "airing_id": "RADS1005212500036671",
+        "media_id": "54ff80fd36da01f3a4fcbb41eb9fea2daf6d1c0b",
+        "modified": 1748465196,
+        "slug": "viva-mars-vegas",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220628/thumbnails/1_226281432530-Futurama_912_VivaMarsVegas.png",
+        "created": 1656441181,
+        "season_number": "9",
+        "title_id": "2161657",
+        "tv_rating": "tv-14-dlv",
+        "published": 1748465196,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220628/thumbnails/2_226281432530-Futurama_912_VivaMarsVegas.png",
+        "id": "AYGrlpYA208s7zyYUNR6",
         "auth": true
     }
 ]
