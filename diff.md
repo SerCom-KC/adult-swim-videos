@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 31, 2025 at 10:30:18 EDT_
+_Last Update: May 31, 2025 at 17:30:13 EDT_
 ## Video added
 ### Summary
-610028 The Boondocks: 1  
-### 683089
-**The Boondocks S02E12 - The Story of Catcher Freeman**  
-TV-MA 🔒 21:14  
-⌛ June 8, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-boondocks/the-story-of-catcher-freeman  
-seriesid=`610028` titleid=`683089` id=`mhnO2eHRQgW_kIiiosDhwg` mediaid=`52222c08eace9cfa0abd4a952f7b778f3207a67a`  
-_Three very different versions of a slave revolt led by Huey and Riley's great great great great great great grandparents. Who says the 1860's couldn't be fun?_  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321132307-boondocks_211.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321132307-boondocks_211.jpg" height="144px" /></a>
+608360 Robot Chicken: 1  
+### 612678
+**Robot Chicken S01E17 - Operation Rich in Spirit**  
+TV-MA 🔒 11:17  
+⌛ June 9, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/robot-chicken/operation-rich-in-spirit  
+seriesid=`608360` titleid=`612678` id=`O9B6JQ5dTBmsuWOIR-WTBw` mediaid=`dc1c17d964ac07515b31ffa4d73453c72c54b47d`  
+_A video dating experience takes a turn for the worse. An Oriental massage also takes a turn for the worse._  
+<a href="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_203262111104-robotchicken_018.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_203262111104-robotchicken_018.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
