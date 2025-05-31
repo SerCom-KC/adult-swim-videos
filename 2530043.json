@@ -1,50 +1,5 @@
 [
     {
-        "auth_expiration_date": 1748663940,
-        "tms_id": "",
-        "description": "Kydd and Felixx attend a slumber party and learn that mirror demons aren't nearly as scary as their own reflections.",
-        "title_suggest": {
-            "input": [
-                "Bloody Mary",
-                "Mary"
-            ]
-        },
-        "title": "Bloody Mary",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AZBvkmVYSaru9Cdsy7Cx",
-        "duration": 660.4932,
-        "episode_number": "3",
-        "original_air_date": 1721016000,
-        "auth_launch_date": 1745640000,
-        "clip_order": null,
-        "airing_id": "RADS1004202500031718",
-        "media_id": "566a9366aebe2bc888142382796d531742b90873",
-        "modified": 1745214270,
-        "slug": "bloody-mary",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240715/thumbnails/1_24715112430-PSICOPS_SEASON1_EP103_SHOWSTILLS_IMAGE3_LEFTTORIGHT_KYDDFELIXXERIC.jpg",
-        "created": 1720661162,
-        "title_id": "2530046",
-        "season_number": "1",
-        "tv_rating": "tv-ma-v",
-        "published": 1745214270,
-        "tags": [],
-        "collection_title": "Psi-Cops",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240715/thumbnails/2_24715112430-PSICOPS_SEASON1_EP103_SHOWSTILLS_IMAGE3_LEFTTORIGHT_KYDDFELIXXERIC.jpg",
-        "id": "AZCfZbr2Saru9Cdsy7JP",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1749268740,
         "tms_id": "",
         "description": "Kydd, Felixx, and Eric's dead grandpappy band together to teach Eric the art of seduction.",
@@ -221,6 +176,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20240729/thumbnails/2_24729946167-PSICOPS_SEASON1_EP107_SHOWSTILLS_IMAGE3_KYDDINTESTINESCHOKING.jpg",
         "id": "AZDqRbETg6zBH7G86tg0",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1751687940,
+        "tms_id": "",
+        "description": "Getting to know your colleagues is hard, especially when one might be a demon in disguise.",
+        "title_suggest": {
+            "input": [
+                "Shape Shifter",
+                "Shifter"
+            ]
+        },
+        "title": "Shape Shifter",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZBvkmVYSaru9Cdsy7Cx",
+        "duration": 660.4598,
+        "episode_number": "8",
+        "original_air_date": 1722226500,
+        "auth_launch_date": 1748664000,
+        "clip_order": null,
+        "airing_id": "RADS1005212500036814",
+        "media_id": "66c28bec7ec9e5e0b4a2ee62b860308893a7ac9f",
+        "modified": 1748500882,
+        "slug": "shape-shifter",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240729/thumbnails/1_24729946319-PSICOPS_SEASON1_EP108_SHOWSTILLS_IMAGE3_LEFTTORIGHT_KYDDFELIXXDEADGRANDPACHIEFBEEFERICGRAVEYARD.jpg",
+        "created": 1721918608,
+        "title_id": "2530051",
+        "season_number": "1",
+        "tv_rating": "tv-ma-lv",
+        "published": 1748500882,
+        "tags": [],
+        "collection_title": "Psi-Cops",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240729/thumbnails/2_24729946319-PSICOPS_SEASON1_EP108_SHOWSTILLS_IMAGE3_LEFTTORIGHT_KYDDFELIXXDEADGRANDPACHIEFBEEFERICGRAVEYARD.jpg",
+        "id": "AZDqWNLyg6zBH7G86tg1",
         "auth": true
     }
 ]
