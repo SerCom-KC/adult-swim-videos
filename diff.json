@@ -1,6 +1,7 @@
 {
-    "updated": 1748728958,
-    "added": [
+    "updated": 1748729800,
+    "added": [],
+    "removed": [
         {
             "auth": true,
             "ott_launch_date": 1447347420,
@@ -28,7 +29,7 @@
             "original_air_date": 1116820800,
             "clip_order": null,
             "auth_launch_date": 1719892800,
-            "modified": 1748728607,
+            "modified": 1748729217,
             "airing_id": "RADS1006272400077578",
             "media_id": "258ccfe6557c2f97dfb601f67414979241e7d30d",
             "id": "NW5819tbTfKTXwK4zoS7Dw",
@@ -43,7 +44,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1748728607,
+            "published": 1748729217,
             "tags": [
                 "robot chicken atta toy episode 16"
             ],
@@ -58,6 +59,5 @@
             "collection_title_id": "608360",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
