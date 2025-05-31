@@ -1,6 +1,7 @@
 {
-    "updated": 1748725348,
-    "added": [
+    "updated": 1748728178,
+    "added": [],
+    "removed": [
         {
             "auth": true,
             "ott_launch_date": 1447347420,
@@ -30,8 +31,8 @@
             "original_air_date": 1119844800,
             "clip_order": null,
             "auth_launch_date": 1719892800,
-            "modified": 1748724985,
-            "airing_id": "RADS1006272400077570",
+            "modified": 1748726507,
+            "airing_id": "RADS1005222500037012",
             "media_id": "dc1c17d964ac07515b31ffa4d73453c72c54b47d",
             "id": "O9B6JQ5dTBmsuWOIR-WTBw",
             "slug": "operation-rich-in-spirit",
@@ -45,7 +46,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1748724985,
+            "published": 1748726507,
             "tags": [],
             "rating_count": 3372,
             "collection_title": "Robot Chicken",
@@ -58,6 +59,5 @@
             "collection_title_id": "608360",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
