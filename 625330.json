@@ -1,53 +1,5 @@
 [
     {
-        "auth": false,
-        "auth_expiration_date": 1717387140,
-        "tms_id": "EP007833440002",
-        "description": "Episode 2 - Win or Lose",
-        "title_suggest": {
-            "input": [
-                "Win or Lose",
-                "or Lose",
-                "Lose"
-            ]
-        },
-        "title": "Win or Lose",
-        "type": "episode",
-        "expiration_date": 1748663940,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "osidPNXcS1yNBAh4Sq1lrQ",
-        "duration": 1370.736,
-        "episode_number": "2",
-        "original_air_date": 1131247800,
-        "clip_order": null,
-        "auth_launch_date": 1716782400,
-        "modified": 1748182949,
-        "airing_id": "RADS1005302400072646",
-        "media_id": "d70a9e67ab353bec93743dd1a573079e74866e3a",
-        "id": "7UqBCTv6SGyLAh1Wy3TUTA",
-        "slug": "win-or-lose",
-        "views": 131,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240122/thumbnails/1_241221622386-Screenshot2024-01-22at4.22.13PM.png",
-        "created": 1420636822,
-        "title_id": "627622",
-        "tv_rating": "tv-y7-fv",
-        "season_number": "1",
-        "active": false,
-        "published": 1748182949,
-        "first_published": 1420636822,
-        "tags": [],
-        "collection_title": "IGPX",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1717387200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240122/thumbnails/2_241221622386-Screenshot2024-01-22at4.22.13PM.png",
-        "cma_id": "1047844"
-    },
-    {
         "auth_expiration_date": 1722225540,
         "tms_id": "EP007833440010",
         "description": "It was decided Team Satomi would hold a rematch against Team Sledgemamma. Takeshi's machine's right leg makes an odd noise. What could be the problem? Can Takeshi continue the race? Can Team Satomi defeat Team Sledgemamma?",
@@ -229,7 +181,7 @@
     },
     {
         "auth": false,
-        "auth_expiration_date": 1718596740,
+        "auth_expiration_date": 1751083140,
         "tms_id": "EP007833440004",
         "description": "Episode 4 - The Ghost",
         "title_suggest": {
@@ -250,9 +202,9 @@
         "episode_number": "4",
         "original_air_date": 1132455600,
         "clip_order": null,
-        "auth_launch_date": 1717992000,
-        "modified": 1718223171,
-        "airing_id": "RADS1006052400074296",
+        "auth_launch_date": 1749873600,
+        "modified": 1748665281,
+        "airing_id": "RADS1005252500038684",
         "media_id": "dddf3a937fcf0282b14e8bf3b4a9ddefaf23dc86",
         "id": "GgITQIY7QlS7o0ErBgxLeg",
         "slug": "the-ghost",
@@ -264,7 +216,7 @@
         "title_id": "627624",
         "tv_rating": "tv-y7-fv",
         "active": false,
-        "published": 1718223171,
+        "published": 1748665281,
         "first_published": 1421846440,
         "tags": [],
         "collection_title": "IGPX",
@@ -474,7 +426,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1748663940,
         "tms_id": "EP007833440001",
         "description": "Episode 1 - A Time to Shine",

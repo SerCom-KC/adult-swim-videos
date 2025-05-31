@@ -2,221 +2,138 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 31, 2025 at 00:00:16 EDT_
+_Last Update: May 31, 2025 at 00:30:40 EDT_
 ## Video added
 ### Summary
-581006 American Dad: 2  
-340537 Aqua Teen Hunger Force: 18  
-2003422 Bob's Burgers: 2  
-### 2238758
-**American Dad S16E10 - Henderson**  
-TV-14-DLSV 🔒 21:03  
+437532 Futurama: 1  
+629835 King of the Hill: 1  
+2530043 Psi-Cops: 1  
+343621 Samurai Jack: 6  
+2224723 YOLO Crystal Fantasy: 1  
+### 2161656
+**Futurama S09E12 - 31st Century Fox**  
+TV-14-D 🔒 22:43  
 ⌛ June 6, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/henderson  
-seriesid=`581006` titleid=`2238758` id=`AX5VsoEb208s7zyYUL9o` mediaid=`78a4dfab99c4e5a7e8566f08e75e70eb6bfbe6cd`  
-_Stan's childhood imaginary friend returns to collect a debt. Klaus has a big date and needs a fishbowl upgrade._  
-<a href="https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_221141718493-AmericanDad_1511_Henderson.png"><img src="https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_221141718493-AmericanDad_1511_Henderson.png" height="144px" /></a>
-### 2238756
-**American Dad S16E09 - Mused and Abused**  
-TV-14-DLSV 🔒 21:03  
+https://www.adultswim.com/videos/futurama/31st-century-fox  
+seriesid=`437532` titleid=`2161656` id=`AYGrlx83208s7zyYUNR7` mediaid=`16c19996c155de1e0dc26344aa94573d3acc65ac`  
+_After saving a robotic fox from hunters, Bender becomes the hunted._  
+<a href="https://media.cdn.adultswim.com/uploads/20220628/thumbnails/2_226281433292-Futurama_911_31stCenturyFox.png"><img src="https://media.cdn.adultswim.com/uploads/20220628/thumbnails/2_226281433292-Futurama_911_31stCenturyFox.png" height="144px" /></a>
+### 728423
+**King of the Hill S02E09 - Bobby Slam**  
+TV-PG-DL 🔒 23:39  
 ⌛ June 6, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/mused-and-abused  
-seriesid=`581006` titleid=`2238756` id=`AX5Vso9F208s7zyYUL9p` mediaid=`010fe4916be56068c81ffdf05ab3c42547313a4e`  
-_Roger reveals a secret passion to Klaus; Stan and Francine seek revenge on Bazooka Sharks management._  
-<a href="https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_22114171837-AmericanDad_1509_MusedAndAbused.png"><img src="https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_22114171837-AmericanDad_1509_MusedAndAbused.png" height="144px" /></a>
-### 747310
-**Aqua Teen Hunger Force S06E07 - 2-and-a-Half-Star Wars Out Of Five**  
-TV-MA 🔒 11:35  
-⌛ November 18, 2025 at 23:59:59 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/2-and-a-half-star-wars-out-of-five  
-seriesid=`340537` titleid=`747310` id=`EHMtuk2mQmWFQ9fg8uzSTg` mediaid=`c3ea09791159355c50fc9bd50c193844c8444a1c`  
-_The trio is offered a great deal on their lawn service._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225951150-athf_085_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225951150-athf_085_BIM.jpg" height="144px" /></a>
-### 702585
-**Aqua Teen Hunger Force S05E10 - Bible Fruit**  
-TV-MA 🔒 11:32  
-⌛ November 11, 2025 at 23:59:59 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/bible-fruit  
-seriesid=`340537` titleid=`702585` id=`My3w4Nb4SPi72XdoPFtx2g` mediaid=`fdff959c1c9f394197176b80782733c5b0eeba4c`  
-_Frylock decides to party with some friends he met through a social networking website._  
-<a href="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_20224171981-athf_078_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_20224171981-athf_078_BIM.jpg" height="144px" /></a>
-### 747307
-**Aqua Teen Hunger Force S06E04 - Chick Magnet**  
-TV-MA 🔒 11:14  
-⌛ November 18, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/chick-magnet  
-seriesid=`340537` titleid=`747307` id=`xjehOzf5RH-UbOeaBdMwfw` mediaid=`91967db8417db8e526ce4a4b314994a1e79f84b1`  
-_In an attempt to attract women the trio orders a literal Chick Magnet._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225948411-athf_082_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225948411-athf_082_BIM.jpg" height="144px" /></a>
-### 702579
-**Aqua Teen Hunger Force S05E07 - Couples Skate**  
-TV-MA 🔒 11:26  
-⌛ November 4, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/couples-skate  
-seriesid=`340537` titleid=`702579` id=`vH0al5JXRnG0qVZkCd-MEw` mediaid=`eae42108d4ca8422f520a99d1bc4297741a6a536`  
-_The Aqua Teens must either escape the spider cocoons their landlord has trapped them in, or pay the rent they owe him._  
-<a href="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241717496-athf_075_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241717496-athf_075_bim.jpg" height="144px" /></a>
-### 747308
-**Aqua Teen Hunger Force S06E05 - Creature From The Plaque Lagoon**  
-TV-MA 🔒 11:54  
-⌛ November 18, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/creature-from-the-plaque-lagoon  
-seriesid=`340537` titleid=`747308` id=`xAsPUJOjTXqYgBz06atKVw` mediaid=`3c072d9d16e6d90b12d600bae409b40181f1bac3`  
-_Shake and Meatwad try to kidnap the tooth fairy but instead end up in a world of toothlessness, plaque, and identity theft._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225949104-athf_083_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225949104-athf_083_BIM.jpg" height="144px" /></a>
-### 747312
-**Aqua Teen Hunger Force S06E09 - Der Inflatable Fuhrer**  
-TV-MA 🔒 11:14  
-⌛ November 25, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/der-inflatable-fuhrer  
-seriesid=`340537` titleid=`747312` id=`AH2vEQ6RQam0Ik_VFHtlZA` mediaid=`048b173014ccdbbc119500f042cf5703751ebebe`  
-_Frylock takes up some side work, and it's for the kids._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225952185-athf_087_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225952185-athf_087_BIM.jpg" height="144px" /></a>
-### 702583
-**Aqua Teen Hunger Force S05E08 - Dummy Love**  
-TV-MA 🔒 11:29  
-⌛ November 11, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/dummy-love  
-seriesid=`340537` titleid=`702583` id=`qimtILbiRRSplgY3ckebgA` mediaid=`f04d214ae5f859f6ed869a23c895a57c8fada187`  
-_A murderous ventriloquist dummy finds out that his favorite internal organ is the heart._  
-<a href="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241718137-athf_076_air_PRORES.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241718137-athf_076_air_PRORES.jpg" height="144px" /></a>
-### 747311
-**Aqua Teen Hunger Force S06E08 - Fry Legs**  
-TV-MA 🔒 11:28  
-⌛ November 18, 2025 at 23:59:59 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/fry-legs  
-seriesid=`340537` titleid=`747311` id=`_uKY2-GpQ8C3wC7EPRgdlQ` mediaid=`5e0f5ff9ad553afeb9d048554b3806e66583a532`  
-_Frylock falls for a girl and like most men in love, begins acting insane._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225951495-athf_086_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225951495-athf_086_BIM.jpg" height="144px" /></a>
-### 747304
-**Aqua Teen Hunger Force S06E01 - Gene E**  
-TV-MA 🔒 11:19  
-⌛ November 11, 2025 at 23:59:59 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/gene-e  
-seriesid=`340537` titleid=`747304` id=`kXq3kh9sQCKHIjU3KSyo-g` mediaid=`0c00df4f28a6a6724bae295b477483d2afa9b068`  
-_The trio is granted the special gift of invisibility and immediately use it to spy on women in the bathroom._  
-<a href="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241719318-athf_079_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241719318-athf_079_bim.jpg" height="144px" /></a>
-### 702581
-**Aqua Teen Hunger Force S05E05 - Hoppy Bunny**  
-TV-MA 🔒 11:09  
-⌛ November 4, 2025 at 23:59:59 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/hoppy-bunny  
-seriesid=`340537` titleid=`702581` id=`GcvxAhvZQ4GlftahiBRYrg` mediaid=`c9ad18d945d939f96515cfdf616c43009f16a559`  
-_Carl's home becomes a haven for furries._  
-<a href="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241716146-athf_073_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241716146-athf_073_BIM.jpg" height="144px" /></a>
-### 702582
-**Aqua Teen Hunger Force S05E06 - Laser Lenses**  
-TV-MA 🔒 11:07  
-⌛ November 4, 2025 at 23:59:59 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/laser-lenses  
-seriesid=`340537` titleid=`702582` id=`FkNXjtYjRf-y4Vfyr0zNSQ` mediaid=`74bff183a210134077e0cce655f852053ed807bb`  
-_Master Shake's megalomania soars to new heights once he steals Frylock's laser-shooting contact lenses._  
-<a href="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241716403-athf_074_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241716403-athf_074_bim.jpg" height="144px" /></a>
-### 702580
-**Aqua Teen Hunger Force S05E04 - Reedickyoulus**  
-TV-MA-V 🔒 11:24  
-⌛ November 4, 2025 at 23:59:59 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/reedickyoulus  
-seriesid=`340537` titleid=`702580` id=`w0azUTooQ7GbvPyEdntmrA` mediaid=`3dd9cd717942589e7f767335bf48d782052f0629`  
-_Carl's new male enhancement device produces some unsavory side effects._  
-<a href="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241715488-athf_072_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241715488-athf_072_bim.jpg" height="144px" /></a>
-### 702577
-**Aqua Teen Hunger Force S05E02 - Robots Everywhere**  
-TV-14-LV 🔒 11:31  
-⌛ October 28, 2025 at 23:59:59 EDT  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/robots-everywhere  
-seriesid=`340537` titleid=`702577` id=`pUwlUB20QmOzr_w0NnrtXQ` mediaid=`669390be5817118202423916f2970c0a68487e74`  
-_A family of destructive robots take over the Aqua Teen house._  
-<a href="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241714469-athf_070_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241714469-athf_070_bim.jpg" height="144px" /></a>
-### 747306
-**Aqua Teen Hunger Force S06E03 - She Creature**  
-TV-MA 🔒 11:31  
-⌛ November 11, 2025 at 23:59:59 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/she-creature  
-seriesid=`340537` titleid=`747306` id=`UP7XAwpnScaT9R1Nq2LvGA` mediaid=`a3f490bd022c95c754924070ce45ba72b49ace09`  
-_There's a monster living at the bottom of Carl's pool and the Mafia wants to take advantage of the situation._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_2022594889-athf_081_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_2022594889-athf_081_bim.jpg" height="144px" /></a>
-### 702578
-**Aqua Teen Hunger Force S05E03 - Sirens**  
-TV-MA 🔒 11:33  
-⌛ November 4, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/sirens  
-seriesid=`340537` titleid=`702578` id=`4Uagpo_vSBOGcEbs8j6j2w` mediaid=`2d2c66f95df109aa2ef8df414af071d4a19117b1`  
-_With the Aqua Teens gone, a trio of Sirens move into their house.  Their wanton songs pique Carl's attention._  
-<a href="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241715211-athf_071_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241715211-athf_071_bim.jpg" height="144px" /></a>
-### 747313
-**Aqua Teen Hunger Force S06E10 - The Last Last One Forever and Ever**  
-TV-MA 🔒 11:39  
-⌛ November 25, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/the-last-last-one-forever-and-ever  
-seriesid=`340537` titleid=`747313` id=`SV8-ed0vR_qd0SLKPMwcEQ` mediaid=`dff63afd33e0ce3ab4f445659ece4fc04ffe6e5b`  
-_A very special live-action episode of Aqua Teen Hunger Force featuring T-Pain, H. Jon Benjamin, a large exercise ball, and a guy we hired to play Carl._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225953408-athf_088_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225953408-athf_088_BIM.jpg" height="144px" /></a>
-### 702584
-**Aqua Teen Hunger Force S05E09 - The Marines**  
-TV-MA 🔒 11:16  
-⌛ November 11, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/the-marines  
-seriesid=`340537` titleid=`702584` id=`i90Aj1vQSXO843dmzxn5qg` mediaid=`366e1e6acd0942525c41d55e212b79f319e4dfc0`  
-_When Meatwad unwittingly enlists the Aqua Teens into the Marine Corps, Frylock flees the country._  
-<a href="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241718449-athf_077_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241718449-athf_077_BIM.jpg" height="144px" /></a>
-### 747309
-**Aqua Teen Hunger Force S06E06 - Time Machine**  
-TV-14-DLV 🔒 11:36  
-⌛ November 18, 2025 at 23:59:59 EST  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/time-machine  
-seriesid=`340537` titleid=`747309` id=`3XlQiDGNQI-88Sl18czFfQ` mediaid=`e3e3653d56b55b0a9847f9194db51c7e3760fcb6`  
-_Frylock makes a time machine that he and Shake use to compete for ruler of dimension boob._  
-<a href="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225950274-athf_084_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200225/thumbnails/2_20225950274-athf_084_BIM.jpg" height="144px" /></a>
-### 2097196
-**Bob's Burgers S06E08 - Sexy Dance Healing**  
-TV-PG 🔒 21:31  
-⌛ June 6, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/sexy-dance-healing  
-seriesid=`2003422` titleid=`2097196` id=`irXYfNkpR0qqagndMoqUgw` mediaid=`f5141d7395baf55493b7990990f30bb67027c3ae`  
-_After Bob slips on the sidewalk, he is forced to take legal action in order to pay for surgery. In a turn of events, Bob finds himself under the care of Jairo, who promises to help him heal without a doctor. Meanwhile, the kids create a fake law firm to settle their personal disputes._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/sexy-dance-healing/bobsburgers_515_air_cid-2WYDJ_1.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/sexy-dance-healing/bobsburgers_515_air_cid-2WYDJ_1.jpg" height="144px" /></a>
-### 2097195
-**Bob's Burgers S06E07 - The Gene & Courtney Show**  
-TV-PG 🔒 21:36  
-⌛ June 6, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/the-gene-courtney-show  
-seriesid=`2003422` titleid=`2097195` id=`0AdbNN_BQna5isz9nm-d8w` mediaid=`d20f210e961b22cdf3d1f662940d1802a77acbb2`  
-_Gene and Courtney get their big break when they are asked to be the new hosts of the morning announcements, but their romantic history threatens to get in the way. Meanwhile, Tina's attempt to play Cupid goes tragically awry when she volunteers to spearhead the Valentine's Day carnation fundraiser._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/the-gene-courtney-show/bobsburgers_601_air_cid-2WX48.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-gene-courtney-show/bobsburgers_601_air_cid-2WX48.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/king-of-the-hill/bobby-slam  
+seriesid=`629835` titleid=`728423` id=`a4ueXcNiSgW9arCyBWCp8A` mediaid=`c507c2b12feddc06aa2581aec45764815f6e096e`  
+_Peggy insists that Connie be allowed to play on the school's all-boy wrestling team._  
+<a href="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_10353.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_10353.jpg" height="144px" /></a>
+### 2530051
+**Psi-Cops S01E08 - Shape Shifter**  
+TV-MA-LV 🔒 11:00  
+⌛ July 4, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/psi-cops/shape-shifter  
+seriesid=`2530043` titleid=`2530051` id=`AZDqWNLyg6zBH7G86tg1` mediaid=`66c28bec7ec9e5e0b4a2ee62b860308893a7ac9f`  
+_Getting to know your colleagues is hard, especially when one might be a demon in disguise._  
+<a href="https://media.cdn.adultswim.com/uploads/20240729/thumbnails/2_24729946319-PSICOPS_SEASON1_EP108_SHOWSTILLS_IMAGE3_LEFTTORIGHT_KYDDFELIXXDEADGRANDPACHIEFBEEFERICGRAVEYARD.jpg"><img src="https://media.cdn.adultswim.com/uploads/20240729/thumbnails/2_24729946319-PSICOPS_SEASON1_EP108_SHOWSTILLS_IMAGE3_LEFTTORIGHT_KYDDFELIXXDEADGRANDPACHIEFBEEFERICGRAVEYARD.jpg" height="144px" /></a>
+### 434834
+**Samurai Jack S03E03 - XXIX**  
+TV-Y7-FV 🔒 22:06  
+⌛ August 16, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/samurai-jack/xxix  
+seriesid=`343621` titleid=`434834` id=`7vWFR13XQz6nDF4jUeynEg` mediaid=`7dd432397a0169e8c59220f86ab628fd24e20568`  
+_Jack boards a train to his next destination only to be attacked by a couple of arguing bounty hunters._  
+<a href="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471413190-samjack_029.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471413190-samjack_029.jpg" height="144px" /></a>
+### 434832
+**Samurai Jack S03E01 - XXVII**  
+TV-Y7-FV 🔒 22:29  
+⌛ August 2, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/samurai-jack/xxvii  
+seriesid=`343621` titleid=`434832` id=`WwbbAuSoRw-9R5be8McEjQ` mediaid=`d5c0c8c08d9834d9eb79ed08aa84addd8b13b77a`  
+_Jack is turned into a chicken by a cranky wizard. While he tries to fix this, he gets caught by a "handler" and becomes a prize-winning Creature Combat fighter._  
+<a href="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471153548-samjack_027.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471153548-samjack_027.jpg" height="144px" /></a>
+### 434833
+**Samurai Jack S03E02 - XXVIII**  
+TV-Y7-FV 🔒 22:44  
+⌛ August 9, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/samurai-jack/xxviii  
+seriesid=`343621` titleid=`434833` id=`xT3ePCKZRzW-BORiAr3W-w` mediaid=`ef3be364300aab42d109c941e6af1cd9cab8f8bb`  
+_When a man's daughter is kidnapped by Aku's Children, Jack must infiltrate a rave to stop the musical brainwashing._  
+<a href="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471331436-samjack_028.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471331436-samjack_028.jpg" height="144px" /></a>
+### 434835
+**Samurai Jack S03E04 - XXX**  
+TV-Y7-FV 🔒 22:12  
+⌛ August 23, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/samurai-jack/xxx  
+seriesid=`343621` titleid=`434835` id=`698jXCHeQqmaRNSV6SxzOw` mediaid=`0fe532c28d83fb14b42a27529fc9535aa71666e7`  
+_Aku leads Jack to a graveyard where the dead begin to rise. An evil spirit takes over Jack's sword, leading Jack to defend himself against his own weapon. When Aku gets hold of the sword, Jack fears he's finally met his end._  
+<a href="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471413402-samjack_030.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471413402-samjack_030.jpg" height="144px" /></a>
+### 434836
+**Samurai Jack S03E05 - XXXI**  
+TV-Y7-FV 🔒 22:38  
+⌛ August 30, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/samurai-jack/xxxi  
+seriesid=`343621` titleid=`434836` id=`YsO8GWjyQ8O6f5uDfikSOw` mediaid=`099b31d02d10b746adcab5b6916da1f6336e7a30`  
+_Jack must read hieroglyphics, solve riddles and assemble a sacred scarab to call upon Ra for help in fighting evil ancient Egyptian shadow warriors._  
+<a href="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_2047141492-samjack_031.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_2047141492-samjack_031.jpg" height="144px" /></a>
+### 434837
+**Samurai Jack S03E06 - XXXII**  
+TV-Y7-FV 🔒 22:47  
+⌛ September 6, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/samurai-jack/xxxii  
+seriesid=`343621` titleid=`434837` id=`4dsfztJfSbSOzneSV4hUow` mediaid=`590ecde3111e550cc7a518d16f21c1fff4f0c94a`  
+_Jack must travel along a water creature, a mountain creature and a flying creature to get to a portal to return home. But once he reaches the portal, it is guarded by an undefeatable warrior who tells him that this portal is not for him._  
+<a href="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471414388-samjack_032.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471414388-samjack_032.jpg" height="144px" /></a>
+### 2412375
+**YOLO Crystal Fantasy S02E02 - Planet Bali**  
+TV-14-L 🔒 11:15  
+⌛ September 25, 2025 at 22:59:00 EDT  
+https://www.adultswim.com/videos/yolo/planet-bali  
+seriesid=`2224723` titleid=`2412375` id=`AYXMaLuK4k01GlbfzrYH` mediaid=`e9e10cd005a565253c69ee02985bafdf7d723126`  
+_Sarah, Rachel, and Lucas head to Planet Bali for Sarah's sister's wedding and are surprised to discover the identity of the groom. But the bride's intentions are far more sinister than tying the knot._  
+<a href="https://media.cdn.adultswim.com/uploads/20230120/thumbnails/2_23120182482-YOLO202Still001.png"><img src="https://media.cdn.adultswim.com/uploads/20230120/thumbnails/2_23120182482-YOLO202Still001.png" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 2  
-581006 American Dad: 2  
-### 2065468
-**Bob's Burgers S05E19 - Housetrap**  
-TV-PG-DLV 🔒 21:44  
+2529996 Sailor Moon: 1  
+2530043 Psi-Cops: 1  
+437532 Futurama: 1  
+625330 IGPX: 1  
+629835 King of the Hill: 1  
+### 2530000
+**Sailor Moon S01E04 - Learn How to Be Skinny from Usagi**  
+TV-PG-V 🔒 22:17  
 ⌛ May 30, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/housetrap  
-seriesid=`2003422` titleid=`2065468` id=`6Tm4GhhHRDy_HSL-uw8zQQ` mediaid=`4ee829b9a07504a4eaa97f8c1a46239e7280700a`  
-_In true Belcher fashion, the family gets stuck in a terrible storm while taking care of a beach house in Craggy Neck. The storm is the least of their worries, however, when they are forced to take shelter with the mysterious owner of the home._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/housetrap/bobsburgers_507_air_cid-2NFPH.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/housetrap/bobsburgers_507_air_cid-2NFPH.jpg" height="144px" /></a>
-### 2065467
-**Bob's Burgers S05E18 - Eat, Spray, Linda**  
-TV-PG-DL 🔒 21:29  
+https://www.adultswim.com/videos/sailor-moon/learn-how-to-be-skinny-from-usagi  
+seriesid=`2529996` titleid=`2530000` id=`AZAdTpTBg6zBH7G86tgS` mediaid=`19be328bf304a9c8df5d21fb6563f8e01e6e13ca`  
+_Usagi is shocked to find out that she's gained weight from too much eating. Determined to get back into shape and fast, Usagi and her friends join a gym that advertises instant results for its members._  
+<a href="https://media.cdn.adultswim.com/uploads/20240617/thumbnails/2_24617746524-CopyofSailorMoon_Ep004_Thumbnail_1920x1080_Pillarbox.jpg"><img src="https://media.cdn.adultswim.com/uploads/20240617/thumbnails/2_24617746524-CopyofSailorMoon_Ep004_Thumbnail_1920x1080_Pillarbox.jpg" height="144px" /></a>
+### 2530046
+**Psi-Cops S01E03 - Bloody Mary**  
+TV-MA-V 🔒 11:00  
 ⌛ May 30, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/eat-spray-linda  
-seriesid=`2003422` titleid=`2065467` id=`GF4w8jfUQySKUKlq1fD8TQ` mediaid=`b446e1fe4fc713e01f05bb97126319c66fa25484`  
-_It's Linda's birthday and Bob needs more time to plan her birthday surprise. But when he sends her out of the house as a distraction, she goes missing! Mayhem ensues as the Belchers must work together to find Linda._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/eat-spray-linda/bobsburgers_506_air_cid-2NH81.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/eat-spray-linda/bobsburgers_506_air_cid-2NH81.jpg" height="144px" /></a>
-### 2197424
-**American Dad S15E19 - Dammmm, Stan!**  
- 🔒 21:03  
-⌛ June 15, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/dammmm-stan  
-seriesid=`581006` titleid=`2197424` id=`AXb8OGRlQJ_4Uej5kTlR` mediaid=`a68056eeeacf63cfea17f64827a829528053400b`  
-_Stan goes to great lengths to find the "right" couple's activity for him and Francine; Hayley and Steve look into some mysterious markings they find on the door frame._  
-<a href="https://media.cdn.adultswim.com/uploads/20210113/thumbnails/2_21113948401-americandad_1420_air_cid-C5T6D-DamnStan.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210113/thumbnails/2_21113948401-americandad_1420_air_cid-C5T6D-DamnStan.jpg" height="144px" /></a>
-### 2197425
-**American Dad S15E20 - The Last Ride of the Dodge City Rambler**  
- 🔒 21:02  
-⌛ June 15, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-last-ride-of-the-dodge-city-rambler  
-seriesid=`581006` titleid=`2197425` id=`AXb8OJzqQJ_4Uej5kTlS` mediaid=`636725544290eb8e3928973bf218aad5319ca1e5`  
-_The Smiths take a trip on an old steam locomotive to visit Francine's aunt only to discover it's being hijacked._  
-<a href="https://media.cdn.adultswim.com/uploads/20210113/thumbnails/2_21113948546-americandad_1421_air_cid-C5TJD-LastRideOfDodgeCityRambler.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210113/thumbnails/2_21113948546-americandad_1421_air_cid-C5TJD-LastRideOfDodgeCityRambler.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/psi-cops/bloody-mary  
+seriesid=`2530043` titleid=`2530046` id=`AZCfZbr2Saru9Cdsy7JP` mediaid=`566a9366aebe2bc888142382796d531742b90873`  
+_Kydd and Felixx attend a slumber party and learn that mirror demons aren't nearly as scary as their own reflections._  
+<a href="https://media.cdn.adultswim.com/uploads/20240715/thumbnails/2_24715112430-PSICOPS_SEASON1_EP103_SHOWSTILLS_IMAGE3_LEFTTORIGHT_KYDDFELIXXERIC.jpg"><img src="https://media.cdn.adultswim.com/uploads/20240715/thumbnails/2_24715112430-PSICOPS_SEASON1_EP103_SHOWSTILLS_IMAGE3_LEFTTORIGHT_KYDDFELIXXERIC.jpg" height="144px" /></a>
+### 2161652
+**Futurama S09E07 - The Six Million Dollar Mon**  
+TV-14-DLV 🔒 23:14  
+⌛ May 30, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/futurama/the-six-million-dollar-mon  
+seriesid=`437532` titleid=`2161652` id=`AYFn3uX-_0O4w1rD3SYn` mediaid=`d8a73f85c0340f2803cafbeec0c0fc2e42c41f9c`  
+_Fed up with his inferiority to machines, Hermes replaces his body parts with mighty mechanical upgrades._  
+<a href="https://media.cdn.adultswim.com/uploads/20220615/thumbnails/2_226151057419-Futurama_907_TheSixMillionDollarMon.png"><img src="https://media.cdn.adultswim.com/uploads/20220615/thumbnails/2_226151057419-Futurama_907_TheSixMillionDollarMon.png" height="144px" /></a>
+### 627622
+**IGPX S01E02 - Win or Lose**  
+TV-Y7-FV 🔓 22:50  
+⌛ May 30, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/igpx/win-or-lose  
+seriesid=`625330` titleid=`627622` id=`7UqBCTv6SGyLAh1Wy3TUTA` mediaid=`d70a9e67ab353bec93743dd1a573079e74866e3a`  
+_Episode 2 - Win or Lose_  
+<a href="https://media.cdn.adultswim.com/uploads/20240122/thumbnails/2_241221622386-Screenshot2024-01-22at4.22.13PM.png"><img src="https://media.cdn.adultswim.com/uploads/20240122/thumbnails/2_241221622386-Screenshot2024-01-22at4.22.13PM.png" height="144px" /></a>
+### 728417
+**King of the Hill S02E04 - Hilloween**  
+TV-PG-DL 🔒 23:40  
+⌛ May 30, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/king-of-the-hill/hilloween  
+seriesid=`629835` titleid=`728417` id=`qKPzwimBRHS7YvGoJNeg6g` mediaid=`9b03f7e8367597fa5d80558033e0d83b4d5dc999`  
+_Hank is outraged when a conservative church member attempts to outlaw Halloween._  
+<a href="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_14489.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_14489.jpg" height="144px" /></a>
