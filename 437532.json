@@ -1,52 +1,5 @@
 [
     {
-        "auth_expiration_date": 1748750340,
-        "tms_id": "EP003034830130",
-        "description": "Fry is the victim of a horrific sausage-making accident.",
-        "title_suggest": {
-            "input": [
-                "Fun on a Bun",
-                "on a Bun",
-                "a Bun",
-                "Bun"
-            ]
-        },
-        "title": "Fun on a Bun",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1384.7166,
-        "episode_number": "8",
-        "original_air_date": "1655688600",
-        "auth_launch_date": 1748145600,
-        "clip_order": null,
-        "airing_id": "RADS1005162500036183",
-        "media_id": "9dc33dee3d9d04bf548f5eff953a3651fca0039b",
-        "modified": 1747977614,
-        "slug": "fun-on-a-bun",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220615/thumbnails/1_226151058181-Futurama_908_FunOnABun.png",
-        "created": 1655305105,
-        "season_number": "9",
-        "title_id": "2161653",
-        "tv_rating": "tv-14-dlv",
-        "published": 1747977614,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220615/thumbnails/2_226151058181-Futurama_908_FunOnABun.png",
-        "id": "AYFn32_V208s7zyYUNIk",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1748836740,
         "tms_id": "EP003034830131",
         "description": "Bender embarks on a quest for the meaning of life after discovering that as a robot he lacks free will.",
@@ -227,6 +180,50 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220628/thumbnails/2_226281433292-Futurama_911_31stCenturyFox.png",
         "id": "AYGrlx83208s7zyYUNR7",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1749355140,
+        "tms_id": "EP003034830139",
+        "description": "Bender and the crew are reimagined as wild animals in a nature documentary.",
+        "title_suggest": {
+            "input": [
+                "Naturama"
+            ]
+        },
+        "title": "Naturama",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1383.5488,
+        "episode_number": "13",
+        "original_air_date": "1657501200",
+        "auth_launch_date": 1748750400,
+        "clip_order": null,
+        "airing_id": "RADS1005212500036838",
+        "media_id": "e7b47682743db2cec2197b0ef0eb57f5d52a270f",
+        "modified": 1748595407,
+        "slug": "naturama",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220706/thumbnails/1_22761726147-Futurama_913_Naturama.png",
+        "created": 1657142785,
+        "season_number": "9",
+        "title_id": "2161658",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1748595407,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220706/thumbnails/2_22761726147-Futurama_913_Naturama.png",
+        "id": "AYHVaDU2IAxeiVkFtLQO",
         "auth": true
     }
 ]

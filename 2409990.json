@@ -57,7 +57,7 @@
         },
         "title": "Dreamers and Busters",
         "type": "episode",
-        "expiration_date": 1746935940,
+        "expiration_date": 1752983940,
         "platforms": [
             "android",
             "ios",
@@ -70,9 +70,9 @@
         "original_air_date": 1730608260,
         "auth_launch_date": 1746936000,
         "clip_order": null,
-        "airing_id": "RADS1003312500028233",
+        "airing_id": "RADS1005252500038718",
         "media_id": "e096403a955e990f6250af6d0b182bbe1abec96b",
-        "modified": 1746514621,
+        "modified": 1748750515,
         "slug": "dreamers-and-busters",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20241106/thumbnails/1_241161659464-IFGL-102-1920x1080.png",
@@ -80,12 +80,12 @@
         "title_id": "2409994",
         "season_number": "1",
         "tv_rating": "tv-pg-v",
-        "published": 1746514621,
+        "published": 1748750515,
         "tags": [],
         "collection_title": "Invincible Fight Girl",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1743912000,
+        "launch_date": 1749960000,
         "poster": "https://media.cdn.adultswim.com/uploads/20241106/thumbnails/2_241161659464-IFGL-102-1920x1080.png",
         "id": "AZLdcJU7CjvsJgIeWACw",
         "auth": true
@@ -270,7 +270,7 @@
         "launch_date": 1745726400,
         "poster": "https://media.cdn.adultswim.com/uploads/20241101/thumbnails/2_241111140541-IFGL-105-1920x1080.jpg",
         "id": "AZLoZB5cJ6hTPa_yiN8O",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1752379140,
@@ -324,7 +324,7 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1746935940,
+        "auth_expiration_date": 1752983940,
         "tms_id": "",
         "description": "Andy battles Bertie and learns the truth about her motivations while Craig and Mikey try to stop Ruff and Tumble from destroying Rumbleweed.",
         "title_suggest": {
@@ -346,11 +346,11 @@
         "duration": 1348.0467,
         "episode_number": "7",
         "original_air_date": null,
-        "auth_launch_date": 1743912000,
+        "auth_launch_date": 1749960000,
         "clip_order": null,
-        "airing_id": "RADS1003312500028235",
+        "airing_id": "RADS1005252500038720",
         "media_id": "159c008bb9a3b166eec073dabca193d3f2ef2b77",
-        "modified": 1746514620,
+        "modified": 1748750515,
         "slug": "bertie-unbound",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20241106/thumbnails/1_24116171517-IFGL-107-1920x1080.png",
@@ -358,7 +358,7 @@
         "season_number": "1",
         "title_id": "2409996",
         "tv_rating": "tv-pg-v",
-        "published": 1746514620,
+        "published": 1748750515,
         "tags": [],
         "collection_title": "Invincible Fight Girl",
         "disable_ads": false,
@@ -507,6 +507,6 @@
         "launch_date": 1748750400,
         "poster": "https://media.cdn.adultswim.com/uploads/20241106/thumbnails/2_241161710134-IFGL-110-1920x1080.png",
         "id": "AZLoicmxIFyXXN-f0MsK",
-        "auth": true
+        "auth": false
     }
 ]
