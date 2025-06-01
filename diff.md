@@ -2,17 +2,16 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 1, 2025 at 04:30:28 EDT_
+_Last Update: June 1, 2025 at 05:00:28 EDT_
 ## Video added
 ### Summary
-2012528 Blue Exorcist: 1  
-### 2546994
-**Blue Exorcist S02E03 - Suspicion Will Raise Bogies**  
-TV-14-LV 🔒 22:08  
-⌛ September 15, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/blue-exorcist/suspicion-will-raise-bogies  
-seriesid=`2012528` titleid=`2546994` id=`AZbZ0aCC5aaI-__GJ7PP` mediaid=`b7110ce226c145cb52fde667319eef7c27765fd8`  
-_Yaozo summons the heads of the Myoda sect as the group begins to question the actions of Tatsuma._  
-<a href="https://media.cdn.adultswim.com/uploads/20250516/thumbnails/2_255161158235-BEX-S02E03.png"><img src="https://media.cdn.adultswim.com/uploads/20250516/thumbnails/2_255161158235-BEX-S02E03.png" height="144px" /></a>
+608007 One Piece: 1  
+### 2550978
+**One Piece S17E?? - Flame Dragon King! Protect Luffy's Life!**  
+TV-14-V 🔒 21:45  
+⌛ June 22, 2025 at 04:59:00 EDT  
+https://www.adultswim.com/videos/one-piece/flame-dragon-king-protect-luffys-life  
+seriesid=`608007` titleid=`2550978` id=`AZb02-HDC3J9ee8ny73h` mediaid=`40150e209b5243cc1dcbe2eeee0ffa0cba095bfe`  
+_Bounce-man's power drains Luffy, leaving him in need of a rest before he can reuse his Haki, but luckily the gladiators from the Colosseum arrive!_  
 ## Video removed
 No videos were removed.  
