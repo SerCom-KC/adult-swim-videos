@@ -1,62 +1,6 @@
 {
-    "updated": 1748754817,
-    "added": [],
-    "removed": [
-        {
-            "auth": true,
-            "ott_launch_date": 1447346640,
-            "auth_expiration_date": 1748923140,
-            "tms_id": "EP007259620019",
-            "rating": 6.990205,
-            "description": "The classic film Jaws gets a special edition DVD.  Scandal at the North Pole is revealed in \"Unsolved Case Files: Claus & Effect.\" The A-Team solves its problems with maximum firepower and minimal intelligence.",
-            "title_suggest": {
-                "input": [
-                    "Nightmare Generator",
-                    "Generator"
-                ]
-            },
-            "type": "episode",
-            "title": "Nightmare Generator",
-            "expiration_date": 1749527940,
-            "platforms": [
-                "web",
-                "mobile",
-                "ott"
-            ],
-            "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
-            "duration": 675.6006006,
-            "episode_number": "16",
-            "original_air_date": 1119240000,
-            "clip_order": null,
-            "auth_launch_date": 1719892800,
-            "modified": 1748753815,
-            "airing_id": "RADS1005222500037014",
-            "media_id": "6dac8af5cb05977370a52f8ba32d37b5cf389642",
-            "id": "1p4z156UTiasVjeCyziY7g",
-            "slug": "nightmare-generator",
-            "views": 438515,
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200326/thumbnails/1_2032621377-robotchicken_003.jpg",
-            "created": 1402945475,
-            "title_id": "618426",
-            "season_number": "1",
-            "tv_rating": "tv-14-lv",
-            "active": false,
-            "ott_expiration_date": null,
-            "blacklist": [],
-            "published": 1748753815,
-            "tags": [],
-            "rating_count": 2654,
-            "collection_title": "Robot Chicken",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1748923200,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_2032621377-robotchicken_003.jpg",
-            "cma_id": "1137314",
-            "collection_slug": "robot-chicken",
-            "collection_title_id": "608360",
-            "online_exclusives": false
-        },
+    "updated": 1748755178,
+    "added": [
         {
             "auth": true,
             "ott_launch_date": 1447347060,
@@ -84,7 +28,7 @@
             "original_air_date": 1118635200,
             "clip_order": null,
             "auth_launch_date": 1719892800,
-            "modified": 1748753808,
+            "modified": 1748755002,
             "airing_id": "RADS1006272400077574",
             "media_id": "8747c733af2c6a892feccccd2f626b9747b312ec",
             "id": "3fXQcm2CREer_E3EWRysgw",
@@ -99,7 +43,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1748753808,
+            "published": 1748755002,
             "tags": [
                 "robot chicken",
                 "kitt",
@@ -118,5 +62,6 @@
             "collection_title_id": "608360",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
