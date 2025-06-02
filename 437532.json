@@ -1,96 +1,5 @@
 [
     {
-        "auth_expiration_date": 1748836740,
-        "tms_id": "EP003034830131",
-        "description": "Bender embarks on a quest for the meaning of life after discovering that as a robot he lacks free will.",
-        "title_suggest": {
-            "input": [
-                "Free Will Hunting",
-                "Will Hunting",
-                "Hunting"
-            ]
-        },
-        "title": "Free Will Hunting",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1387.4528,
-        "episode_number": "9",
-        "original_air_date": "1656291600",
-        "auth_launch_date": 1748232000,
-        "clip_order": null,
-        "airing_id": "RADS1005192500036269",
-        "media_id": "d260b02aa867d28e5db5f8d1950e8b35138fd7a4",
-        "modified": 1748063743,
-        "slug": "free-will-hunting",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220621/thumbnails/1_22621141610-Futurama_909_FreeWillHunting.png",
-        "created": 1655835367,
-        "season_number": "9",
-        "title_id": "2161654",
-        "tv_rating": "tv-14-dlv",
-        "published": 1748063743,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220621/thumbnails/2_22621141610-Futurama_909_FreeWillHunting.png",
-        "id": "AYGHepgm208s7zyYUNMz",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1748836740,
-        "tms_id": "EP003034830132",
-        "description": "The Professor is deeply disturbed when his parents return from virtual retirement aboard the Near-Death Star.",
-        "title_suggest": {
-            "input": [
-                "Near-Death Wish",
-                "Wish"
-            ]
-        },
-        "title": "Near-Death Wish",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1383.3486,
-        "episode_number": "10",
-        "original_air_date": "1656293400",
-        "auth_launch_date": 1748232000,
-        "clip_order": null,
-        "airing_id": "RADS1005192500036271",
-        "media_id": "29457daa58312ddbd41b4595c443342e92506228",
-        "modified": 1748067319,
-        "slug": "near-death-wish",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220621/thumbnails/1_226211416352-Futurama_910_NearDeathWish.png",
-        "created": 1655835402,
-        "season_number": "9",
-        "title_id": "2161655",
-        "tv_rating": "tv-14-dl",
-        "published": 1748067319,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220621/thumbnails/2_226211416352-Futurama_910_NearDeathWish.png",
-        "id": "AYGHex9h3sQvipyea9U5",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1749182340,
         "tms_id": "EP003034830138",
         "description": "The crew stages a casino heist to recover stolen property from the Robot Mafia.",
@@ -224,6 +133,99 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220706/thumbnails/2_22761726147-Futurama_913_Naturama.png",
         "id": "AYHVaDU2IAxeiVkFtLQO",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1749441540,
+        "tms_id": "EP003034830141",
+        "description": "Professor Farnsworth joins a gang of street-racing punks.",
+        "title_suggest": {
+            "input": [
+                "2-D Blacktop",
+                "Blacktop"
+            ]
+        },
+        "title": "2-D Blacktop",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1408.5071,
+        "episode_number": "1",
+        "original_air_date": "1657503000",
+        "auth_launch_date": 1748836800,
+        "clip_order": null,
+        "airing_id": "RADS1005222500036974",
+        "media_id": "342750da019a3228173ddb5ff68a88a8b52959bd",
+        "modified": 1748671299,
+        "slug": "2-d-blacktop",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220706/thumbnails/1_22761726519-Futurama_1001_2DBlacktop.png",
+        "created": 1657142821,
+        "season_number": "10",
+        "title_id": "2161659",
+        "tv_rating": "tv-14-dlv",
+        "published": 1748671299,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220706/thumbnails/2_22761726519-Futurama_1001_2DBlacktop.png",
+        "id": "AYHVaMNa3sQvipyea9V5",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1749441540,
+        "tms_id": "EP003034830142",
+        "description": "Fry and Leela's romantic vacation goes disturbingly wrong.",
+        "title_suggest": {
+            "input": [
+                "Fry and Leela's Big Fling",
+                "and Leela's Big Fling",
+                "Leela's Big Fling",
+                "Big Fling",
+                "Fling"
+            ]
+        },
+        "title": "Fry and Leela's Big Fling",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1408.8408,
+        "episode_number": "2",
+        "original_air_date": "1658106000",
+        "auth_launch_date": 1748836800,
+        "clip_order": null,
+        "airing_id": "RADS1005222500036976",
+        "media_id": "3da55dc4432eba05398f44a9d0a0ab3602c88288",
+        "modified": 1748681221,
+        "slug": "fry-and-leelas-big-fling",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220712/thumbnails/1_227121048278-Futurama_1002_FryAndLeelasBigFling.png",
+        "created": 1657637319,
+        "season_number": "10",
+        "title_id": "2161660",
+        "tv_rating": "tv-14-dlv",
+        "published": 1748681221,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220712/thumbnails/2_227121048278-Futurama_1002_FryAndLeelasBigFling.png",
+        "id": "AYHy4jMBIAxeiVkFtLQW",
         "auth": true
     }
 ]
