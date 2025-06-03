@@ -162,7 +162,7 @@
         "cma_id": "965599"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447347180,
         "auth_expiration_date": 1777953540,
         "tms_id": "EP007259620010",
@@ -442,7 +442,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447346640,
         "auth_expiration_date": 1748923140,
         "tms_id": "EP007259620019",
@@ -766,6 +766,64 @@
         "cma_id": ""
     },
     {
+        "auth": false,
+        "ott_launch_date": 1447347060,
+        "auth_expiration_date": 1778385540,
+        "tms_id": "EP007259620004",
+        "rating": 5.847112,
+        "description": "Michael Knight's talking car parties hard in \"KITT's Day Out.\" A brawl rocks the nursing home in \"Grandma Fu.\" Mary-Kate and Ashley Olsen unite to fight a rampaging dragon. George Jetson's murder takes center stage in \"Unsolved Case Files: I, Rosie.\"",
+        "title_suggest": {
+            "input": [
+                "Kiddie Pool",
+                "Pool"
+            ]
+        },
+        "type": "episode",
+        "title": "Kiddie Pool",
+        "expiration_date": 1749527940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 661.7674341,
+        "episode_number": "15",
+        "original_air_date": 1118635200,
+        "clip_order": null,
+        "auth_launch_date": 1749528000,
+        "modified": 1748759905,
+        "airing_id": "RADS1005252500038280",
+        "media_id": "8747c733af2c6a892feccccd2f626b9747b312ec",
+        "id": "3fXQcm2CREer_E3EWRysgw",
+        "slug": "kiddie-pool",
+        "views": 496977,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200326/thumbnails/1_20326216574-robotchicken_007.jpg",
+        "created": 1402945475,
+        "title_id": "609695",
+        "season_number": "1",
+        "tv_rating": "tv-14-lsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1748759905,
+        "tags": [
+            "robot chicken",
+            "kitt",
+            "knight rider",
+            "Ashley Olsen",
+            "Jetsons"
+        ],
+        "rating_count": 6737,
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1748923200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_20326216574-robotchicken_007.jpg",
+        "cma_id": "1153683"
+    },
+    {
         "auth": true,
         "ott_launch_date": 1447362360,
         "auth_expiration_date": 1762837140,
@@ -939,7 +997,7 @@
         },
         "type": "episode",
         "title": "Federated Resources",
-        "expiration_date": 1721102340,
+        "expiration_date": 1750737540,
         "platforms": [
             "web",
             "mobile",
@@ -951,8 +1009,8 @@
         "original_air_date": 1144639800,
         "clip_order": null,
         "auth_launch_date": 1721102400,
-        "modified": 1721742389,
-        "airing_id": "RADS1007112400080630",
+        "modified": 1748923313,
+        "airing_id": "RADS1005252500038861",
         "media_id": "29d4256b6d2f958459979aace7c31bd5bd23021f",
         "id": "5BiYUpxsQyqSkt9Gi6kj7A",
         "slug": "federated-resources",
@@ -966,7 +1024,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1721742389,
+        "published": 1748923313,
         "tags": [
             "robot chicken federated resources episode 25"
         ],
@@ -974,7 +1032,7 @@
         "collection_title": "Robot Chicken",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1720497600,
+        "launch_date": 1750132800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200327/thumbnails/2_20327843539-robotchicken_025.jpg",
         "cma_id": ""
     },
@@ -1616,7 +1674,7 @@
         },
         "type": "episode",
         "title": "1987",
-        "expiration_date": 1721102340,
+        "expiration_date": 1750737540,
         "platforms": [
             "web",
             "mobile",
@@ -1628,8 +1686,8 @@
         "original_air_date": 1147059000,
         "clip_order": null,
         "auth_launch_date": 1721102400,
-        "modified": 1720709928,
-        "airing_id": "RADS1007112400080622",
+        "modified": 1748923593,
+        "airing_id": "RADS1005252500038853",
         "media_id": "f93f8bfcbd44f5441d4cfd8d737e522efd5ea728",
         "id": "9v1InzlVRgmzAi1uRHK0gg",
         "slug": "1987",
@@ -1642,7 +1700,7 @@
         "tv_rating": "tv-ma",
         "active": false,
         "ott_expiration_date": null,
-        "published": 1720709928,
+        "published": 1748923593,
         "tags": [
             "robot chicken rc 1987 episode 23"
         ],
@@ -1650,7 +1708,7 @@
         "collection_title": "Robot Chicken",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1720497600,
+        "launch_date": 1750132800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411130286-robotchicken_023.jpg",
         "cma_id": ""
     },
@@ -6389,7 +6447,7 @@
         "cma_id": "1309572"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447347360,
         "auth_expiration_date": 1777953540,
         "tms_id": "EP007259620013",
@@ -6601,7 +6659,7 @@
         "cma_id": "1398369"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447189500,
         "auth_expiration_date": 1777953540,
         "tms_id": "EP007259620001",
@@ -7498,7 +7556,7 @@
         },
         "type": "episode",
         "title": "Dragon Nuts",
-        "expiration_date": 1721102340,
+        "expiration_date": 1750737540,
         "platforms": [
             "web",
             "mobile",
@@ -7510,8 +7568,8 @@
         "original_air_date": 1146801600,
         "clip_order": null,
         "auth_launch_date": 1721102400,
-        "modified": 1720709926,
-        "airing_id": "RADS1007112400080624",
+        "modified": 1748923313,
+        "airing_id": "RADS1005252500038855",
         "media_id": "8d994d77c6692fb49556aa3287a9e582e77ca6ed",
         "id": "J1mXYf4xSmWwE9BV6uAF-w",
         "slug": "dragon-nuts",
@@ -7524,7 +7582,7 @@
         "tv_rating": "tv-ma",
         "active": false,
         "ott_expiration_date": null,
-        "published": 1720709926,
+        "published": 1748923313,
         "tags": [
             "robot chicken dragon nuts episode 26"
         ],
@@ -7532,7 +7590,7 @@
         "collection_title": "Robot Chicken",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1720497600,
+        "launch_date": 1750132800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411128268-robotchicken_026.jpg",
         "cma_id": ""
     },
@@ -8130,7 +8188,7 @@
         "cma_id": "1344433"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447347420,
         "auth_expiration_date": 1748923140,
         "tms_id": "EP007259620014",
@@ -8306,6 +8364,60 @@
         "cma_id": "1360230"
     },
     {
+        "auth": false,
+        "ott_launch_date": 1447347420,
+        "auth_expiration_date": 1778385540,
+        "tms_id": "EP007259620016",
+        "rating": 6.905694,
+        "description": "A video dating experience takes a turn for the worse. An Oriental massage also takes a turn for the worse.",
+        "title_suggest": {
+            "input": [
+                "Operation Rich in Spirit",
+                "Rich in Spirit",
+                "in Spirit",
+                "Spirit"
+            ]
+        },
+        "type": "episode",
+        "title": "Operation Rich in Spirit",
+        "expiration_date": 1749527940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 677.001,
+        "episode_number": "17",
+        "original_air_date": 1119844800,
+        "clip_order": null,
+        "auth_launch_date": 1749528000,
+        "modified": 1748743798,
+        "airing_id": "RADS1005222500037012",
+        "media_id": "dc1c17d964ac07515b31ffa4d73453c72c54b47d",
+        "id": "O9B6JQ5dTBmsuWOIR-WTBw",
+        "slug": "operation-rich-in-spirit",
+        "views": 447991,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200326/thumbnails/1_203262111104-robotchicken_018.jpg",
+        "created": 1402945474,
+        "title_id": "612678",
+        "season_number": "1",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1748743798,
+        "tags": [],
+        "rating_count": 3372,
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1748923200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_203262111104-robotchicken_018.jpg",
+        "cma_id": "1186083"
+    },
+    {
         "auth": true,
         "ott_launch_date": 1447348620,
         "auth_expiration_date": 1753156740,
@@ -8430,7 +8542,7 @@
         },
         "type": "episode",
         "title": "Celebrity Rocket",
-        "expiration_date": 1721102340,
+        "expiration_date": 1750737540,
         "platforms": [
             "web",
             "mobile",
@@ -8442,8 +8554,8 @@
         "original_air_date": 1145849400,
         "clip_order": null,
         "auth_launch_date": 1721102400,
-        "modified": 1720710525,
-        "airing_id": "RADS1007032400078988",
+        "modified": 1748923313,
+        "airing_id": "RADS1005252500038857",
         "media_id": "388b845c1ce067a31a4278987640b2968e5e0c9a",
         "id": "PI-CXVwoTImL-EQOS-m8Ow",
         "slug": "celebrity-rocket",
@@ -8457,7 +8569,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1720710525,
+        "published": 1748923313,
         "tags": [
             "robot chicken rc celebrity rocket episode 24"
         ],
@@ -8465,7 +8577,7 @@
         "collection_title": "Robot Chicken",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1720497600,
+        "launch_date": 1750132800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200330/thumbnails/2_20330125408-robotchicken_024.jpg",
         "cma_id": "1038957"
     },
@@ -9015,7 +9127,7 @@
         "cma_id": "1419192"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447429140,
         "auth_expiration_date": 1777953540,
         "tms_id": "EP007259620011",
@@ -11351,6 +11463,60 @@
         "cma_id": "1287713"
     },
     {
+        "auth": false,
+        "ott_launch_date": 1447347420,
+        "auth_expiration_date": 1778385540,
+        "tms_id": "EP007259620015",
+        "rating": 7.142536,
+        "description": "Sailor Moon encounters a bone-chilling villain. A nerd wins a date with famous actress Scarlett Johansson.",
+        "title_suggest": {
+            "input": [
+                "Joint Point",
+                "Point"
+            ]
+        },
+        "type": "episode",
+        "title": "Joint Point",
+        "expiration_date": 1749527940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 713.1001001,
+        "episode_number": "14",
+        "original_air_date": 1118030400,
+        "clip_order": null,
+        "auth_launch_date": 1749528000,
+        "modified": 1748756518,
+        "airing_id": "RADS1005252500038283",
+        "media_id": "2bf4cc14ba7aa245d207e349b0b0eec0cc9410dc",
+        "id": "kGnQdXlaSKeln9GfpOaSzA",
+        "slug": "joint-point",
+        "views": 578478,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200326/thumbnails/1_20326216172-robotchicken_017.jpg",
+        "created": 1402945474,
+        "title_id": "612676",
+        "season_number": "1",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1748756518,
+        "tags": [
+            "robot chicken joint point episode 17"
+        ],
+        "rating_count": 3122,
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1748923200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_20326216172-robotchicken_017.jpg",
+        "cma_id": "1186167"
+    },
+    {
         "auth": true,
         "ott_launch_date": 1462802460,
         "auth_expiration_date": 1768885140,
@@ -11403,7 +11569,7 @@
         "cma_id": "1202047"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447347360,
         "auth_expiration_date": 1777953540,
         "tms_id": "EP007259620012",
@@ -11637,7 +11803,7 @@
         },
         "type": "episode",
         "title": "Easter Basket",
-        "expiration_date": 1721102340,
+        "expiration_date": 1750737540,
         "platforms": [
             "web",
             "mobile",
@@ -11649,8 +11815,8 @@
         "original_air_date": 1145244600,
         "clip_order": null,
         "auth_launch_date": 1721102400,
-        "modified": 1720710522,
-        "airing_id": "RADS1007112400080628",
+        "modified": 1748923313,
+        "airing_id": "RADS1005252500038859",
         "media_id": "8268fa004af170fb3bf3336b72397df774f6dedd",
         "id": "lQ7jVB4zQTuEzxtbsay5hw",
         "slug": "easter-basket",
@@ -11664,7 +11830,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1720710522,
+        "published": 1748923313,
         "tags": [
             "robot chicken rc easter basket episode 22"
         ],
@@ -11672,7 +11838,7 @@
         "collection_title": "Robot Chicken",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1720497600,
+        "launch_date": 1750132800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200330/thumbnails/2_20330125395-robotchicken_022.jpg",
         "cma_id": ""
     },

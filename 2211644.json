@@ -47,7 +47,7 @@
         "launch_date": 1748923200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200309/thumbnails/2_20391156505-ThreeBusyDebras_101_dup-20191115.jpg",
         "id": "AXDAA47b3HMJfT8do9OU",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -108,7 +108,7 @@
             ]
         },
         "title": "Sleepover!",
-        "expiration_date": 1743479940,
+        "expiration_date": 1753156740,
         "type": "episode",
         "platforms": [
             "android",
@@ -123,8 +123,8 @@
         "auth_launch_date": 1743480000,
         "clip_order": null,
         "media_id": "bf6479b7f68e1c9d35174889aa12b5c38ab39ba0",
-        "modified": 1743056815,
-        "airing_id": "RADS1003262500026815",
+        "modified": 1748923313,
+        "airing_id": "RADS1005252500038885",
         "slug": "sleepover",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20200324/thumbnails/1_2032493702-ThreeBusyDebras_103_dup-20191125.jpg",
@@ -134,12 +134,12 @@
         "tv_rating": "tv-14-dlv",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1743056815,
+        "published": 1748923313,
         "tags": [],
         "collection_title": "Three Busy Debras",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1740459600,
+        "launch_date": 1750132800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_2032493702-ThreeBusyDebras_103_dup-20191125.jpg",
         "id": "AXEMwtVWRs3h4hI_X2ku",
         "auth": true
@@ -520,7 +520,7 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1747108740,
+        "auth_expiration_date": 1756785540,
         "tms_id": "EP034548420016",
         "description": "It's Women's History Hour, and the children of Lemoncurd aren't happy about it!",
         "title_suggest": {
@@ -543,11 +543,11 @@
         "duration": 667.6003,
         "episode_number": "8",
         "original_air_date": "1652674500",
-        "auth_launch_date": 1740459600,
+        "auth_launch_date": 1750132800,
         "clip_order": null,
-        "airing_id": "RADS1002192500021999",
+        "airing_id": "RADS1005252500038883",
         "media_id": "df21fc41c056a0944307306695a226a67aac71f2",
-        "modified": 1747088613,
+        "modified": 1748923593,
         "slug": "womens-history-hour",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20220511/thumbnails/1_225111243462-ThreeBusyDebras_208_WomensHistoryHour.png",
@@ -555,7 +555,7 @@
         "season_number": "2",
         "title_id": "2323071",
         "tv_rating": "tv-14-l",
-        "published": 1747088613,
+        "published": 1748923593,
         "tags": [],
         "collection_title": "Three Busy Debras",
         "disable_ads": false,
@@ -699,7 +699,7 @@
         "launch_date": 1745899200,
         "poster": "https://media.cdn.adultswim.com/uploads/20220502/thumbnails/2_22521542342-ThreeBusyDebras_207_WhoHasDoneIt.png",
         "id": "AYCGS-40208s7zyYUMzY",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1754971140,

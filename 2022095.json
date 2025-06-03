@@ -105,7 +105,7 @@
     {
         "auth": false,
         "ott_launch_date": 1449846000,
-        "auth_expiration_date": 1735016340,
+        "auth_expiration_date": 1751342340,
         "tms_id": "EP019635740016",
         "description": "When Fish seduces a city worker into a no limit EBT card, he learns that free food can come at a high price.",
         "title_suggest": {
@@ -127,10 +127,10 @@
         "episode_number": "5",
         "original_air_date": 1445050800,
         "clip_order": null,
-        "auth_launch_date": 1734411600,
-        "modified": 1734641533,
+        "auth_launch_date": 1750132800,
+        "modified": 1748923313,
         "media_id": "c9c6408ca2e8d17435d8bde0309c97ce972ac2a6",
-        "airing_id": "RADS1012112400007883",
+        "airing_id": "RADS1005252500038867",
         "id": "292LqJ1IRZ21jtEDXgmLWw",
         "slug": "tasty-tudis",
         "views": 7,
@@ -143,7 +143,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1734641533,
+        "published": 1748923313,
         "first_published": 1444983620,
         "tags": [],
         "collection_title": "Black Jesus",
@@ -154,7 +154,7 @@
         "cma_id": "1471533"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1446576840,
         "auth_expiration_date": 1751342340,
         "tms_id": "EP019635740013",
@@ -1330,7 +1330,7 @@
         "cma_id": "2031266"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1446576780,
         "auth_expiration_date": 1748923140,
         "tms_id": "EP019635740012",
