@@ -1,7 +1,7 @@
 [
     {
         "ott_launch_date": 1447789740,
-        "auth_expiration_date": 1736225940,
+        "auth_expiration_date": 1753156740,
         "tms_id": "SH018336770000",
         "description": "Denny Boffa wants to save viewers time with his new invention: an all-in-one multi-purpose broom tool called the Broomshakalaka. But when things go violently wrong on set, Denny is the one running out of time.",
         "title_suggest": {
@@ -23,11 +23,11 @@
         "duration": 635.4170142,
         "episode_number": "1",
         "original_air_date": 1386666000,
-        "auth_launch_date": 1733202000,
+        "auth_launch_date": 1750132800,
         "clip_order": null,
         "media_id": "20cd6e2709abbcf7ecd5d3d9a2119f3e03801712",
-        "modified": 1747415437,
-        "airing_id": "RADS1005132500035653",
+        "modified": 1748923313,
+        "airing_id": "RADS1005252500038876",
         "slug": "broomshakalaka",
         "exclude_from_search": false,
         "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15150986087747.jpg",
@@ -37,7 +37,7 @@
         "tv_rating": "tv-14-lv",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1747415437,
+        "published": 1748923313,
         "tags": [],
         "collection_title": "Infomercials",
         "disable_ads": false,
@@ -100,6 +100,66 @@
         "auth": false
     },
     {
+        "ott_launch_date": 1447789320,
+        "auth_expiration_date": 1737435540,
+        "tms_id": "SH018336810000",
+        "description": "A hot young tech wizard, Alan Resnick, takes you through his 4 step program for creating your own digital avatar. He shares his personal experiences of popularity, immortality, and having it all.",
+        "title_suggest": {
+            "input": [
+                "Live Forever As You Are Now With Alan Resnick",
+                "Forever As You Are Now With Alan Resnick",
+                "As You Are Now With Alan Resnick",
+                "You Are Now With Alan Resnick",
+                "Are Now With Alan Resnick",
+                "Now With Alan Resnick",
+                "With Alan Resnick",
+                "Alan Resnick",
+                "Resnick"
+            ]
+        },
+        "expiration_date": 1751342340,
+        "type": "episode",
+        "title": "Live Forever As You Are Now With Alan Resnick",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
+        "duration": 683.2002002,
+        "episode_number": "3",
+        "original_air_date": 1387875600,
+        "auth_launch_date": 1734411600,
+        "clip_order": null,
+        "media_id": "c7c1db47a55567b9da84d7da21ebd60deeac3153",
+        "modified": 1748647000,
+        "airing_id": "RADS1005222500037074",
+        "slug": "live-forever-as-you-are-now-with-alan-resnick",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151509854039616.jpg",
+        "created": 1510604661,
+        "season_number": "3",
+        "title_id": "2007830",
+        "tv_rating": "tv-14-ds",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1748647000,
+        "tags": [
+            "infomercial",
+            "alan resnick",
+            "live forever"
+        ],
+        "collection_title": "Infomercials",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1748923200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151509854039616.jpg",
+        "id": "AV-3DeJywdpKFAKSbWZV",
+        "auth": false
+    },
+    {
         "ott_launch_date": null,
         "auth_expiration_date": 1752551940,
         "tms_id": "SH033777710000",
@@ -147,57 +207,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20191213/thumbnails/2_1912131545531-infomercials_WhenPantiesFly_dup-20191213.jpg",
         "id": "AW8BAtn13HMJfT8do6Zt",
         "auth": false
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1748923140,
-        "tms_id": "",
-        "description": "The following is a very important announcement that will affect all people of earth.",
-        "title_suggest": {
-            "input": [
-                "A Message from the Future",
-                "Message from the Future",
-                "from the Future",
-                "the Future",
-                "Future"
-            ]
-        },
-        "title": "A Message from the Future",
-        "type": "episode",
-        "expiration_date": 1745899140,
-        "platforms": [
-            "web",
-            "mobile",
-            "fire-tv",
-            "roku"
-        ],
-        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
-        "duration": 536.8,
-        "episode_number": "1",
-        "original_air_date": 1528185600,
-        "auth_launch_date": 1745899200,
-        "clip_order": null,
-        "media_id": "ee0ed06a2a2e4036370f08f81eb65250c009df77",
-        "modified": 1745469916,
-        "airing_id": "RADS1003262500026817",
-        "id": "AWPA09W2qBveI_0AhKZG",
-        "slug": "a-message-from-the-future",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15282098449926.jpg",
-        "created": 1527948498,
-        "title_id": "2159568",
-        "tv_rating": "tv-14-dlv",
-        "season_number": "8",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1745469916,
-        "tags": [],
-        "collection_title": "Infomercials",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1743480000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15282098449926.jpg"
     },
     {
         "auth": true,
@@ -446,7 +455,7 @@
         "launch_date": 1746504000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15447314743491.jpg",
         "id": "AWeFAhMFAsbXwNj3wAaC",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1698119940,

@@ -44,7 +44,7 @@
         "launch_date": 1722225600,
         "poster": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/2_1911141032570-MommaNamedMeSheriff_101_dup-20190507.jpg",
         "id": "AW5qi-Vv1YiBSfg0KYe1",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": null,
@@ -96,7 +96,7 @@
     },
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1718596740,
+        "auth_expiration_date": 1751342340,
         "tms_id": "",
         "description": "When Sheriff and Deputy Goodman get stuck in their cruiser, Sheriff tries to use their time to get to know each other better.",
         "title_suggest": {
@@ -117,11 +117,11 @@
         "duration": 676.08,
         "episode_number": "3",
         "original_air_date": 1574658900,
-        "auth_launch_date": 1715572800,
+        "auth_launch_date": 1750132800,
         "clip_order": null,
         "media_id": "c01805fe1c0e2a6092ae3c1b99dbc081cc4b6dae",
-        "modified": 1723158455,
-        "airing_id": "RADS1008082400085913",
+        "modified": 1748923313,
+        "airing_id": "RADS1005252500038865",
         "slug": "stuck",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20191114/thumbnails/1_1911141033510-MommaNamedMeSheriff_103_dup-20190507.jpg",
@@ -131,7 +131,7 @@
         "tv_rating": "tv-ma",
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1723158455,
+        "published": 1748923313,
         "tags": [],
         "collection_title": "Momma Named Me Sheriff",
         "disable_ads": false,
@@ -833,6 +833,6 @@
         "launch_date": 1748923200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210311/thumbnails/2_2131175021-MommaNamedMeSheriff_209-10_dup-20210218_NeighborhoodKnightWatch.jpg",
         "id": "AXgSaiZUQJ_4Uej5kTxu",
-        "auth": true
+        "auth": false
     }
 ]
