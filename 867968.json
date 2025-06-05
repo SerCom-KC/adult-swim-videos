@@ -1017,7 +1017,7 @@
         "cma_id": "1466349"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1446845580,
         "auth_expiration_date": 1751515199,
         "tms_id": "EP014825730019",
@@ -1893,7 +1893,7 @@
     {
         "auth": false,
         "ott_launch_date": 1446845640,
-        "auth_expiration_date": 1718855940,
+        "auth_expiration_date": 1751515199,
         "tms_id": "EP014825730021",
         "description": "One billion gods working inside three trillion universes couldn't possibly create a reality this stupid.",
         "title_suggest": {
@@ -1915,10 +1915,10 @@
         "episode_number": "1",
         "original_air_date": 1417498200,
         "clip_order": null,
-        "auth_launch_date": 1718251200,
-        "modified": 1718440599,
+        "auth_launch_date": 1750305600,
+        "modified": 1749096131,
         "media_id": "be6e13cae2e71607b91f7f5d89f8d6ee60e85ad9",
-        "airing_id": "RADS1006142400075461",
+        "airing_id": "RADS1005252500038968",
         "id": "xx0yelfzT6uOLNiwPkCQoA",
         "slug": "in-meatro",
         "views": 10639,
@@ -1931,7 +1931,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1718440599,
+        "published": 1749096131,
         "first_published": 1417195225,
         "tags": [],
         "collection_title": "The Heart, She Holler",

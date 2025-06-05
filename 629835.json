@@ -151,6 +151,50 @@
     },
     {
         "auth": true,
+        "auth_expiration_date": 1749700740,
+        "rating": 8.1133333333333,
+        "description": "Hank questions his life and devotion to his job after discovering his boss uses an electric--and not propane--stove.\r\n",
+        "title_suggest": {
+            "input": [
+                "Snow Job ",
+                "Job"
+            ]
+        },
+        "type": "episode",
+        "title": "Snow Job ",
+        "expiration_date": 1407268243,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1467.9331,
+        "episode_number": "12",
+        "original_air_date": 1231642800,
+        "clip_order": null,
+        "auth_launch_date": 1749096000,
+        "modified": 1748935875,
+        "airing_id": "RADS1005222500037493",
+        "media_id": "93260b8e513ff5a63a909721ffcffae28ff6497a",
+        "id": "udnbgh6ATEep--Lb2aYaPw",
+        "slug": "snow-job",
+        "views": 101106,
+        "created": 1402945468,
+        "title_id": "728426",
+        "season_number": "2",
+        "tv_rating": "tv-pg-l",
+        "active": false,
+        "published": 1748935875,
+        "tags": [],
+        "rating_count": 150,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1231477200,
+        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_10358.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
         "auth_expiration_date": 1749614340,
         "tms_id": "EP002070020026",
         "rating": 7.154265,
@@ -195,54 +239,5 @@
         "launch_date": 1311825600,
         "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_2540626134980349527.jpg",
         "cma_id": "984251"
-    },
-    {
-        "auth": true,
-        "auth_expiration_date": 1749095940,
-        "tms_id": "EP002070020021",
-        "rating": 8.4840425531915,
-        "description": "It's the battle of the ages when Hank and his friends face off against four teenagers for a game of paintball.\r\n",
-        "title_suggest": {
-            "input": [
-                "The Man Who Shot Cane Skretteburg ",
-                "Man Who Shot Cane Skretteburg",
-                "Who Shot Cane Skretteburg",
-                "Shot Cane Skretteburg",
-                "Cane Skretteburg",
-                "Skretteburg"
-            ]
-        },
-        "type": "episode",
-        "title": "The Man Who Shot Cane Skretteburg ",
-        "expiration_date": 1407268243,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1408.5738,
-        "episode_number": "7",
-        "original_air_date": 1231470000,
-        "clip_order": null,
-        "auth_launch_date": 1748491200,
-        "modified": 1748329911,
-        "airing_id": "RADS1005212500036551",
-        "media_id": "b85c3914ddfdef8953b0b76b0a7613b7740cca58",
-        "id": "z15UJer0TSyTM_DcJbxz2A",
-        "slug": "the-man-who-shot-cane-skretteburg",
-        "views": 109159,
-        "created": 1402945468,
-        "title_id": "728420",
-        "season_number": "2",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "published": 1748329911,
-        "tags": [],
-        "rating_count": 188,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1232082000,
-        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_14494.jpg",
-        "cma_id": ""
     }
 ]
