@@ -93,6 +93,51 @@
     },
     {
         "auth": true,
+        "auth_expiration_date": 1749268740,
+        "tms_id": "EP002070020024",
+        "rating": 7.8672895,
+        "description": "Peggy insists that Connie be allowed to play on the school's all-boy wrestling team.\r\n",
+        "title_suggest": {
+            "input": [
+                "Bobby Slam ",
+                "Slam"
+            ]
+        },
+        "type": "episode",
+        "title": "Bobby Slam ",
+        "expiration_date": 1407268243,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1419.051,
+        "episode_number": "9",
+        "original_air_date": 1231558200,
+        "clip_order": null,
+        "auth_launch_date": 1748664000,
+        "modified": 1748508711,
+        "airing_id": "RADS1005212500036734",
+        "media_id": "c507c2b12feddc06aa2581aec45764815f6e096e",
+        "id": "a4ueXcNiSgW9arCyBWCp8A",
+        "slug": "bobby-slam",
+        "views": 306967,
+        "created": 1402945468,
+        "title_id": "728423",
+        "season_number": "2",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
+        "published": 1748508711,
+        "tags": [],
+        "rating_count": 535,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1296104400,
+        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_10353.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
         "auth_expiration_date": 1749700740,
         "rating": 8.1133333333333,
         "description": "Hank questions his life and devotion to his job after discovering his boss uses an electric--and not propane--stove.\r\n",
@@ -134,51 +179,6 @@
         "launch_date": 1231477200,
         "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_10358.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": true,
-        "auth_expiration_date": 1749873540,
-        "tms_id": "EP002070020030",
-        "rating": 8.269565,
-        "description": "Bobby decides he wants to be a stand-up comic after he accompanies Hank to traffic school.\r\n",
-        "title_suggest": {
-            "input": [
-                "Traffic Jam ",
-                "Jam"
-            ]
-        },
-        "type": "episode",
-        "title": "Traffic Jam ",
-        "expiration_date": 1407268243,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1462.0272,
-        "episode_number": "15",
-        "original_air_date": 1231731000,
-        "clip_order": null,
-        "auth_launch_date": 1749268800,
-        "modified": 1749101809,
-        "airing_id": "RADS1005232500037686",
-        "media_id": "1b38f67ff710172e56db18705d9bb00b8f4f85e5",
-        "id": "wW6vp6cGQSe7b6cEq-sM3Q",
-        "slug": "traffic-jam",
-        "views": 206308,
-        "created": 1402945468,
-        "title_id": "728429",
-        "season_number": "2",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "published": 1749101809,
-        "tags": [],
-        "rating_count": 345,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1311912000,
-        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_4784014749905003600.jpg",
-        "cma_id": "984781"
     },
     {
         "auth": true,
