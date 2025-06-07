@@ -4302,7 +4302,7 @@
     {
         "auth": false,
         "ott_launch_date": 1447445580,
-        "auth_expiration_date": 1722657540,
+        "auth_expiration_date": 1751255940,
         "tms_id": "EP007008180069",
         "rating": 7.4578314,
         "description": "Scoot over, alcohol and inhalants, Early has a new addiction.",
@@ -4326,10 +4326,10 @@
         "episode_number": "8",
         "original_air_date": 1320032700,
         "clip_order": null,
-        "auth_launch_date": 1722052800,
-        "modified": 1722313534,
+        "auth_launch_date": 1750478400,
+        "modified": 1749268898,
         "media_id": "2947b72ddf13ed9f6fb3a483feac6fe25a642bb1",
-        "airing_id": "RADS1007292400083823",
+        "airing_id": "RADS1005252500039018",
         "id": "K2dDfpWVTN2UI4K8A215ow",
         "slug": "the-pharaohs-wad",
         "views": 108058,
@@ -4342,7 +4342,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1722313534,
+        "published": 1749268898,
         "tags": [],
         "rating_count": 249,
         "collection_title": "Squidbillies",
@@ -5555,7 +5555,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447445460,
         "auth_expiration_date": 1751255940,
         "tms_id": "EP007008180067",
@@ -6804,7 +6804,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447443600,
         "auth_expiration_date": 1751255940,
         "tms_id": "EP007008180029",
@@ -7248,7 +7248,7 @@
     {
         "auth": false,
         "ott_launch_date": 1447443660,
-        "auth_expiration_date": 1693540740,
+        "auth_expiration_date": 1751255940,
         "tms_id": "EP007008180031",
         "rating": 8.183756,
         "description": "Sheriff investigates the origins of fire, and its role in the burning of the squids' house.",
@@ -7274,10 +7274,10 @@
         "episode_number": "11",
         "original_air_date": 1207541700,
         "clip_order": null,
-        "auth_launch_date": 1679716800,
-        "modified": 1724166992,
+        "auth_launch_date": 1750478400,
+        "modified": 1749268897,
         "media_id": "aff8f0cd807e58caf44361834813b2ec20557aff",
-        "airing_id": "RADS1008202400087607",
+        "airing_id": "RADS1005252500039016",
         "id": "iLz9lc4fQNSAeHmiQ1--Ng",
         "slug": "the-unbearable-heatness-of-fire",
         "views": 735385,
@@ -7290,7 +7290,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1724166992,
+        "published": 1749268897,
         "tags": [
             "squidbillies episode 31 unbearable heatness of fire aliens house burn down"
         ],
@@ -8434,7 +8434,7 @@
     {
         "auth": false,
         "ott_launch_date": 1508768940,
-        "auth_expiration_date": 1719633540,
+        "auth_expiration_date": 1751255940,
         "tms_id": "EP007008180109",
         "description": "Grab deez nutz and Guzzle up!",
         "title_suggest": {
@@ -8457,10 +8457,10 @@
         "episode_number": "2",
         "original_air_date": 1508731200,
         "clip_order": null,
-        "auth_launch_date": 1719028800,
-        "modified": 1719204680,
+        "auth_launch_date": 1750478400,
+        "modified": 1749268897,
         "media_id": "6ea7a7a8d6f2b63810c8b999fe5c800d997392ae",
-        "airing_id": "RADS1006152400075604",
+        "airing_id": "RADS1005252500039020",
         "id": "uDDNlaxhRV2c-zu7uIlBJQ",
         "slug": "the-guzzle-bumpkin",
         "views": 914,
@@ -8473,7 +8473,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1719204680,
+        "published": 1749268897,
         "first_published": 1508677827,
         "tags": [],
         "collection_title": "Squidbillies",
@@ -8766,7 +8766,7 @@
         "cma_id": "1338018"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1751255940,
         "tms_id": "EP007008180106",

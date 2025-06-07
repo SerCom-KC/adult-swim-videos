@@ -229,7 +229,7 @@
     {
         "auth": false,
         "ott_launch_date": null,
-        "auth_expiration_date": 1719201540,
+        "auth_expiration_date": 1751083140,
         "tms_id": "EP007833440029",
         "description": "Episode 5 - Come Together",
         "title_suggest": {
@@ -250,10 +250,10 @@
         "episode_number": "5",
         "original_air_date": 1133060400,
         "clip_order": null,
-        "auth_launch_date": 1718596800,
-        "modified": 1718860438,
+        "auth_launch_date": 1750478400,
+        "modified": 1749269218,
         "media_id": "04aa536fa450dd48dfe62c13e5e24b7ddc02d24f",
-        "airing_id": "RADS1006122400075241",
+        "airing_id": "RADS1005252500039023",
         "id": "II_kxBF4SNizOPqWWtkiJQ",
         "slug": "come-together",
         "exclude_from_search": false,
@@ -265,7 +265,7 @@
         "active": false,
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1718860438,
+        "published": 1749269218,
         "tags": [],
         "collection_title": "IGPX",
         "disable_ads": false,
@@ -324,7 +324,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1751083140,
         "tms_id": "EP007833440003",
         "description": "Episode 3 - Black Egg",
