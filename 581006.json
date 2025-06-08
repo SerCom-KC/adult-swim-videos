@@ -98,51 +98,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1749355140,
-        "tms_id": "EP007164450398",
-        "description": "Hayley searches for guidance and instead finds a community of 'cool butts.'",
-        "title_suggest": {
-            "input": [
-                "Hot Scoomp",
-                "Scoomp"
-            ]
-        },
-        "title": "Hot Scoomp",
-        "type": "episode",
-        "expiration_date": 1739163540,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1262.9617,
-        "episode_number": "11",
-        "original_air_date": 1625448600,
-        "auth_launch_date": 1748750400,
-        "clip_order": null,
-        "airing_id": "RADS1005212500036831",
-        "media_id": "fe550e2d6564293ae1db13ebfbccee800e73a316",
-        "modified": 1748611299,
-        "slug": "hot-scoomp",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/1_221241340120-AmericanDad_1512_HotScoomp.png",
-        "created": 1642781345,
-        "title_id": "2238759",
-        "season_number": "16",
-        "tv_rating": "tv-14-dlv",
-        "published": 1748611299,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1738558800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/2_221241340120-AmericanDad_1512_HotScoomp.png",
-        "id": "AX59Zgif_0O4w1rD3RcN",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1749614340,
         "tms_id": "EP007164450405",
         "description": "Stan finally decides to do something about his secret baldness and enlists the help of Josay Bosay, Roger's famed hair-stylist-to-the-stars persona.",
@@ -188,50 +143,6 @@
         "launch_date": 1739163600,
         "poster": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/2_221241342308-AmericanDad_1517_CombOverAHairPiece.png",
         "id": "AX59Zr9y_0O4w1rD3RcP",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1749355140,
-        "tms_id": "EP007164450400",
-        "description": "Stan is forced to partner with Jeff in a lumberjack competition. Meanwhile, Steve, Francine and Snot enter a contest to win a vintage pickup truck.",
-        "title_suggest": {
-            "input": [
-                "Lumberjerk"
-            ]
-        },
-        "title": "Lumberjerk",
-        "type": "episode",
-        "expiration_date": 1739163540,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1262.8616,
-        "episode_number": "12",
-        "original_air_date": 1626053400,
-        "auth_launch_date": 1748750400,
-        "clip_order": null,
-        "airing_id": "RADS1005212500036829",
-        "media_id": "16e7440c5da2b232e23e0872f26c89c258d6f34e",
-        "modified": 1748611301,
-        "slug": "lumberjerk",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/1_221241340534-AmericanDad_1514_Lumberjerk.png",
-        "created": 1642781391,
-        "title_id": "2238761",
-        "season_number": "16",
-        "tv_rating": "tv-14-dlsv",
-        "published": 1748611301,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1738558800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/2_221241340534-AmericanDad_1514_Lumberjerk.png",
-        "id": "AX59Zrim208s7zyYUL9w",
         "auth": true
     },
     {
@@ -1015,5 +926,96 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121440141-americandad_1411_air_cid-C5RRX-AmericanData.jpg",
         "id": "AXb4HP38bxpjZvbXYl9_",
         "auth": false
+    },
+    {
+        "auth_expiration_date": 1749959940,
+        "tms_id": "EP007164450411",
+        "description": "Francine becomes a realtor in Langley's world of high-end real estate, while the rest of the family sells coffee from the front yard.",
+        "title_suggest": {
+            "input": [
+                "Langley Dollar Listings",
+                "Dollar Listings",
+                "Listings"
+            ]
+        },
+        "title": "Langley Dollar Listings",
+        "type": "episode",
+        "expiration_date": 1739768340,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1263.0284,
+        "episode_number": "1",
+        "original_air_date": 1643599800,
+        "auth_launch_date": 1749355200,
+        "clip_order": null,
+        "airing_id": "RADS1005232500037746",
+        "media_id": "c7f1dbdbb1e6309e1605e13797fa25ec0f36672a",
+        "modified": 1749190016,
+        "slug": "langley-dollar-listings",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230119/thumbnails/1_231191157214-LagleyDollarListingstiny.png",
+        "created": 1673968810,
+        "title_id": "2342087",
+        "season_number": "17",
+        "tv_rating": "tv-14-dl",
+        "published": 1749190016,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1739163600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230119/thumbnails/2_231191157214-LagleyDollarListingstiny.png",
+        "id": "AYXAUPvs4k01GlbfzrX_",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1749959940,
+        "tms_id": "EP007164450412",
+        "description": "When Stan doesn't feel confident in anything but his suits, Roger assumes a fashion designer persona to craft him a life-changing new wardrobe. Hayley and Jeff raise chickens in the back yard.",
+        "title_suggest": {
+            "input": [
+                "Dressed Down",
+                "Down"
+            ]
+        },
+        "title": "Dressed Down",
+        "type": "episode",
+        "expiration_date": 1739768340,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1263.1953,
+        "episode_number": "2",
+        "original_air_date": 1644204600,
+        "auth_launch_date": 1749355200,
+        "clip_order": null,
+        "airing_id": "RADS1005232500037744",
+        "media_id": "9e096cdbe89ed9e0b0c2eb5f78cfa1bf7f1e7179",
+        "modified": 1749186715,
+        "slug": "dressed-down",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230119/thumbnails/1_23119115725-DressedDowntiny.png",
+        "created": 1673968930,
+        "title_id": "2342088",
+        "season_number": "17",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1749186715,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1739163600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230119/thumbnails/2_23119115725-DressedDowntiny.png",
+        "id": "AYXAUs-64k01GlbfzrYA",
+        "auth": true
     }
 ]
