@@ -447,7 +447,7 @@
         "launch_date": 1748163600,
         "poster": "https://media.cdn.adultswim.com/uploads/20250515/thumbnails/2_255151710517-OP723_S17E95.jpg",
         "id": "AZZ9o66SC3J9ee8ny7om",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1752465540,
@@ -887,6 +887,45 @@
         "launch_date": 1749979920,
         "poster": "https://media.cdn.adultswim.com/uploads/20250527/thumbnails/2_255271711165-OP728_S17100.jpg",
         "id": "AZbmBV9F5aaI-__GJ7QC",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1751187540,
+        "created": 1748163649,
+        "tms_id": "",
+        "title_id": "2550976",
+        "season_number": "17",
+        "tv_rating": "tv-14-v",
+        "description": "With a minute to spare, everyone in Dressrosa turns their efforts towards slowing down the Birdcage as it squeezes the life out of the country!",
+        "title_suggest": {
+            "input": [
+                "As Long as We Breathe! Stop the Deadly Birdcage!",
+                "Long as We Breathe! Stop the Deadly Birdcage!",
+                "as We Breathe! Stop the Deadly Birdcage!",
+                "We Breathe! Stop the Deadly Birdcage!",
+                "Breathe! Stop the Deadly Birdcage!",
+                "Stop the Deadly Birdcage!",
+                "the Deadly Birdcage!",
+                "Deadly Birdcage!",
+                "Birdcage!"
+            ]
+        },
+        "published": 1748520081,
+        "title": "As Long as We Breathe! Stop the Deadly Birdcage!",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1305.2707,
+        "episode_number": "",
+        "collection_title": "One Piece",
+        "original_air_date": 1749360600,
+        "auth_launch_date": 1749373200,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1005252500038147",
+        "media_id": "1e7b8eff31120227544da6b60c8d79d7faf860d3",
+        "modified": 1748520081,
+        "slug": "as-long-as-we-breathe-stop-the-deadly-birdcage",
+        "id": "AZcGrF7qITxXrw59dMVT",
         "auth": true
     }
 ]
