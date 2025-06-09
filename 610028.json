@@ -126,7 +126,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1755489540,
         "tms_id": "EP007753880028",
@@ -196,7 +196,7 @@
         },
         "type": "episode",
         "title": "The Fried Chicken Flu",
-        "expiration_date": 1745207940,
+        "expiration_date": 1751255940,
         "platforms": [
             "web",
             "mobile"
@@ -207,8 +207,8 @@
         "original_air_date": 1280719800,
         "clip_order": null,
         "auth_launch_date": 1745208000,
-        "modified": 1744792038,
-        "airing_id": "RADS1004082500029179",
+        "modified": 1749441778,
+        "airing_id": "RADS1005252500039065",
         "media_id": "ef25ebd686de1fbd6c92524c8ff68eabf70a0a68",
         "id": "3cG58irmRTK1ZP19BLG2AA",
         "slug": "the-fried-chicken-flu",
@@ -222,13 +222,13 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1744792038,
+        "published": 1749441778,
         "tags": [],
         "rating_count": 3334,
         "collection_title": "The Boondocks",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1744603200,
+        "launch_date": 1750651200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321137571-boondocks_315.jpg",
         "cma_id": "1384027"
     },
@@ -289,7 +289,7 @@
         "cma_id": "1319276"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1749441540,
         "tms_id": "EP007753880049",
@@ -517,7 +517,7 @@
         "launch_date": 1749441600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200729/thumbnails/2_207291422532-boondocks_210.jpg",
         "id": "AW-vm3LBGRcVO2K2pmHN",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": null,
@@ -566,7 +566,7 @@
         "launch_date": 1749441600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321123385-boondocks_201.jpg",
         "id": "AW-vmgdy3HMJfT8do7JM",
-        "auth": true
+        "auth": false
     },
     {
         "auth": false,
@@ -640,7 +640,7 @@
         },
         "type": "episode",
         "title": "The Story of Lando Freeman",
-        "expiration_date": 1744603140,
+        "expiration_date": 1751255940,
         "platforms": [
             "web",
             "mobile"
@@ -651,8 +651,8 @@
         "original_air_date": 1278300600,
         "clip_order": null,
         "auth_launch_date": 1744603200,
-        "modified": 1744180281,
-        "airing_id": "RADS1004082500029185",
+        "modified": 1749442675,
+        "airing_id": "RADS1005252500039071",
         "media_id": "f3abd5cafe00106c106d305279fcb40ccab59d7c",
         "id": "Ak6cdNvWSx2EBxm6H7m1hQ",
         "slug": "the-story-of-lando-freeman",
@@ -666,7 +666,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1744180281,
+        "published": 1749442675,
         "tags": [
             "The Boondocks",
             "Comic Strip",
@@ -680,12 +680,12 @@
         "collection_title": "The Boondocks",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1743998400,
+        "launch_date": 1750651200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321136502-boondocks_312.jpg",
         "cma_id": "1251851"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1754884740,
         "tms_id": "EP007753880025",
@@ -735,7 +735,7 @@
         "cma_id": "1053840"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1755489540,
         "tms_id": "EP007753880040",
@@ -1533,7 +1533,7 @@
         },
         "type": "episode",
         "title": "The Lovely Ebony Brown",
-        "expiration_date": 1744603140,
+        "expiration_date": 1751255940,
         "platforms": [
             "web",
             "mobile"
@@ -1544,8 +1544,8 @@
         "original_air_date": 1278905400,
         "clip_order": null,
         "auth_launch_date": 1744603200,
-        "modified": 1744180280,
-        "airing_id": "RADS1004022500028285",
+        "modified": 1749442975,
+        "airing_id": "RADS1005252500039069",
         "media_id": "7adfa627cb04f4dd79f9ca21928340d0b010f951",
         "id": "Qr6Ov6UlSr6J21bhiLkfBg",
         "slug": "the-lovely-ebony-brown",
@@ -1559,7 +1559,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1744180280,
+        "published": 1749442975,
         "tags": [
             "The Boondocks",
             "Comic Strip",
@@ -1573,7 +1573,7 @@
         "collection_title": "The Boondocks",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1743998400,
+        "launch_date": 1750651200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_2032113775-boondocks_311.jpg",
         "cma_id": "1246900"
     },
@@ -2093,7 +2093,7 @@
         },
         "type": "episode",
         "title": "A Date with the Booty Warrior",
-        "expiration_date": 1744603140,
+        "expiration_date": 1751255940,
         "platforms": [
             "web",
             "mobile"
@@ -2104,8 +2104,8 @@
         "original_air_date": 1277695800,
         "clip_order": null,
         "auth_launch_date": 1744603200,
-        "modified": 1744187539,
-        "airing_id": "RADS1004022500028289",
+        "modified": 1749441778,
+        "airing_id": "RADS1005252500039073",
         "media_id": "4d8dd47bc4b5d8dcfbeea6f1c751a475c7edd29f",
         "id": "e7ZBS3i4R_qGXPnIWtUrdQ",
         "slug": "a-date-with-the-booty-warrior",
@@ -2119,7 +2119,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1744187539,
+        "published": 1749441778,
         "tags": [
             "The Boondocks",
             "Comic Strip",
@@ -2130,7 +2130,7 @@
         "collection_title": "The Boondocks",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1743998400,
+        "launch_date": 1750651200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321136342-boondocks_308.jpg",
         "cma_id": "1236488"
     },
@@ -2312,7 +2312,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1755489540,
         "tms_id": "EP007753880034",
@@ -2420,7 +2420,7 @@
         "cma_id": "1043316"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1755489540,
         "tms_id": "EP007753880033",
@@ -2492,7 +2492,7 @@
         },
         "type": "episode",
         "title": "Mr. Medicinal",
-        "expiration_date": 1744603140,
+        "expiration_date": 1751255940,
         "platforms": [
             "web",
             "mobile"
@@ -2503,8 +2503,8 @@
         "original_air_date": 1279510200,
         "clip_order": null,
         "auth_launch_date": 1744603200,
-        "modified": 1744180279,
-        "airing_id": "RADS1004082500029181",
+        "modified": 1749442675,
+        "airing_id": "RADS1005252500039067",
         "media_id": "95908146bb8974d0b29c1c1b52971e4a3ba53338",
         "id": "myoc7JIQTvWAQ5mRs2rK0g",
         "slug": "mr-medicinal",
@@ -2518,7 +2518,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1744180279,
+        "published": 1749442675,
         "tags": [
             "The Boondocks",
             "Aaron McGruder",
@@ -2531,7 +2531,7 @@
         "collection_title": "The Boondocks",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1743998400,
+        "launch_date": 1750651200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321137398-boondocks_313.jpg",
         "cma_id": "1254765"
     },
@@ -3176,7 +3176,7 @@
         "cma_id": "1290538"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1749441540,
         "tms_id": "EP007753880044",
@@ -3499,7 +3499,7 @@
         "cma_id": "1021829"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1749441540,
         "tms_id": "EP007753880035",

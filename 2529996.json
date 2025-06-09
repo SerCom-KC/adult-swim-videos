@@ -45,7 +45,7 @@
         "launch_date": 1749441600,
         "poster": "https://media.cdn.adultswim.com/uploads/20240603/thumbnails/2_24631313378-SailorMoon_Ep001_Thumbnail_1920x1080_Pillarbox.jpg",
         "id": "AY_PRjYpC2cKYm1ap_8B",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1749441540,
@@ -99,7 +99,7 @@
         "launch_date": 1749441600,
         "poster": "https://media.cdn.adultswim.com/uploads/20240606/thumbnails/2_2466162283-CopyofSailorMoon_Ep002_Thumbnail_1920x1080_Pillarbox.jpg",
         "id": "AY_aRWqdC2cKYm1ap_9V",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1750651140,
@@ -120,7 +120,7 @@
         },
         "title": "Scent of a Monster: Chanela Will Steal Your Love",
         "type": "episode",
-        "expiration_date": 1737349140,
+        "expiration_date": 1751255940,
         "platforms": [
             "android",
             "ios",
@@ -133,9 +133,9 @@
         "original_air_date": 1719608400,
         "auth_launch_date": 1737349200,
         "clip_order": null,
-        "airing_id": "RADS1001082500014496",
+        "airing_id": "RADS1005262500039147",
         "media_id": "1a86ee7ca3e3fed4d279c4d7c360bf324c1ea12e",
-        "modified": 1737212635,
+        "modified": 1749441771,
         "slug": "scent-of-a-monster-chanela-will-steal-your-love",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20240701/thumbnails/1_2471145877-CopyofSailorMoon_Ep005_Thumbnail_1920x1080_Pillarbox.jpg",
@@ -143,12 +143,12 @@
         "title_id": "2530001",
         "season_number": "1",
         "tv_rating": "tv-pg-lv",
-        "published": 1737212635,
+        "published": 1749441771,
         "tags": [],
         "collection_title": "Sailor Moon",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1736744400,
+        "launch_date": 1750651200,
         "poster": "https://media.cdn.adultswim.com/uploads/20240701/thumbnails/2_2471145877-CopyofSailorMoon_Ep005_Thumbnail_1920x1080_Pillarbox.jpg",
         "id": "AZBBaPVTSaru9Cdsy67R",
         "auth": true
@@ -171,7 +171,7 @@
         },
         "title": "Protect the Melody of Love: Usagi Plays Cupid",
         "type": "episode",
-        "expiration_date": 1737349140,
+        "expiration_date": 1751255940,
         "platforms": [
             "android",
             "ios",
@@ -184,9 +184,9 @@
         "original_air_date": 1720213200,
         "auth_launch_date": 1737349200,
         "clip_order": null,
-        "airing_id": "RADS1001082500014498",
+        "airing_id": "RADS1005262500039149",
         "media_id": "7498f2bd0e5f658aa6ce82f26b0c8fd33cba68c3",
-        "modified": 1737212631,
+        "modified": 1749441771,
         "slug": "protect-the-melody-of-love-usagi-plays-cupid",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20240708/thumbnails/1_24781043180-CopyofSailorMoon_Ep006_Thumbnail_1920x1080_Pillarbox.jpg",
@@ -194,12 +194,12 @@
         "title_id": "2530002",
         "season_number": "1",
         "tv_rating": "tv-pg-lv",
-        "published": 1737212631,
+        "published": 1749441771,
         "tags": [],
         "collection_title": "Sailor Moon",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1736744400,
+        "launch_date": 1750651200,
         "poster": "https://media.cdn.adultswim.com/uploads/20240708/thumbnails/2_24781043180-CopyofSailorMoon_Ep006_Thumbnail_1920x1080_Pillarbox.jpg",
         "id": "AZBpxKA6Saru9Cdsy7BR",
         "auth": true
@@ -2170,7 +2170,7 @@
         "launch_date": 1748836800,
         "poster": "https://media.cdn.adultswim.com/uploads/20241108/thumbnails/2_24118222405-SailorMoon-Ep045-1920x1080..jpg",
         "id": "AZLjWdk8DT7oKsPdFfbF",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1762750740,
@@ -2220,6 +2220,6 @@
         "launch_date": 1748836800,
         "poster": "https://media.cdn.adultswim.com/uploads/20241108/thumbnails/2_24118223136-SailorMoon-Ep046-1920x1080..jpg",
         "id": "AZLjWgj0DT7oKsPdFfbG",
-        "auth": false
+        "auth": true
     }
 ]
