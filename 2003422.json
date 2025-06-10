@@ -95,6 +95,53 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151845711531711.jpg"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1750132740,
+        "tms_id": "EP012792980113",
+        "description": "With Halloween quickly approaching, Tina reveals her brilliant idea that will finally win her first place in the annual costume contest. But when Tammy steals her idea, Tina is forced to seek the help of Mr. Ambrose.",
+        "title_suggest": {
+            "input": [
+                "Teen-a Witch",
+                "Witch"
+            ]
+        },
+        "title": "Teen-a Witch",
+        "type": "episode",
+        "expiration_date": 1678679940,
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "roku"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1307.93,
+        "episode_number": "3",
+        "original_air_date": 1519005600,
+        "auth_launch_date": 1749528000,
+        "clip_order": null,
+        "media_id": "5b0d6ca24561e9c052c6c76c933c3b89d6532205",
+        "modified": 1749272513,
+        "airing_id": "RADS1005252500038446",
+        "id": "AWGLqx6ENWyh42wYnkw9",
+        "slug": "teen-a-witch",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15192402394087.jpg",
+        "created": 1518466702,
+        "title_id": "2132991",
+        "tv_rating": "tv-pg-l",
+        "season_number": "7",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1749272513,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1678078800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15192402394087.jpg"
+    },
+    {
         "auth_expiration_date": 1743307140,
         "tms_id": "",
         "description": "Bob helps Gene with a school project.",
@@ -438,56 +485,6 @@
         "launch_date": 1676869200,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/the-hormone-iums/bobsburgers_604_air_cid-2X5JH.jpg",
         "cma_id": "1485981"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1749527940,
-        "tms_id": "EP012792980103",
-        "description": "When Gene overhears talk about a mystical creature that lives nearby, he leads the Belcher kids and their friends on a journey to find it. Meanwhile, Linda's competitive nature takes over during downtime at the restaurant.",
-        "title_suggest": {
-            "input": [
-                "Stand by Gene",
-                "by Gene",
-                "Gene"
-            ]
-        },
-        "title": "Stand by Gene",
-        "type": "episode",
-        "expiration_date": 1676869140,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1301.6006006,
-        "episode_number": "12",
-        "original_air_date": 1479958200,
-        "clip_order": null,
-        "auth_launch_date": 1748923200,
-        "modified": 1748754995,
-        "media_id": "d59cc0f48fca963b77685f6a1157497bc801e69d",
-        "airing_id": "RADS1005222500037010",
-        "id": "m5N_4JZOS_ulq3qtLDOwoA",
-        "slug": "stand-by-gene",
-        "views": 12468,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1479859820,
-        "title_id": "2097200",
-        "tv_rating": "tv-pg",
-        "season_number": "6",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1748754995,
-        "first_published": 1479859820,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1676264400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/stand-by-gene/bobsburgers_514_air_cid-2X474.jpg",
-        "cma_id": "1480642"
     },
     {
         "auth": true,
