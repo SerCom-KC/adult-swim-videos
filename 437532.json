@@ -1,51 +1,5 @@
 [
     {
-        "auth_expiration_date": 1749787140,
-        "tms_id": "EP003034830143",
-        "description": "After being marooned on an distant planet, Fry is befriended by a young monster.",
-        "title_suggest": {
-            "input": [
-                "T.: The Terrestrial",
-                "The Terrestrial",
-                "Terrestrial"
-            ]
-        },
-        "title": "T.: The Terrestrial",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1411.1431,
-        "episode_number": "3",
-        "original_air_date": "1658107800",
-        "auth_launch_date": 1749182400,
-        "clip_order": null,
-        "airing_id": "RADS1005222500037648",
-        "media_id": "e8f31e096dc6047f02c378306ec637f819551397",
-        "modified": 1749015077,
-        "slug": "t-the-terrestrial",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220712/thumbnails/1_22712104959-Futurama_1003_TTheTerrestrial.png",
-        "created": 1657637354,
-        "season_number": "10",
-        "title_id": "2161661",
-        "tv_rating": "tv-14-dlv",
-        "published": 1749015077,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220712/thumbnails/2_22712104959-Futurama_1003_TTheTerrestrial.png",
-        "id": "AYHy4ru-IAxeiVkFtLQX",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1749873540,
         "tms_id": "EP003034830145",
         "description": "At a maximum security prison, Bender meets a famous folk singer and attempts to make a copy of his precious guitar.",
@@ -227,6 +181,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20240515/thumbnails/2_245151657530-Screenshot2024-05-15at4.28.10PM.png",
         "id": "AYJLzKzPIAxeiVkFtLQq",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1750391940,
+        "tms_id": "EP003034830149",
+        "description": "Bender searches the universe for his missing shiny metal rear end.",
+        "title_suggest": {
+            "input": [
+                "Assie Come Home",
+                "Come Home",
+                "Home"
+            ]
+        },
+        "title": "Assie Come Home",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1411.3433,
+        "episode_number": "8",
+        "original_air_date": "1659920400",
+        "auth_launch_date": 1749787200,
+        "clip_order": null,
+        "airing_id": "RADS1005252500038644",
+        "media_id": "4659509f9ab3f74636cea0ea8efc971b3014d59c",
+        "modified": 1749534457,
+        "slug": "assie-come-home",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220802/thumbnails/1_22821247194-Futurama_1008_AssieComeHome.png",
+        "created": 1659458847,
+        "season_number": "10",
+        "title_id": "2161666",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1749534457,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220802/thumbnails/2_22821247194-Futurama_1008_AssieComeHome.png",
+        "id": "AYJfdIRSIAxeiVkFtLQz",
         "auth": true
     }
 ]
