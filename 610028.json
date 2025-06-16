@@ -1,6 +1,6 @@
 [
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1750046340,
         "tms_id": "EP007753880045",
@@ -291,77 +291,6 @@
     {
         "auth": false,
         "ott_launch_date": null,
-        "auth_expiration_date": 1749441540,
-        "tms_id": "EP007753880049",
-        "rating": 8.677635,
-        "description": "Remember \"Yes We Can\"? No, you don't? A German documentary follows the Freeman family from the election to the Inauguration of the country's first Black President, giving us a look back at the hope and change that already feels like ancient history.",
-        "title_suggest": {
-            "input": [
-                "It's a Black President, Huey Freeman",
-                "a Black President, Huey Freeman",
-                "Black President, Huey Freeman",
-                "President, Huey Freeman",
-                "Huey Freeman",
-                "Freeman"
-            ]
-        },
-        "type": "episode",
-        "title": "It's a Black President, Huey Freeman",
-        "expiration_date": 1750046340,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "B7y0GaMUR--SAcHgWr5qrA",
-        "duration": 1355.7674341,
-        "episode_number": "1",
-        "original_air_date": 1272857400,
-        "clip_order": null,
-        "auth_launch_date": 1743393600,
-        "modified": 1749172467,
-        "airing_id": "RADS1003252500026625",
-        "media_id": "dc202b34018ff74c7347c64465133e586ae82e00",
-        "id": "4X44_riGQaeTkHYdBPG6QQ",
-        "slug": "its-a-black-president-huey-freeman",
-        "views": 1117980,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/1_20321134169-boondocks_304.jpg",
-        "created": 1402945478,
-        "title_id": "798553",
-        "season_number": "3",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1749172467,
-        "tags": [
-            "the boondocks",
-            "it's a black president",
-            "huey freeman",
-            "yes we can",
-            "no you don't",
-            "german",
-            "documentary",
-            "freeman family",
-            "election",
-            "inauguration",
-            "black president",
-            "hope",
-            "change",
-            "ancient",
-            "history"
-        ],
-        "rating_count": 6260,
-        "collection_title": "The Boondocks",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1749441600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321134169-boondocks_304.jpg",
-        "cma_id": "1224293"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1750046340,
         "tms_id": "EP007753880050",
         "rating": 8.747216,
@@ -467,106 +396,6 @@
         "launch_date": 1746417600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321116383-boondocks_105.jpg",
         "cma_id": "1013574"
-    },
-    {
-        "ott_launch_date": null,
-        "auth_expiration_date": 1749441540,
-        "tms_id": "EP007753880027",
-        "description": "A BET reality show forces racist handyman Uncle Ruckus to accept the truth about his own blackness. The show and man begin to quickly fall apart.",
-        "title_suggest": {
-            "input": [
-                "The Uncle Ruckus Reality Show",
-                "Uncle Ruckus Reality Show",
-                "Ruckus Reality Show",
-                "Reality Show",
-                "Show"
-            ]
-        },
-        "title": "The Uncle Ruckus Reality Show",
-        "expiration_date": 1750046340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "B7y0GaMUR--SAcHgWr5qrA",
-        "duration": 1290.2556,
-        "episode_number": "15",
-        "original_air_date": null,
-        "auth_launch_date": 1743393600,
-        "clip_order": null,
-        "media_id": "c42ef7bef0e54984a58d9c125fc03ff560e482a6",
-        "modified": 1749191814,
-        "airing_id": "RADS1003252500026629",
-        "slug": "the-uncle-ruckus-reality-show",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200729/thumbnails/1_207291422532-boondocks_210.jpg",
-        "created": 1579199197,
-        "season_number": "2",
-        "title_id": "682885",
-        "tv_rating": "tv-ma-l",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1749191814,
-        "tags": [],
-        "collection_title": "The Boondocks",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1749441600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200729/thumbnails/2_207291422532-boondocks_210.jpg",
-        "id": "AW-vm3LBGRcVO2K2pmHN",
-        "auth": false
-    },
-    {
-        "ott_launch_date": null,
-        "auth_expiration_date": 1749441540,
-        "tms_id": "EP007753880036",
-        "description": "Huey organizes a boycott of BET and gets some high-profile help. Will it be enough to bring the world's worst cable network to it's knees? We can only hope.",
-        "title_suggest": {
-            "input": [
-                "The Hunger Strike",
-                "Hunger Strike",
-                "Strike"
-            ]
-        },
-        "title": "The Hunger Strike",
-        "expiration_date": 1750046340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "B7y0GaMUR--SAcHgWr5qrA",
-        "duration": 1119.4517,
-        "episode_number": "14",
-        "original_air_date": null,
-        "auth_launch_date": 1743393600,
-        "clip_order": null,
-        "media_id": "147983d8f0ba614a610eb40ffb4ccd9213a6fc24",
-        "modified": 1749188781,
-        "airing_id": "RADS1005252500038397",
-        "slug": "the-hunger-strike",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/1_20321123385-boondocks_201.jpg",
-        "created": 1579199104,
-        "season_number": "2",
-        "title_id": "682881",
-        "tv_rating": "tv-ma-lsv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1749188781,
-        "tags": [],
-        "collection_title": "The Boondocks",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1749441600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321123385-boondocks_201.jpg",
-        "id": "AW-vmgdy3HMJfT8do7JM",
-        "auth": false
     },
     {
         "auth": false,
@@ -1007,7 +836,7 @@
         "cma_id": "1386550"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1750046340,
         "tms_id": "EP007753880048",
@@ -1288,7 +1117,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1750046340,
         "tms_id": "EP007753880047",
@@ -1910,7 +1739,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1750046340,
         "tms_id": "EP007753880051",
@@ -3176,60 +3005,6 @@
         "cma_id": "1290538"
     },
     {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1749441540,
-        "tms_id": "EP007753880044",
-        "rating": 8.76552,
-        "description": "Thugnificent has seen better days. Auto-tune, rap beef, nothing can stop the IRS when his new album tanks. Faced with the horror of getting a real job, Otis Jenkins takes some pretty desperate measures to stay afloat. Is there life after rap death?",
-        "title_suggest": {
-            "input": [
-                "Bitches to Rags",
-                "to Rags",
-                "Rags"
-            ]
-        },
-        "type": "episode",
-        "title": "Bitches to Rags",
-        "expiration_date": 1750046340,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "B7y0GaMUR--SAcHgWr5qrA",
-        "duration": 1365.4337671,
-        "episode_number": "2",
-        "original_air_date": 1273462200,
-        "clip_order": null,
-        "auth_launch_date": 1743998400,
-        "modified": 1749159408,
-        "airing_id": "RADS1004022500028301",
-        "media_id": "2d1474bd0e203185290bbed09b33ea3bfdbb0637",
-        "id": "w0s3_fS6QSu1w1glwqm-iA",
-        "slug": "bitches-to-rags",
-        "views": 1685966,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/1_20321134395-boondocks_302.jpg",
-        "created": 1402945478,
-        "title_id": "798273",
-        "season_number": "3",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1749159408,
-        "tags": [
-            "Boondocks Aaron McGruder From Bitches to Rags Thugnificent Adult Swim video funny"
-        ],
-        "rating_count": 8180,
-        "collection_title": "The Boondocks",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1749441600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321134395-boondocks_302.jpg",
-        "cma_id": "1221780"
-    },
-    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1753675140,
@@ -3497,63 +3272,6 @@
         "launch_date": 1748232000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321127426-boondocks_207.jpg",
         "cma_id": "1021829"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1749441540,
-        "tms_id": "EP007753880035",
-        "rating": 8.079485,
-        "description": "Gangstalicious is back with a new hit song, a new clothing line, but the same old secret. Gayness ensues.",
-        "title_suggest": {
-            "input": [
-                "The Story of Gangstalicious, Part 2",
-                "Story of Gangstalicious, Part 2",
-                "of Gangstalicious, Part 2",
-                "Gangstalicious, Part 2",
-                "Part 2",
-                "2"
-            ]
-        },
-        "type": "episode",
-        "title": "The Story of Gangstalicious, Part 2",
-        "expiration_date": 1750046340,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "B7y0GaMUR--SAcHgWr5qrA",
-        "duration": 1305.8341675,
-        "episode_number": "13",
-        "original_air_date": 1202185800,
-        "clip_order": null,
-        "auth_launch_date": 1743393600,
-        "modified": 1749191599,
-        "airing_id": "RADS1005252500038399",
-        "media_id": "a7898683a640550a1841e3e4d3b5524a387012d4",
-        "id": "zE2cixcvQdycaQrG6S3lfg",
-        "slug": "the-story-of-gangstalicious-part-2",
-        "views": 1082829,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/1_20321133301-boondocks_215.jpg",
-        "created": 1402945478,
-        "title_id": "683096",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1749191599,
-        "tags": [
-            "boondocks episode 30 story of gangstalicious part 2 gay rapper homies over hos riley clothing tell all book"
-        ],
-        "rating_count": 8807,
-        "collection_title": "The Boondocks",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1749441600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321133301-boondocks_215.jpg",
-        "cma_id": "1061459"
     },
     {
         "auth": true,
