@@ -7336,6 +7336,54 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1751857140,
+        "tms_id": "",
+        "description": "Broh is risen. The Smiths learn the true meaning of Easter. Kind of. Broh.",
+        "title_suggest": {
+            "input": [
+                "The Last Temptation of Jerry",
+                "Last Temptation of Jerry",
+                "Temptation of Jerry",
+                "of Jerry",
+                "Jerry"
+            ]
+        },
+        "title": "The Last Temptation of Jerry",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 1352.718,
+        "episode_number": "4",
+        "original_air_date": "1750042800",
+        "auth_launch_date": 1750042800,
+        "clip_order": null,
+        "airing_id": "RADS1006132500041510",
+        "media_id": "fb5c34208e647778633936ec8f114dc0b2ae8c12",
+        "modified": 1749836597,
+        "slug": "the-last-temptation-of-jerry",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250516/thumbnails/1_255161457147-RAM-S08E04-1920x1080.png",
+        "created": 1747421843,
+        "season_number": "8",
+        "title_id": "2555955",
+        "tv_rating": "tv-ma-lsv",
+        "published": 1749836597,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250516/thumbnails/2_255161457147-RAM-S08E04-1920x1080.png",
+        "id": "AZbadVDC5aaI-__GJ7Pl",
+        "auth": true
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
