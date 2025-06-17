@@ -704,6 +704,56 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1750737540,
+        "tms_id": "EP007164450429",
+        "description": "Barry blows out his dad's speakers and Snot helps him replace them. Stan attempts to do a standing backflip.",
+        "title_suggest": {
+            "input": [
+                "I Heard You Wanna Buy Some Speakers",
+                "Heard You Wanna Buy Some Speakers",
+                "You Wanna Buy Some Speakers",
+                "Wanna Buy Some Speakers",
+                "Buy Some Speakers",
+                "Some Speakers",
+                "Speakers"
+            ]
+        },
+        "title": "I Heard You Wanna Buy Some Speakers",
+        "type": "episode",
+        "expiration_date": 1740977940,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1263.1285,
+        "episode_number": "16",
+        "original_air_date": 1668396600,
+        "auth_launch_date": 1750132800,
+        "clip_order": null,
+        "airing_id": "RADS1005252500038807",
+        "media_id": "34c8b557b6b1f933a28dd70ac25578ab45ee6192",
+        "modified": 1749887918,
+        "slug": "i-heard-you-wanna-buy-some-speakers",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230216/thumbnails/1_2321611028-BuySpeakers.png",
+        "created": 1674854156,
+        "title_id": "2342101",
+        "season_number": "17",
+        "tv_rating": "tv-14-dlv",
+        "published": 1749887918,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1740373200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230216/thumbnails/2_2321611028-BuySpeakers.png",
+        "id": "AYX1Fkpr4k01GlbfzrYQ",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1750478340,
         "tms_id": "EP007164450425",
         "description": "Francine's newfound friendship with a frog brings excitement to the whole Smith household. Unfortunately, it drives their neighbor, Greg, crazy.",
@@ -840,52 +890,6 @@
         "launch_date": 1739768400,
         "poster": "https://media.cdn.adultswim.com/uploads/20230119/thumbnails/2_2311913260-EpicPowderDumptiny.png",
         "id": "AYXAW8OB4k01GlbfzrYB",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1750132740,
-        "tms_id": "EP007164450414",
-        "description": "Steve and Snot's friendship is put to the test when their mothers get in a fight.",
-        "title_suggest": {
-            "input": [
-                "A Roger Story",
-                "Roger Story",
-                "Story"
-            ]
-        },
-        "title": "A Roger Story",
-        "type": "episode",
-        "expiration_date": 1740373140,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1263.1285,
-        "episode_number": "4",
-        "original_air_date": 1645414200,
-        "auth_launch_date": 1749528000,
-        "clip_order": null,
-        "airing_id": "RADS1005252500038444",
-        "media_id": "7c8ad94d64f3ebff4113ee8917b5141d3959807a",
-        "modified": 1749273394,
-        "slug": "a-roger-story",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230119/thumbnails/1_231191156134-ARogerStorytiny.png",
-        "created": 1673969438,
-        "title_id": "2342090",
-        "season_number": "17",
-        "tv_rating": "tv-14-dlv",
-        "published": 1749273394,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1739768400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20230119/thumbnails/2_231191156134-ARogerStorytiny.png",
-        "id": "AYXAWo3huLQD-MTtYfnB",
         "auth": true
     },
     {
