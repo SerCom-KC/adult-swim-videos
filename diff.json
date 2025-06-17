@@ -1,7 +1,6 @@
 {
-    "updated": 1750174213,
-    "added": [],
-    "removed": [
+    "updated": 1750179613,
+    "added": [
         {
             "auth": false,
             "ott_launch_date": 1445372340,
@@ -28,7 +27,7 @@
             "original_air_date": 1332131400,
             "clip_order": null,
             "auth_launch_date": 1750392000,
-            "modified": 1750172099,
+            "modified": 1750179352,
             "media_id": "510037419c9e29e5acf71a42120cf2f04a943878",
             "airing_id": "RADS1012272400011691",
             "id": "XQ_K104dSMClqoF193IqiQ",
@@ -43,7 +42,7 @@
             "active": true,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1750172099,
+            "published": 1750179352,
             "tags": [
                 "Steve Brule",
                 "Adult Swim"
@@ -59,5 +58,6 @@
             "collection_title_id": "798427",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
