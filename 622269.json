@@ -439,53 +439,6 @@
     {
         "auth_expiration_date": 1780199940,
         "tms_id": "",
-        "description": "Kakashi has the upper hand in his battle with Zabuza. But the tide turns when Kakashi is trapped inside Zabuza's Water Prison!",
-        "title_suggest": {
-            "input": [
-                "The Oath of Pain",
-                "Oath of Pain",
-                "of Pain",
-                "Pain"
-            ]
-        },
-        "title": "The Oath of Pain",
-        "type": "episode",
-        "expiration_date": 1750478340,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "lG7zt3RpRCKLnxfZW2IJ3w",
-        "duration": 1315.1472,
-        "episode_number": "8",
-        "original_air_date": 1130029200,
-        "auth_launch_date": 1751083200,
-        "clip_order": null,
-        "airing_id": "RADS1006092500040930",
-        "media_id": "cbdb9ef5f0d9fc7209851100953d60f9277ce993",
-        "modified": 1749873815,
-        "slug": "the-oath-of-pain",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240729/thumbnails/1_24729957329-NarutoClassic_Ep008_Still_1920x1080_Pillarbox.jpg",
-        "created": 1721423075,
-        "title_id": "622462",
-        "season_number": "1",
-        "tv_rating": "tv-14-v",
-        "published": 1749873815,
-        "tags": [],
-        "collection_title": "Naruto",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1749268800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240729/thumbnails/2_24729957329-NarutoClassic_Ep008_Still_1920x1080_Pillarbox.jpg",
-        "id": "AZDMz5leSaru9Cdsy7SG",
-        "auth": false
-    },
-    {
-        "auth_expiration_date": 1780199940,
-        "tms_id": "",
         "description": "Thanks to Naruto's ingenious plan, Kakashi is freed from the water prison.",
         "title_suggest": {
             "input": [
@@ -574,7 +527,7 @@
         "launch_date": 1750478400,
         "poster": "https://media.cdn.adultswim.com/uploads/20240729/thumbnails/2_2472995873-NarutoClassic_Ep010_Still_1920x1080_Pillarbox.jpg",
         "id": "AZDX1vHeg6zBH7G86tgs",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1751083140,
