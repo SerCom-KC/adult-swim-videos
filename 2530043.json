@@ -1,50 +1,5 @@
 [
     {
-        "auth_expiration_date": 1750478340,
-        "tms_id": "",
-        "description": "Faith heals all. Well, faith and money.",
-        "title_suggest": {
-            "input": [
-                "Faith Healer",
-                "Healer"
-            ]
-        },
-        "title": "Faith Healer",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AZBvkmVYSaru9Cdsy7Cx",
-        "duration": 660.4264,
-        "episode_number": "6",
-        "original_air_date": 1721621700,
-        "auth_launch_date": 1747454400,
-        "clip_order": null,
-        "airing_id": "RADS1005082500035249",
-        "media_id": "b514899aadae79c4417125ed1378a575bfb0e0ef",
-        "modified": 1747357843,
-        "slug": "faith-healer",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240722/thumbnails/1_24722935560-PSICOPS_SEASON1_EP106_SHOWSTILLS_IMAGE1_PEACESIGNMAN.jpg",
-        "created": 1721251730,
-        "title_id": "2530049",
-        "season_number": "1",
-        "tv_rating": "tv-ma-v",
-        "published": 1747357843,
-        "tags": [],
-        "collection_title": "Psi-Cops",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240722/thumbnails/2_24722935560-PSICOPS_SEASON1_EP106_SHOWSTILLS_IMAGE1_PEACESIGNMAN.jpg",
-        "id": "AZDCmRVeSaru9Cdsy7Ph",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1751083140,
         "tms_id": "",
         "description": "What do swamp hillbillies, a snake god and Eric all have in common? Fancy Hats!",
@@ -220,6 +175,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20240815/thumbnails/2_2481514675-PSICOPS_SEASON1_EP110_SHOWSTILLS_IMAGE2_LEFTTORIGHT_FELIXXKYDDWHEELBARROW.jpg",
         "id": "AZEJo3a3g6zBH7G86tg4",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1753502340,
+        "tms_id": "",
+        "description": "The most difficult part of racing foreign spies to discover the truth of mysterious crop circles: babysitting a child.",
+        "title_suggest": {
+            "input": [
+                "Crop Circles",
+                "Circles"
+            ]
+        },
+        "title": "Crop Circles",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZBvkmVYSaru9Cdsy7Cx",
+        "duration": 660.4598,
+        "episode_number": "11",
+        "original_air_date": 1723435200,
+        "auth_launch_date": 1750478400,
+        "clip_order": null,
+        "airing_id": "RADS1005252500039006",
+        "media_id": "654bfa6fceb45d09c5793a0d72ec5c5e15862b35",
+        "modified": 1750226366,
+        "slug": "crop-circles",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240815/thumbnails/1_24815146280-PSICOPS_SEASON1_EP111_SHOWSTILLS_IMAGE2_LEFTTORIGHT_FELIXXKYDDSCIENTISTMONKEYSONGROUND.jpg",
+        "created": 1722978112,
+        "title_id": "2530054",
+        "season_number": "1",
+        "tv_rating": "tv-ma-v",
+        "published": 1750226366,
+        "tags": [],
+        "collection_title": "Psi-Cops",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240815/thumbnails/2_24815146280-PSICOPS_SEASON1_EP111_SHOWSTILLS_IMAGE2_LEFTTORIGHT_FELIXXKYDDSCIENTISTMONKEYSONGROUND.jpg",
+        "id": "AZEpf5MBg6zBH7G86tg7",
         "auth": true
     }
 ]
