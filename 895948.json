@@ -108,7 +108,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1446739980,
         "auth_expiration_date": 1753588740,
         "tms_id": "EP015632430007",
@@ -260,51 +260,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1542949200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187304540037.jpg"
-    },
-    {
-        "auth_expiration_date": 1750564740,
-        "tms_id": "EP015632430071",
-        "description": "Eric welcomes Jaden Smith and Chloe Cherry. The Chainsmokers finally chain smoke. A desperate Dad hang glides into a gender reveal party gone awry.",
-        "title_suggest": {
-            "input": [
-                "Old Yeller",
-                "Yeller"
-            ]
-        },
-        "title": "Old Yeller",
-        "type": "episode",
-        "expiration_date": 1747540740,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 659.8926,
-        "episode_number": "8",
-        "original_air_date": 1687752900,
-        "auth_launch_date": 1747540800,
-        "clip_order": null,
-        "airing_id": "RADS1005122500035500",
-        "media_id": "ecf99bfb15c12133220a9451d2ae0a50a22e05f7",
-        "modified": 1747361461,
-        "slug": "old-yeller",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230705/thumbnails/1_2375155340-EAOldYeller.png",
-        "created": 1687271615,
-        "title_id": "2418688",
-        "season_number": "6",
-        "tv_rating": "tv-ma-ls",
-        "published": 1747361461,
-        "tags": [],
-        "collection_title": "The Eric Andre Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1744516800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20230705/thumbnails/2_2375155340-EAOldYeller.png",
-        "id": "AYjZOaps2rZC6NyF6194",
-        "auth": true
     },
     {
         "auth_expiration_date": 1751169540,
@@ -641,6 +596,57 @@
         "launch_date": 1748750400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_203416915-ericandre_105_dup-20120910.jpg",
         "cma_id": "1423374"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1446739860,
+        "auth_expiration_date": 1664164740,
+        "tms_id": "EP015632430009",
+        "rating": 7.4882107,
+        "description": "Eric interviews Jay-Z, Beyonce and Evangelos. Musical guest Eden Wood.",
+        "title_suggest": {
+            "input": [
+                "Evangelos"
+            ]
+        },
+        "type": "episode",
+        "title": "Evangelos",
+        "expiration_date": 1753588740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 648.7007007,
+        "episode_number": "8",
+        "original_air_date": 1342413000,
+        "clip_order": null,
+        "auth_launch_date": 1661140800,
+        "modified": 1750297545,
+        "media_id": "79f1ecfab6454d4f3ba598c1f56a25a425fd7135",
+        "airing_id": "RADS1005252500039049",
+        "id": "WIfWvjy7RaGOzoAK3zpHEQ",
+        "slug": "evangelos",
+        "views": 98692,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_2034161076-ericandre_109_dup-20120718.jpg",
+        "created": 1402945479,
+        "title_id": "895957",
+        "season_number": "1",
+        "tv_rating": "tv-14-dls",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1750297545,
+        "tags": [],
+        "rating_count": 721,
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1750564800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034161076-ericandre_109_dup-20120718.jpg",
+        "cma_id": "1439385"
     },
     {
         "auth": true,
