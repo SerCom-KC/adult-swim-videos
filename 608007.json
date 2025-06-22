@@ -447,7 +447,7 @@
         "launch_date": 1750582800,
         "poster": "https://media.cdn.adultswim.com/uploads/20250602/thumbnails/2_25621819236-OP729_S17E101.jpg",
         "id": "AZb02-HDC3J9ee8ny73h",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1750584540,
@@ -495,7 +495,7 @@
         "launch_date": 1750584600,
         "poster": "https://media.cdn.adultswim.com/uploads/20250602/thumbnails/2_2562182153-OP730_S17E102.jpg",
         "id": "AZb03KBSC3J9ee8ny73i",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1753675140,
@@ -642,7 +642,7 @@
         "launch_date": 1749978120,
         "poster": "https://media.cdn.adultswim.com/uploads/20250527/thumbnails/2_25527179342-OP727_S17E99.jpg",
         "id": "AZbmBSce5aaI-__GJ7QB",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1754279940,
@@ -791,6 +791,41 @@
         "launch_date": 1751189400,
         "poster": "https://media.cdn.adultswim.com/uploads/20250609/thumbnails/2_25691834518-OP732_S17E104.jpg",
         "id": "AZcGx5dMITxXrw59dMVW",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1752398940,
+        "created": 1750158576,
+        "tms_id": "",
+        "title_id": "2550982",
+        "season_number": "17",
+        "tv_rating": "tv-14-v",
+        "description": "With Doflamingo deposed and the Birdcage collapsing, the people of Dressrosa shed tears of joy in thanks to Luffy and the others for freeing them.",
+        "title_suggest": {
+            "input": [
+                "To Be Free! Dressrosa's Delight!",
+                "Be Free! Dressrosa's Delight!",
+                "Free! Dressrosa's Delight!",
+                "Dressrosa's Delight!",
+                "Delight!"
+            ]
+        },
+        "published": 1750166095,
+        "title": "To Be Free! Dressrosa's Delight!",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1305.1372,
+        "episode_number": "",
+        "collection_title": "One Piece",
+        "original_air_date": 1750572000,
+        "auth_launch_date": 1750584600,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1006172500041611",
+        "media_id": "d19515fca55939af91659452ae82ba7219dc1fca",
+        "modified": 1750166095,
+        "slug": "to-be-free-dressrosas-delight",
+        "id": "AZd9lIo_CI-3VkGoG1GF",
         "auth": true
     },
     {
