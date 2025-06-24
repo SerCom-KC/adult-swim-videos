@@ -2,55 +2,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1750737540,
-        "tms_id": "EP012792980123",
-        "description": "Linda jumps at the chance to chaperone Tina's weekend away at a heroine conference, but Tina's new friend could put Linda's perfect weekend in jeopardy. Meanwhile, the younger Belchers have plans for their weekend alone with Bob.",
-        "title_suggest": {
-            "input": [
-                "The Grand Mama-Pest Hotel",
-                "Grand Mama-Pest Hotel",
-                "Mama-Pest Hotel",
-                "Hotel"
-            ]
-        },
-        "title": "The Grand Mama-Pest Hotel",
-        "type": "episode",
-        "expiration_date": 1687751940,
-        "platforms": [
-            "web",
-            "mobile",
-            "fire-tv",
-            "roku"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1306.47,
-        "episode_number": "9",
-        "original_air_date": 1512352800,
-        "auth_launch_date": 1750132800,
-        "clip_order": null,
-        "media_id": "ead9e6aa8afe4c1b9b2fbfdfb8ef6547b3f0be53",
-        "modified": 1749877999,
-        "airing_id": "RADS1005252500038829",
-        "id": "AWAJmC0kwdpKFAKSbnfG",
-        "slug": "the-grand-mama-pest-hotel",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151361132028519.jpg",
-        "created": 1511989456,
-        "title_id": "2132977",
-        "tv_rating": "tv-pg-l",
-        "season_number": "7",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1749877999,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1687147200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151361132028519.jpg"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1750823940,
         "tms_id": "EP012792980125",
         "description": "When Tina learns that the aquarium is in danger of closing, the Belcher children devise a scheme to keep it running. Meanwhile, Bob realizes that he could learn a thing or two from Linda's customer service skills.",
@@ -483,6 +434,52 @@
         "modified_by": "ODT Listener",
         "launch_date": 1688961600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151784511773910.jpg"
+    },
+    {
+        "ott_launch_date": null,
+        "auth": true,
+        "auth_expiration_date": 1751342340,
+        "tms_id": "",
+        "description": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "title_suggest": {
+            "input": [
+                "Brunchsquatch"
+            ]
+        },
+        "title": "Brunchsquatch",
+        "expiration_date": 1690171140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1281.93,
+        "episode_number": "1",
+        "original_air_date": 1541385000,
+        "auth_launch_date": 1750737600,
+        "clip_order": null,
+        "media_id": "f7b65ee9285010f25d670eee5521b121b0fc1d59",
+        "modified": 1750483542,
+        "airing_id": "RADS1005262500039128",
+        "id": "AWY1PDReh5enQuYyI6rv",
+        "slug": "brunchsquatch",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154325465279617.jpg",
+        "created": 1538491429,
+        "season_number": "8",
+        "title_id": "2171432",
+        "tv_rating": "tv-pg-lv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1750483542,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1689566400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154325465279617.jpg"
     },
     {
         "auth_expiration_date": 1739681940,
