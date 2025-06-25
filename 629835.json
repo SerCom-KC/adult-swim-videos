@@ -155,51 +155,6 @@
         "cma_id": "1434090"
     },
     {
-        "auth": false,
-        "auth_expiration_date": 1750823940,
-        "rating": 8.2892561983471,
-        "description": "Hank loses his job when Strickland Propane is unable to compete with Mega Lo Mart.\r\n\r\n",
-        "title_suggest": {
-            "input": [
-                "Propane Boom 1",
-                "Boom 1",
-                "1"
-            ]
-        },
-        "type": "episode",
-        "title": "Propane Boom 1",
-        "expiration_date": 1407268243,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1407.8731,
-        "episode_number": "22",
-        "original_air_date": 1232161200,
-        "clip_order": null,
-        "auth_launch_date": 1750219200,
-        "modified": 1749965017,
-        "airing_id": "RADS1005252500038909",
-        "media_id": "00f5ffed421e5b2e72ee1c716ff345ee1c71f8cf",
-        "id": "hKYsqQ3NQX-WOCGTnQj3Cw",
-        "slug": "propane-boom-1",
-        "views": 102393,
-        "created": 1402945468,
-        "title_id": "728436",
-        "season_number": "2",
-        "tv_rating": "tv-pg-lv",
-        "active": false,
-        "published": 1749965017,
-        "tags": [],
-        "rating_count": 121,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1232686800,
-        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_7999.jpg",
-        "cma_id": ""
-    },
-    {
         "auth": true,
         "auth_expiration_date": 1751083140,
         "tms_id": "EP002070020040",
@@ -261,5 +216,56 @@
         "launch_date": 1500435000,
         "poster": "https://media.cdn.adultswim.com/uploads/20220628/thumbnails/2_226281431254-KingOfTheHill_220_PeggysHeadache.png",
         "cma_id": "1434385"
+    },
+    {
+        "auth": true,
+        "auth_expiration_date": 1751428740,
+        "tms_id": "EP002070020042",
+        "rating": 8.077956,
+        "description": "Cotton drops a bombshell when he announces that Didi is pregnant.",
+        "title_suggest": {
+            "input": [
+                "Next of Shin",
+                "of Shin",
+                "Shin"
+            ]
+        },
+        "type": "episode",
+        "title": "Next of Shin",
+        "expiration_date": 1501212599,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1397.2625,
+        "episode_number": "5",
+        "original_air_date": 1239417000,
+        "clip_order": null,
+        "auth_launch_date": 1750824000,
+        "modified": 1750571807,
+        "media_id": "e684cef1a2000c651e95a393076b846a01456749",
+        "airing_id": "RADS1005262500039212",
+        "id": "q-Own7PSQlea-D8F1g0oKw",
+        "slug": "next-of-shin",
+        "views": 281204,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220706/thumbnails/1_22761717225-KingOfTheHill_305_NextOfShin.png",
+        "created": 1402945468,
+        "title_id": "728864",
+        "season_number": "3",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
+        "published": 1750571807,
+        "tags": [
+            "king of the hill episode next of shin cotton didi pregnant"
+        ],
+        "rating_count": 372,
+        "collection_title": "King of the Hill",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1500607800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220706/thumbnails/2_22761717225-KingOfTheHill_305_NextOfShin.png",
+        "cma_id": "1436656"
     }
 ]
