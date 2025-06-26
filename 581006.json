@@ -1,5 +1,50 @@
 [
     {
+        "auth_expiration_date": 1751515140,
+        "tms_id": "EP007164450443",
+        "description": "In an attempt to maintain his \"prime,\" Stan explores some cosmetic solutions that could not go worse.",
+        "title_suggest": {
+            "input": [
+                "Saving Face",
+                "Face"
+            ]
+        },
+        "title": "Saving Face",
+        "type": "episode",
+        "expiration_date": 1741579140,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1263.1953,
+        "episode_number": "9",
+        "original_air_date": 1694055600,
+        "auth_launch_date": 1750910400,
+        "clip_order": null,
+        "airing_id": "RADS1005252500039101",
+        "media_id": "f7c1cd9a17453fe59dfed4f3e54bfa0520df52e2",
+        "modified": 1750656743,
+        "slug": "saving-face",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240122/thumbnails/1_241221123552-Screenshot2024-01-22at11.23.31AM.png",
+        "created": 1705529288,
+        "title_id": "2392762",
+        "season_number": "18",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1750656743,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1740978000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240122/thumbnails/2_241221123552-Screenshot2024-01-22at11.23.31AM.png",
+        "id": "AY0Zd6jXn_kciGPPrESg",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1751169540,
         "tms_id": "EP007164450440",
         "description": "Klaus and Jeff's friendship is threatened by Klaus's girlfriend from another realm.",
@@ -189,6 +234,51 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1751515140,
+        "tms_id": "EP007164450447",
+        "description": "When Stan goes too far to keep his work friend away from Francine, she is forced to save her new \"little\" friend.",
+        "title_suggest": {
+            "input": [
+                "Frantastic Voyage",
+                "Voyage"
+            ]
+        },
+        "title": "Frantastic Voyage",
+        "type": "episode",
+        "expiration_date": 1741579140,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1263.262,
+        "episode_number": "10",
+        "original_air_date": 1694660400,
+        "auth_launch_date": 1750910400,
+        "clip_order": null,
+        "airing_id": "RADS1005252500039103",
+        "media_id": "ec3d79aaf9b542d1e9907f1a115b5ed284af7517",
+        "modified": 1750656181,
+        "slug": "frantastic-voyage",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240122/thumbnails/1_241221122529-Screenshot2024-01-22at11.20.54AM.png",
+        "created": 1705529312,
+        "title_id": "2392763",
+        "season_number": "18",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1750656181,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1740978000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240122/thumbnails/2_241221122529-Screenshot2024-01-22at11.20.54AM.png",
+        "id": "AY0ZeAOFn_kciGPPrESh",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1751255940,
         "tms_id": "EP007164450445",
         "description": "When Jeff finds out that the family thinks he makes terrible decisions, he decides to take a job selling stretchy leggings to prove them wrong.",
@@ -232,96 +322,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20240122/thumbnails/2_241221134127-Screenshot2024-01-22at11.33.50AM.png",
         "id": "AY0ZeMx8n_kciGPPrESi",
         "auth": true
-    },
-    {
-        "auth_expiration_date": 1750910340,
-        "tms_id": "EP007164450432",
-        "description": "When Francine successfully grows a garden, it reminds Roger he knows a recipe for truly authentic jambalaya.",
-        "title_suggest": {
-            "input": [
-                "Jambalaya"
-            ]
-        },
-        "title": "Jambalaya",
-        "type": "episode",
-        "expiration_date": 1740977940,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1262.6947,
-        "episode_number": "19",
-        "original_air_date": 1670211000,
-        "auth_launch_date": 1750305600,
-        "clip_order": null,
-        "airing_id": "RADS1005252500038813",
-        "media_id": "492473ac3fbb9fba47c88aa3a7ee94001160d288",
-        "modified": 1750050586,
-        "slug": "jambalaya",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230224/thumbnails/1_23224128511-Jambalayatiny.png",
-        "created": 1674854818,
-        "title_id": "2342106",
-        "season_number": "17",
-        "tv_rating": "tv-14-dlv",
-        "published": 1750050586,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1740373200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20230224/thumbnails/2_23224128511-Jambalayatiny.png",
-        "id": "AYX1IGPxuLQD-MTtYfyY",
-        "auth": false
-    },
-    {
-        "auth_expiration_date": 1750910340,
-        "tms_id": "EP007164450433",
-        "description": "Hoping to teach him the value of sharing, the family recreates a television show from Klaus's childhood. Roger has a piano recital.",
-        "title_suggest": {
-            "input": [
-                "Gernot and Strudel",
-                "and Strudel",
-                "Strudel"
-            ]
-        },
-        "title": "Gernot and Strudel",
-        "type": "episode",
-        "expiration_date": 1740977940,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1263.1617,
-        "episode_number": "20",
-        "original_air_date": 1670815800,
-        "auth_launch_date": 1750305600,
-        "clip_order": null,
-        "airing_id": "RADS1005252500038815",
-        "media_id": "8dadef2c7ad1948614ae07a290ac28cdc5074293",
-        "modified": 1750059867,
-        "slug": "gernot-and-strudel",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230224/thumbnails/1_2322412952-Gernottiny.png",
-        "created": 1674854914,
-        "title_id": "2342107",
-        "season_number": "17",
-        "tv_rating": "tv-14-dlsv",
-        "published": 1750059867,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1740373200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20230224/thumbnails/2_2322412952-Gernottiny.png",
-        "id": "AYX1IdkIuLQD-MTtYfyZ",
-        "auth": false
     },
     {
         "auth_expiration_date": 1750996740,
