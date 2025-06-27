@@ -200,7 +200,7 @@
         "auth": false
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1445372460,
         "auth_expiration_date": 1751601540,
         "tms_id": "EP012636510008",
@@ -406,7 +406,7 @@
         "cma_id": "2087966"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1445372280,
         "auth_expiration_date": 1750996799,
         "tms_id": "EP012636510006",
@@ -464,7 +464,7 @@
         "cma_id": "1426547"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1445372340,
         "auth_expiration_date": 1750996740,
         "tms_id": "EP012636510007",
@@ -518,7 +518,7 @@
         "cma_id": "1432205"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1445371380,
         "auth_expiration_date": 1750996799,
         "tms_id": "EP012636510004",
@@ -1195,7 +1195,7 @@
         "cma_id": "1444146"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1445372280,
         "auth_expiration_date": 1750996799,
         "tms_id": "EP012636510005",
