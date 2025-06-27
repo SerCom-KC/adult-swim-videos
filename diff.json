@@ -1,53 +1,58 @@
 {
-    "updated": 1750975213,
-    "added": [
+    "updated": 1750987843,
+    "added": [],
+    "removed": [
         {
-            "auth_expiration_date": 1751011140,
-            "tms_id": "EP054454370002",
-            "description": "Goku and friends, now tiny, prepare for a new adventure, only to encounter a mysterious Majin.",
+            "ott_launch_date": null,
+            "auth_expiration_date": 1751342340,
+            "tms_id": "EP022022090003",
+            "description": "With a robot and an alien at home, Naota tries to at least have a normal school life. The class is putting on a play, and Naota is playing a cat. He's sprouted cat ears from his head. Class president Ninamori's been chosen to play the lead.",
             "title_suggest": {
                 "input": [
-                    "Glorio"
+                    "Marquis de Carabas",
+                    "de Carabas",
+                    "Carabas"
                 ]
             },
-            "title": "Glorio",
-            "expiration_date": null,
+            "expiration_date": 1692676740,
             "type": "episode",
+            "title": "Marquis de Carabas",
             "platforms": [
                 "android",
                 "ios",
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "AZdbF4U7ITxXrw59dMiA",
-            "duration": 1406.405,
-            "episode_number": "2",
-            "original_air_date": "1750566600",
-            "auth_launch_date": 1750579200,
+            "collection_id": "AWH9BNOjNWyh42wYnlM8",
+            "duration": 1384.57,
+            "episode_number": "3",
+            "original_air_date": 1060228800,
+            "auth_launch_date": 1719979200,
             "clip_order": null,
-            "airing_id": "RADS1006172500041616",
-            "media_id": "b2e1755144e6990d981edb830cb0ac86e6331fbb",
-            "modified": 1750973682,
-            "slug": "glorio",
+            "media_id": "94ccd5812479d0d13d611eb288801834b74bd850",
+            "modified": 1719936359,
+            "airing_id": "RADS1007022400078436",
+            "slug": "marquis-de-carabas",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20250613/thumbnails/1_256131746371-DBDaima_S1_02.png",
-            "created": 1749851212,
+            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152510046842215.png",
+            "created": 1523886729,
             "season_number": "1",
-            "title_id": "2566521",
-            "tv_rating": "tv-y7-fv",
-            "published": 1750973682,
+            "title_id": "446615",
+            "tv_rating": "tv-14",
+            "blacklist": [],
+            "ott_expiration_date": null,
+            "published": 1719936359,
             "tags": [],
-            "collection_title": "Dragon Ball DAIMA",
+            "collection_title": "FLCL",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20250613/thumbnails/2_256131746371-DBDaima_S1_02.png",
-            "id": "AZdrQoq1CI-3VkGoG1Eg",
+            "launch_date": 1555340400,
+            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152510046842215.png",
+            "id": "AWLOuiiSHAeP4-pUPecK",
             "auth": true,
-            "collection_slug": "dragon-ball-daima",
-            "collection_title_id": "2566519",
+            "collection_slug": "flcl",
+            "collection_title_id": "2218883",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
