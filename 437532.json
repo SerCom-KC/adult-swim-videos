@@ -93,6 +93,54 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1751601540,
+        "tms_id": "EP003034830005",
+        "description": "Bender delivers a package to a planet inhabited solely by robots.",
+        "title_suggest": {
+            "input": [
+                "Fear of a Bot Planet",
+                "of a Bot Planet",
+                "a Bot Planet",
+                "Bot Planet",
+                "Planet"
+            ]
+        },
+        "title": "Fear of a Bot Planet",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1401.4334,
+        "episode_number": "5",
+        "original_air_date": "1042776000",
+        "auth_launch_date": 1750996800,
+        "clip_order": null,
+        "airing_id": "RADS1005262500039298",
+        "media_id": "beda7c66d2e07e72176203d75f39cef52c7c302c",
+        "modified": 1750743137,
+        "slug": "fear-of-a-bot-planet",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20211217/thumbnails/1_2112171458474-Futurama_005_FearOfABotPlanet.png",
+        "created": 1639771145,
+        "season_number": "1",
+        "title_id": "437537",
+        "tv_rating": "tv-pg",
+        "published": 1750743137,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20211217/thumbnails/2_2112171458474-Futurama_005_FearOfABotPlanet.png",
+        "id": "AX3J-gTfUQa40cfnRS-j",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1751083140,
         "tms_id": "EP003034830001",
         "description": "A pizza-delivery guy accidentally frozen awakes 1,000 years in the future.",
@@ -136,50 +184,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20211217/thumbnails/2_2112171455355-Futurama_001_SpacePilot3000.png",
         "id": "AX3J9xZo4Xbjep71f6Hv",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1750996740,
-        "tms_id": "EP003034830154",
-        "description": "Fry asks Leela to marry him, and they face their destiny together as the Professor's latest invention alters the fabric of time.",
-        "title_suggest": {
-            "input": [
-                "Meanwhile"
-            ]
-        },
-        "title": "Meanwhile",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1362.4945,
-        "episode_number": "13",
-        "original_air_date": 1661131800,
-        "auth_launch_date": 1750392000,
-        "clip_order": null,
-        "airing_id": "RADS1005252500038976",
-        "media_id": "8bd328d2d79d1842a9226d1e354b9b811ba6d14e",
-        "modified": 1750136663,
-        "slug": "meanwhile",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220822/thumbnails/1_228221421256-Futurama_1013_Meanwhile.png",
-        "created": 1660933091,
-        "title_id": "2161671",
-        "season_number": "10",
-        "tv_rating": "tv-14-dlv",
-        "published": 1750136663,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220822/thumbnails/2_228221421256-Futurama_1013_Meanwhile.png",
-        "id": "AYK3U7E03sQvipyea95S",
         "auth": true
     },
     {
