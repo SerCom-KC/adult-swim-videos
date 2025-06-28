@@ -1,50 +1,5 @@
 [
     {
-        "auth_expiration_date": 1751083140,
-        "tms_id": "",
-        "description": "What do swamp hillbillies, a snake god and Eric all have in common? Fancy Hats!",
-        "title_suggest": {
-            "input": [
-                "Mutant Snake",
-                "Snake"
-            ]
-        },
-        "title": "Mutant Snake",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AZBvkmVYSaru9Cdsy7Cx",
-        "duration": 660.5599,
-        "episode_number": "7",
-        "original_air_date": 1722225600,
-        "auth_launch_date": 1748059200,
-        "clip_order": null,
-        "airing_id": "RADS1005152500036094",
-        "media_id": "b76db6c9ea3650d9a26bc43237fa9df53579ba85",
-        "modified": 1747892745,
-        "slug": "mutant-snake",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240729/thumbnails/1_24729946167-PSICOPS_SEASON1_EP107_SHOWSTILLS_IMAGE3_KYDDINTESTINESCHOKING.jpg",
-        "created": 1721917354,
-        "title_id": "2530050",
-        "season_number": "1",
-        "tv_rating": "tv-ma-v",
-        "published": 1747892745,
-        "tags": [],
-        "collection_title": "Psi-Cops",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240729/thumbnails/2_24729946167-PSICOPS_SEASON1_EP107_SHOWSTILLS_IMAGE3_KYDDINTESTINESCHOKING.jpg",
-        "id": "AZDqRbETg6zBH7G86tg0",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1751687940,
         "tms_id": "",
         "description": "Getting to know your colleagues is hard, especially when one might be a demon in disguise.",
@@ -175,6 +130,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20240815/thumbnails/2_2481514675-PSICOPS_SEASON1_EP110_SHOWSTILLS_IMAGE2_LEFTTORIGHT_FELIXXKYDDWHEELBARROW.jpg",
         "id": "AZEJo3a3g6zBH7G86tg4",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1754107140,
+        "tms_id": "",
+        "description": "The Psi Cops team falls in love with an invisible person despite Eric's rude assertions that this person does not exist.",
+        "title_suggest": {
+            "input": [
+                "Invisible Man",
+                "Man"
+            ]
+        },
+        "title": "Invisible Man",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZBvkmVYSaru9Cdsy7Cx",
+        "duration": 660.4264,
+        "episode_number": "12",
+        "original_air_date": 1723436100,
+        "auth_launch_date": 1751083200,
+        "clip_order": null,
+        "airing_id": "RADS1005262500039358",
+        "media_id": "c0efa2a91fc87414bd92dd6d418d8e355905698c",
+        "modified": 1750828056,
+        "slug": "invisible-man",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240815/thumbnails/1_24815147173-PSICOPS_SEASON1_EP112_SHOWSTILLS_IMAGE3_LEFTTORIGHT_KYDDCHIEFBEEFFELIXXOFFICEHUG.jpg",
+        "created": 1722978132,
+        "title_id": "2530055",
+        "season_number": "1",
+        "tv_rating": "tv-ma-v",
+        "published": 1750828056,
+        "tags": [],
+        "collection_title": "Psi-Cops",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240815/thumbnails/2_24815147173-PSICOPS_SEASON1_EP112_SHOWSTILLS_IMAGE3_LEFTTORIGHT_KYDDCHIEFBEEFFELIXXOFFICEHUG.jpg",
+        "id": "AZEpf-Nbg6zBH7G86tg8",
         "auth": true
     },
     {
