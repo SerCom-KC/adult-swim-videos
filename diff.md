@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 29, 2025 at 05:00:14 EDT_
+_Last Update: June 29, 2025 at 05:30:42 EDT_
 ## Video added
 ### Summary
-2012528 Blue Exorcist: 1  
-### 2546998
-**Blue Exorcist S02E07 - Like a Fire Burning Bright**  
-TV-14-LV 🔒 22:08  
-⌛ September 15, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/blue-exorcist/like-a-fire-burning-bright  
-seriesid=`2012528` titleid=`2546998` id=`AZbZ84t9C3J9ee8ny70C` mediaid=`cde60b68c29ed919962eec70bfbe976ee9291a8a`  
-_The Impure King has been revived! Mephisto appears with news that Rin has been sentenced to death!_  
-<a href="https://media.cdn.adultswim.com/uploads/20250516/thumbnails/2_255161233585-BEX-S02E07.png"><img src="https://media.cdn.adultswim.com/uploads/20250516/thumbnails/2_255161233585-BEX-S02E07.png" height="144px" /></a>
+608007 One Piece: 1  
+### 2550983
+**One Piece S17E107 - The Unheard-of! Admiral Fujitora's Surprising Decision!**  
+TV-14-V 🔒 21:46  
+⌛ July 20, 2025 at 04:59:00 EDT  
+https://www.adultswim.com/videos/one-piece/the-unheard-of-admiral-fujitoras-surprising-decision  
+seriesid=`608007` titleid=`2550983` id=`AZehpU7FCI-3VkGoG1Ib` mediaid=`de338e2a2cfea88a908d507f42ed7ddc5636c89f`  
+_Jesus Burgess of the Blackbeard Pirates tries to agitate Sabo, mocking Ace's final words to unsettle him and try to steal the Flare-Flare Fruit!_  
+<a href="https://media.cdn.adultswim.com/uploads/20250625/thumbnails/2_256252013290-OP735_01.jpg"><img src="https://media.cdn.adultswim.com/uploads/20250625/thumbnails/2_256252013290-OP735_01.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
