@@ -285,7 +285,7 @@
         "launch_date": 1748750400,
         "poster": "https://media.cdn.adultswim.com/uploads/20250401/thumbnails/2_2541174905-Lazarus-S01E06-1920x1080.png",
         "id": "AZXzVLfFC3J9ee8ny7XW",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1749355140,
@@ -570,54 +570,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250401/thumbnails/2_25411826570-Lazarus-S01E12-1920x1080.png",
         "id": "AZXzdxhVC3J9ee8ny7Xc",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1752983940,
-        "tms_id": "",
-        "description": "Abel conducts a raid to free Hersch, while Axel sneaks off to face his nemesis. The rest of the team pursues Skinner in a final bid to save humanity.",
-        "title_suggest": {
-            "input": [
-                "(Dub) The World Is Yours",
-                "The World Is Yours",
-                "World Is Yours",
-                "Is Yours",
-                "Yours"
-            ]
-        },
-        "title": "(Dub) The World Is Yours",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AZXxrR2H5aaI-__GJ688",
-        "duration": 1449.5814,
-        "episode_number": "13",
-        "original_air_date": null,
-        "auth_launch_date": 1751169600,
-        "clip_order": null,
-        "airing_id": "RADS1006232500042454",
-        "media_id": "f1e7338a34f5b61538a2812c8682753b14c55a24",
-        "modified": 1750952559,
-        "slug": "dub-the-world-is-yours",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250401/thumbnails/1_2541183294-Lazarus-S01E13-1920x1080.png",
-        "created": 1743546737,
-        "season_number": "1",
-        "title_id": "2536272",
-        "tv_rating": "tv-14-v",
-        "published": 1750952559,
-        "tags": [],
-        "collection_title": "Lazarus",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250401/thumbnails/2_2541183294-Lazarus-S01E13-1920x1080.png",
-        "id": "AZXze-JJ5aaI-__GJ69N",
         "auth": true
     },
     {
@@ -906,7 +858,7 @@
         "launch_date": 1748750400,
         "poster": "https://media.cdn.adultswim.com/uploads/20250423/thumbnails/2_254231541152-Lazarus-S01E06-1920x1080.png",
         "id": "AZZkMwbxC3J9ee8ny7lF",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": null,
@@ -1046,55 +998,6 @@
         "launch_date": 1750564800,
         "poster": "https://media.cdn.adultswim.com/uploads/20250424/thumbnails/2_254241310533-Lazarus-S01E09-1920x1080.png",
         "id": "AZZox_-C5aaI-__GJ7GP",
-        "auth": false
-    },
-    {
-        "auth_expiration_date": null,
-        "tms_id": "",
-        "description": "Skinner's medical history provides a lead but requires entry to a private clinic. Leland takes Axel and Doug to his home to secure them an invite.",
-        "title_suggest": {
-            "input": [
-                "(Sub) I Can't Tell You Why",
-                "I Can't Tell You Why",
-                "Can't Tell You Why",
-                "Tell You Why",
-                "You Why",
-                "Why"
-            ]
-        },
-        "title": "(Sub) I Can't Tell You Why",
-        "expiration_date": 1754020740,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AZXxrR2H5aaI-__GJ688",
-        "duration": 1370.5692,
-        "episode_number": "10",
-        "original_air_date": null,
-        "auth_launch_date": null,
-        "clip_order": null,
-        "airing_id": "RADS1006232500042453",
-        "media_id": "8c9adc248bc80ee89435a2d029c16496a9df1f5d",
-        "modified": 1750915045,
-        "slug": "sub-i-cant-tell-you-why",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250424/thumbnails/1_25424131254-Lazarus-S01E10-1920x1080.png",
-        "created": 1745514794,
-        "season_number": "2",
-        "title_id": "2551029",
-        "tv_rating": "tv-ma",
-        "published": 1750915045,
-        "tags": [],
-        "collection_title": "Lazarus",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1751169600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250424/thumbnails/2_25424131254-Lazarus-S01E10-1920x1080.png",
-        "id": "AZZoyg8Z5aaI-__GJ7GQ",
         "auth": false
     }
 ]
