@@ -86,5 +86,49 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20250613/thumbnails/2_256131747511-DBDaima_S1_03.png",
         "id": "AZdrQ6k8ITxXrw59dMkE",
         "auth": true
+    },
+    {
+        "auth_expiration_date": 1756627140,
+        "tms_id": "EP054454370002",
+        "description": "Goku and friends, now tiny, prepare for a new adventure, only to encounter a mysterious Majin.",
+        "title_suggest": {
+            "input": [
+                "Glorio"
+            ]
+        },
+        "title": "Glorio",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZdbF4U7ITxXrw59dMiA",
+        "duration": 1406.405,
+        "episode_number": "2",
+        "original_air_date": "1750566600",
+        "auth_launch_date": 1751011200,
+        "clip_order": null,
+        "airing_id": "RADS1006262500043479",
+        "media_id": "b2e1755144e6990d981edb830cb0ac86e6331fbb",
+        "modified": 1751295524,
+        "slug": "glorio",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250613/thumbnails/1_256131746371-DBDaima_S1_02.png",
+        "created": 1749851212,
+        "season_number": "1",
+        "title_id": "2566521",
+        "tv_rating": "tv-y7-fv",
+        "published": 1751295524,
+        "tags": [],
+        "collection_title": "Dragon Ball DAIMA",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250613/thumbnails/2_256131746371-DBDaima_S1_02.png",
+        "id": "AZdrQoq1CI-3VkGoG1Eg",
+        "auth": true
     }
 ]
