@@ -223,7 +223,7 @@
         "cma_id": "1167566"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447347960,
         "auth_expiration_date": 1778385540,
         "tms_id": "EP007259620027",
@@ -387,59 +387,6 @@
         "launch_date": 1733806800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411234236-robotchicken_050.jpg",
         "cma_id": "1208519"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447348320,
-        "auth_expiration_date": 1751342340,
-        "tms_id": "EP007259620034",
-        "rating": 6.637932,
-        "description": "The legendary Kraken sea monster learns freedom isn't all it's krak-ed up to be.  A kid has a fantastic dream about a bear.  Weird Al Yankovic's \"Weasel Stomping Day\" gets a Robot Chicken video treatment!  Playmobil cowboys search for new frontiers.  A day at the ballpark proves why radio sucks.  The wishes of children come true, with dire results.  The crew of the Starship Enterprise faces their greatest foes yet-themselves!",
-        "title_suggest": {
-            "input": [
-                "The Munnery",
-                "Munnery"
-            ]
-        },
-        "type": "episode",
-        "title": "The Munnery",
-        "expiration_date": 1722311940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
-        "duration": 690.004,
-        "episode_number": "12",
-        "original_air_date": 1159155000,
-        "clip_order": null,
-        "auth_launch_date": 1722312000,
-        "modified": 1721941104,
-        "airing_id": "RADS1007252400082357",
-        "media_id": "d33b656b79613d4a9e72a9802721ca17026b3d6c",
-        "id": "1Uft_4Q5QqOzjSA-R4Hh5Q",
-        "slug": "the-munnery",
-        "views": 429161,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200401/thumbnails/1_20411134402-robotchicken_035.jpg",
-        "created": 1402945475,
-        "title_id": "640876",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1721941104,
-        "tags": [
-            "robot chicken episode 35 the munnery kraken weird al yankovic weasel stomping day playmobil cowboys playboy radio star trek"
-        ],
-        "rating_count": 2088,
-        "collection_title": "Robot Chicken",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1721707200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411134402-robotchicken_035.jpg",
-        "cma_id": ""
     },
     {
         "auth": true,
@@ -981,6 +928,60 @@
         "launch_date": 1728360000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461118248-robotchicken_083_BIM.jpg",
         "cma_id": "1479156"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1447347660,
+        "auth_expiration_date": 1778385540,
+        "tms_id": "EP007259620025",
+        "rating": 6.466999,
+        "description": "A time-traveling jerk wreaks havoc on history.  Lion-O, leader of the ThunderCats, suffers as an Earth pet.  Clifford the Big Red Dog gets in big, red trouble.  Evel Knievel wows his nursing home.",
+        "title_suggest": {
+            "input": [
+                "Federated Resources",
+                "Resources"
+            ]
+        },
+        "type": "episode",
+        "title": "Federated Resources",
+        "expiration_date": 1750737540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 671.1668335,
+        "episode_number": "2",
+        "original_air_date": 1144639800,
+        "clip_order": null,
+        "auth_launch_date": 1751342400,
+        "modified": 1751094152,
+        "airing_id": "RADS1006272500043638",
+        "media_id": "29d4256b6d2f958459979aace7c31bd5bd23021f",
+        "id": "5BiYUpxsQyqSkt9Gi6kj7A",
+        "slug": "federated-resources",
+        "views": 697150,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200327/thumbnails/1_20327843539-robotchicken_025.jpg",
+        "created": 1402945474,
+        "title_id": "638206",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1751094152,
+        "tags": [
+            "robot chicken federated resources episode 25"
+        ],
+        "rating_count": 4758,
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1750132800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200327/thumbnails/2_20327843539-robotchicken_025.jpg",
+        "cma_id": ""
     },
     {
         "auth": true,
@@ -1605,6 +1606,58 @@
         "launch_date": 1728964800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461148462-robotchicken_089_BIM.jpg",
         "cma_id": "826675"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1447347540,
+        "auth_expiration_date": 1778385540,
+        "tms_id": "EP007259620023",
+        "rating": 6.504222,
+        "description": "Twinkie the Kid dispenses justice-and lead!  Popular board games from Chutes and Ladders to Hungry Hungry Hippos get turned into action-packed feature films.  Meet Skeletor's dentist, Mo-Larr!",
+        "title_suggest": {
+            "input": [
+                "1987"
+            ]
+        },
+        "type": "episode",
+        "title": "1987",
+        "expiration_date": 1750737540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 695.011,
+        "episode_number": "6",
+        "original_air_date": 1147059000,
+        "clip_order": null,
+        "auth_launch_date": 1751342400,
+        "modified": 1751095052,
+        "airing_id": "RADS1006272500043634",
+        "media_id": "f93f8bfcbd44f5441d4cfd8d737e522efd5ea728",
+        "id": "9v1InzlVRgmzAi1uRHK0gg",
+        "slug": "1987",
+        "views": 621926,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200401/thumbnails/1_20411130286-robotchicken_023.jpg",
+        "created": 1402945474,
+        "title_id": "638373",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1751095052,
+        "tags": [
+            "robot chicken rc 1987 episode 23"
+        ],
+        "rating_count": 5805,
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1750132800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411130286-robotchicken_023.jpg",
+        "cma_id": ""
     },
     {
         "auth": true,
@@ -5269,7 +5322,7 @@
         "launch_date": 1751342400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200722/thumbnails/2_20722951131-robotchicken_1020_dup-20200121.jpg",
         "id": "AXN2yutrRs3h4hI_X4YY",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1773719940,
@@ -5420,7 +5473,7 @@
         "launch_date": 1751342400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210316/thumbnails/2_21316130427-RobotChicken_1023_dup-20210310.jpg",
         "id": "AXg7-6bVDmGy9WFjRqoJ",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1774324740,
@@ -6130,7 +6183,7 @@
         "cma_id": "998338"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447348020,
         "auth_expiration_date": 1778385540,
         "tms_id": "EP007259620028",
@@ -7437,6 +7490,59 @@
     },
     {
         "auth": true,
+        "ott_launch_date": 1447358520,
+        "auth_expiration_date": 1778385540,
+        "tms_id": "EP007259620026",
+        "rating": 6.7329917,
+        "description": "People of all ages love the new toy, Morning Wood! A man's groin is possessed in Idle Nuts. Live in fear when a giant midget attacks! A cleaning woman finds the Batcave the hard way. Atreyu and Falcor kick off a Neverending Party! An evening news broadcast spins out of control.",
+        "title_suggest": {
+            "input": [
+                "Dragon Nuts",
+                "Nuts"
+            ]
+        },
+        "type": "episode",
+        "title": "Dragon Nuts",
+        "expiration_date": 1750737540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 671.009,
+        "episode_number": "5",
+        "original_air_date": 1146801600,
+        "clip_order": null,
+        "auth_launch_date": 1751342400,
+        "modified": 1751095051,
+        "airing_id": "RADS1006272500043640",
+        "media_id": "8d994d77c6692fb49556aa3287a9e582e77ca6ed",
+        "id": "J1mXYf4xSmWwE9BV6uAF-w",
+        "slug": "dragon-nuts",
+        "views": 637705,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200401/thumbnails/1_20411128268-robotchicken_026.jpg",
+        "created": 1402945475,
+        "title_id": "638374",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1751095051,
+        "tags": [
+            "robot chicken dragon nuts episode 26"
+        ],
+        "rating_count": 4292,
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1750132800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411128268-robotchicken_026.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
         "ott_launch_date": 1460383200,
         "auth_expiration_date": 1765861140,
         "tms_id": "EP007259620150",
@@ -8084,78 +8190,6 @@
     },
     {
         "auth": true,
-        "ott_launch_date": 1447348080,
-        "auth_expiration_date": 1751342340,
-        "tms_id": "EP007259620030",
-        "rating": 6.918033,
-        "description": "The Senior Mutant Ninja Turtles rock the nursing home!  Cuddles the fabric softener bear gets the wrong kind of hug.  Monkeys explore outer space on a budget.  George W. Bush discovers he has Jedi powers.  And we're back with more of those stupendous bloopers, including audition tapes from MTV's Jackass!",
-        "title_suggest": {
-            "input": [
-                "Massage Chair",
-                "Chair"
-            ]
-        },
-        "type": "episode",
-        "title": "Massage Chair",
-        "expiration_date": 1722311940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
-        "duration": 702,
-        "episode_number": "9",
-        "original_air_date": 1148873400,
-        "clip_order": null,
-        "auth_launch_date": 1722312000,
-        "modified": 1721941106,
-        "airing_id": "RADS1007252400082363",
-        "media_id": "f60ddc1f8b3149170a27cff7f50293bc1d811da0",
-        "id": "NhzngfrOSfq3P4LQr2U5jw",
-        "slug": "massage-chair",
-        "views": 693165,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200401/thumbnails/1_20411132531-robotchicken_030.jpg",
-        "created": 1402945475,
-        "title_id": "640871",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1721941106,
-        "tags": [
-            "Matt Senreich",
-            "Seth Green",
-            "Emma Caulfield",
-            "Hulk Hogan",
-            "Jamie Kaler",
-            "Jimmy Kimmel",
-            "Jim Meskimen",
-            "James Van Der Beek",
-            "massage chair",
-            "mutant ninja turtles",
-            "senior",
-            "cuddles",
-            "fabric softener",
-            "teddy bear",
-            "rape",
-            "monkeys",
-            "space",
-            "george w bush",
-            "jedi",
-            "star war"
-        ],
-        "rating_count": 4453,
-        "collection_title": "Robot Chicken",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1721707200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411132531-robotchicken_030.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
         "ott_launch_date": 1456758000,
         "auth_expiration_date": 1765256340,
         "tms_id": "EP007259620143",
@@ -8367,6 +8401,60 @@
         "launch_date": 1739250000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046131118-robotchicken_820_dup-20160419.jpg",
         "cma_id": "1204778"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1447347600,
+        "auth_expiration_date": 1778385540,
+        "tms_id": "EP007259620024",
+        "rating": 6.1449785,
+        "description": "Mexico builds its greatest hero in The Six Million Peso Man.  That old dancing guy from the Six Flags commercials saves-and ruins-the day.  Two aliens from Space Invaders revolt.  A cleaning woman finds the Batcave the hard way.  Lindsay Lohan enters the world of Highlander and battles teen starlet foes.",
+        "title_suggest": {
+            "input": [
+                "Celebrity Rocket",
+                "Rocket"
+            ]
+        },
+        "type": "episode",
+        "title": "Celebrity Rocket",
+        "expiration_date": 1750737540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 677.5005005,
+        "episode_number": "4",
+        "original_air_date": 1145849400,
+        "clip_order": null,
+        "auth_launch_date": 1751342400,
+        "modified": 1751094147,
+        "airing_id": "RADS1006272500043636",
+        "media_id": "388b845c1ce067a31a4278987640b2968e5e0c9a",
+        "id": "PI-CXVwoTImL-EQOS-m8Ow",
+        "slug": "celebrity-rocket",
+        "views": 738239,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200330/thumbnails/1_20330125408-robotchicken_024.jpg",
+        "created": 1402945474,
+        "title_id": "638378",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1751094147,
+        "tags": [
+            "robot chicken rc celebrity rocket episode 24"
+        ],
+        "rating_count": 6532,
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1750132800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200330/thumbnails/2_20330125408-robotchicken_024.jpg",
+        "cma_id": "1038957"
     },
     {
         "auth": true,
@@ -9586,60 +9674,6 @@
     },
     {
         "auth": true,
-        "ott_launch_date": 1447348320,
-        "auth_expiration_date": 1751342340,
-        "tms_id": "EP007259620031",
-        "rating": 6.873277,
-        "description": "The Fantanas visit the Middle East peace process.  E.T. finally returns home, but it's less cool than he remembered.",
-        "title_suggest": {
-            "input": [
-                "Adoption's An Option",
-                "An Option",
-                "Option"
-            ]
-        },
-        "type": "episode",
-        "title": "Adoption's An Option",
-        "expiration_date": 1722311940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
-        "duration": 670,
-        "episode_number": "11",
-        "original_air_date": 1158550200,
-        "clip_order": null,
-        "auth_launch_date": 1722312000,
-        "modified": 1721941116,
-        "airing_id": "RADS1007182400081470",
-        "media_id": "2e01078e7050e04f8e9d01982c166bb3c3ef8703",
-        "id": "WhDBl6tFT5KUqg9YwmbUFw",
-        "slug": "adoptions-an-option",
-        "views": 650225,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200401/thumbnails/1_20411133569-robotchicken_036.jpg",
-        "created": 1402945475,
-        "title_id": "640877",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1721941116,
-        "tags": [
-            "robot chicken episode 36 adoption's an option fantanas et pumpkins jack o lanterns pegasus skynet inspector gadget"
-        ],
-        "rating_count": 3338,
-        "collection_title": "Robot Chicken",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1721707200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411133569-robotchicken_036.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
         "ott_launch_date": 1447348680,
         "auth_expiration_date": 1753156740,
         "tms_id": "EP007259620046",
@@ -9693,7 +9727,7 @@
         "cma_id": "1189179"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447363200,
         "auth_expiration_date": 1751342399,
         "tms_id": "EP007259620107",
@@ -10078,59 +10112,6 @@
         "launch_date": 1731992400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461145489-robotchicken_610_dup-20121108.jpg",
         "cma_id": "1435933"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447348080,
-        "auth_expiration_date": 1751342340,
-        "tms_id": "EP007259620032",
-        "rating": 6.4898233,
-        "description": "Young Young Indiana Jones finds treasure at his elementary school.  Rainbow Brite reveals her dark side.  Montezuma gets his revenge, and the results smell terrible.  Malibu Barbie learns why you don't build your Dream House in Malibu.  Rom: Spaceknight meets his ultimate nemesis!  Into the Blue gets a relevant skewering.  Hulk Hogan busts out of prison camp in Hogan's Heroes.",
-        "title_suggest": {
-            "input": [
-                "Metal Militia",
-                "Militia"
-            ]
-        },
-        "type": "episode",
-        "title": "Metal Militia",
-        "expiration_date": 1722311940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
-        "duration": 629.008,
-        "episode_number": "13",
-        "original_air_date": 1159759800,
-        "clip_order": null,
-        "auth_launch_date": 1722312000,
-        "modified": 1721941109,
-        "airing_id": "RADS1007252400082355",
-        "media_id": "4866278dc5ac16e901f2088317403475a11c6e48",
-        "id": "_81fnCWuQ5-hrxogjDJ6lg",
-        "slug": "metal-militia",
-        "views": 775466,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200401/thumbnails/1_20411135342-robotchicken_031.jpg",
-        "created": 1402945475,
-        "title_id": "640872",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1721941109,
-        "tags": [
-            "robot chicken metal militia rc episode 31"
-        ],
-        "rating_count": 4520,
-        "collection_title": "Robot Chicken",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1721707200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411135342-robotchicken_031.jpg",
-        "cma_id": ""
     },
     {
         "auth": true,
@@ -10523,7 +10504,7 @@
         "cma_id": "1180402"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1778385540,
         "tms_id": "EP007259620152",
@@ -11577,6 +11558,60 @@
     },
     {
         "auth": true,
+        "ott_launch_date": 1447347540,
+        "auth_expiration_date": 1778385540,
+        "tms_id": "EP007259620022",
+        "rating": 6.4009895,
+        "description": "Fred and Barney brawl over a box of Fruity Pebbles. Kids have fun with the Phyllis Diller Spray-n-Play. An Egyptian pharaoh builds a pyramid of Legos.",
+        "title_suggest": {
+            "input": [
+                "Easter Basket",
+                "Basket"
+            ]
+        },
+        "type": "episode",
+        "title": "Easter Basket",
+        "expiration_date": 1750737540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 664.2335669,
+        "episode_number": "3",
+        "original_air_date": 1145244600,
+        "clip_order": null,
+        "auth_launch_date": 1751342400,
+        "modified": 1751094147,
+        "airing_id": "RADS1006272500043632",
+        "media_id": "8268fa004af170fb3bf3336b72397df774f6dedd",
+        "id": "lQ7jVB4zQTuEzxtbsay5hw",
+        "slug": "easter-basket",
+        "views": 657784,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200330/thumbnails/1_20330125395-robotchicken_022.jpg",
+        "created": 1402945474,
+        "title_id": "638207",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1751094147,
+        "tags": [
+            "robot chicken rc easter basket episode 22"
+        ],
+        "rating_count": 6464,
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1750132800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200330/thumbnails/2_20330125395-robotchicken_022.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": true,
         "ott_launch_date": 1447276800,
         "auth_expiration_date": 1763441940,
         "tms_id": "",
@@ -11677,6 +11712,60 @@
         "launch_date": 1736830800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461250284-robotchicken_806_dup-20151201.jpg",
         "cma_id": "1187006"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1447347480,
+        "auth_expiration_date": 1778385540,
+        "tms_id": "EP007259620021",
+        "rating": 6.6320524,
+        "description": "Robot Chicken gets un-canceled! Learn tips for fighting... terrorism! Mexico builds its greatest hero in The Six Million Peso Man. Skater McGee is a re-animated corpse, an extreme re-animated corpse!",
+        "title_suggest": {
+            "input": [
+                "Suck It",
+                "It"
+            ]
+        },
+        "type": "episode",
+        "title": "Suck It",
+        "expiration_date": 1750132740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 679.007,
+        "episode_number": "1",
+        "original_air_date": 1144035000,
+        "clip_order": null,
+        "auth_launch_date": 1751342400,
+        "modified": 1751094148,
+        "airing_id": "RADS1006272500043630",
+        "media_id": "0418a1bacb85a5afd60aa8a6b3830746e2ae682a",
+        "id": "m8PrB04QQNCK8Xe-UqFVMQ",
+        "slug": "suck-it",
+        "views": 597639,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200327/thumbnails/1_20327843267-robotchicken_021.jpg",
+        "created": 1402945474,
+        "title_id": "612681",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1751094148,
+        "tags": [
+            "robot chicken rc suck it episode 21"
+        ],
+        "rating_count": 5210,
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1749528000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200327/thumbnails/2_20327843267-robotchicken_021.jpg",
+        "cma_id": ""
     },
     {
         "auth": true,
@@ -11901,6 +11990,61 @@
     },
     {
         "auth": true,
+        "ott_launch_date": 1447347420,
+        "auth_expiration_date": 1778385540,
+        "tms_id": "EP007259620017",
+        "rating": 6.3859463,
+        "description": "Dean Devlin and Roland Emmerich re-make Godzilla... again. A crime-fighting monkey saves monkeys from a monkey supervillain. An average fellow named Doug wakes up in the world of the Huggytime Bears.",
+        "title_suggest": {
+            "input": [
+                "That Hurts Me",
+                "Hurts Me",
+                "Me"
+            ]
+        },
+        "type": "episode",
+        "title": "That Hurts Me",
+        "expiration_date": 1750132740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 632.9009009,
+        "episode_number": "19",
+        "original_air_date": 1121054400,
+        "clip_order": null,
+        "auth_launch_date": 1751342400,
+        "modified": 1751094153,
+        "airing_id": "RADS1006272500043626",
+        "media_id": "b500b646a453651996c4fd3d1e5dac3d237a8212",
+        "id": "nIGXVFEhRHOCARlpXEHM_A",
+        "slug": "that-hurts-me",
+        "views": 684573,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200327/thumbnails/1_20327842137-robotchicken_019.jpg",
+        "created": 1402945474,
+        "title_id": "612679",
+        "season_number": "1",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1751094153,
+        "tags": [
+            "robot chicken rc that hurts me episode 19"
+        ],
+        "rating_count": 8553,
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1749528000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200327/thumbnails/2_20327842137-robotchicken_019.jpg",
+        "cma_id": "1186209"
+    },
+    {
+        "auth": true,
         "ott_launch_date": 1447362420,
         "auth_expiration_date": 1762837140,
         "tms_id": "EP007259620135",
@@ -12108,6 +12252,58 @@
         "launch_date": 1728964800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461128571-robotchicken_088_BIM.jpg",
         "cma_id": "826674"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1447346760,
+        "auth_expiration_date": 1778385540,
+        "tms_id": "EP007259620059",
+        "rating": 6.077131,
+        "description": "\"It's Alien vs. Predator on the battleground of love in a special episode of \"First Date.\" See what the future holds in \"Carousel of Tomorrow.\" Popeye experiences a world without his hamburger-leeching friend in \"It's a Wimpy-Filled Life.\"  The modern video game Halo invades the old-school classic Donkey Kong. Mrs. McNally's third-graders present: Tim Burton's The Corpse Bride.   The truth about Ponda Baba's bad day.\"",
+        "title_suggest": {
+            "input": [
+                "Adultizzle Swizzle",
+                "Swizzle"
+            ]
+        },
+        "type": "episode",
+        "title": "Adultizzle Swizzle",
+        "expiration_date": 1750132740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 660.016,
+        "episode_number": "18",
+        "original_air_date": 1207969200,
+        "clip_order": null,
+        "auth_launch_date": 1751342400,
+        "modified": 1751092945,
+        "airing_id": "RADS1006272500043646",
+        "media_id": "98f95e9a4b5283eac01d309dfb7c9165433b03f8",
+        "id": "qgGTMTnJTDKDNdcLj06V8g",
+        "slug": "adultizzle-swizzle",
+        "views": 273307,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200330/thumbnails/1_203302012345-robotchicken_004a.jpg",
+        "created": 1402945473,
+        "title_id": "714336",
+        "season_number": "1",
+        "tv_rating": "tv-14-dv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1751092945,
+        "tags": [],
+        "rating_count": 1478,
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1749528000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200330/thumbnails/2_203302012345-robotchicken_004a.jpg",
+        "cma_id": "1137150"
     },
     {
         "auth": true,
@@ -12321,6 +12517,61 @@
     },
     {
         "auth": true,
+        "ott_launch_date": 1447347480,
+        "auth_expiration_date": 1778385540,
+        "tms_id": "EP007259620018",
+        "rating": 6.113586,
+        "description": "Napoleon Dynamite pops up as a famous figure from history. Fizzing candy has terrible repercussions for young Mikey. A weakling turns into the \"King of the Beach\" with some illegal help.",
+        "title_suggest": {
+            "input": [
+                "The Black Cherry",
+                "Black Cherry",
+                "Cherry"
+            ]
+        },
+        "type": "episode",
+        "title": "The Black Cherry",
+        "expiration_date": 1750132740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 662.8341675,
+        "episode_number": "20",
+        "original_air_date": 1121659200,
+        "clip_order": null,
+        "auth_launch_date": 1751342400,
+        "modified": 1751095048,
+        "airing_id": "RADS1006272500043628",
+        "media_id": "a83448d595acce0027728aab178f56d6c7d4c7e6",
+        "id": "t9uwK1RGQaiWNAy4U_w2wg",
+        "slug": "the-black-cherry",
+        "views": 871094,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200327/thumbnails/1_20327842545-robotchicken_020.jpg",
+        "created": 1402945474,
+        "title_id": "612682",
+        "season_number": "1",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1751095048,
+        "tags": [
+            "robot chicken rc black cherry episode 20"
+        ],
+        "rating_count": 9693,
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1749528000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200327/thumbnails/2_20327842545-robotchicken_020.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1507559460,
         "auth_expiration_date": 1751342399,
         "tms_id": "SH027772010000",
@@ -12535,7 +12786,7 @@
         "cma_id": "1466391"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447363320,
         "auth_expiration_date": 1751342399,
         "tms_id": "EP007259620147",
@@ -12638,59 +12889,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1726545600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_20421651291-robotchicken_067.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447348020,
-        "auth_expiration_date": 1751342340,
-        "tms_id": "EP007259620029",
-        "rating": 6.549132,
-        "description": "Care Bears care a lot-about ethnic cleansing.  See the action-packed story of Heimlich and his quest to unblock your windpipe.  Rick Schroeder is fighting crime in style in the new hit series Rick Shaw.  Ben Affleck sues the AFLAC duck.  Corporate disputes get solved hand-to-hand in Office Fighter.  Harry Potter uses magic to fight... puberty!",
-        "title_suggest": {
-            "input": [
-                "Password: Swordfish",
-                "Swordfish"
-            ]
-        },
-        "type": "episode",
-        "title": "Password: Swordfish",
-        "expiration_date": 1722311940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
-        "duration": 643,
-        "episode_number": "10",
-        "original_air_date": 1149478200,
-        "clip_order": null,
-        "auth_launch_date": 1722312000,
-        "modified": 1721941108,
-        "airing_id": "RADS1007182400081472",
-        "media_id": "b3b17c70a2eb37b102b7672059c9b8205db5db5d",
-        "id": "wQi6KDx-RVmMJUAQkCmvVA",
-        "slug": "password-swordfish",
-        "views": 666760,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200401/thumbnails/1_20411133288-robotchicken_029.jpg",
-        "created": 1402945475,
-        "title_id": "638377",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1721941108,
-        "tags": [
-            "robot chicken rc password swordfish episode 29"
-        ],
-        "rating_count": 4152,
-        "collection_title": "Robot Chicken",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1721707200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411133288-robotchicken_029.jpg",
         "cma_id": ""
     },
     {
