@@ -1,52 +1,6 @@
 [
     {
         "ott_launch_date": null,
-        "auth": true,
-        "auth_expiration_date": 1751342340,
-        "tms_id": "",
-        "description": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
-        "title_suggest": {
-            "input": [
-                "Brunchsquatch"
-            ]
-        },
-        "title": "Brunchsquatch",
-        "expiration_date": 1690171140,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1281.93,
-        "episode_number": "1",
-        "original_air_date": 1541385000,
-        "auth_launch_date": 1750737600,
-        "clip_order": null,
-        "media_id": "f7b65ee9285010f25d670eee5521b121b0fc1d59",
-        "modified": 1750483542,
-        "airing_id": "RADS1005262500039128",
-        "id": "AWY1PDReh5enQuYyI6rv",
-        "slug": "brunchsquatch",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154325465279617.jpg",
-        "created": 1538491429,
-        "season_number": "8",
-        "title_id": "2171432",
-        "tv_rating": "tv-pg-lv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1750483542,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1689566400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154325465279617.jpg"
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1751601540,
         "tms_id": "",
         "description": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
@@ -388,6 +342,55 @@
         "launch_date": 1690776000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15450597262919.jpg",
         "id": "AWd63rgSqD68dq0Op5t4",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1751947140,
+        "tms_id": "",
+        "description": "Tina allows Tammy to spend Spring Break with the Belchers - and even plays Cupid, setting up Tammy with a boy from out of town. Meanwhile, Gene and Bob enlist the help of Dr. Yap in finding a baby tooth to complete Linda's collection.",
+        "title_suggest": {
+            "input": [
+                "Sleeping with the Frenemy",
+                "with the Frenemy",
+                "the Frenemy",
+                "Frenemy"
+            ]
+        },
+        "title": "Sleeping with the Frenemy",
+        "expiration_date": 1691985540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1302.87,
+        "episode_number": "11",
+        "original_air_date": 1546828200,
+        "auth_launch_date": 1751342400,
+        "clip_order": null,
+        "media_id": "1008630bc02857a6e5214c023a4e5eb8051ddd31",
+        "modified": 1751092669,
+        "airing_id": "RADS1006272500043659",
+        "slug": "sleeping-with-the-frenemy",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15466229329904.jpg",
+        "created": 1543336978,
+        "season_number": "8",
+        "title_id": "2171451",
+        "tv_rating": "tv-pg-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1751092669,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1691380800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15466229329904.jpg",
+        "id": "AWdWDWoGqD68dq0Op5ju",
         "auth": true
     },
     {
