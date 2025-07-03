@@ -1,9 +1,8 @@
 {
-    "updated": 1751559097,
-    "added": [],
-    "removed": [
+    "updated": 1751566179,
+    "added": [
         {
-            "auth_expiration_date": 1757231940,
+            "auth_expiration_date": 1751601540,
             "tms_id": "",
             "description": "Goku and Supreme Kai journey through space to reach the mysterious Demon Realm.",
             "title_suggest": {
@@ -28,7 +27,7 @@
             "clip_order": null,
             "airing_id": "RADS1006262500043481",
             "media_id": "d589b8ce2494d74e4c43404fd98e7e9dbdd19e05",
-            "modified": 1750976848,
+            "modified": 1751566141,
             "slug": "daima",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20250613/thumbnails/1_256131747511-DBDaima_S1_03.png",
@@ -36,7 +35,7 @@
             "season_number": "1",
             "title_id": "2566522",
             "tv_rating": "tv-y7-fv",
-            "published": 1750976848,
+            "published": 1751566141,
             "tags": [],
             "collection_title": "Dragon Ball DAIMA",
             "disable_ads": false,
@@ -49,5 +48,6 @@
             "collection_title_id": "2566519",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
