@@ -142,6 +142,51 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1752292740,
+        "tms_id": "EP003034830011",
+        "description": "Fry goes to college to prove the adage: Once a dropout; always a dropout.",
+        "title_suggest": {
+            "input": [
+                "Mars University",
+                "University"
+            ]
+        },
+        "title": "Mars University",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1401.1998,
+        "episode_number": "2",
+        "original_air_date": 1043640000,
+        "auth_launch_date": 1751688000,
+        "clip_order": null,
+        "airing_id": "RADS1006302500044103",
+        "media_id": "fb7aa79575cc9c185f5ce36c28c2ee548ae3e7c1",
+        "modified": 1751438256,
+        "slug": "mars-university",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220107/thumbnails/1_22171651521-Futurama_011_MarsUniversity.png",
+        "created": 1641157940,
+        "title_id": "437543",
+        "season_number": "2",
+        "tv_rating": "tv-pg",
+        "published": 1751438256,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220107/thumbnails/2_22171651521-Futurama_011_MarsUniversity.png",
+        "id": "AX4cotUOdpBG7hfWGhgV",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1751774340,
         "created": 1666367291,
         "tms_id": "EP003034830006",
@@ -172,40 +217,6 @@
         "modified": 1750920458,
         "slug": "my-three-suns",
         "id": "AYP7OwDG3sQvipyea-xH",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1751687940,
-        "created": 1666207238,
-        "tms_id": "EP003034830009",
-        "title_id": "437538",
-        "season_number": "1",
-        "tv_rating": "tv-pg-dl",
-        "description": "Fry's savings have accrued for 1000 years, and he buys ancient anchovies with his sudden riches.",
-        "title_suggest": {
-            "input": [
-                "A Fishful of Dollars",
-                "Fishful of Dollars",
-                "of Dollars",
-                "Dollars"
-            ]
-        },
-        "published": 1750828637,
-        "title": "A Fishful of Dollars",
-        "type": "episode",
-        "tags": [],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1401.4667,
-        "episode_number": "6",
-        "collection_title": "Futurama",
-        "original_air_date": 1043035200,
-        "auth_launch_date": 1751083200,
-        "modified_by": "ODT Listener",
-        "airing_id": "RADS1005262500039355",
-        "media_id": "1a79a641e7456ca25cd9770b668d74fca290efb9",
-        "modified": 1750828637,
-        "slug": "a-fishful-of-dollars",
-        "id": "AYPxsMge3sQvipyea-vQ",
         "auth": true
     }
 ]
