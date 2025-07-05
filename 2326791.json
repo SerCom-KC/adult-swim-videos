@@ -751,5 +751,36 @@
         "slug": "peter-hair-munch-rexford",
         "id": "AZfCxEMoCI-3VkGoG1Lo",
         "auth": true
+    },
+    {
+        "auth_expiration_date": 1753504140,
+        "created": 1751319351,
+        "tms_id": "",
+        "title_id": "2568726",
+        "season_number": "7",
+        "tv_rating": "tv-14-dlv",
+        "description": "Hollywood star Steve Keester has to deal with a random guy squatting in his house and an interdimensional tribe living under his sink.",
+        "title_suggest": {
+            "input": [
+                "Squatters"
+            ]
+        },
+        "published": 1751482942,
+        "title": "Squatters",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AWlKh6kVHl5gR6828yqi",
+        "duration": 644.8108,
+        "episode_number": "3",
+        "collection_title": "Smalls",
+        "original_air_date": 1751689800,
+        "auth_launch_date": 1751689800,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1006302500044160",
+        "media_id": "c7f3ffa2360aeda432cf36671cc599dc9c85d5af",
+        "modified": 1751482942,
+        "slug": "squatters",
+        "id": "AZfCxJAeCI-3VkGoG1Lp",
+        "auth": true
     }
 ]
