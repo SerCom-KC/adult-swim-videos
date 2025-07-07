@@ -7620,6 +7620,52 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1753671540,
+        "tms_id": "",
+        "description": "Rick and Morty write the next installment of their favorite movie franchise. Pure cinema, broh.",
+        "title_suggest": {
+            "input": [
+                "Ricker than Fiction",
+                "than Fiction",
+                "Fiction"
+            ]
+        },
+        "title": "Ricker than Fiction",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 1342.341,
+        "episode_number": "7",
+        "original_air_date": "1751857200",
+        "auth_launch_date": 1751857200,
+        "clip_order": null,
+        "airing_id": "RADS1007042500044583",
+        "media_id": "56731db7cc9f18f04c060f4c6d04cc890e171def",
+        "modified": 1751638680,
+        "slug": "ricker-than-fiction",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250516/thumbnails/1_25516151518-RAM-S08E07-1920x1080.png",
+        "created": 1747422161,
+        "season_number": "8",
+        "title_id": "2555957",
+        "tv_rating": "tv-14-dlv",
+        "published": 1751638680,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250516/thumbnails/2_25516151518-RAM-S08E07-1920x1080.png",
+        "id": "AZbaeiwTC3J9ee8ny70b",
+        "auth": true
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
