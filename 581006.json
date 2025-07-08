@@ -95,6 +95,56 @@
         "cma_id": "1331342"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1752551940,
+        "tms_id": "EP007164450234",
+        "description": "Francine becomes less attracted to Stan when he gets involved with slot car racing. Roger becomes a stewardess to perform comedy routines on the plane but is upset when another stewardess is funnier than him.",
+        "title_suggest": {
+            "input": [
+                "Whole Slotta Love",
+                "Slotta Love",
+                "Love"
+            ]
+        },
+        "title": "Whole Slotta Love",
+        "type": "episode",
+        "expiration_date": 1742788740,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1274,
+        "episode_number": "8",
+        "original_air_date": 1492651800,
+        "clip_order": null,
+        "auth_launch_date": 1751947200,
+        "modified": 1751694153,
+        "media_id": "c1bafb27be5e38583b8d32b436b599686950d5b5",
+        "airing_id": "RADS1007022500044366",
+        "id": "5SnUDAJQT2G2Eit6_-l_HQ",
+        "slug": "whole-slotta-love",
+        "views": 1068,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151751862587510.jpg",
+        "created": 1492315823,
+        "title_id": "2069540",
+        "tv_rating": "tv-14",
+        "season_number": "12",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1751694153,
+        "first_published": 1492315823,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1742184000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751862587510.jpg",
+        "cma_id": "1381813"
+    },
+    {
         "auth_expiration_date": 1752033540,
         "tms_id": "EP007164450457",
         "description": "Francine enters the strange and dangerous world of poker in order to learn how to hide her true feelings from Steve and Hayley.",
@@ -144,50 +194,6 @@
         "launch_date": 1741579200,
         "poster": "https://media.cdn.adultswim.com/uploads/20240220/thumbnails/2_24220221553-Screenshot2024-02-20at2.21.32AM.png",
         "id": "AY1BlXEFn_kciGPPrEai",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1751947140,
-        "tms_id": "EP007164450455",
-        "description": "Stan and Roger go on a mission to leave their mark on humanity; Jeff finally deals with the reality of losing his signature hat.",
-        "title_suggest": {
-            "input": [
-                "Footprints"
-            ]
-        },
-        "title": "Footprints",
-        "type": "episode",
-        "expiration_date": 1742183940,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1263.3954,
-        "episode_number": "18",
-        "original_air_date": 1701316800,
-        "auth_launch_date": 1751342400,
-        "clip_order": null,
-        "airing_id": "RADS1006272500043679",
-        "media_id": "be69879aa2899b1df74b2e30e2c3dd8920e36258",
-        "modified": 1751091165,
-        "slug": "footprints",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240212/thumbnails/1_242121222252-Screenshot2024-02-12at12.22.03PM.png",
-        "created": 1706202672,
-        "title_id": "2399410",
-        "season_number": "18",
-        "tv_rating": "tv-14-dlv",
-        "published": 1751091165,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1741579200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240212/thumbnails/2_242121222252-Screenshot2024-02-12at12.22.03PM.png",
-        "id": "AY1Bmq1Sn_kciGPPrEam",
         "auth": true
     },
     {
