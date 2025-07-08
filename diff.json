@@ -1,58 +1,6 @@
 {
-    "updated": 1751947525,
+    "updated": 1751947584,
     "added": [
-        {
-            "ott_launch_date": null,
-            "auth_expiration_date": 1751947140,
-            "tms_id": "EP027786570034",
-            "description": "Want to become hotter? Sarah Squirm presents a revolutionary new cosmetic procedure that will leave you breathless, and ga-ga-ga-gorgeous!",
-            "title_suggest": {
-                "input": [
-                    "Flayaway"
-                ]
-            },
-            "title": "Flayaway",
-            "expiration_date": 1748923140,
-            "type": "episode",
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
-            "duration": 666.54,
-            "episode_number": "4",
-            "original_air_date": 1545123600,
-            "auth_launch_date": 1748923200,
-            "clip_order": null,
-            "media_id": "c2232994d8e771ce0fcbdd4af18f3d6cd042930a",
-            "modified": 1748759905,
-            "airing_id": "RADS1004302500033968",
-            "slug": "flayaway",
-            "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15447314743491.jpg",
-            "created": 1544124764,
-            "season_number": "8",
-            "title_id": "2187508",
-            "tv_rating": "tv-ma-lv",
-            "blacklist": [],
-            "ott_expiration_date": null,
-            "published": 1748759905,
-            "tags": [],
-            "collection_title": "Infomercials",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1746504000,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15447314743491.jpg",
-            "id": "AWeFAhMFAsbXwNj3wAaC",
-            "auth": true,
-            "collection_slug": "infomercials",
-            "collection_title_id": "2007823",
-            "online_exclusives": false
-        }
-    ],
-    "removed": [
         {
             "ott_launch_date": 1447789620,
             "auth_expiration_date": 1740459540,
@@ -104,6 +52,58 @@
             "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15150983047962.jpg",
             "id": "AV-3IJOpwdpKFAKSbWaa",
             "auth": false,
+            "collection_slug": "infomercials",
+            "collection_title_id": "2007823",
+            "online_exclusives": false
+        }
+    ],
+    "removed": [
+        {
+            "ott_launch_date": null,
+            "auth_expiration_date": 1751947140,
+            "tms_id": "EP027786570034",
+            "description": "Want to become hotter? Sarah Squirm presents a revolutionary new cosmetic procedure that will leave you breathless, and ga-ga-ga-gorgeous!",
+            "title_suggest": {
+                "input": [
+                    "Flayaway"
+                ]
+            },
+            "title": "Flayaway",
+            "expiration_date": 1748923140,
+            "type": "episode",
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
+            "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
+            "duration": 666.54,
+            "episode_number": "4",
+            "original_air_date": 1545123600,
+            "auth_launch_date": 1748923200,
+            "clip_order": null,
+            "media_id": "c2232994d8e771ce0fcbdd4af18f3d6cd042930a",
+            "modified": 1748759905,
+            "airing_id": "RADS1004302500033968",
+            "slug": "flayaway",
+            "exclude_from_search": false,
+            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15447314743491.jpg",
+            "created": 1544124764,
+            "season_number": "8",
+            "title_id": "2187508",
+            "tv_rating": "tv-ma-lv",
+            "blacklist": [],
+            "ott_expiration_date": null,
+            "published": 1748759905,
+            "tags": [],
+            "collection_title": "Infomercials",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1746504000,
+            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15447314743491.jpg",
+            "id": "AWeFAhMFAsbXwNj3wAaC",
+            "auth": true,
             "collection_slug": "infomercials",
             "collection_title_id": "2007823",
             "online_exclusives": false
