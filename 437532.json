@@ -1,15 +1,18 @@
 [
     {
-        "auth_expiration_date": 1752292740,
-        "tms_id": "EP003034830011",
-        "description": "Fry goes to college to prove the adage: Once a dropout; always a dropout.",
+        "auth_expiration_date": 1752897540,
+        "tms_id": "EP003034830017",
+        "description": "Bender gets involved in a presidential election during a titanium shortage.",
         "title_suggest": {
             "input": [
-                "Mars University",
-                "University"
+                "A Head in the Polls",
+                "Head in the Polls",
+                "in the Polls",
+                "the Polls",
+                "Polls"
             ]
         },
-        "title": "Mars University",
+        "title": "A Head in the Polls",
         "type": "episode",
         "expiration_date": null,
         "platforms": [
@@ -19,29 +22,29 @@
             "fire-tv"
         ],
         "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1401.1998,
-        "episode_number": "2",
-        "original_air_date": 1043640000,
-        "auth_launch_date": 1751688000,
+        "duration": 1400.3323,
+        "episode_number": "7",
+        "original_air_date": 1044244800,
+        "auth_launch_date": 1752292800,
         "clip_order": null,
-        "airing_id": "RADS1006302500044103",
-        "media_id": "fb7aa79575cc9c185f5ce36c28c2ee548ae3e7c1",
-        "modified": 1751438256,
-        "slug": "mars-university",
+        "airing_id": "RADS1007062500044709",
+        "media_id": "01e55fe400d55b436433719780fb9041f5d108b1",
+        "modified": 1752038549,
+        "slug": "a-head-in-the-polls",
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220107/thumbnails/1_22171651521-Futurama_011_MarsUniversity.png",
-        "created": 1641157940,
-        "title_id": "437543",
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220121/thumbnails/1_221211620284-Futurama_016_AHeadInThePolls.png",
+        "created": 1642792124,
+        "title_id": "437548",
         "season_number": "2",
         "tv_rating": "tv-pg",
-        "published": 1751438256,
+        "published": 1752038549,
         "tags": [],
         "collection_title": "Futurama",
         "disable_ads": false,
         "modified_by": "ODT Listener",
         "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220107/thumbnails/2_22171651521-Futurama_011_MarsUniversity.png",
-        "id": "AX4cotUOdpBG7hfWGhgV",
+        "poster": "https://media.cdn.adultswim.com/uploads/20220121/thumbnails/2_221211620284-Futurama_016_AHeadInThePolls.png",
+        "id": "AX5-CoET_0O4w1rD3RdO",
         "auth": true
     },
     {
