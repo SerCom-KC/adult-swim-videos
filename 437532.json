@@ -96,52 +96,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1752379140,
-        "tms_id": "EP003034830012",
-        "description": "Aliens will destroy Earth if they can't see the last episode of an old TV series.",
-        "title_suggest": {
-            "input": [
-                "When Aliens Attack",
-                "Aliens Attack",
-                "Attack"
-            ]
-        },
-        "title": "When Aliens Attack",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1400.6993,
-        "episode_number": "3",
-        "original_air_date": 1043726400,
-        "auth_launch_date": 1751774400,
-        "clip_order": null,
-        "airing_id": "RADS1006302500044173",
-        "media_id": "33683e7e8950cd996c50c104428338bc54ffd20c",
-        "modified": 1751531558,
-        "slug": "when-aliens-attack",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220113/thumbnails/1_221131648518-Futurama_012_WhenAliensAttack.png",
-        "created": 1641767399,
-        "title_id": "437544",
-        "season_number": "2",
-        "tv_rating": "tv-14-d",
-        "published": 1751531558,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220113/thumbnails/2_221131648518-Futurama_012_WhenAliensAttack.png",
-        "id": "AX5A9nBN208s7zyYUL9i",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1752465540,
         "tms_id": "EP003034830014",
         "description": "Professor Farnsworth installs an empathy chip in Bender.",
@@ -232,6 +186,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220120/thumbnails/2_22120176291-Futurama_015_BranniganBeginAgain.png",
         "id": "AX5aOJsU208s7zyYUL9q",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1752983940,
+        "tms_id": "EP003034830016",
+        "description": "Santa in 3000 is a giant robot which spreads terror on Christmas Eve.",
+        "title_suggest": {
+            "input": [
+                "Xmas Story",
+                "Story"
+            ]
+        },
+        "title": "Xmas Story",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1400.9329,
+        "episode_number": "8",
+        "original_air_date": 1044331200,
+        "auth_launch_date": 1752379200,
+        "clip_order": null,
+        "airing_id": "RADS1007072500045159",
+        "media_id": "56e1b2e903d7682b92fee1353589511ee324cc55",
+        "modified": 1752126753,
+        "slug": "xmas-story",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220203/thumbnails/1_2223171991-Futurama_017_XmasStory.png",
+        "created": 1643729663,
+        "title_id": "437549",
+        "season_number": "2",
+        "tv_rating": "tv-pg",
+        "published": 1752126753,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220203/thumbnails/2_2223171991-Futurama_017_XmasStory.png",
+        "id": "AX617DZ7_0O4w1rD3Rk_",
         "auth": true
     }
 ]
