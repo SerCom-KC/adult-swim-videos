@@ -574,7 +574,7 @@
         "launch_date": 1752552000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_207171724462-12ozMouse_311.jpg",
         "id": "AXNel3L-C8QgH-t19KAt",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1748318340,
@@ -1482,7 +1482,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1451669100,
         "auth_expiration_date": 1753156740,
         "tms_id": "EP007542790001",

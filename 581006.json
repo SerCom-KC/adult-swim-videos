@@ -48,56 +48,6 @@
         "cma_id": "1449885"
     },
     {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1752551940,
-        "tms_id": "EP007164450234",
-        "description": "Francine becomes less attracted to Stan when he gets involved with slot car racing. Roger becomes a stewardess to perform comedy routines on the plane but is upset when another stewardess is funnier than him.",
-        "title_suggest": {
-            "input": [
-                "Whole Slotta Love",
-                "Slotta Love",
-                "Love"
-            ]
-        },
-        "title": "Whole Slotta Love",
-        "type": "episode",
-        "expiration_date": 1742788740,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1274,
-        "episode_number": "8",
-        "original_air_date": 1492651800,
-        "clip_order": null,
-        "auth_launch_date": 1751947200,
-        "modified": 1751694153,
-        "media_id": "c1bafb27be5e38583b8d32b436b599686950d5b5",
-        "airing_id": "RADS1007022500044366",
-        "id": "5SnUDAJQT2G2Eit6_-l_HQ",
-        "slug": "whole-slotta-love",
-        "views": 1068,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151751862587510.jpg",
-        "created": 1492315823,
-        "title_id": "2069540",
-        "tv_rating": "tv-14",
-        "season_number": "12",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1751694153,
-        "first_published": 1492315823,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1742184000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751862587510.jpg",
-        "cma_id": "1381813"
-    },
-    {
         "auth_expiration_date": null,
         "tms_id": "",
         "description": "Bullock throws a private, star-studded Christmas party the exact same night as the CIA work party. Stan and Klaus are determined to get in.",
@@ -620,6 +570,55 @@
         "launch_date": 1742788800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870777267015.jpg",
         "cma_id": "1411253"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1753156740,
+        "tms_id": "EP007164450245",
+        "description": "Roger becomes a marionette and injures other students to help Steve win the school talent show. Stan, Hayley and Klaus start their own local honey business.",
+        "title_suggest": {
+            "input": [
+                "The Talented Mr. Dingleberry",
+                "Talented Mr. Dingleberry",
+                "Mr. Dingleberry",
+                "Dingleberry"
+            ]
+        },
+        "title": "The Talented Mr. Dingleberry",
+        "type": "episode",
+        "expiration_date": 1743998340,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1274.1,
+        "episode_number": "21",
+        "original_air_date": 1505352600,
+        "clip_order": null,
+        "auth_launch_date": 1752552000,
+        "modified": 1752299540,
+        "media_id": "0877535adea01a8cbaef98d478cad2a7dbe24c4f",
+        "airing_id": "RADS1007092500045782",
+        "id": "DHxenpZFQmqu9ENjBxxVnQ",
+        "slug": "the-talented-mr-dingleberry",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151880435105520.jpg",
+        "created": 1494355773,
+        "season_number": "12",
+        "title_id": "2069547",
+        "tv_rating": "tv-14-dlsv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1752299540,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1743393600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151880435105520.jpg",
+        "cma_id": ""
     },
     {
         "auth": true,

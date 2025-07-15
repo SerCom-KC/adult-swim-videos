@@ -1,60 +1,5 @@
 [
     {
-        "ott_launch_date": null,
-        "auth_expiration_date": 1752551940,
-        "tms_id": "",
-        "description": "Just as Bob wonders if working in the restaurant business is worth it, a couple who fell in love at the restaurant asks the Belchers to cater their wedding. When things don't go as planned, Linda steps in and attempts to save the day.",
-        "title_suggest": {
-            "input": [
-                "Something Old, Something New, Something Bob Caters for You",
-                "Old, Something New, Something Bob Caters for You",
-                "Something New, Something Bob Caters for You",
-                "New, Something Bob Caters for You",
-                "Something Bob Caters for You",
-                "Bob Caters for You",
-                "Caters for You",
-                "for You",
-                "You"
-            ]
-        },
-        "title": "Something Old, Something New, Something Bob Caters for You",
-        "expiration_date": 1693799999,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1299.2,
-        "episode_number": "21",
-        "original_air_date": 1552267800,
-        "auth_launch_date": 1751947200,
-        "clip_order": null,
-        "media_id": "f94d7b269e0ce2b79b6f201867c0375f10c2bf2e",
-        "modified": 1751693857,
-        "airing_id": "RADS1007022500044368",
-        "slug": "something-old-something-new-something-bob-caters-for-you",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155198937820315.jpg",
-        "created": 1550260969,
-        "season_number": "8",
-        "title_id": "2171461",
-        "tv_rating": "tv-pg-l",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1751693857,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1693195200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155198937820315.jpg",
-        "id": "AWjywSA7Hl5gR6828yeU",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1740200340,
         "tms_id": "",
         "description": "The Belchers help Teddy find love.",
@@ -621,6 +566,55 @@
         "launch_date": 1738558800,
         "poster": "https://media.cdn.adultswim.com/uploads/20240101/thumbnails/2_24111159431-Screenshot2024-01-01at11.56.56AM.png",
         "id": "AYuMJysmn_kciGPPrDMh",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1753156740,
+        "tms_id": "",
+        "description": "Linda saves Christmas.",
+        "title_suggest": {
+            "input": [
+                "Have Yourself a Maily Linda Christmas",
+                "Yourself a Maily Linda Christmas",
+                "a Maily Linda Christmas",
+                "Maily Linda Christmas",
+                "Linda Christmas",
+                "Christmas"
+            ]
+        },
+        "title": "Have Yourself a Maily Linda Christmas",
+        "type": "episode",
+        "expiration_date": 1739163540,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1289.8885,
+        "episode_number": "10",
+        "original_air_date": 1701136800,
+        "auth_launch_date": 1752552000,
+        "clip_order": null,
+        "airing_id": "RADS1007092500045784",
+        "media_id": "3038549d5d05ef8e656897a517882e39f3979640",
+        "modified": 1752299853,
+        "slug": "have-yourself-a-maily-linda-christmas",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231218/thumbnails/1_231218115408-Untitled.png",
+        "created": 1702612159,
+        "title_id": "2438948",
+        "season_number": "10",
+        "tv_rating": "tv-pg-l",
+        "published": 1752299853,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1738558800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20231218/thumbnails/2_231218115408-Untitled.png",
+        "id": "AYxrl8zCn_kciGPPrDye",
         "auth": true
     }
 ]
