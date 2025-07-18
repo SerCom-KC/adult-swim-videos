@@ -33,40 +33,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1752811140,
-        "created": 1720536701,
-        "tms_id": "EP002070020055",
-        "title_id": "731270",
-        "season_number": "3",
-        "tv_rating": "tv-pg-dls",
-        "description": "Hank volunteers to drive his mother and her friends to a miniatures museum only to find himself trapped on an island overrun with students celebrating Spring Break.",
-        "title_suggest": {
-            "input": [
-                "Escape from Party Island",
-                "from Party Island",
-                "Party Island",
-                "Island"
-            ]
-        },
-        "published": 1751954270,
-        "title": "Escape from Party Island",
-        "type": "episode",
-        "tags": [],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1396.0614,
-        "episode_number": "17",
-        "collection_title": "King of the Hill",
-        "original_air_date": 1239933600,
-        "auth_launch_date": 1752206400,
-        "modified_by": "ODT Listener",
-        "airing_id": "RADS1007062500044664",
-        "media_id": "d5e1a9f62c54e62877d1e8c4bb57da5ee6b84265",
-        "modified": 1751954270,
-        "slug": "escape-from-party-island",
-        "id": "AZCX-pimg6zBH7G86tgk",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1752897540,
         "created": 1720716656,
         "tms_id": "EP002070020056",
@@ -101,6 +67,72 @@
         "slug": "love-hurts-and-so-does-art",
         "id": "AZCitH5Bg6zBH7G86tgl",
         "auth": true
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1753415940,
+        "tms_id": "EP002070020063",
+        "rating": 8.125544,
+        "description": "Despite Hank's disapproval, Peggy assists a prisoner on death row... only to realize she was tricked into smuggling drugs.",
+        "title_suggest": {
+            "input": [
+                "Death and Texas",
+                "and Texas",
+                "Texas"
+            ]
+        },
+        "type": "episode",
+        "title": "Death and Texas",
+        "expiration_date": 1502335799,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1398.4971,
+        "episode_number": "22",
+        "original_air_date": 1240106400,
+        "clip_order": null,
+        "auth_launch_date": 1752811200,
+        "modified": 1752565435,
+        "media_id": "ac103e9ea5f047a03f8be71a3c87c36f9f1377bc",
+        "airing_id": "RADS1007132500046662",
+        "id": "EGz0oTCFR6OmY_PjSEZTuw",
+        "slug": "death-and-texas",
+        "views": 125782,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220726/thumbnails/1_227261358287-KingOfTheHill_320_DeathAndTexas.png",
+        "created": 1402945468,
+        "title_id": "731275",
+        "season_number": "3",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1752565435,
+        "tags": [
+            "king of the hill",
+            "death and texas",
+            "season 3",
+            "episode 20",
+            "hank",
+            "disapproval",
+            "peggy",
+            "assist",
+            "prisoner",
+            "death row",
+            "trick",
+            "smuggle",
+            "drugs"
+        ],
+        "rating_count": 231,
+        "collection_title": "King of the Hill",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1501731000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220726/thumbnails/2_227261358287-KingOfTheHill_320_DeathAndTexas.png",
+        "cma_id": "1444608"
     },
     {
         "auth": true,
