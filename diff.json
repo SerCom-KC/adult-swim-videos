@@ -1,58 +1,49 @@
 {
-    "updated": 1753003813,
+    "updated": 1753005622,
     "added": [
         {
-            "auth_expiration_date": 1757995140,
+            "auth_expiration_date": 1754818140,
+            "created": 1752600062,
             "tms_id": "",
-            "description": "The exorcists begin to counter the Impure King's growth. Yukio notices something strange ...",
+            "title_id": "2550984",
+            "season_number": "17",
+            "tv_rating": "tv-14-v",
+            "description": "Repercussions of Doflamingo's defeat reverberate around the world! Fujitora's actions put the Navy in a tight spot as the \"Worst Generation\" stirs.",
             "title_suggest": {
                 "input": [
-                    "From Father to Son",
-                    "Father to Son",
-                    "to Son",
-                    "Son"
+                    "Sending a Shock Wave! The Worst Generation Goes Into Action!",
+                    "a Shock Wave! The Worst Generation Goes Into Action!",
+                    "Shock Wave! The Worst Generation Goes Into Action!",
+                    "Wave! The Worst Generation Goes Into Action!",
+                    "The Worst Generation Goes Into Action!",
+                    "Worst Generation Goes Into Action!",
+                    "Generation Goes Into Action!",
+                    "Goes Into Action!",
+                    "Into Action!",
+                    "Action!"
                 ]
             },
-            "title": "From Father to Son",
-            "expiration_date": null,
+            "published": 1752605599,
+            "title": "Sending a Shock Wave! The Worst Generation Goes Into Action!",
             "type": "episode",
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "BJWRPi1uTl2j_nptAdcYOw",
-            "duration": 1328.7941,
-            "episode_number": "8",
-            "original_air_date": null,
-            "auth_launch_date": 1753002000,
-            "clip_order": null,
-            "airing_id": "RADS1007152500046825",
-            "media_id": "6a7a2da2b6e8213605da068f649eea965e2a6366",
-            "modified": 1752756649,
-            "slug": "from-father-to-son",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20250516/thumbnails/1_255161243515-BEX-S02E08.png",
-            "created": 1747413964,
-            "season_number": "2",
-            "title_id": "2546999",
-            "tv_rating": "tv-14-lv",
-            "published": 1752756649,
             "tags": [],
-            "collection_title": "Blue Exorcist",
-            "disable_ads": false,
+            "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+            "duration": 1305.4041,
+            "episode_number": "",
+            "collection_title": "One Piece",
+            "original_air_date": 1752991200,
+            "auth_launch_date": 1753003800,
             "modified_by": "ODT Listener",
-            "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20250516/thumbnails/2_255161243515-BEX-S02E08.png",
-            "id": "AZbZ_Rhi5aaI-__GJ7PX",
+            "airing_id": "RADS1007152500046829",
+            "media_id": "a78aca1c5087ee16a2a156e38521ebfcc1645331",
+            "modified": 1752605599,
+            "slug": "sending-a-shock-wave-the-worst-generation-goes-into-action",
+            "id": "AZgPGqiRCI-3VkGoG1RR",
             "auth": true,
-            "collection_slug": "blue-exorcist",
-            "collection_title_id": "2012528",
+            "collection_slug": "one-piece",
+            "collection_title_id": "608007",
             "online_exclusives": false
-        }
-    ],
-    "removed": [
+        },
         {
             "auth_expiration_date": 1753001940,
             "tms_id": "",
@@ -100,10 +91,11 @@
             "launch_date": 1753003800,
             "poster": "https://media.cdn.adultswim.com/uploads/20250625/thumbnails/2_256252013290-OP735_01.jpg",
             "id": "AZehpU7FCI-3VkGoG1Ib",
-            "auth": true,
+            "auth": false,
             "collection_slug": "one-piece",
             "collection_title_id": "608007",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
