@@ -1,49 +1,7 @@
 {
-    "updated": 1753003838,
-    "added": [
-        {
-            "auth_expiration_date": 1754818140,
-            "created": 1752600062,
-            "tms_id": "",
-            "title_id": "2550984",
-            "season_number": "17",
-            "tv_rating": "tv-14-v",
-            "description": "Repercussions of Doflamingo's defeat reverberate around the world! Fujitora's actions put the Navy in a tight spot as the \"Worst Generation\" stirs.",
-            "title_suggest": {
-                "input": [
-                    "Sending a Shock Wave! The Worst Generation Goes Into Action!",
-                    "a Shock Wave! The Worst Generation Goes Into Action!",
-                    "Shock Wave! The Worst Generation Goes Into Action!",
-                    "Wave! The Worst Generation Goes Into Action!",
-                    "The Worst Generation Goes Into Action!",
-                    "Worst Generation Goes Into Action!",
-                    "Generation Goes Into Action!",
-                    "Goes Into Action!",
-                    "Into Action!",
-                    "Action!"
-                ]
-            },
-            "published": 1752605599,
-            "title": "Sending a Shock Wave! The Worst Generation Goes Into Action!",
-            "type": "episode",
-            "tags": [],
-            "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
-            "duration": 1305.4041,
-            "episode_number": "",
-            "collection_title": "One Piece",
-            "original_air_date": 1752991200,
-            "auth_launch_date": 1753003800,
-            "modified_by": "ODT Listener",
-            "airing_id": "RADS1007152500046829",
-            "media_id": "a78aca1c5087ee16a2a156e38521ebfcc1645331",
-            "modified": 1752605599,
-            "slug": "sending-a-shock-wave-the-worst-generation-goes-into-action",
-            "id": "AZgPGqiRCI-3VkGoG1RR",
-            "auth": true,
-            "collection_slug": "one-piece",
-            "collection_title_id": "608007",
-            "online_exclusives": false
-        },
+    "updated": 1753003931,
+    "added": [],
+    "removed": [
         {
             "auth_expiration_date": 1753001940,
             "tms_id": "",
@@ -95,7 +53,49 @@
             "collection_slug": "one-piece",
             "collection_title_id": "608007",
             "online_exclusives": false
+        },
+        {
+            "auth_expiration_date": 1754818140,
+            "created": 1752600062,
+            "tms_id": "",
+            "title_id": "2550984",
+            "season_number": "17",
+            "tv_rating": "tv-14-v",
+            "description": "Repercussions of Doflamingo's defeat reverberate around the world! Fujitora's actions put the Navy in a tight spot as the \"Worst Generation\" stirs.",
+            "title_suggest": {
+                "input": [
+                    "Sending a Shock Wave! The Worst Generation Goes Into Action!",
+                    "a Shock Wave! The Worst Generation Goes Into Action!",
+                    "Shock Wave! The Worst Generation Goes Into Action!",
+                    "Wave! The Worst Generation Goes Into Action!",
+                    "The Worst Generation Goes Into Action!",
+                    "Worst Generation Goes Into Action!",
+                    "Generation Goes Into Action!",
+                    "Goes Into Action!",
+                    "Into Action!",
+                    "Action!"
+                ]
+            },
+            "published": 1752605599,
+            "title": "Sending a Shock Wave! The Worst Generation Goes Into Action!",
+            "type": "episode",
+            "tags": [],
+            "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+            "duration": 1305.4041,
+            "episode_number": "",
+            "collection_title": "One Piece",
+            "original_air_date": 1752991200,
+            "auth_launch_date": 1753003800,
+            "modified_by": "ODT Listener",
+            "airing_id": "RADS1007152500046829",
+            "media_id": "a78aca1c5087ee16a2a156e38521ebfcc1645331",
+            "modified": 1752605599,
+            "slug": "sending-a-shock-wave-the-worst-generation-goes-into-action",
+            "id": "AZgPGqiRCI-3VkGoG1RR",
+            "auth": true,
+            "collection_slug": "one-piece",
+            "collection_title_id": "608007",
+            "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
