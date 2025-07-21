@@ -544,11 +544,7 @@
     },
     {
         "auth_expiration_date": 1754818140,
-        "created": 1752600062,
         "tms_id": "",
-        "title_id": "2550984",
-        "season_number": "17",
-        "tv_rating": "tv-14-v",
         "description": "Repercussions of Doflamingo's defeat reverberate around the world! Fujitora's actions put the Navy in a tight spot as the \"Worst Generation\" stirs.",
         "title_suggest": {
             "input": [
@@ -564,21 +560,38 @@
                 "Action!"
             ]
         },
-        "published": 1752605599,
         "title": "Sending a Shock Wave! The Worst Generation Goes Into Action!",
         "type": "episode",
-        "tags": [],
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
         "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
         "duration": 1305.4041,
-        "episode_number": "",
-        "collection_title": "One Piece",
+        "episode_number": "108",
         "original_air_date": 1752991200,
         "auth_launch_date": 1753003800,
-        "modified_by": "ODT Listener",
+        "clip_order": null,
         "airing_id": "RADS1007152500046829",
         "media_id": "a78aca1c5087ee16a2a156e38521ebfcc1645331",
-        "modified": 1752605599,
+        "modified": 1753129038,
         "slug": "sending-a-shock-wave-the-worst-generation-goes-into-action",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250721/thumbnails/1_257211612270-OP736_S17E108.jpg",
+        "created": 1752600062,
+        "title_id": "2550984",
+        "season_number": "17",
+        "tv_rating": "tv-14-v",
+        "published": 1753129038,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "undefined undefined",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250721/thumbnails/2_257211612270-OP736_S17E108.jpg",
         "id": "AZgPGqiRCI-3VkGoG1RR",
         "auth": true
     }
