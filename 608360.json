@@ -6127,6 +6127,52 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1754882940,
+        "tms_id": "",
+        "description": "Our hapless Robot Chicken Nerd seeks self-discovery America's way: Going on reality shows! Will he find a 90 Day Fianc\u00e9 -- or end up Shark Week chum?",
+        "title_suggest": {
+            "input": [
+                "Robot Chicken: Self-Discovery Special",
+                "Chicken: Self-Discovery Special",
+                "Self-Discovery Special",
+                "Special"
+            ]
+        },
+        "title": "Robot Chicken: Self-Discovery Special",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 1350.3157,
+        "original_air_date": 1753068600,
+        "auth_launch_date": 1753068600,
+        "clip_order": null,
+        "airing_id": "RADS1007172500046847",
+        "media_id": "17ccb54c8c25c8c200a64ad034d8ff198307d122",
+        "modified": 1752813030,
+        "slug": "robot-chicken-self-discovery-special",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250717/thumbnails/1_257171242165-AS-RobotChicken-SelfDiscoverySpecial-1920x1080.jpg",
+        "created": 1752769150,
+        "season_number": "99",
+        "title_id": "2551062",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1752813030,
+        "tags": [],
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250717/thumbnails/2_257171242165-AS-RobotChicken-SelfDiscoverySpecial-1920x1080.jpg",
+        "id": "AZgZLr_zITxXrw59dM4n",
+        "auth": true
+    },
+    {
         "auth": true,
         "ott_launch_date": 1447363140,
         "auth_expiration_date": 1754971140,
