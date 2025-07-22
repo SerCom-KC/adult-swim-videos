@@ -378,6 +378,55 @@
         "auth": true
     },
     {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1753761540,
+        "tms_id": "EP007164450259",
+        "description": "Stan avoids giving Steve \"the talk\" by joining a chastity group. The Smiths build a waterslide in the backyard.",
+        "title_suggest": {
+            "input": [
+                "My Purity Ball and Chain",
+                "Purity Ball and Chain",
+                "Ball and Chain",
+                "and Chain",
+                "Chain"
+            ]
+        },
+        "expiration_date": 1744603140,
+        "type": "episode",
+        "title": "My Purity Ball and Chain",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1263.3622,
+        "episode_number": "11",
+        "original_air_date": 1525656600,
+        "auth_launch_date": 1753156800,
+        "clip_order": null,
+        "media_id": "c3ff7352f7f673d3e852c426c00d034a3974b2c8",
+        "modified": 1752901522,
+        "airing_id": "RADS1007172500046935",
+        "slug": "my-purity-ball-and-chain",
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152001014945514.jpg",
+        "created": 1520010139,
+        "season_number": "13",
+        "title_id": "2069564",
+        "tv_rating": "tv-14-dlsv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1752901522,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1743998400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001014945514.jpg",
+        "id": "AWHnqhey0KIGIdXCKzwy",
+        "auth": true
+    },
+    {
         "auth_expiration_date": null,
         "tms_id": "",
         "description": "When Rogu comes down with a mysterious illness, the Smiths struggle to find a cure.",
@@ -556,55 +605,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20250310/thumbnails/2_25310162643-AmDad-S19E22-Guardian-1920x1080.jpg",
         "id": "AZWBvHcM4ijrGBacAU8D",
         "auth": false
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1753156740,
-        "tms_id": "EP007164450245",
-        "description": "Roger becomes a marionette and injures other students to help Steve win the school talent show. Stan, Hayley and Klaus start their own local honey business.",
-        "title_suggest": {
-            "input": [
-                "The Talented Mr. Dingleberry",
-                "Talented Mr. Dingleberry",
-                "Mr. Dingleberry",
-                "Dingleberry"
-            ]
-        },
-        "title": "The Talented Mr. Dingleberry",
-        "type": "episode",
-        "expiration_date": 1743998340,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1274.1,
-        "episode_number": "21",
-        "original_air_date": 1505352600,
-        "clip_order": null,
-        "auth_launch_date": 1752552000,
-        "modified": 1752299540,
-        "media_id": "0877535adea01a8cbaef98d478cad2a7dbe24c4f",
-        "airing_id": "RADS1007092500045782",
-        "id": "DHxenpZFQmqu9ENjBxxVnQ",
-        "slug": "the-talented-mr-dingleberry",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151880435105520.jpg",
-        "created": 1494355773,
-        "season_number": "12",
-        "title_id": "2069547",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1752299540,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1743393600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151880435105520.jpg",
-        "cma_id": ""
     },
     {
         "auth": true,
