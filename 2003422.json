@@ -234,6 +234,55 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1753934340,
+        "tms_id": "",
+        "description": "Louise becomes the teacher.",
+        "title_suggest": {
+            "input": [
+                "Prank You for Being a Friend",
+                "You for Being a Friend",
+                "for Being a Friend",
+                "Being a Friend",
+                "a Friend",
+                "Friend"
+            ]
+        },
+        "title": "Prank You for Being a Friend",
+        "type": "episode",
+        "expiration_date": 1741579140,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1291.7571,
+        "episode_number": "22",
+        "original_air_date": 1701745200,
+        "auth_launch_date": 1753329600,
+        "clip_order": null,
+        "airing_id": "RADS1007182500047143",
+        "media_id": "109b76604f3454f032c6e7592bed2ec903dce6d5",
+        "modified": 1753081882,
+        "slug": "prank-you-for-being-a-friend",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240131/thumbnails/1_24131128589-Screenshot2024-01-31at1.26.03AM.png",
+        "created": 1706202073,
+        "title_id": "2438960",
+        "season_number": "10",
+        "tv_rating": "tv-pg-l",
+        "published": 1753081882,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1740978000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240131/thumbnails/2_24131128589-Screenshot2024-01-31at1.26.03AM.png",
+        "id": "AY1BkYsnn_kciGPPrEab",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1740373140,
         "tms_id": "",
         "description": "Louise is on a power trip.",
@@ -509,53 +558,6 @@
         "launch_date": 1739768400,
         "poster": "https://media.cdn.adultswim.com/uploads/20240115/thumbnails/2_241151226470-Screenshot2024-01-15at12.26.25PM.png",
         "id": "AYz8EQfe1E7YmWrdXLlc",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1753329540,
-        "tms_id": "",
-        "description": "Tina becomes a mentor.",
-        "title_suggest": {
-            "input": [
-                "A Fish Called Tina",
-                "Fish Called Tina",
-                "Called Tina",
-                "Tina"
-            ]
-        },
-        "title": "A Fish Called Tina",
-        "type": "episode",
-        "expiration_date": 1739768340,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1291.3232,
-        "episode_number": "12",
-        "original_air_date": 1700528400,
-        "auth_launch_date": 1752724800,
-        "clip_order": null,
-        "airing_id": "RADS1007112500046269",
-        "media_id": "4ae438ce552bb93b04f27044f92ba505ccd58ba1",
-        "modified": 1752473275,
-        "slug": "a-fish-called-tina",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240108/thumbnails/1_2418124999-Screenshot2024-01-08at12.47.37PM.png",
-        "created": 1704251875,
-        "title_id": "2438950",
-        "season_number": "10",
-        "tv_rating": "tv-pg-l",
-        "published": 1752473275,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1739163600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240108/thumbnails/2_2418124999-Screenshot2024-01-08at12.47.37PM.png",
-        "id": "AYzNU-Ec1E7YmWrdXLlZ",
         "auth": true
     },
     {
