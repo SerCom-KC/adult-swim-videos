@@ -1,5 +1,71 @@
 [
     {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1753415940,
+        "tms_id": "EP002070020063",
+        "rating": 8.125544,
+        "description": "Despite Hank's disapproval, Peggy assists a prisoner on death row... only to realize she was tricked into smuggling drugs.",
+        "title_suggest": {
+            "input": [
+                "Death and Texas",
+                "and Texas",
+                "Texas"
+            ]
+        },
+        "type": "episode",
+        "title": "Death and Texas",
+        "expiration_date": 1502335799,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1398.4971,
+        "episode_number": "22",
+        "original_air_date": 1240106400,
+        "clip_order": null,
+        "auth_launch_date": 1752811200,
+        "modified": 1752565435,
+        "media_id": "ac103e9ea5f047a03f8be71a3c87c36f9f1377bc",
+        "airing_id": "RADS1007132500046662",
+        "id": "EGz0oTCFR6OmY_PjSEZTuw",
+        "slug": "death-and-texas",
+        "views": 125782,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220726/thumbnails/1_227261358287-KingOfTheHill_320_DeathAndTexas.png",
+        "created": 1402945468,
+        "title_id": "731275",
+        "season_number": "3",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1752565435,
+        "tags": [
+            "king of the hill",
+            "death and texas",
+            "season 3",
+            "episode 20",
+            "hank",
+            "disapproval",
+            "peggy",
+            "assist",
+            "prisoner",
+            "death row",
+            "trick",
+            "smuggle",
+            "drugs"
+        ],
+        "rating_count": 231,
+        "collection_title": "King of the Hill",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1501731000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220726/thumbnails/2_227261358287-KingOfTheHill_320_DeathAndTexas.png",
+        "cma_id": "1444608"
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1753502340,
@@ -117,57 +183,6 @@
         "launch_date": 1502024400,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15180330250882.jpg",
         "cma_id": "1446127"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1754020740,
-        "tms_id": "EP002070020065",
-        "rating": 7.936939,
-        "description": "Cotton assists with Peggy's rehabilitation as he seeks a war hero's grave.",
-        "title_suggest": {
-            "input": [
-                "Cotton's Plot",
-                "Plot"
-            ]
-        },
-        "type": "episode",
-        "title": "Cotton's Plot",
-        "expiration_date": 1502713799,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1396.8287,
-        "episode_number": "2",
-        "original_air_date": 1240281000,
-        "auth_launch_date": 1753416000,
-        "clip_order": null,
-        "modified": 1753166503,
-        "media_id": "9460090b357d609140533060f477081215eada40",
-        "airing_id": "RADS1007192500047278",
-        "id": "gUhDQdS2TmKaUxVPckWuzg",
-        "slug": "cottons-plot",
-        "views": 46726,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151803312714312.jpg",
-        "created": 1402945468,
-        "title_id": "731282",
-        "season_number": "4",
-        "tv_rating": "tv-pg-l",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1753166503,
-        "tags": [
-            "koth king of the hill episode 401 cotton's plot war hero grave cemetery rehabilitation wheelchair dance "
-        ],
-        "rating_count": 111,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1502109000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803312714312.jpg",
-        "cma_id": "1446587"
     },
     {
         "auth": true,
