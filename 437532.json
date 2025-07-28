@@ -1,102 +1,5 @@
 [
     {
-        "auth_expiration_date": 1753675140,
-        "tms_id": "EP003034830023",
-        "description": "Fry begins a romance with the new bureaucrat when Hermes is sent away.",
-        "title_suggest": {
-            "input": [
-                "How Hermes Requisitioned His Groove Back",
-                "Hermes Requisitioned His Groove Back",
-                "Requisitioned His Groove Back",
-                "His Groove Back",
-                "Groove Back",
-                "Back"
-            ]
-        },
-        "title": "How Hermes Requisitioned His Groove Back",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1412.8781,
-        "episode_number": "14",
-        "original_air_date": 1045108800,
-        "auth_launch_date": 1753070400,
-        "clip_order": null,
-        "airing_id": "RADS1007172500046898",
-        "media_id": "5ce9cbbae20415cf30fbfe00505aaf2319cb702a",
-        "modified": 1752817567,
-        "slug": "how-hermes-requisitioned-his-groove-back",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220217/thumbnails/1_222171658163-Futurama_023_HowHermesRequisitionedHisGrooveBack.png",
-        "created": 1644864509,
-        "title_id": "437555",
-        "season_number": "2",
-        "tv_rating": "tv-pg-dl",
-        "published": 1752817567,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220217/thumbnails/2_222171658163-Futurama_023_HowHermesRequisitionedHisGrooveBack.png",
-        "id": "AX75kJVe_0O4w1rD3Rqq",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1753675140,
-        "tms_id": "EP003034830024",
-        "description": "Professor Farnsworth decides to retire and revives his clone.",
-        "title_suggest": {
-            "input": [
-                "A Clone of My Own",
-                "Clone of My Own",
-                "of My Own",
-                "My Own",
-                "Own"
-            ]
-        },
-        "title": "A Clone of My Own",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1399.765,
-        "episode_number": "15",
-        "original_air_date": 1045022400,
-        "auth_launch_date": 1753070400,
-        "clip_order": null,
-        "airing_id": "RADS1007172500046900",
-        "media_id": "22724a8c6d8eae4e9c6cdf47997e6ffbf7d78917",
-        "modified": 1752816341,
-        "slug": "a-clone-of-my-own",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220217/thumbnails/1_222171658567-Futurama_024_ACloneOfMyOwn.png",
-        "created": 1644969836,
-        "title_id": "437556",
-        "season_number": "2",
-        "tv_rating": "tv-pg",
-        "published": 1752816341,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220217/thumbnails/2_222171658567-Futurama_024_ACloneOfMyOwn.png",
-        "id": "AX7_17_b_0O4w1rD3Rrb",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1754020740,
         "tms_id": "EP003034830025",
         "description": "Bender's giant hook causes the Planet Express to sink.",
@@ -189,6 +92,51 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1754279940,
+        "tms_id": "EP003034830028",
+        "description": "Mom wants world domination for a Mother's Day gift.",
+        "title_suggest": {
+            "input": [
+                "Mother's Day",
+                "Day"
+            ]
+        },
+        "title": "Mother's Day",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1411.1097,
+        "episode_number": "19",
+        "original_air_date": "1045540800",
+        "auth_launch_date": 1753675200,
+        "clip_order": null,
+        "airing_id": "RADS1007232500047959",
+        "media_id": "8d07ad41e688800e7976314088de19b2c56832d9",
+        "modified": 1753426032,
+        "slug": "mothers-day",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/1_22223942230-Futurama_028_MothersDay.png",
+        "created": 1645115229,
+        "season_number": "2",
+        "title_id": "437690",
+        "tv_rating": "tv-14-dls",
+        "published": 1753426032,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/2_22223942230-Futurama_028_MothersDay.png",
+        "id": "AX8IgkOQ_0O4w1rD3RsV",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1754193540,
         "tms_id": "EP003034830027",
         "description": "The crew discovers an irresistible source of food on a new planet.",
@@ -233,6 +181,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/2_22223941229-Futurama_027_TheProblemWithPopplers.png",
         "id": "AX8IgmO-208s7zyYUMHh",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1754279940,
+        "tms_id": "EP003034830029",
+        "description": "The professor invents a what if machine.",
+        "title_suggest": {
+            "input": [
+                "Anthology of Interest I",
+                "of Interest I",
+                "Interest I",
+                "I"
+            ]
+        },
+        "title": "Anthology of Interest I",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1412.9449,
+        "episode_number": "20",
+        "original_air_date": 1045713600,
+        "auth_launch_date": 1753675200,
+        "clip_order": null,
+        "airing_id": "RADS1007232500047961",
+        "media_id": "5ca83052589fdf7537bbe83ee6bd55e3ca57e2fe",
+        "modified": 1753426032,
+        "slug": "anthology-of-interest-i",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/1_22311141413-Futurama_29_AnthologyOfInterest1.png",
+        "created": 1645835125,
+        "title_id": "437692",
+        "season_number": "2",
+        "tv_rating": "tv-pg-lv",
+        "published": 1753426032,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311141413-Futurama_29_AnthologyOfInterest1.png",
+        "id": "AX8zawNn_0O4w1rD3Rv2",
         "auth": true
     }
 ]
