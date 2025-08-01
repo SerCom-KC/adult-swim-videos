@@ -66,6 +66,56 @@
     },
     {
         "auth": true,
+        "auth_expiration_date": 1754625540,
+        "tms_id": "EP002070020070",
+        "rating": 7.8343024,
+        "description": "The Hills find themselves stranded for Thanksgiving when bad weather shuts down the airport.",
+        "title_suggest": {
+            "input": [
+                "The Hank's Giving Episode",
+                "Hank's Giving Episode",
+                "Giving Episode",
+                "Episode"
+            ]
+        },
+        "type": "episode",
+        "title": "The Hank's Giving Episode",
+        "expiration_date": 1503026999,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1401.0997,
+        "episode_number": "7",
+        "original_air_date": 1240624800,
+        "auth_launch_date": 1754020800,
+        "clip_order": null,
+        "modified": 1753767094,
+        "media_id": "6361bfb32ff6de8072b679c7dff44201a902b0c7",
+        "airing_id": "RADS1007282500048309",
+        "id": "6Cx3t4JwRqmuflEcPgseRQ",
+        "slug": "the-hanks-giving-episode",
+        "views": 121591,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220814/thumbnails/1_228141656576-Thanksmin.png",
+        "created": 1402945468,
+        "title_id": "731287",
+        "season_number": "4",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "published": 1753767094,
+        "tags": [],
+        "rating_count": 344,
+        "collection_title": "King of the Hill",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1502422200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220814/thumbnails/2_228141656576-Thanksmin.png",
+        "cma_id": "1449552"
+    },
+    {
+        "auth": true,
         "auth_expiration_date": 1754452740,
         "tms_id": "EP002070020068",
         "rating": 7.9727793,
@@ -182,57 +232,6 @@
         "launch_date": 1502110800,
         "poster": "https://media.cdn.adultswim.com/uploads/20220807/thumbnails/2_22871127519-BillsBrokenmin.png",
         "cma_id": "1446545"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1754020740,
-        "tms_id": "EP002070020065",
-        "rating": 7.936939,
-        "description": "Cotton assists with Peggy's rehabilitation as he seeks a war hero's grave.",
-        "title_suggest": {
-            "input": [
-                "Cotton's Plot",
-                "Plot"
-            ]
-        },
-        "type": "episode",
-        "title": "Cotton's Plot",
-        "expiration_date": 1502713799,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1396.8287,
-        "episode_number": "2",
-        "original_air_date": 1240281000,
-        "auth_launch_date": 1753416000,
-        "clip_order": null,
-        "modified": 1753166503,
-        "media_id": "9460090b357d609140533060f477081215eada40",
-        "airing_id": "RADS1007192500047278",
-        "id": "gUhDQdS2TmKaUxVPckWuzg",
-        "slug": "cottons-plot",
-        "views": 46726,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151803312714312.jpg",
-        "created": 1402945468,
-        "title_id": "731282",
-        "season_number": "4",
-        "tv_rating": "tv-pg-l",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1753166503,
-        "tags": [
-            "koth king of the hill episode 401 cotton's plot war hero grave cemetery rehabilitation wheelchair dance "
-        ],
-        "rating_count": 111,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1502109000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803312714312.jpg",
-        "cma_id": "1446587"
     },
     {
         "auth": true,
