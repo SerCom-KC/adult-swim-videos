@@ -45,53 +45,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1754193540,
-        "tms_id": "EP003034830027",
-        "description": "The crew discovers an irresistible source of food on a new planet.",
-        "title_suggest": {
-            "input": [
-                "The Problem with Popplers",
-                "Problem with Popplers",
-                "with Popplers",
-                "Popplers"
-            ]
-        },
-        "title": "The Problem with Popplers",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1400.0987,
-        "episode_number": "18",
-        "original_air_date": "1045627200",
-        "auth_launch_date": 1753588800,
-        "clip_order": null,
-        "airing_id": "RADS1007212500047509",
-        "media_id": "df96a6768ff55d150f991f314273ac1ef3fb801c",
-        "modified": 1753335090,
-        "slug": "the-problem-with-popplers",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/1_22223941229-Futurama_027_TheProblemWithPopplers.png",
-        "created": 1645115237,
-        "season_number": "2",
-        "title_id": "437691",
-        "tv_rating": "tv-pg-l",
-        "published": 1753335090,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/2_22223941229-Futurama_027_TheProblemWithPopplers.png",
-        "id": "AX8IgmO-208s7zyYUMHh",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1754279940,
         "tms_id": "EP003034830029",
         "description": "The professor invents a what if machine.",
@@ -228,6 +181,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311143582-Futurama_031_WarIsTheHWord.png",
         "id": "AX9BdqNO208s7zyYUMOC",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1754798340,
+        "tms_id": "EP003034830032",
+        "description": "Fry and Bender's behavior causes all the Planet Express crewmen to lose their jobs.",
+        "title_suggest": {
+            "input": [
+                "The Cryonic Woman",
+                "Cryonic Woman",
+                "Woman"
+            ]
+        },
+        "title": "The Cryonic Woman",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1397.2291,
+        "episode_number": "3",
+        "original_air_date": 1046145600,
+        "auth_launch_date": 1754193600,
+        "clip_order": null,
+        "airing_id": "RADS1007282500048477",
+        "media_id": "cbbded4f3a483b2a90a5268b49671552580bef95",
+        "modified": 1753939934,
+        "slug": "the-cryonic-woman",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220311/thumbnails/1_22311135329-Cryonic.png",
+        "created": 1646438107,
+        "title_id": "437695",
+        "season_number": "3",
+        "tv_rating": "tv-pg-dv",
+        "published": 1753939934,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220311/thumbnails/2_22311135329-Cryonic.png",
+        "id": "AX9XW8sQ_0O4w1rD3RyJ",
         "auth": true
     }
 ]
