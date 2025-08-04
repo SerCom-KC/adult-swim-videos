@@ -1,97 +1,5 @@
 [
     {
-        "auth_expiration_date": 1754279940,
-        "tms_id": "EP003034830028",
-        "description": "Mom wants world domination for a Mother's Day gift.",
-        "title_suggest": {
-            "input": [
-                "Mother's Day",
-                "Day"
-            ]
-        },
-        "title": "Mother's Day",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1411.1097,
-        "episode_number": "19",
-        "original_air_date": "1045540800",
-        "auth_launch_date": 1753675200,
-        "clip_order": null,
-        "airing_id": "RADS1007232500047959",
-        "media_id": "8d07ad41e688800e7976314088de19b2c56832d9",
-        "modified": 1753426032,
-        "slug": "mothers-day",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/1_22223942230-Futurama_028_MothersDay.png",
-        "created": 1645115229,
-        "season_number": "2",
-        "title_id": "437690",
-        "tv_rating": "tv-14-dls",
-        "published": 1753426032,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/2_22223942230-Futurama_028_MothersDay.png",
-        "id": "AX8IgkOQ_0O4w1rD3RsV",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1754279940,
-        "tms_id": "EP003034830029",
-        "description": "The professor invents a what if machine.",
-        "title_suggest": {
-            "input": [
-                "Anthology of Interest I",
-                "of Interest I",
-                "Interest I",
-                "I"
-            ]
-        },
-        "title": "Anthology of Interest I",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1412.9449,
-        "episode_number": "20",
-        "original_air_date": 1045713600,
-        "auth_launch_date": 1753675200,
-        "clip_order": null,
-        "airing_id": "RADS1007232500047961",
-        "media_id": "5ca83052589fdf7537bbe83ee6bd55e3ca57e2fe",
-        "modified": 1753426032,
-        "slug": "anthology-of-interest-i",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/1_22311141413-Futurama_29_AnthologyOfInterest1.png",
-        "created": 1645835125,
-        "title_id": "437692",
-        "season_number": "2",
-        "tv_rating": "tv-pg-lv",
-        "published": 1753426032,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311141413-Futurama_29_AnthologyOfInterest1.png",
-        "id": "AX8zawNn_0O4w1rD3Rv2",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1754625540,
         "tms_id": "EP003034830030",
         "description": "Bender must spend a full night in a gothic castle in order to collect an inheritance.",
@@ -227,6 +135,99 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220311/thumbnails/2_22311135329-Cryonic.png",
         "id": "AX9XW8sQ_0O4w1rD3RyJ",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1754884740,
+        "tms_id": "EP003034830035",
+        "description": "Fry eats a sandwich infested with worms that make him stronger and smarter.",
+        "title_suggest": {
+            "input": [
+                "Parasites Lost",
+                "Lost"
+            ]
+        },
+        "title": "Parasites Lost",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1398.3302,
+        "episode_number": "4",
+        "original_air_date": 1046318400,
+        "auth_launch_date": 1754280000,
+        "clip_order": null,
+        "airing_id": "RADS1008022500050101",
+        "media_id": "8a7d6aa0066eb0864a5087cd562b54ece40c574b",
+        "modified": 1754094050,
+        "slug": "parasites-lost",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220309/thumbnails/1_223911255-Futurama_033_ParasitesLost.png",
+        "created": 1646662623,
+        "title_id": "437696",
+        "season_number": "3",
+        "tv_rating": "tv-pg-dlv",
+        "published": 1754094050,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220309/thumbnails/2_223911255-Futurama_033_ParasitesLost.png",
+        "id": "AX9kvZ9l_0O4w1rD3Ryv",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1754884740,
+        "tms_id": "EP003034830034",
+        "description": "The ship crashes on a planet inhabited by a race of man-hating, giant women.",
+        "title_suggest": {
+            "input": [
+                "Amazon Women in the Mood",
+                "Women in the Mood",
+                "in the Mood",
+                "the Mood",
+                "Mood"
+            ]
+        },
+        "title": "Amazon Women in the Mood",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1400.8995,
+        "episode_number": "5",
+        "original_air_date": "1046232000",
+        "auth_launch_date": 1754280000,
+        "clip_order": null,
+        "airing_id": "RADS1008022500050103",
+        "media_id": "838ef3e0aa7083d7834c13fcee2f0b03bb5c615e",
+        "modified": 1754164299,
+        "slug": "amazon-women-in-the-mood",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220309/thumbnails/1_2239113184-Futurama_034_AmazonWomenInTheMood.png",
+        "created": 1646841807,
+        "season_number": "3",
+        "title_id": "437698",
+        "tv_rating": "tv-14",
+        "published": 1754164299,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220309/thumbnails/2_2239113184-Futurama_034_AmazonWomenInTheMood.png",
+        "id": "AX9va8E__0O4w1rD3Ry5",
         "auth": true
     }
 ]
