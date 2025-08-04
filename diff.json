@@ -1,7 +1,6 @@
 {
-    "updated": 1754328613,
-    "added": [],
-    "removed": [
+    "updated": 1754332213,
+    "added": [
         {
             "auth": false,
             "ott_launch_date": 1458568740,
@@ -28,7 +27,7 @@
             "original_air_date": 1163997900,
             "clip_order": null,
             "auth_launch_date": 1690948800,
-            "modified": 1720019149,
+            "modified": 1754331382,
             "media_id": "5afeb4584e5317fb73ef37c9f8b5c5544f555b63",
             "airing_id": "RADS1007032400078440",
             "id": "IxaJJkxkRGeyy_fG851YIA",
@@ -43,7 +42,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1720019149,
+            "published": 1754331382,
             "tags": [
                 "metalocalypse dethklok episode 15 dethkids toki kids children dying"
             ],
@@ -58,5 +57,6 @@
             "collection_title_id": "648666",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
