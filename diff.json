@@ -1,7 +1,6 @@
 {
-    "updated": 1754746212,
-    "added": [],
-    "removed": [
+    "updated": 1754749814,
+    "added": [
         {
             "auth": false,
             "ott_launch_date": 1447442400,
@@ -32,7 +31,7 @@
             "original_air_date": 1112331600,
             "clip_order": null,
             "auth_launch_date": 1691812800,
-            "modified": 1733617988,
+            "modified": 1754747815,
             "media_id": "2db045d3f135421d737a4779b5469674fd9c15a2",
             "airing_id": "RADS1011131800044821",
             "id": "gfkJR1BZQbanV9SpCZYxDg",
@@ -47,7 +46,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1733617988,
+            "published": 1754747815,
             "tags": [
                 "squidbillies episode 1 premiere this show is called early origin first"
             ],
@@ -62,5 +61,6 @@
             "collection_title_id": "581268",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
