@@ -243,7 +243,7 @@
         "launch_date": 1752399000,
         "poster": "https://media.cdn.adultswim.com/uploads/20250625/thumbnails/2_256252012429-OP734_S17E106.jpg",
         "id": "AZd9lIo_CI-3VkGoG1GF",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1756094340,
@@ -453,6 +453,50 @@
         "launch_date": 1754818200,
         "poster": "https://media.cdn.adultswim.com/uploads/20250721/thumbnails/2_257211612270-OP736_S17E108.jpg",
         "id": "AZgPGqiRCI-3VkGoG1RR",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1756632540,
+        "created": 1754419228,
+        "tms_id": "",
+        "title_id": "2550987",
+        "season_number": "17",
+        "tv_rating": "tv-14",
+        "description": "As Sabo departs, our attention shifts to the other Straw Hats waging a fierce battle on a mysterious island. And a new drama is set into motion.",
+        "title_suggest": {
+            "input": [
+                "The Strongest Creature! One of the Four Emperors - Kaido, King of the Beasts!",
+                "Strongest Creature! One of the Four Emperors - Kaido, King of the Beasts!",
+                "Creature! One of the Four Emperors - Kaido, King of the Beasts!",
+                "One of the Four Emperors - Kaido, King of the Beasts!",
+                "of the Four Emperors - Kaido, King of the Beasts!",
+                "the Four Emperors - Kaido, King of the Beasts!",
+                "Four Emperors - Kaido, King of the Beasts!",
+                "Emperors - Kaido, King of the Beasts!",
+                "- Kaido, King of the Beasts!",
+                "Kaido, King of the Beasts!",
+                "King of the Beasts!",
+                "of the Beasts!",
+                "the Beasts!",
+                "Beasts!"
+            ]
+        },
+        "published": 1754424043,
+        "title": "The Strongest Creature! One of the Four Emperors - Kaido, King of the Beasts!",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1306.4384,
+        "episode_number": "",
+        "collection_title": "One Piece",
+        "original_air_date": 1754805600,
+        "auth_launch_date": 1754818200,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1008052500051075",
+        "media_id": "e57a8b1a9d900b15c07101e06555f53560444320",
+        "modified": 1754424043,
+        "slug": "the-strongest-creature-one-of-the-four-emperors-kaido-king-of-the-beasts",
+        "id": "AZh7iO3DITxXrw59dNER",
         "auth": true
     },
     {
