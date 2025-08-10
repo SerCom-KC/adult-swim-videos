@@ -2,17 +2,16 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: August 10, 2025 at 05:30:14 EDT_
+_Last Update: August 10, 2025 at 06:00:13 EDT_
 ## Video added
 ### Summary
-2012528 Blue Exorcist: 1  
-### 2547002
-**Blue Exorcist S02E11 - Shine Bright as the Sun**  
-TV-14-LV 🔒 23:09  
-⌛ September 15, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/blue-exorcist/shine-bright-as-the-sun  
-seriesid=`2012528` titleid=`2547002` id=`AZbaAGq45aaI-__GJ7PZ` mediaid=`1280fbd36104e592e07ab6669081155febf5fa6d`  
-_Rin manages to draw the demon sword, but if Suguro's strength fails, the barrier will collapse!_  
-<a href="https://media.cdn.adultswim.com/uploads/20250516/thumbnails/2_255161249273-BEX-S02E11.png"><img src="https://media.cdn.adultswim.com/uploads/20250516/thumbnails/2_255161249273-BEX-S02E11.png" height="144px" /></a>
+608007 One Piece: 1  
+### 2550987
+**One Piece S17E?? - The Strongest Creature! One of the Four Emperors - Kaido, King of the Beasts!**  
+TV-14 🔒 21:46  
+⌛ August 31, 2025 at 05:29:00 EDT  
+https://www.adultswim.com/videos/one-piece/the-strongest-creature-one-of-the-four-emperors-kaido-king-of-the-beasts  
+seriesid=`608007` titleid=`2550987` id=`AZh7iO3DITxXrw59dNER` mediaid=`e57a8b1a9d900b15c07101e06555f53560444320`  
+_As Sabo departs, our attention shifts to the other Straw Hats waging a fierce battle on a mysterious island. And a new drama is set into motion._  
 ## Video removed
 No videos were removed.  
