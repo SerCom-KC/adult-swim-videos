@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: August 10, 2025 at 04:00:26 EDT_
+_Last Update: August 10, 2025 at 05:30:14 EDT_
 ## Video added
 ### Summary
-2568743 DAN DA DAN: 1  
-### 2568746
-**DAN DA DAN S01E03 - It's a Granny vs. Granny Clash!**  
-TV-MA 🔒 22:52  
-⌛ August 31, 2025 at 03:59:00 EDT  
-https://www.adultswim.com/videos/dan-da-dan/its-a-granny-vs-granny-clash  
-seriesid=`2568743` titleid=`2568746` id=`AZhDBDZlITxXrw59dM9v` mediaid=`f2e39e45b6c3dcd131f1fdce24fc3fb2c352cfe3`  
-_Okarun is saved from a tough spot by Momo's grandmother, Seiko. Okarun must now play tag with Turbo Granny to lift his curse._  
-<a href="https://media.cdn.adultswim.com/uploads/20250725/thumbnails/2_257251516388-Ep03_Still_0021.png"><img src="https://media.cdn.adultswim.com/uploads/20250725/thumbnails/2_257251516388-Ep03_Still_0021.png" height="144px" /></a>
+2012528 Blue Exorcist: 1  
+### 2547002
+**Blue Exorcist S02E11 - Shine Bright as the Sun**  
+TV-14-LV 🔒 23:09  
+⌛ September 15, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/blue-exorcist/shine-bright-as-the-sun  
+seriesid=`2012528` titleid=`2547002` id=`AZbaAGq45aaI-__GJ7PZ` mediaid=`1280fbd36104e592e07ab6669081155febf5fa6d`  
+_Rin manages to draw the demon sword, but if Suguro's strength fails, the barrier will collapse!_  
+<a href="https://media.cdn.adultswim.com/uploads/20250516/thumbnails/2_255161249273-BEX-S02E11.png"><img src="https://media.cdn.adultswim.com/uploads/20250516/thumbnails/2_255161249273-BEX-S02E11.png" height="144px" /></a>
 ## Video removed
 No videos were removed.  
