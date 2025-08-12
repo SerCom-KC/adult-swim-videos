@@ -49,54 +49,6 @@
         "auth": true
     },
     {
-        "ott_launch_date": 1452085200,
-        "auth_expiration_date": 1754971140,
-        "tms_id": "SH020208840000",
-        "description": "It's a remote-controlled helicopter that also makes a farting noise, like a flying whoopee cushion. The infomercial is hosted by a young, fast-talking, super-enthused kid who shows all the hilarious ways fartcopter can be used.",
-        "title_suggest": {
-            "input": [
-                "Fartcopter"
-            ]
-        },
-        "expiration_date": 1751947140,
-        "type": "episode",
-        "title": "Fartcopter",
-        "platforms": [
-            "android",
-            "fire-tv",
-            "ios",
-            "ott",
-            "roku"
-        ],
-        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
-        "duration": 662.8675342,
-        "episode_number": "1",
-        "original_air_date": 1412668800,
-        "auth_launch_date": 1751947200,
-        "clip_order": null,
-        "media_id": "f581111bc1b9cef39b937fd0ca82c5dc01b5831b",
-        "modified": 1751694746,
-        "airing_id": "RADS1007022500044394",
-        "slug": "fartcopter",
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151509848751617.jpg",
-        "created": 1510604845,
-        "season_number": "4",
-        "title_id": "2007824",
-        "tv_rating": "tv-14-dlv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1751694746,
-        "tags": [],
-        "collection_title": "Infomercials",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1749528000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151509848751617.jpg",
-        "id": "AV-3ELLRwdpKFAKSbWZf",
-        "auth": true
-    },
-    {
         "ott_launch_date": 1447789500,
         "auth_expiration_date": 1756785540,
         "tms_id": "SH020417690000",
@@ -202,7 +154,7 @@
         "launch_date": 1752552000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15150982592352.jpg",
         "id": "AV-3I4k8Z-onAnjDLtAh",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1447789620,
@@ -541,6 +493,55 @@
         "launch_date": 1742011200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_20929854-Infomercials_Wormholes_001_dup-20200805.jpg",
         "id": "AXRO7ow6SeFB2d0c38u0",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1743479940,
+        "tms_id": "SH023842930000",
+        "description": "Event from account 00437: Subject 3 prone on kitchen floor.\nABSurveillanceSolutions.com",
+        "title_suggest": {
+            "input": [
+                "This House Has People in It",
+                "House Has People in It",
+                "Has People in It",
+                "People in It",
+                "in It",
+                "It"
+            ]
+        },
+        "title": "This House Has People in It",
+        "expiration_date": 1786420740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
+        "duration": 711.2772,
+        "episode_number": "1",
+        "original_air_date": "1458028800",
+        "auth_launch_date": 1740459600,
+        "clip_order": null,
+        "airing_id": "RADS1008062500051794",
+        "media_id": "1ca246a6ad4425c58b63342dd80243bcd47da987",
+        "modified": 1754719275,
+        "slug": "this-house-has-people-in-it",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200902/thumbnails/1_20921359547-infomercials_THHPII_30817.jpg",
+        "created": 1599069619,
+        "season_number": "5",
+        "title_id": "2074259",
+        "tv_rating": "tv-14-l",
+        "published": 1754719275,
+        "tags": [],
+        "collection_title": "Infomercials",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1754971200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_20921359547-infomercials_THHPII_30817.jpg",
+        "id": "AXRP-gPLSeFB2d0c38vB",
         "auth": false
     },
     {
