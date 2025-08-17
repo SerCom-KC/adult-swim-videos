@@ -248,7 +248,7 @@
         "launch_date": 1753003800,
         "poster": "https://media.cdn.adultswim.com/uploads/20250625/thumbnails/2_256252013290-OP735_01.jpg",
         "id": "AZehpU7FCI-3VkGoG1Ib",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1755422940,
@@ -454,6 +454,46 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250728/thumbnails/2_257281644181-OP738_S17E110.jpg",
         "id": "AZhSU9LACI-3VkGoG1WX",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1757237340,
+        "created": 1754939792,
+        "tms_id": "",
+        "title_id": "2550988",
+        "season_number": "17",
+        "tv_rating": "tv-pg",
+        "description": "As Luffy and the others come to their senses, major players in the Navy arrive to search Dressrosa for the Straw Hats!",
+        "title_suggest": {
+            "input": [
+                "Fujitora Takes Action! The Complete Siege of the Straw Hats!",
+                "Takes Action! The Complete Siege of the Straw Hats!",
+                "Action! The Complete Siege of the Straw Hats!",
+                "The Complete Siege of the Straw Hats!",
+                "Complete Siege of the Straw Hats!",
+                "Siege of the Straw Hats!",
+                "of the Straw Hats!",
+                "the Straw Hats!",
+                "Straw Hats!",
+                "Hats!"
+            ]
+        },
+        "published": 1754946722,
+        "title": "Fujitora Takes Action! The Complete Siege of the Straw Hats!",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1305.2707,
+        "episode_number": "",
+        "collection_title": "One Piece",
+        "original_air_date": 1755410400,
+        "auth_launch_date": 1755423000,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1008112500052462",
+        "media_id": "3521769d0fcee6796cdd770b23ffe61eb8f2f74e",
+        "modified": 1754946722,
+        "slug": "fujitora-takes-action-the-complete-siege-of-the-straw-hats",
+        "id": "AZiakB1CITxXrw59dNIb",
         "auth": true
     }
 ]
