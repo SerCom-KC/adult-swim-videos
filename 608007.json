@@ -370,11 +370,7 @@
     },
     {
         "auth_expiration_date": 1757237340,
-        "created": 1754939792,
         "tms_id": "",
-        "title_id": "2550988",
-        "season_number": "17",
-        "tv_rating": "tv-pg",
         "description": "As Luffy and the others come to their senses, major players in the Navy arrive to search Dressrosa for the Straw Hats!",
         "title_suggest": {
             "input": [
@@ -390,21 +386,38 @@
                 "Hats!"
             ]
         },
-        "published": 1754946722,
         "title": "Fujitora Takes Action! The Complete Siege of the Straw Hats!",
         "type": "episode",
-        "tags": [],
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
         "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
         "duration": 1305.2707,
-        "episode_number": "",
-        "collection_title": "One Piece",
+        "episode_number": "112",
         "original_air_date": 1755410400,
         "auth_launch_date": 1755423000,
-        "modified_by": "ODT Listener",
+        "clip_order": null,
         "airing_id": "RADS1008112500052462",
         "media_id": "3521769d0fcee6796cdd770b23ffe61eb8f2f74e",
-        "modified": 1754946722,
+        "modified": 1755493081,
         "slug": "fujitora-takes-action-the-complete-siege-of-the-straw-hats",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250818/thumbnails/1_25818056293-OP740_S17E112.jpg",
+        "created": 1754939792,
+        "title_id": "2550988",
+        "season_number": "17",
+        "tv_rating": "tv-pg",
+        "published": 1755493081,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "undefined undefined",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250818/thumbnails/2_25818056293-OP740_S17E112.jpg",
         "id": "AZiakB1CITxXrw59dNIb",
         "auth": true
     }
