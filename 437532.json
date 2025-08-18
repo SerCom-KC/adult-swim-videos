@@ -1,98 +1,5 @@
 [
     {
-        "auth_expiration_date": 1755489540,
-        "tms_id": "EP003034830039",
-        "description": "Bender transports hazardous cargo through a penguin refuge on Pluto.",
-        "title_suggest": {
-            "input": [
-                "Birdbot of Ice-Catraz",
-                "of Ice-Catraz",
-                "Ice-Catraz"
-            ]
-        },
-        "title": "Birdbot of Ice-Catraz",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1400.9329,
-        "episode_number": "9",
-        "original_air_date": 1046750400,
-        "auth_launch_date": 1754884800,
-        "clip_order": null,
-        "airing_id": "RADS1008062500051537",
-        "media_id": "47ae9b260a1ad0c99c56d73367c6001e95ead0d5",
-        "modified": 1754635294,
-        "slug": "birdbot-of-ice-catraz",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220322/thumbnails/1_223221438107-Futurama_038_TheBirdbotOfIceCatraz.png",
-        "created": 1647830013,
-        "title_id": "437702",
-        "season_number": "3",
-        "tv_rating": "tv-pg-dl",
-        "published": 1754635294,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220322/thumbnails/2_223221438107-Futurama_038_TheBirdbotOfIceCatraz.png",
-        "id": "AX-qUpel_0O4w1rD3R3V",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1755489540,
-        "tms_id": "EP003034830040",
-        "description": "Fry quests to recover a seven-leaf clover he possessed as a child.",
-        "title_suggest": {
-            "input": [
-                "Luck of the Fryrish",
-                "of the Fryrish",
-                "the Fryrish",
-                "Fryrish"
-            ]
-        },
-        "title": "Luck of the Fryrish",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1397.9966,
-        "episode_number": "10",
-        "original_air_date": 1046664000,
-        "auth_launch_date": 1754884800,
-        "clip_order": null,
-        "airing_id": "RADS1008062500051539",
-        "media_id": "6ab561a3825a1f2e98bfd386b8bcfbd0150d9852",
-        "modified": 1754634396,
-        "slug": "luck-of-the-fryrish",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220322/thumbnails/1_223221439161-Futurama_039_LuckOfTheFryrish.png",
-        "created": 1647870820,
-        "title_id": "437703",
-        "season_number": "3",
-        "tv_rating": "tv-pg",
-        "published": 1754634396,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220322/thumbnails/2_223221439161-Futurama_039_LuckOfTheFryrish.png",
-        "id": "AX-swUGi_0O4w1rD3R3n",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1755835140,
         "tms_id": "EP003034830041",
         "description": "Leela decides to have plastic surgery so that she will appear to have two eyes.",
@@ -137,6 +44,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220322/thumbnails/2_22322144180-Futurama_040_TheCyberHouseRules.png",
         "id": "AX-tkHer208s7zyYUMY8",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1756094340,
+        "tms_id": "EP003034830045",
+        "description": "Fry falls in love with a virtual humanoid downloaded from a computer.",
+        "title_suggest": {
+            "input": [
+                "I Dated a Robot",
+                "Dated a Robot",
+                "a Robot",
+                "Robot"
+            ]
+        },
+        "title": "I Dated a Robot",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1398.4971,
+        "episode_number": "15",
+        "original_air_date": 1047873600,
+        "auth_launch_date": 1755489600,
+        "clip_order": null,
+        "airing_id": "RADS1008132500052758",
+        "media_id": "173df8b7c736f1c3ad0937561a78b9057f9ee8ff",
+        "modified": 1755238879,
+        "slug": "i-dated-a-robot",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220407/thumbnails/1_22471558533-Futurama_044_IDatedARobot.png",
+        "created": 1649217257,
+        "title_id": "438047",
+        "season_number": "3",
+        "tv_rating": "tv-pg-d",
+        "published": 1755238879,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220407/thumbnails/2_22471558533-Futurama_044_IDatedARobot.png",
+        "id": "AX_9Aj6L_0O4w1rD3R9A",
         "auth": true
     },
     {
@@ -231,6 +185,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220331/thumbnails/2_223311315519-Futurama_042_BendinInTheWind.png",
         "id": "AX_Qw93e208s7zyYUMcM",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1756094340,
+        "tms_id": "EP003034830044",
+        "description": "The professor creates a team of mutants to challenge the Harlem Globetrotters.",
+        "title_suggest": {
+            "input": [
+                "Time Keeps on Slippin",
+                "Keeps on Slippin",
+                "on Slippin",
+                "Slippin"
+            ]
+        },
+        "title": "Time Keeps on Slippin",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1397.9299,
+        "episode_number": "14",
+        "original_air_date": 1047614400,
+        "auth_launch_date": 1755489600,
+        "clip_order": null,
+        "airing_id": "RADS1008132500052756",
+        "media_id": "8a299f2962c7b96b2502dc4ec1941e3653a6f777",
+        "modified": 1755241897,
+        "slug": "time-keeps-on-slippin",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220331/thumbnails/1_223311316496-Futurama_043_TimeKeepsOnSlippin.png",
+        "created": 1648475335,
+        "title_id": "438046",
+        "season_number": "3",
+        "tv_rating": "tv-pg-l",
+        "published": 1755241897,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220331/thumbnails/2_223311316496-Futurama_043_TimeKeepsOnSlippin.png",
+        "id": "AX_QyWxV208s7zyYUMcP",
         "auth": true
     }
 ]

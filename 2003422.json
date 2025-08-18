@@ -140,50 +140,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1755489540,
-        "tms_id": "",
-        "description": "Tina finds a new passion.",
-        "title_suggest": {
-            "input": [
-                "Fingers-Loose"
-            ]
-        },
-        "title": "Fingers-Loose",
-        "type": "episode",
-        "expiration_date": 1745207940,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1290.7894,
-        "episode_number": "17",
-        "original_air_date": 1703557800,
-        "auth_launch_date": 1754280000,
-        "clip_order": null,
-        "airing_id": "RADS1008022500050127",
-        "media_id": "22c7ab45f5d3e95a8e33e23f2d755a3a0c525165",
-        "modified": 1754100407,
-        "slug": "fingers-loose",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240304/thumbnails/1_24341119140-Screenshot2024-03-04at11.16.52AM.png",
-        "created": 1709179084,
-        "title_id": "2438977",
-        "season_number": "11",
-        "tv_rating": "tv-pg-l",
-        "published": 1754100407,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1744603200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240304/thumbnails/2_24341119140-Screenshot2024-03-04at11.16.52AM.png",
-        "id": "AY3zAyC21E7YmWrdXL5Q",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1756267140,
         "tms_id": "",
         "description": "A father-daughter date becomes a group event.",
@@ -460,6 +416,51 @@
         "launch_date": 1745208000,
         "poster": "https://media.cdn.adultswim.com/uploads/20240311/thumbnails/2_243111222447-Screenshot2024-03-11at12.21.25PM.png",
         "id": "AY4W4iyD1E7YmWrdXL_U",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1756699140,
+        "tms_id": "",
+        "description": "Linda and Gayle get a mysterious note.",
+        "title_suggest": {
+            "input": [
+                "The Pumpkinening",
+                "Pumpkinening"
+            ]
+        },
+        "title": "The Pumpkinening",
+        "type": "episode",
+        "expiration_date": 1746417540,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1291.7238,
+        "episode_number": "3",
+        "original_air_date": 1696903200,
+        "auth_launch_date": 1755489600,
+        "clip_order": null,
+        "airing_id": "RADS1008132500052754",
+        "media_id": "fef9fbc337ee64a649ac7fd5f3a7b4ca7044622f",
+        "modified": 1755242489,
+        "slug": "the-pumpkinening",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231030/thumbnails/1_231030151024-Screenshot2023-10-30at3.09.50PM.png",
+        "created": 1698185752,
+        "title_id": "2438985",
+        "season_number": "12",
+        "tv_rating": "tv-pg-l",
+        "published": 1755242489,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1745812800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20231030/thumbnails/2_231030151024-Screenshot2023-10-30at3.09.50PM.png",
+        "id": "AYtjwi6tn_kciGPPrDF_",
         "auth": true
     }
 ]
