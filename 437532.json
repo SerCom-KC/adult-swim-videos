@@ -142,53 +142,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1756007940,
-        "tms_id": "EP003034830043",
-        "description": "Bender makes a new name for himself when he gets the opportunity to live out his folk-rock dream.",
-        "title_suggest": {
-            "input": [
-                "Bendin' in the Wind",
-                "in the Wind",
-                "the Wind",
-                "Wind"
-            ]
-        },
-        "title": "Bendin' in the Wind",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1398.0967,
-        "episode_number": "13",
-        "original_air_date": 1047528000,
-        "auth_launch_date": 1755403200,
-        "clip_order": null,
-        "airing_id": "RADS1008112500052436",
-        "media_id": "803035051c427ff23dc1bb54816c9001d7586ad3",
-        "modified": 1755150998,
-        "slug": "bendin-in-the-wind",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220331/thumbnails/1_223311315519-Futurama_042_BendinInTheWind.png",
-        "created": 1648474971,
-        "title_id": "437706",
-        "season_number": "3",
-        "tv_rating": "tv-pg-d",
-        "published": 1755150998,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220331/thumbnails/2_223311315519-Futurama_042_BendinInTheWind.png",
-        "id": "AX_Qw93e208s7zyYUMcM",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1756094340,
         "tms_id": "EP003034830044",
         "description": "The professor creates a team of mutants to challenge the Harlem Globetrotters.",
@@ -233,6 +186,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220331/thumbnails/2_223311316496-Futurama_043_TimeKeepsOnSlippin.png",
         "id": "AX_QyWxV208s7zyYUMcP",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1756612740,
+        "tms_id": "EP003034830046",
+        "description": "In several what if scenarios, Bender learns how life would be if he were human, Fry experiences life as if it were a video game and Leela wonders about her true home.",
+        "title_suggest": {
+            "input": [
+                "Anthology of Interest II",
+                "of Interest II",
+                "Interest II",
+                "II"
+            ]
+        },
+        "title": "Anthology of Interest II",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1401.8004,
+        "episode_number": "3",
+        "original_air_date": 1048132800,
+        "auth_launch_date": 1756008000,
+        "clip_order": null,
+        "airing_id": "RADS1008182500053295",
+        "media_id": "3d4a51d4caed3287b1a4e47e6a5a5effa3b969c9",
+        "modified": 1755706100,
+        "slug": "anthology-of-interest-ii",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220412/thumbnails/1_224121515176-Futurama_047_AnthologyOfInterest2.png",
+        "created": 1649532264,
+        "title_id": "438050",
+        "season_number": "4",
+        "tv_rating": "tv-pg-l",
+        "published": 1755706100,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220412/thumbnails/2_224121515176-Futurama_047_AnthologyOfInterest2.png",
+        "id": "AYAPyN-9208s7zyYUMi1",
         "auth": true
     }
 ]
