@@ -95,7 +95,7 @@
         "launch_date": 1756022400,
         "poster": "https://media.cdn.adultswim.com/uploads/20250725/thumbnails/2_257251515172-Ep02_Still_0171.png",
         "id": "AZhDAvk5CI-3VkGoG1VE",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1756627140,
@@ -191,6 +191,54 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250725/thumbnails/2_257251517385-Ep04_Still_0048.png",
         "id": "AZhDBR4KITxXrw59dM9w",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1757836740,
+        "tms_id": "",
+        "description": "Victorious against Turbo Granny, Momo and Okarun can go back to their peaceful lives, but for some reason Okarun's \"thingie\" hasn't returned...",
+        "title_suggest": {
+            "input": [
+                "Like, Where Are Your Balls?!",
+                "Where Are Your Balls?!",
+                "Are Your Balls?!",
+                "Your Balls?!",
+                "Balls?!"
+            ]
+        },
+        "title": "Like, Where Are Your Balls?!",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZhC4WShITxXrw59dM9q",
+        "duration": 1371.6036,
+        "episode_number": "5",
+        "original_air_date": null,
+        "auth_launch_date": 1756022400,
+        "clip_order": null,
+        "airing_id": "RADS1008182500053313",
+        "media_id": "0d2a157c1897d9d0b073f9e145e7db6512ca64d7",
+        "modified": 1755704627,
+        "slug": "like-where-are-your-balls",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250725/thumbnails/1_257251518178-Ep05_Still_0132.png",
+        "created": 1753471104,
+        "season_number": "1",
+        "title_id": "2568748",
+        "tv_rating": "tv-ma",
+        "published": 1755704627,
+        "tags": [],
+        "collection_title": "DAN DA DAN",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250725/thumbnails/2_257251518178-Ep05_Still_0132.png",
+        "id": "AZhDBbSQCI-3VkGoG1VG",
         "auth": true
     }
 ]
