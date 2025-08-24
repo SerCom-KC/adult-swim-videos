@@ -255,7 +255,7 @@
         "launch_date": 1754818200,
         "poster": "https://media.cdn.adultswim.com/uploads/20250721/thumbnails/2_257211612270-OP736_S17E108.jpg",
         "id": "AZgPGqiRCI-3VkGoG1RR",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1756632540,
@@ -366,6 +366,43 @@
         "launch_date": 1756027800,
         "poster": "https://media.cdn.adultswim.com/uploads/20250728/thumbnails/2_257281644181-OP738_S17E110.jpg",
         "id": "AZhSU9LACI-3VkGoG1WX",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1757842140,
+        "created": 1755548567,
+        "tms_id": "",
+        "title_id": "2550989",
+        "season_number": "17",
+        "tv_rating": "tv-pg-v",
+        "description": "Luffy and the others make a mad dash for the east port to get off the island of Dressrosa, but not without finishing up a piece of business ...",
+        "title_suggest": {
+            "input": [
+                "A State of Emergency! Rebecca Is Kidnapped!",
+                "State of Emergency! Rebecca Is Kidnapped!",
+                "of Emergency! Rebecca Is Kidnapped!",
+                "Emergency! Rebecca Is Kidnapped!",
+                "Rebecca Is Kidnapped!",
+                "Is Kidnapped!",
+                "Kidnapped!"
+            ]
+        },
+        "published": 1755558826,
+        "title": "A State of Emergency! Rebecca Is Kidnapped!",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1305.5709,
+        "episode_number": "",
+        "collection_title": "One Piece",
+        "original_air_date": 1756015260,
+        "auth_launch_date": 1756027800,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1008182500053323",
+        "media_id": "386c68067012b95baedc6c3909f0594bcf05579a",
+        "modified": 1755558826,
+        "slug": "a-state-of-emergency-rebecca-is-kidnapped",
+        "id": "AZi-2UX7ITxXrw59dNNF",
         "auth": true
     },
     {
