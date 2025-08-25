@@ -1,52 +1,5 @@
 [
     {
-        "auth_expiration_date": 1756094340,
-        "tms_id": "EP003034830045",
-        "description": "Fry falls in love with a virtual humanoid downloaded from a computer.",
-        "title_suggest": {
-            "input": [
-                "I Dated a Robot",
-                "Dated a Robot",
-                "a Robot",
-                "Robot"
-            ]
-        },
-        "title": "I Dated a Robot",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1398.4971,
-        "episode_number": "15",
-        "original_air_date": 1047873600,
-        "auth_launch_date": 1755489600,
-        "clip_order": null,
-        "airing_id": "RADS1008132500052758",
-        "media_id": "173df8b7c736f1c3ad0937561a78b9057f9ee8ff",
-        "modified": 1755238879,
-        "slug": "i-dated-a-robot",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220407/thumbnails/1_22471558533-Futurama_044_IDatedARobot.png",
-        "created": 1649217257,
-        "title_id": "438047",
-        "season_number": "3",
-        "tv_rating": "tv-pg-d",
-        "published": 1755238879,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220407/thumbnails/2_22471558533-Futurama_044_IDatedARobot.png",
-        "id": "AX_9Aj6L_0O4w1rD3R9A",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1756439940,
         "tms_id": "EP003034830048",
         "description": "A supernova sends the Planet Express ship back in time.",
@@ -142,53 +95,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1756094340,
-        "tms_id": "EP003034830044",
-        "description": "The professor creates a team of mutants to challenge the Harlem Globetrotters.",
-        "title_suggest": {
-            "input": [
-                "Time Keeps on Slippin",
-                "Keeps on Slippin",
-                "on Slippin",
-                "Slippin"
-            ]
-        },
-        "title": "Time Keeps on Slippin",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1397.9299,
-        "episode_number": "14",
-        "original_air_date": 1047614400,
-        "auth_launch_date": 1755489600,
-        "clip_order": null,
-        "airing_id": "RADS1008132500052756",
-        "media_id": "8a299f2962c7b96b2502dc4ec1941e3653a6f777",
-        "modified": 1755241897,
-        "slug": "time-keeps-on-slippin",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220331/thumbnails/1_223311316496-Futurama_043_TimeKeepsOnSlippin.png",
-        "created": 1648475335,
-        "title_id": "438046",
-        "season_number": "3",
-        "tv_rating": "tv-pg-l",
-        "published": 1755241897,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220331/thumbnails/2_223311316496-Futurama_043_TimeKeepsOnSlippin.png",
-        "id": "AX_QyWxV208s7zyYUMcP",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1756612740,
         "tms_id": "EP003034830046",
         "description": "In several what if scenarios, Bender learns how life would be if he were human, Fry experiences life as if it were a video game and Leela wonders about her true home.",
@@ -233,6 +139,97 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220412/thumbnails/2_224121515176-Futurama_047_AnthologyOfInterest2.png",
         "id": "AYAPyN-9208s7zyYUMi1",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1756699140,
+        "tms_id": "EP003034830050",
+        "description": "Bender falls in love with the spaceship's new, sexy voice.",
+        "title_suggest": {
+            "input": [
+                "Love and Rocket",
+                "and Rocket",
+                "Rocket"
+            ]
+        },
+        "title": "Love and Rocket",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1398.0967,
+        "episode_number": "4",
+        "original_air_date": 1048824000,
+        "auth_launch_date": 1756094400,
+        "clip_order": null,
+        "airing_id": "RADS1008202500053564",
+        "media_id": "21d8785086cbb5f18e338867ae4a9bb23c6257e4",
+        "modified": 1755883169,
+        "slug": "love-and-rocket",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220412/thumbnails/1_224121516420-Futurama_048_LoveAndRocket.png",
+        "created": 1649532611,
+        "title_id": "438511",
+        "season_number": "4",
+        "tv_rating": "tv-pg-d",
+        "published": 1755883169,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220412/thumbnails/2_224121516420-Futurama_048_LoveAndRocket.png",
+        "id": "AYAPzin7_0O4w1rD3R-Z",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1756699140,
+        "tms_id": "EP003034830051",
+        "description": "The orphanarium where Leela grew up honors her for her success as a starship captain.",
+        "title_suggest": {
+            "input": [
+                "Leela's Homeworld",
+                "Homeworld"
+            ]
+        },
+        "title": "Leela's Homeworld",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1400.5324,
+        "episode_number": "5",
+        "original_air_date": 1048737600,
+        "auth_launch_date": 1756094400,
+        "clip_order": null,
+        "airing_id": "RADS1008202500053566",
+        "media_id": "6c9a8d8aca2913ae044e86d5f00b17e634c11394",
+        "modified": 1755874207,
+        "slug": "leelas-homeworld",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220412/thumbnails/1_224121517385-Futurama_049_LeelasHomeworld.png",
+        "created": 1649688341,
+        "title_id": "438510",
+        "season_number": "4",
+        "tv_rating": "tv-pg",
+        "published": 1755874207,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220412/thumbnails/2_224121517385-Futurama_049_LeelasHomeworld.png",
+        "id": "AYAZFmxB208s7zyYUMkG",
         "auth": true
     }
 ]
