@@ -1,52 +1,5 @@
 [
     {
-        "auth_expiration_date": 1756267140,
-        "tms_id": "",
-        "description": "A father-daughter date becomes a group event.",
-        "title_suggest": {
-            "input": [
-                "Vampire Disco Death Dance",
-                "Disco Death Dance",
-                "Death Dance",
-                "Dance"
-            ]
-        },
-        "title": "Vampire Disco Death Dance",
-        "type": "episode",
-        "expiration_date": 1745812740,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1291.8572,
-        "episode_number": "22",
-        "original_air_date": 1704162600,
-        "auth_launch_date": 1755230400,
-        "clip_order": null,
-        "airing_id": "RADS1008112500052109",
-        "media_id": "a2f54769bea4575c9dc52ad5dba30c4fbf03131b",
-        "modified": 1754974607,
-        "slug": "vampire-disco-death-dance",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240318/thumbnails/1_24318811514-Screenshot2024-03-18at8.11.27AM.png",
-        "created": 1710384319,
-        "title_id": "2438982",
-        "season_number": "11",
-        "tv_rating": "tv-pg-dl",
-        "published": 1754974607,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1745208000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240318/thumbnails/2_24318811514-Screenshot2024-03-18at8.11.27AM.png",
-        "id": "AY462YuLC2cKYm1ap-2c",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1756353540,
         "tms_id": "",
         "description": "Louise pays back a debt.",
@@ -458,6 +411,52 @@
         "launch_date": 1747022400,
         "poster": "https://media.cdn.adultswim.com/uploads/20231120/thumbnails/2_2311201751338-Screenshot2023-11-20at5.50.41PM.png",
         "id": "AYvP5RU81E7YmWrdXLk3",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1757476740,
+        "tms_id": "",
+        "description": "The kids have a Christmas mission.",
+        "title_suggest": {
+            "input": [
+                "Gene's Christmas Break",
+                "Christmas Break",
+                "Break"
+            ]
+        },
+        "title": "Gene's Christmas Break",
+        "type": "episode",
+        "expiration_date": 1748231940,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1291.8572,
+        "episode_number": "10",
+        "original_air_date": 1701140400,
+        "auth_launch_date": 1756267200,
+        "clip_order": null,
+        "airing_id": "RADS1008212500053708",
+        "media_id": "df9ccbd8ce61ba2d7c6f7ca6ddf57bbaa55d806e",
+        "modified": 1756014574,
+        "slug": "genes-christmas-break",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231218/thumbnails/1_2312181152390-Screenshot2023-12-18at11.52.07AM.png",
+        "created": 1702612205,
+        "title_id": "2438992",
+        "season_number": "12",
+        "tv_rating": "tv-pg-l",
+        "published": 1756014574,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1747627200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20231218/thumbnails/2_2312181152390-Screenshot2023-12-18at11.52.07AM.png",
+        "id": "AYxrmH9an_kciGPPrDyg",
         "auth": true
     }
 ]
