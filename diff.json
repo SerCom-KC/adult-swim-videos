@@ -1,6 +1,7 @@
 {
-    "updated": 1756532200,
-    "added": [
+    "updated": 1756536086,
+    "added": [],
+    "removed": [
         {
             "auth": true,
             "ott_launch_date": 1446844800,
@@ -28,7 +29,7 @@
             "original_air_date": 1160367300,
             "clip_order": null,
             "auth_launch_date": 1746504000,
-            "modified": 1756531829,
+            "modified": 1756533051,
             "media_id": "4bd5bcb233122761d5f151ebd167f1cb4ce2724d",
             "airing_id": "RADS1004302500033965",
             "id": "uM2N80sOQumMeUpKATyzSQ",
@@ -43,7 +44,7 @@
             "active": true,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1756531829,
+            "published": 1756533051,
             "tags": [],
             "rating_count": 719,
             "collection_title": "Harvey Birdman, Attorney at Law",
@@ -56,6 +57,5 @@
             "collection_title_id": "340539",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
