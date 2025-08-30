@@ -1,52 +1,5 @@
 [
     {
-        "auth_expiration_date": 1756526340,
-        "tms_id": "EP034814950001",
-        "description": "A small company dedicated to bringing happiness to the world receives a simple request to help a woman's unhappy son smile again, but the job turns out to be more complicated than it seems.",
-        "title_suggest": {
-            "input": [
-                "Desmond's Big Day Out",
-                "Big Day Out",
-                "Day Out",
-                "Out"
-            ]
-        },
-        "title": "Desmond's Big Day Out",
-        "type": "episode",
-        "expiration_date": 1749268740,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "duration": 720.5198,
-        "collection_id": "AXFAgKw8Rs3h4hI_X2xz",
-        "episode_number": "1",
-        "original_air_date": 1585725300,
-        "auth_launch_date": 1749268800,
-        "clip_order": null,
-        "airing_id": "RADS1005232500037742",
-        "media_id": "020010a88fab99bfe182319423394ab19fb5ada3",
-        "modified": 1753978031,
-        "slug": "desmonds-big-day-out",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220107/thumbnails/1_22171728396-SMILINGFRIENDS.png",
-        "created": 1641593425,
-        "title_id": "2224722",
-        "season_number": "1",
-        "tv_rating": "tv-ma",
-        "published": 1753978031,
-        "tags": [],
-        "collection_title": "Smiling Friends",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1746244800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220107/thumbnails/2_22171728396-SMILINGFRIENDS.png",
-        "id": "AX42l8zl_0O4w1rD3RRZ",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1758340740,
         "tms_id": "EP034814950004",
         "description": "Pim ventures into the forest across the road to fetch firewood for the office Halloween party.",
@@ -417,7 +370,7 @@
         "launch_date": 1753502400,
         "poster": "https://media.cdn.adultswim.com/uploads/20240527/thumbnails/2_245271514478-Screenshot2024-05-27at3.14.23PM.png",
         "id": "AY-lwBIjC2cKYm1ap_0q",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1757735940,
@@ -562,7 +515,7 @@
         "launch_date": 1756526400,
         "poster": "https://media.cdn.adultswim.com/uploads/20240513/thumbnails/2_245131139274-Screenshot2024-05-13at11.38.55AM.png",
         "id": "AY9pSygWC2cKYm1ap_rE",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1761364740,
