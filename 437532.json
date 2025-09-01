@@ -1,5 +1,40 @@
 [
     {
+        "auth_expiration_date": 1757303940,
+        "created": 1705785274,
+        "tms_id": "EP003034830055",
+        "title_id": "438048",
+        "season_number": "4",
+        "tv_rating": "tv-pg",
+        "description": "Leela becomes the first female to play major-league blernsball.",
+        "title_suggest": {
+            "input": [
+                "A Leela of Her Own",
+                "Leela of Her Own",
+                "of Her Own",
+                "Her Own",
+                "Own"
+            ]
+        },
+        "published": 1756460749,
+        "title": "A Leela of Her Own",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1386.0847,
+        "episode_number": "10",
+        "collection_title": "Futurama",
+        "original_air_date": 1047960000,
+        "auth_launch_date": 1756699200,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1008272500054988",
+        "media_id": "cd25f7302ffb730828176740db556bf5f5a49aa3",
+        "modified": 1756460749,
+        "slug": "a-leela-of-her-own",
+        "id": "AY0oua_vn_kciGPPrEWX",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1757131140,
         "tms_id": "EP003034830053",
         "description": "Pharaoh Hamenthotep enslaves the crew and forces everybody to assist in constructing a pyramid.",
@@ -91,97 +126,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1756699140,
-        "tms_id": "EP003034830050",
-        "description": "Bender falls in love with the spaceship's new, sexy voice.",
-        "title_suggest": {
-            "input": [
-                "Love and Rocket",
-                "and Rocket",
-                "Rocket"
-            ]
-        },
-        "title": "Love and Rocket",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1398.0967,
-        "episode_number": "4",
-        "original_air_date": 1048824000,
-        "auth_launch_date": 1756094400,
-        "clip_order": null,
-        "airing_id": "RADS1008202500053564",
-        "media_id": "21d8785086cbb5f18e338867ae4a9bb23c6257e4",
-        "modified": 1755883169,
-        "slug": "love-and-rocket",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220412/thumbnails/1_224121516420-Futurama_048_LoveAndRocket.png",
-        "created": 1649532611,
-        "title_id": "438511",
-        "season_number": "4",
-        "tv_rating": "tv-pg-d",
-        "published": 1755883169,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220412/thumbnails/2_224121516420-Futurama_048_LoveAndRocket.png",
-        "id": "AYAPzin7_0O4w1rD3R-Z",
-        "auth": false
-    },
-    {
-        "auth_expiration_date": 1756699140,
-        "tms_id": "EP003034830051",
-        "description": "The orphanarium where Leela grew up honors her for her success as a starship captain.",
-        "title_suggest": {
-            "input": [
-                "Leela's Homeworld",
-                "Homeworld"
-            ]
-        },
-        "title": "Leela's Homeworld",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1400.5324,
-        "episode_number": "5",
-        "original_air_date": 1048737600,
-        "auth_launch_date": 1756094400,
-        "clip_order": null,
-        "airing_id": "RADS1008202500053566",
-        "media_id": "6c9a8d8aca2913ae044e86d5f00b17e634c11394",
-        "modified": 1755874207,
-        "slug": "leelas-homeworld",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220412/thumbnails/1_224121517385-Futurama_049_LeelasHomeworld.png",
-        "created": 1649688341,
-        "title_id": "438510",
-        "season_number": "4",
-        "tv_rating": "tv-pg",
-        "published": 1755874207,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220412/thumbnails/2_224121517385-Futurama_049_LeelasHomeworld.png",
-        "id": "AYAZFmxB208s7zyYUMkG",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1757044740,
         "tms_id": "EP003034830052",
         "description": "Amy's disapproving family tries to break up her relationship with Kif.",
@@ -226,6 +170,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220420/thumbnails/2_224201429408-Futurama_050_WhereTheBuggaloRoam.png",
         "id": "AYAuhnYE208s7zyYUMnX",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1757303940,
+        "tms_id": "EP003034830054",
+        "description": "A power shift at Planet Express has Fry hatching a plan to restore the original regime.",
+        "title_suggest": {
+            "input": [
+                "Future Stock",
+                "Stock"
+            ]
+        },
+        "title": "Future Stock",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1401.0997,
+        "episode_number": "9",
+        "original_air_date": 1048564800,
+        "auth_launch_date": 1756699200,
+        "clip_order": null,
+        "airing_id": "RADS1008272500054986",
+        "media_id": "bb041ce2c422364d8084919cf2e621efb3eda02a",
+        "modified": 1756458333,
+        "slug": "future-stock",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/1_224271243577-Futurama_053_FutureStock.png",
+        "created": 1650683876,
+        "title_id": "438053",
+        "season_number": "4",
+        "tv_rating": "tv-pg-dl",
+        "published": 1756458333,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220427/thumbnails/2_224271243577-Futurama_053_FutureStock.png",
+        "id": "AYBUbRRI208s7zyYUMsJ",
         "auth": true
     }
 ]
