@@ -372,52 +372,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1756785540,
-        "tms_id": "EP007164450387",
-        "description": "After a series of boring personas, Roger goes to great lengths to prove to Francine he still has \"his edge\".",
-        "title_suggest": {
-            "input": [
-                "Little Bonnie Ramirez",
-                "Bonnie Ramirez",
-                "Ramirez"
-            ]
-        },
-        "title": "Little Bonnie Ramirez",
-        "type": "episode",
-        "expiration_date": 1750651140,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1263.0618,
-        "episode_number": "7",
-        "original_air_date": 1623029400,
-        "auth_launch_date": 1756180800,
-        "clip_order": null,
-        "airing_id": "RADS1008202500053665",
-        "media_id": "edac34a49ea9d76c823ddb165bcd9dcf2d8d56b1",
-        "modified": 1755925461,
-        "slug": "little-bonnie-ramirez",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220114/thumbnails/1_221141716165-AmericanDad_1507_LittleBonnieRamirez.png",
-        "created": 1642115278,
-        "title_id": "2238754",
-        "season_number": "16",
-        "tv_rating": "tv-14-l",
-        "published": 1755925461,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1750046400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_221141716165-AmericanDad_1507_LittleBonnieRamirez.png",
-        "id": "AX5VsqVe_0O4w1rD3RXg",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1757217540,
         "tms_id": "EP007164450409",
         "description": "A new friendship causes Hayley to start worrying she might be slowly turning into Francine. Steve and his friends try out for Roger's improv troupe.",
@@ -552,6 +506,51 @@
         "launch_date": 1739163600,
         "poster": "https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_221271557210-AmericanDad_1519_DrSundersonSunSuckers.png",
         "id": "AX6dVDgp208s7zyYUL91",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1757390340,
+        "tms_id": "EP007164450408",
+        "description": "Stan and the family go out to dinner at a buffet restaurant! Meanwhile, Roger becomes a flower.",
+        "title_suggest": {
+            "input": [
+                "Family Time",
+                "Time"
+            ]
+        },
+        "title": "Family Time",
+        "expiration_date": 1739768340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1263.6292,
+        "episode_number": "19",
+        "original_air_date": "1630287000",
+        "auth_launch_date": 1756785600,
+        "clip_order": null,
+        "airing_id": "RADS1008282500055387",
+        "media_id": "53ba36a67ab61d711e518dcc0a81406ab1b6cae4",
+        "modified": 1756532425,
+        "slug": "family-time",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220127/thumbnails/1_22127155807-AmericanDad_1520_FamilyTime.png",
+        "created": 1643317091,
+        "season_number": "16",
+        "title_id": "2238767",
+        "tv_rating": "tv-14-dlv",
+        "published": 1756532425,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1739163600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_22127155807-AmericanDad_1520_FamilyTime.png",
+        "id": "AX6dVNy_208s7zyYUL92",
         "auth": true
     },
     {
