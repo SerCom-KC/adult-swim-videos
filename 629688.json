@@ -361,6 +361,61 @@
     },
     {
         "auth": false,
+        "ott_launch_date": 1447172280,
+        "auth_expiration_date": 1736312340,
+        "tms_id": "EP007959510029",
+        "rating": 6.5537734,
+        "description": "Orel and Clay take a father and son hunting trip.",
+        "title_suggest": {
+            "input": [
+                "Nature pt. 1",
+                "pt. 1",
+                "1"
+            ]
+        },
+        "type": "episode",
+        "title": "Nature pt. 1",
+        "expiration_date": 1759895940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
+        "duration": 678.6339673,
+        "episode_number": "19",
+        "original_air_date": 1183954500,
+        "clip_order": null,
+        "auth_launch_date": 1733288400,
+        "modified": 1756834254,
+        "media_id": "f03c78dab8fd65ab2080f3ed850d221557152680",
+        "airing_id": "RADS1008282500055455",
+        "id": "CZwiihI4QjSbAmOjo9G9eA",
+        "slug": "nature-pt-1",
+        "views": 372481,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_20311163585-moralorel_022.jpg",
+        "created": 1402945470,
+        "title_id": "657353",
+        "season_number": "2",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1756834254,
+        "tags": [
+            "moral orel episode 22 nature 1 hunting camping trip clay shot gun"
+        ],
+        "rating_count": 5114,
+        "collection_title": "Moral Orel",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1756872000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311163585-moralorel_022.jpg",
+        "cma_id": "1427090"
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1447172640,
         "auth_expiration_date": 1733893140,
         "tms_id": "EP007959510025",
@@ -634,58 +689,6 @@
         "cma_id": "1418730"
     },
     {
-        "auth": true,
-        "ott_launch_date": 1447171980,
-        "auth_expiration_date": 1756871940,
-        "tms_id": "EP007959510019",
-        "rating": 7.303476,
-        "description": "The image of our savior miraculously appears on a Jewish doctor.",
-        "title_suggest": {
-            "input": [
-                "Holy Visage",
-                "Visage"
-            ]
-        },
-        "type": "episode",
-        "title": "Holy Visage",
-        "expiration_date": 1753847940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
-        "duration": 701.9342676,
-        "episode_number": "9",
-        "original_air_date": 1169442900,
-        "clip_order": null,
-        "auth_launch_date": 1753848000,
-        "modified": 1753598314,
-        "media_id": "5c1d9d3996e2dfdf23fd55b97b2416133c0501bf",
-        "airing_id": "RADS1005262500039245",
-        "id": "ZKMwgO11TRqUk5L6ltbcaA",
-        "slug": "holy-visage",
-        "views": 238244,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_2031116001-moralorel_013.jpg",
-        "created": 1402945470,
-        "title_id": "653293",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1753598314,
-        "tags": [],
-        "rating_count": 748,
-        "collection_title": "Moral Orel",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1750824000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_2031116001-moralorel_013.jpg",
-        "cma_id": "1471068"
-    },
-    {
         "auth": false,
         "ott_launch_date": 1447172160,
         "auth_expiration_date": 1734497940,
@@ -738,7 +741,7 @@
         "cma_id": "1414028"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447172580,
         "auth_expiration_date": 1759895940,
         "tms_id": "EP007959510024",
