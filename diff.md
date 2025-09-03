@@ -2,120 +2,78 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: September 3, 2025 at 00:00:35 EDT_
+_Last Update: September 3, 2025 at 01:00:13 EDT_
 ## Video added
 ### Summary
-629835 King of the Hill: 1  
-629688 Moral Orel: 1  
-608360 Robot Chicken: 5  
-340531 The Brak Show: 1  
-### 731333
-**King of the Hill S05E06 - When Cotton Comes Marching Home**  
-TV-PG-DL 🔒 23:16  
+581006 American Dad: 2  
+2003422 Bob's Burgers: 1  
+344089 Home Movies: 1  
+### 2238768
+**American Dad S16E20 - Cry Baby**  
+TV-14-DLV 🔒 21:03  
 ⌛ September 9, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/when-cotton-comes-marching-home  
-seriesid=`629835` titleid=`731333` id=`o57J77efSE-MEiiozRjYpg` mediaid=`ec7b063245b5bda3015578d5f145c6254fa6ab8b`  
-_As Veteran's Day approaches, a destitute Cotton relocates to Arlen with his family; Peggy designs a float for a parade._  
-<a href="https://media.cdn.adultswim.com/uploads/20220913/thumbnails/2_22913143381-KingOfTheHill_503_WhenCottonComesMarchingHome.png"><img src="https://media.cdn.adultswim.com/uploads/20220913/thumbnails/2_22913143381-KingOfTheHill_503_WhenCottonComesMarchingHome.png" height="144px" /></a>
-### 657353
-**Moral Orel S02E19 - Nature pt. 1**  
-TV-MA 🔓 11:18  
+https://www.adultswim.com/videos/american-dad/cry-baby  
+seriesid=`581006` titleid=`2238768` id=`AX6dVZU2_0O4w1rD3Rg8` mediaid=`f29694f177f9c1539ba7cef1060d96ac70311be8`  
+_When Stan realizes he can't cry, he asks Steve to teach him empathy._  
+<a href="https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_221271558492-AmericanDad_1521_CryBaby.png"><img src="https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_221271558492-AmericanDad_1521_CryBaby.png" height="144px" /></a>
+### 2238769
+**American Dad S16E21 - Crystal Clear**  
+TV-14-DLV 🔒 21:03  
+⌛ September 9, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/crystal-clear  
+seriesid=`581006` titleid=`2238769` id=`AX7Hf5E__0O4w1rD3Rml` mediaid=`a508a3bdd310cd980ee3b3020e6ef7647a39596d`  
+_Stan gets in over his head trying to impress Toshi's dad; Klaus and Jeff head to the country for a weekend getaway._  
+<a href="https://media.cdn.adultswim.com/uploads/20220207/thumbnails/2_22271517344-AmericanDad_1522_CrystalClear.png"><img src="https://media.cdn.adultswim.com/uploads/20220207/thumbnails/2_22271517344-AmericanDad_1522_CrystalClear.png" height="144px" /></a>
+### 2438997
+**Bob's Burgers S12E15 - Ancient Misbehavin'**  
+TV-PG-L 🔒 21:31  
+⌛ September 16, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/ancient-misbehavin  
+seriesid=`2003422` titleid=`2438997` id=`AY7LDfCvC2cKYm1ap_Na` mediaid=`fcd78467582c794e4ff4f7de95506380aef0cc37`  
+_Louise, Millie & Rudy get revenge._  
+<a href="https://media.cdn.adultswim.com/uploads/20240415/thumbnails/2_244151039568-Screenshot2024-04-15at10.39.28AM.png"><img src="https://media.cdn.adultswim.com/uploads/20240415/thumbnails/2_244151039568-Screenshot2024-04-15at10.39.28AM.png" height="144px" /></a>
+### 344118
+**Home Movies S01E02 - I Don't Do Well In Parent-Teacher Conferences**  
+TV-PG-L 🔓 22:23  
 ⌛ October 7, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/moral-orel/nature-pt-1  
-seriesid=`629688` titleid=`657353` id=`CZwiihI4QjSbAmOjo9G9eA` mediaid=`f03c78dab8fd65ab2080f3ed850d221557152680`  
-_Orel and Clay take a father and son hunting trip._  
-<a href="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311163585-moralorel_022.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311163585-moralorel_022.jpg" height="144px" /></a>
-### 747255
-**Robot Chicken S04E16 - Due to Constraints of Time and Budget**  
-TV-MA 🔒 11:00  
-⌛ September 29, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/robot-chicken/due-to-constraints-of-time-and-budget  
-seriesid=`608360` titleid=`747255` id=`fYFcb1s6QxidRk1zapLbwQ` mediaid=`59a75cbadeef8c1ab53e64eac027ad0b59f6c89a`  
-_Indiana Jones knows when to keep his eyes shut, Transformers mourn a fallen hero, the creators imagine what goes on in a Yellow Submarine, plus meet the new Transporter._  
-<a href="https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_20421733146-robotchicken_076.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_20421733146-robotchicken_076.jpg" height="144px" /></a>
-### 747252
-**Robot Chicken S04E13 - Maurice Was Caught**  
-TV-MA 🔒 11:03  
-⌛ September 22, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/robot-chicken/maurice-was-caught  
-seriesid=`608360` titleid=`747252` id=`M9gK8JCaS9yIwM4mO6RiwA` mediaid=`67462b0ba74ba6b0990da3dfb84f1eaa54ffbc83`  
-_Simon Belmont knows what works, Kermit introduces everyone to his cousin and the creators imagine what the new Gone With The Wind Re-make might look like, plus Annie Warbucks celebrates her Super Sweet Sixteen._  
-<a href="https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_2042165611-robotchicken_073.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_2042165611-robotchicken_073.jpg" height="144px" /></a>
-### 747254
-**Robot Chicken S04E15 - President Hu Forbids It**  
-TV-MA 🔒 11:18  
-⌛ September 29, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/robot-chicken/president-hu-forbids-it  
-seriesid=`608360` titleid=`747254` id=`Iiu8ve4zSF-nQ3fyvDX57g` mediaid=`50bf55f04f4452297891008438223125c41cf7d1`  
-_The Batmobile loses its wheel, spend a night with Jack Sparrow, the creators imagine what happens when Chris Hanson can't catch a predator, plus Gyro-Robo adds some depth to D & D._  
-<a href="https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_20421657287-robotchicken_075.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_20421657287-robotchicken_075.jpg" height="144px" /></a>
-### 747256
-**Robot Chicken S04E17 - The Ramblings of Maurice**  
-TV-MA 🔒 10:51  
-⌛ September 29, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/robot-chicken/the-ramblings-of-maurice  
-seriesid=`608360` titleid=`747256` id=`6CmsCCfVQ0Ot85OhnWNCEg` mediaid=`356e118e226bd3b78d2f7f2c21b6819f2ad46b5a`  
-_Batman gets a new look at Two Face, G.I. Joe celebrate their years in service, the creators imagine what the next Traveling Pants movie might look like, plus a new Dark Crystal for the next generation._  
-<a href="https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_20421734253-robotchicken_077.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_20421734253-robotchicken_077.jpg" height="144px" /></a>
-### 747253
-**Robot Chicken S04E14 - Unionizing Our Labor**  
-TV-MA 🔒 11:07  
-⌛ September 29, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/robot-chicken/unionizing-our-labor  
-seriesid=`608360` titleid=`747253` id=`l3bWTMd_QGaLcRkDR90tug` mediaid=`71f85cd006e674258410b837e237d35fcd61135c`  
-_Superman takes it all off, meet the original Dukes of Hazzard, the creators imagine what the new Wii might look like and things come to blows when the Smurfs take on the Snorks._  
-<a href="https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_20421656443-robotchicken_074.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_20421656443-robotchicken_074.jpg" height="144px" /></a>
-### 344204
-**The Brak Show S01E03 - Time Machine**  
-TV-PG-L 🔓 11:21  
-⌛ September 1, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-brak-show/time-machine  
-seriesid=`340531` titleid=`344204` id=`j8-EuTPFRLiARLU3dvrJ_w` mediaid=`45eacac3cad42595f08bb61fdb0d4fd1effc8b41`  
-_Instead of doing homework, Brak and Zorak waste their entire weekend playing video games. As punishment, Dad decides that they will not be allowed to go to Brak's favorite fish restaurant, Fishpockets. Desperate, Brak and Zorak try using Thundercleese's time machine to remedy the situation._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321417420-brak_2103.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321417420-brak_2103.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/home-movies/i-dont-do-well-in-parent-teacher-conferences  
+seriesid=`344089` titleid=`344118` id=`N8dRFNxTSWujsrHKYue8FA` mediaid=`f84fb8f3c849d064a0b744a9ca77ab1b32f0a22a`  
+_Brendon is in danger of being held back when he won't complete the research for his presentation, and Paula isn't helping his cause._  
+<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035161598-hmovies_002.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035161598-hmovies_002.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-322328 Space Ghost Coast to Coast: 2  
-340531 The Brak Show: 1  
-629688 Moral Orel: 1  
-629835 King of the Hill: 1  
-### 411004
-**Space Ghost Coast to Coast S07E06 - Momentary**  
-TV-PG-L 🔓 10:00  
+2003422 Bob's Burgers: 1  
+344089 Home Movies: 1  
+581006 American Dad: 2  
+### 2438987
+**Bob's Burgers S12E05 - Seven-Tween Again**  
+TV-PG-L 🔓 21:28  
 ⌛ September 2, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/space-ghost-coast-to-coast/momentary  
-seriesid=`322328` titleid=`411004` id=`-w5jAZ4iQwmXjYolSVezHQ` mediaid=`60f88b422a5643f0c475b7d6c912a60799a4125c`  
-_Special edition of "Kentucky Nightmare"--with commentary provided by the show producers' mothers._  
-<a href="https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201157389-sgc2c_2106.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201157389-sgc2c_2106.jpg" height="144px" /></a>
-### 322337
-**Space Ghost Coast to Coast S04E07 - Speck**  
-TV-PG 🔓 11:57  
+https://www.adultswim.com/videos/bobs-burgers/seven-tween-again  
+seriesid=`2003422` titleid=`2438987` id=`AY5dN0G25I1d0UhX5iFE` mediaid=`08d73872c31a6f4c2e28b6402b1fa3aeb82cba65`  
+_Gene doesn't want to grow up._  
+<a href="https://media.cdn.adultswim.com/uploads/20240325/thumbnails/2_243251247137-Screenshot2024-03-25at12.46.41PM.png"><img src="https://media.cdn.adultswim.com/uploads/20240325/thumbnails/2_243251247137-Screenshot2024-03-25at12.46.41PM.png" height="144px" /></a>
+### 448317
+**Home Movies S04E03 - The Wizard's Baker**  
+TV-PG 🔓 22:15  
 ⌛ September 2, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/space-ghost-coast-to-coast/speck  
-seriesid=`322328` titleid=`322337` id=`AYl0MgA22rZC6NyF61-I` mediaid=`64dead3bd412e2fa547e9b477703cbef91199879`  
-_Reggae star Jimmy Cliff chats with Space Ghost about his new album and touring in South America. Moltar and mechanic-turned-musician Jack Logan share a creepy conversation about items underneath their beds._  
-<a href="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_204171016407-sgc2c_9707_air_cid-9127944.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_204171016407-sgc2c_9707_air_cid-9127944.jpg" height="144px" /></a>
-### 345421
-**The Brak Show S01E05 - Bawk Ba Gawk**  
-TV-PG 🔒 11:38  
+https://www.adultswim.com/videos/home-movies/the-wizards-baker  
+seriesid=`344089` titleid=`448317` id=`VZXyICH-QHetcKY-2MSunQ` mediaid=`48209de1f2d2b724b4f193c06746f38b89e9b1fe`  
+_The kids run out of funds to complete their most ambitious film yet, a medieval rock opera.  While Brendon is dying to get out of what he sees as the worst film he's ever made, Jason and Melissa go door-to-door for finishing funds.  Brendon sneaks off to join the Skunk Scouts, hoping to recapture what's left of his childhood._  
+<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351625439-hmovies_042.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351625439-hmovies_042.jpg" height="144px" /></a>
+### 2238756
+**American Dad S16E09 - Mused and Abused**  
+TV-14-DLSV 🔓 21:03  
 ⌛ September 2, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-brak-show/bawk-ba-gawk  
-seriesid=`340531` titleid=`345421` id=`xCfP56aJQ0Gn_QT2kqI7wA` mediaid=`535558d9e787cff01e18f0643c9cfd9951af224c`  
-_Right before the big game, Brak and Zorak decide to kidnap their high school mascot, a chicken named Mr. Bawkbagawk. Brak takes the mascot to his house to hide it and presents it to his parents as his father's uncle: Earl Toteman._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321424356-brak_2105.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321424356-brak_2105.jpg" height="144px" /></a>
-### 653293
-**Moral Orel S02E09 - Holy Visage**  
-TV-MA 🔒 11:41  
+https://www.adultswim.com/videos/american-dad/mused-and-abused  
+seriesid=`581006` titleid=`2238756` id=`AX5Vso9F208s7zyYUL9p` mediaid=`010fe4916be56068c81ffdf05ab3c42547313a4e`  
+_Roger reveals a secret passion to Klaus; Stan and Francine seek revenge on Bazooka Sharks management._  
+<a href="https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_22114171837-AmericanDad_1509_MusedAndAbused.png"><img src="https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_22114171837-AmericanDad_1509_MusedAndAbused.png" height="144px" /></a>
+### 2238755
+**American Dad S16E08 - Dancin' A-with My Cells**  
+TV-14-DLS 🔓 21:03  
 ⌛ September 2, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/moral-orel/holy-visage  
-seriesid=`629688` titleid=`653293` id=`ZKMwgO11TRqUk5L6ltbcaA` mediaid=`5c1d9d3996e2dfdf23fd55b97b2416133c0501bf`  
-_The image of our savior miraculously appears on a Jewish doctor._  
-<a href="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_2031116001-moralorel_013.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_2031116001-moralorel_013.jpg" height="144px" /></a>
-### 731328
-**King of the Hill S05E01 - The Perils of Polling**  
-TV-PG-DL 🔒 23:18  
-⌛ September 2, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/the-perils-of-polling  
-seriesid=`629835` titleid=`731328` id=`ImZdlO9DTBagX5EjRavXvQ` mediaid=`526c54a5d2725ddab07df591547678bd579cea0f`  
-_As election day approaches...Hank has second thoughts about voting for George W. Bush; Luanne supports a Communist._  
-<a href="https://media.cdn.adultswim.com/uploads/20220906/thumbnails/2_22961355440-KingOfTheHill_502_ThePerilsOfPolling.png"><img src="https://media.cdn.adultswim.com/uploads/20220906/thumbnails/2_22961355440-KingOfTheHill_502_ThePerilsOfPolling.png" height="144px" /></a>
+https://www.adultswim.com/videos/american-dad/dancin-a-with-my-cells  
+seriesid=`581006` titleid=`2238755` id=`AX5VsoYc_0O4w1rD3RXf` mediaid=`898edadb767a1a0bc5790b2d4bb944bdda305d67`  
+_Stan tries a new, cutting edge parenting approach DNA splicing._  
+<a href="https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_22114171780-AmericanDad_1508_DancinAWithMyCells.png"><img src="https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_22114171780-AmericanDad_1508_DancinAWithMyCells.png" height="144px" /></a>
