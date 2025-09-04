@@ -1,6 +1,7 @@
 {
-    "updated": 1756962758,
-    "added": [
+    "updated": 1756963944,
+    "added": [],
+    "removed": [
         {
             "auth": true,
             "ott_launch_date": 1447368300,
@@ -26,7 +27,7 @@
             "original_air_date": 1254279600,
             "clip_order": null,
             "auth_launch_date": 1748664000,
-            "modified": 1756962636,
+            "modified": 1756963528,
             "media_id": "590ecde3111e550cc7a518d16f21c1fff4f0c94a",
             "airing_id": "RADS1005252500038263",
             "id": "4dsfztJfSbSOzneSV4hUow",
@@ -41,7 +42,7 @@
             "ott_expiration_date": null,
             "active": false,
             "blacklist": [],
-            "published": 1756962636,
+            "published": 1756963528,
             "first_published": 1410351623,
             "tags": [],
             "collection_title": "Samurai Jack",
@@ -54,6 +55,5 @@
             "collection_title_id": "343621",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
