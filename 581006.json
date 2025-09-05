@@ -46,58 +46,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1757044740,
-        "tms_id": "EP007164450403",
-        "description": "Stan and Francine go back in time to settle an argument.",
-        "title_suggest": {
-            "input": [
-                "Stan & Francine & Stan & Francine & Radika",
-                "& Francine & Stan & Francine & Radika",
-                "Francine & Stan & Francine & Radika",
-                "& Stan & Francine & Radika",
-                "Stan & Francine & Radika",
-                "& Francine & Radika",
-                "Francine & Radika",
-                "& Radika",
-                "Radika"
-            ]
-        },
-        "title": "Stan & Francine & Stan & Francine & Radika",
-        "type": "episode",
-        "expiration_date": 1739163540,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1263.1952,
-        "episode_number": "13",
-        "original_air_date": 1626658200,
-        "auth_launch_date": 1756440000,
-        "clip_order": null,
-        "airing_id": "RADS1008232500054576",
-        "media_id": "3554a6d7240f00f877d48f2a7e7d7b59c3e591c5",
-        "modified": 1756187361,
-        "slug": "stan-francine-stan-francine-radika",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/1_221241341303-AmericanDad_1515_StanAndFrancineAndStanAndFrancineAndRadika.png",
-        "created": 1642781343,
-        "title_id": "2238762",
-        "season_number": "16",
-        "tv_rating": "tv-14-dlsv",
-        "published": 1756187361,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1738558800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/2_221241341303-AmericanDad_1515_StanAndFrancineAndStanAndFrancineAndRadika.png",
-        "id": "AX59Zf4w_0O4w1rD3RcM",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1757131140,
         "tms_id": "EP007164450405",
         "description": "Stan finally decides to do something about his secret baldness and enlists the help of Josay Bosay, Roger's famed hair-stylist-to-the-stars persona.",
@@ -143,50 +91,6 @@
         "launch_date": 1739163600,
         "poster": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/2_221241342308-AmericanDad_1517_CombOverAHairPiece.png",
         "id": "AX59Zr9y_0O4w1rD3RcP",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1757044740,
-        "tms_id": "EP007164450400",
-        "description": "Stan is forced to partner with Jeff in a lumberjack competition. Meanwhile, Steve, Francine and Snot enter a contest to win a vintage pickup truck.",
-        "title_suggest": {
-            "input": [
-                "Lumberjerk"
-            ]
-        },
-        "title": "Lumberjerk",
-        "type": "episode",
-        "expiration_date": 1739163540,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1262.8616,
-        "episode_number": "12",
-        "original_air_date": 1626053400,
-        "auth_launch_date": 1756440000,
-        "clip_order": null,
-        "airing_id": "RADS1008232500054578",
-        "media_id": "16e7440c5da2b232e23e0872f26c89c258d6f34e",
-        "modified": 1756183778,
-        "slug": "lumberjerk",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/1_221241340534-AmericanDad_1514_Lumberjerk.png",
-        "created": 1642781391,
-        "title_id": "2238761",
-        "season_number": "16",
-        "tv_rating": "tv-14-dlsv",
-        "published": 1756183778,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1738558800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/2_221241340534-AmericanDad_1514_Lumberjerk.png",
-        "id": "AX59Zrim208s7zyYUL9w",
         "auth": true
     },
     {
@@ -1016,6 +920,98 @@
         "launch_date": 1739163600,
         "poster": "https://media.cdn.adultswim.com/uploads/20230119/thumbnails/2_231191157214-LagleyDollarListingstiny.png",
         "id": "AYXAUPvs4k01GlbfzrX_",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1757649540,
+        "tms_id": "EP007164450412",
+        "description": "When Stan doesn't feel confident in anything but his suits, Roger assumes a fashion designer persona to craft him a life-changing new wardrobe. Hayley and Jeff raise chickens in the back yard.",
+        "title_suggest": {
+            "input": [
+                "Dressed Down",
+                "Down"
+            ]
+        },
+        "title": "Dressed Down",
+        "type": "episode",
+        "expiration_date": 1739768340,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1263.1953,
+        "episode_number": "2",
+        "original_air_date": 1644204600,
+        "auth_launch_date": 1757044800,
+        "clip_order": null,
+        "airing_id": "RADS1008282500055557",
+        "media_id": "9e096cdbe89ed9e0b0c2eb5f78cfa1bf7f1e7179",
+        "modified": 1756789532,
+        "slug": "dressed-down",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230119/thumbnails/1_23119115725-DressedDowntiny.png",
+        "created": 1673968930,
+        "title_id": "2342088",
+        "season_number": "17",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1756789532,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1739163600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230119/thumbnails/2_23119115725-DressedDowntiny.png",
+        "id": "AYXAUs-64k01GlbfzrYA",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1757649540,
+        "tms_id": "EP007164450413",
+        "description": "Stan takes Steve to his favorite barbershop to hang with his crew; Jeff starts journaling to help with his bad memory.",
+        "title_suggest": {
+            "input": [
+                "The Book of Fischer",
+                "Book of Fischer",
+                "of Fischer",
+                "Fischer"
+            ]
+        },
+        "title": "The Book of Fischer",
+        "type": "episode",
+        "expiration_date": 1740373140,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1263.162,
+        "episode_number": "3",
+        "original_air_date": 1644809400,
+        "auth_launch_date": 1757044800,
+        "clip_order": null,
+        "airing_id": "RADS1008282500055555",
+        "media_id": "1bab21bb73c36a629ee2366d46ab3cc2a6ff7a93",
+        "modified": 1756792848,
+        "slug": "the-book-of-fischer",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230119/thumbnails/1_231191156354-BookOfFischertiny.png",
+        "created": 1673969030,
+        "title_id": "2342089",
+        "season_number": "17",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1756792848,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1739768400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230119/thumbnails/2_231191156354-BookOfFischertiny.png",
+        "id": "AYXAVFU9uLQD-MTtYfm-",
         "auth": true
     }
 ]
