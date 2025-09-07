@@ -265,7 +265,7 @@
         "launch_date": 1756027800,
         "poster": "https://media.cdn.adultswim.com/uploads/20250728/thumbnails/2_257281644181-OP738_S17E110.jpg",
         "id": "AZhSU9LACI-3VkGoG1WX",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1757842140,
@@ -368,7 +368,7 @@
         "launch_date": 1757237400,
         "poster": "https://media.cdn.adultswim.com/uploads/20250818/thumbnails/2_25818056293-OP740_S17E112.jpg",
         "id": "AZiakB1CITxXrw59dNIb",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1758446940,
@@ -420,6 +420,42 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250825/thumbnails/2_258251711112-OP742_S1114.jpg",
         "id": "AZjjEit-ITxXrw59dNSu",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1759051740,
+        "created": 1756768950,
+        "tms_id": "",
+        "title_id": "2550991",
+        "season_number": "17",
+        "tv_rating": "tv-pg-lv",
+        "description": "Law and Sengoku share memories of Corazon. Meanwhile, Fujitora uses the ruins of the battle as a weapon and squares off one-on-one with Luffy!",
+        "title_suggest": {
+            "input": [
+                "Men's Pride! Luffy vs. Fujitora, Head-to-Head!",
+                "Pride! Luffy vs. Fujitora, Head-to-Head!",
+                "Luffy vs. Fujitora, Head-to-Head!",
+                "vs. Fujitora, Head-to-Head!",
+                "Fujitora, Head-to-Head!",
+                "Head-to-Head!"
+            ]
+        },
+        "published": 1756773949,
+        "title": "Men's Pride! Luffy vs. Fujitora, Head-to-Head!",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1305.5042,
+        "episode_number": "",
+        "collection_title": "One Piece",
+        "original_air_date": 1757224800,
+        "auth_launch_date": 1757237400,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1009012500055888",
+        "media_id": "3a0d3e636eb197f7d139f3c5f0f547b534d3e5fc",
+        "modified": 1756773949,
+        "slug": "mens-pride-luffy-vs-fujitora-head-to-head",
+        "id": "AZkHltq0ITxXrw59dNam",
         "auth": true
     }
 ]

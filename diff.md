@@ -2,17 +2,25 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: September 7, 2025 at 05:00:13 EDT_
+_Last Update: September 7, 2025 at 05:30:31 EDT_
 ## Video added
 ### Summary
-340531 The Brak Show: 1  
-### 345421
-**The Brak Show S01E05 - Bawk Ba Gawk**  
-TV-PG 🔓 11:38  
-⌛ January 31, 2036 at 00:00:00 EST  
-https://www.adultswim.com/videos/the-brak-show/bawk-ba-gawk  
-seriesid=`340531` titleid=`345421` id=`xCfP56aJQ0Gn_QT2kqI7wA` mediaid=`535558d9e787cff01e18f0643c9cfd9951af224c`  
-_Right before the big game, Brak and Zorak decide to kidnap their high school mascot, a chicken named Mr. Bawkbagawk. Brak takes the mascot to his house to hide it and presents it to his parents as his father's uncle: Earl Toteman._  
-<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321424356-brak_2105.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321424356-brak_2105.jpg" height="144px" /></a>
+2012528 Blue Exorcist: 1  
+608007 One Piece: 1  
+### 2547006
+**Blue Exorcist S03E03 - True Cross Academy Festival**  
+TV-14-L 🔒 22:00  
+⌛ December 8, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/blue-exorcist/true-cross-academy-festival  
+seriesid=`2012528` titleid=`2547006` id=`AZjTM-nJCI-3VkGoG1gC` mediaid=`8e5496aa227db8ee39b92c32d1c188fd66514b52`  
+_Renzo Shima and Rin try to find partners to attend the festival with. Rin attempts to invite Izumo._  
+<a href="https://media.cdn.adultswim.com/uploads/20250822/thumbnails/2_25822151481-BEX-SIS_AdvStills_Ep3.jpg"><img src="https://media.cdn.adultswim.com/uploads/20250822/thumbnails/2_25822151481-BEX-SIS_AdvStills_Ep3.jpg" height="144px" /></a>
+### 2550991
+**One Piece S17E?? - Men's Pride! Luffy vs. Fujitora, Head-to-Head!**  
+TV-PG-LV 🔒 21:45  
+⌛ September 28, 2025 at 05:29:00 EDT  
+https://www.adultswim.com/videos/one-piece/mens-pride-luffy-vs-fujitora-head-to-head  
+seriesid=`608007` titleid=`2550991` id=`AZkHltq0ITxXrw59dNam` mediaid=`3a0d3e636eb197f7d139f3c5f0f547b534d3e5fc`  
+_Law and Sengoku share memories of Corazon. Meanwhile, Fujitora uses the ruins of the battle as a weapon and squares off one-on-one with Luffy!_  
 ## Video removed
 No videos were removed.  
