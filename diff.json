@@ -1,7 +1,6 @@
 {
-    "updated": 1757227176,
-    "added": [],
-    "removed": [
+    "updated": 1757227358,
+    "added": [
         {
             "auth": false,
             "ott_launch_date": 1451658960,
@@ -30,7 +29,7 @@
             "original_air_date": 1002510000,
             "clip_order": null,
             "auth_launch_date": 1753848000,
-            "modified": 1757226405,
+            "modified": 1757227313,
             "airing_id": "RADS1006071900097654",
             "media_id": "535558d9e787cff01e18f0643c9cfd9951af224c",
             "id": "xCfP56aJQ0Gn_QT2kqI7wA",
@@ -45,7 +44,7 @@
             "active": true,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1757226405,
+            "published": 1757227313,
             "tags": [
                 "brak show episode 5 bawk ba gawk bird chicken mascot steal school"
             ],
@@ -60,5 +59,6 @@
             "collection_title_id": "340531",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
