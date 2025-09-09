@@ -2,62 +2,50 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: September 9, 2025 at 00:00:27 EDT_
+_Last Update: September 9, 2025 at 00:30:14 EDT_
 ## Video added
-### Summary
-581006 American Dad: 1  
-2003422 Bob's Burgers: 1  
-2007823 Infomercials: 1  
-### 2342097
-**American Dad S17E09 - The Curious Case of the Old Hole**  
-TV-14-DLV 🔒 20:31  
-⌛ September 15, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-curious-case-of-the-old-hole  
-seriesid=`581006` titleid=`2342097` id=`AYMUUZc0IAxeiVkFtLRq` mediaid=`843bf84c59aca392b614d1bfb605102ee5c99d6e`  
-_Wheels and the Legman try to hunt down the perpetrators who destroyed Steve's secret swimming hole. Meanwhile, Klaus helps an aging Principal Lewis reclaim his confidence._  
-<a href="https://media.cdn.adultswim.com/uploads/20220906/thumbnails/2_22961540240-AmericanDad_1611_TheCuriousCaseOfTheOldHole.png"><img src="https://media.cdn.adultswim.com/uploads/20220906/thumbnails/2_22961540240-AmericanDad_1611_TheCuriousCaseOfTheOldHole.png" height="144px" /></a>
-### 2439001
-**Bob's Burgers S12E19 - A-Sprout a Boy**  
-TV-PG-L 🔒 21:26  
-⌛ September 22, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/a-sprout-a-boy  
-seriesid=`2003422` titleid=`2439001` id=`AY7u7IjI5I1d0UhX5iFp` mediaid=`06c894e1cd4d8bdec50abd24c2978ef912181adf`  
-_Bob helps Gene with a school project._  
-<a href="https://media.cdn.adultswim.com/uploads/20240423/thumbnails/2_24423912452-Screenshot2024-04-23at9.09.54AM.png"><img src="https://media.cdn.adultswim.com/uploads/20240423/thumbnails/2_24423912452-Screenshot2024-04-23at9.09.54AM.png" height="144px" /></a>
-### 2086422
-**Infomercials S06E05 - NewsHits**  
-TV-14-DLS 🔓 10:47  
-⌛ September 7, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/infomercials/news-hits  
-seriesid=`2007823` titleid=`2086422` id=`AXRKLVCvSeFB2d0c38uG` mediaid=`c83090938d6ce084b2a70050690ef7ce71ec85ce`  
-_Horrible news bloopers from Your 7 News that should not be aired - Adults Only._  
-<a href="https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_2092158142-infomercials_newshits_dup-20160505.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200902/thumbnails/2_2092158142-infomercials_newshits_dup-20160505.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 1  
-2566519 Dragon Ball DAIMA: 1  
-581006 American Dad: 1  
-### 2438991
-**Bob's Burgers S12E09 - FOMO You Didn't**  
-TV-PG-L 🔒 21:32  
+2020945 Attack on Titan: 1  
+608360 Robot Chicken: 4  
+### 2429456
+**Attack on Titan S04E29 - THE FINAL CHAPTERS Special 1**  
+TV-MA-V 🔓 61:04  
 ⌛ September 8, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/fomo-you-didnt  
-seriesid=`2003422` titleid=`2438991` id=`AY59c3EuC2cKYm1ap_Aj` mediaid=`86b34eef0b237e7bf4667743300d3f4f34975979`  
-_Tina feels left out._  
-<a href="https://media.cdn.adultswim.com/uploads/20240401/thumbnails/2_24411146151-Screenshot2024-04-01at11.45.52AM.png"><img src="https://media.cdn.adultswim.com/uploads/20240401/thumbnails/2_24411146151-Screenshot2024-04-01at11.45.52AM.png" height="144px" /></a>
-### 2566522
-**Dragon Ball DAIMA S01E03 - Daima**  
-TV-Y7-FV 🔒 22:27  
+https://www.adultswim.com/videos/attack-on-titan/the-final-chapters-special-1  
+seriesid=`2020945` titleid=`2429456` id=`AYpsCm02Oz5CkuTcnxFM` mediaid=`1f6b3d234b26c0434bab006949c4832184ecca9b`  
+_As the rumbling advances, the members of the Scout Regiment race against the clock with their Marleyan and Azumabito allies to catch up to Eren and stop the rumbling before the rest of the world is crushed under the Wall Titans' feet._  
+<a href="https://media.cdn.adultswim.com/uploads/20230911/thumbnails/2_239111210254-ATTACKONTITANFINALCHAPTERSSpecial1The.png"><img src="https://media.cdn.adultswim.com/uploads/20230911/thumbnails/2_239111210254-ATTACKONTITANFINALCHAPTERSSpecial1The.png" height="144px" /></a>
+### 747258
+**Robot Chicken S04E19 - Please Do Not Notify Our Contractors**  
+TV-MA 🔒 11:11  
 ⌛ September 8, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/dragon-ball-daima/daima  
-seriesid=`2566519` titleid=`2566522` id=`AZdrQ6k8ITxXrw59dMkE` mediaid=`c33e9105b899fe38e43b3cf4016d38e9a61fcb00`  
-_Goku and Supreme Kai journey through space to reach the mysterious Demon Realm._  
-<a href="https://media.cdn.adultswim.com/uploads/20250613/thumbnails/2_256131747511-DBDaima_S1_03.png"><img src="https://media.cdn.adultswim.com/uploads/20250613/thumbnails/2_256131747511-DBDaima_S1_03.png" height="144px" /></a>
-### 2238767
-**American Dad S16E19 - Family Time**  
-TV-14-DLV 🔒 21:03  
+https://www.adultswim.com/videos/robot-chicken/please-do-not-notify-our-contractors  
+seriesid=`608360` titleid=`747258` id=`7-U5ffcVSTy33z31tH9MLQ` mediaid=`493500e8be4a7dab1133dbe7ab0bef501e668848`  
+_Jason Bourne gets a new identity, the new Bachelor's a beast, the creators take a skewed look at the Holy Grail and meet a character who knows how to speed things along_  
+<a href="https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_2042173693-robotchicken_079.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_2042173693-robotchicken_079.jpg" height="144px" /></a>
+### 747250
+**Robot Chicken S04E11 - Dear Consumer**  
+TV-MA 🔒 11:27  
 ⌛ September 8, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/family-time  
-seriesid=`581006` titleid=`2238767` id=`AX6dVNy_208s7zyYUL92` mediaid=`53ba36a67ab61d711e518dcc0a81406ab1b6cae4`  
-_Stan and the family go out to dinner at a buffet restaurant! Meanwhile, Roger becomes a flower._  
-<a href="https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_22127155807-AmericanDad_1520_FamilyTime.png"><img src="https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_22127155807-AmericanDad_1520_FamilyTime.png" height="144px" /></a>
+https://www.adultswim.com/videos/robot-chicken/dear-consumer  
+seriesid=`608360` titleid=`747250` id=`7rKvkqyZQ8yrsQ7bPh-ksw` mediaid=`00c4319a80738e249ad5d043ae75384b093a2c74`  
+_Thor celebrates Christmas in Asgard, Santa adds Walter PPK to the bad boy list and the creators take a skewed look at The Gift of the Magi. Plus who needs Rudolph when Santa has Comet?_  
+<a href="https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_20421654268-robotchicken_071.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_20421654268-robotchicken_071.jpg" height="144px" /></a>
+### 747259
+**Robot Chicken S04E20 - Especially the Animal Keith Crofford**  
+TV-MA 🔒 11:17  
+⌛ September 8, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/robot-chicken/especially-the-animal-keith-crofford  
+seriesid=`608360` titleid=`747259` id=`884EdoJ_S6qatIxikBrDMQ` mediaid=`0ca8632cca50743da602150c3f3f56205b3836fa`  
+_The creators imagine the origin of the Wuzzles, what Cloverfield's real intention was, a new spin on Hitchcock's Rear Window, plus a super sappy season ender._  
+<a href="https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_2042173733-robotchicken_080.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_2042173733-robotchicken_080.jpg" height="144px" /></a>
+### 747257
+**Robot Chicken S04E18 - Cannot Be Erased, So Sorry**  
+TV-MA 🔒 11:14  
+⌛ September 8, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/robot-chicken/cannot-be-erased-so-sorry  
+seriesid=`608360` titleid=`747257` id=`xtyaSQtaTCiXaV4WkIQcdQ` mediaid=`5f28456c89f2581f85d5b656c43a0f5be0317e7c`  
+_The creators imagine what the Humping Robot might look like on the big screen, John Connor tests out the new Terminator, Fantasy Island lives up to its name and the Nerd lands somewhere over the rainbow._  
+<a href="https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_20421735163-robotchicken_078.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_20421735163-robotchicken_078.jpg" height="144px" /></a>
