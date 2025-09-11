@@ -1,51 +1,5 @@
 [
     {
-        "auth_expiration_date": 1757563140,
-        "tms_id": "",
-        "description": "The kids have all the power.",
-        "title_suggest": {
-            "input": [
-                "Touch of Eval(uations)",
-                "of Eval(uations)",
-                "Eval(uations)"
-            ]
-        },
-        "title": "Touch of Eval(uations)",
-        "type": "episode",
-        "expiration_date": 1748231940,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1291.9573,
-        "episode_number": "11",
-        "original_air_date": 1705368600,
-        "auth_launch_date": 1756353600,
-        "clip_order": null,
-        "airing_id": "RADS1008232500054531",
-        "media_id": "501bad463e0eb02fc3a073701dd6a7d663a52ef3",
-        "modified": 1756131280,
-        "slug": "touch-of-eval-uations",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240401/thumbnails/1_24411145187-Screenshot2024-04-01at11.44.54AM.png",
-        "created": 1711501727,
-        "title_id": "2438993",
-        "season_number": "12",
-        "tv_rating": "tv-pg-l",
-        "published": 1756131280,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1747627200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240401/thumbnails/2_24411145187-Screenshot2024-04-01at11.44.54AM.png",
-        "id": "AY59c9Vn5I1d0UhX5iFK",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1757649540,
         "tms_id": "",
         "description": "Bob and Linda celebrate Valentine's Day.",
@@ -464,6 +418,58 @@
         "launch_date": 1749441600,
         "poster": "https://media.cdn.adultswim.com/uploads/20240423/thumbnails/2_24423911430-Screenshot2024-04-23at9.10.31AM.png",
         "id": "AY7u7RNk5I1d0UhX5iFq",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1758772740,
+        "tms_id": "",
+        "description": "Tina turns to her fantasy world.",
+        "title_suggest": {
+            "input": [
+                "Some Like It Bot Part 1: Eighth Grade Runner",
+                "Like It Bot Part 1: Eighth Grade Runner",
+                "It Bot Part 1: Eighth Grade Runner",
+                "Bot Part 1: Eighth Grade Runner",
+                "Part 1: Eighth Grade Runner",
+                "1: Eighth Grade Runner",
+                "Eighth Grade Runner",
+                "Grade Runner",
+                "Runner"
+            ]
+        },
+        "title": "Some Like It Bot Part 1: Eighth Grade Runner",
+        "type": "episode",
+        "expiration_date": 1750046340,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1289.455,
+        "episode_number": "21",
+        "original_air_date": 1706581800,
+        "auth_launch_date": 1757563200,
+        "clip_order": null,
+        "airing_id": "RADS1009052500056481",
+        "media_id": "93101cce74c12c71610ddedfedd8567e76ab2ca4",
+        "modified": 1757315482,
+        "slug": "some-like-it-bot-part-1-eighth-grade-runner",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240429/thumbnails/1_24429101738-Screenshot2024-04-29at10.16.38AM.png",
+        "created": 1713826246,
+        "title_id": "2439003",
+        "season_number": "12",
+        "tv_rating": "tv-pg-dl",
+        "published": 1757315482,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1749441600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240429/thumbnails/2_24429101738-Screenshot2024-04-29at10.16.38AM.png",
+        "id": "AY8IAS-s5I1d0UhX5iFz",
         "auth": true
     }
 ]
