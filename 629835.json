@@ -56,65 +56,6 @@
     },
     {
         "auth": true,
-        "auth_expiration_date": 1758340740,
-        "tms_id": "EP002070020096",
-        "rating": 8.200821,
-        "description": "When Dale is forced to give up his extermination job, he discovers a talent for firing employees at his new place of work.",
-        "title_suggest": {
-            "input": [
-                "The Exterminator",
-                "Exterminator"
-            ]
-        },
-        "type": "episode",
-        "title": "The Exterminator",
-        "expiration_date": 1505100599,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1396.7954,
-        "episode_number": "14",
-        "original_air_date": 1232593200,
-        "auth_launch_date": 1757736000,
-        "clip_order": null,
-        "modified": 1757485056,
-        "media_id": "176178298f6e8f2fff4edbecb4352cf0b867c672",
-        "airing_id": "RADS1009072500056730",
-        "id": "Lr9BD3s6R9uWMkRmCOY39g",
-        "slug": "the-exterminator",
-        "views": 470781,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220922/thumbnails/1_229221031159-KingOfTheHill_509_TheExterminator.png",
-        "created": 1402945468,
-        "title_id": "731341",
-        "season_number": "5",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "published": 1757485056,
-        "tags": [
-            "king of the hill",
-            " the exterminator",
-            " dale",
-            " extermination",
-            " job",
-            " talent",
-            " fire",
-            " firing",
-            " employee",
-            " work"
-        ],
-        "rating_count": 732,
-        "collection_title": "King of the Hill",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1504495800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220922/thumbnails/2_229221031159-KingOfTheHill_509_TheExterminator.png",
-        "cma_id": "1464949"
-    },
-    {
-        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1758167940,
         "tms_id": "EP002070020101",
@@ -285,5 +226,56 @@
         "launch_date": 1504323000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151931841214717.jpg",
         "cma_id": "1464277"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1757735940,
+        "tms_id": "EP002070020097",
+        "rating": 8.633698,
+        "description": "Hank is devastated when he realizes his cherished flatbed truck is on its last legs.",
+        "title_suggest": {
+            "input": [
+                "Chasing Bobby",
+                "Bobby"
+            ]
+        },
+        "type": "episode",
+        "title": "Chasing Bobby",
+        "expiration_date": 1504754999,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1393.0917,
+        "episode_number": "9",
+        "original_air_date": 1232595000,
+        "auth_launch_date": 1757131200,
+        "clip_order": null,
+        "modified": 1756879820,
+        "media_id": "8879348a5be23550b4b047134541f927e72f4546",
+        "airing_id": "RADS1008312500055753",
+        "id": "zA4fGjRsT0iPeKnK0MsOfw",
+        "slug": "chasing-bobby",
+        "views": 221724,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15193183904116.jpg",
+        "created": 1402945468,
+        "title_id": "731336",
+        "season_number": "5",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1756879820,
+        "tags": [
+            "king of the hill episode chasing bobby hank flatbed truck"
+        ],
+        "rating_count": 273,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1504150200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15193183904116.jpg",
+        "cma_id": "1463430"
     }
 ]

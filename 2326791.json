@@ -454,6 +454,52 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1694839440,
+        "tms_id": "",
+        "description": "\"Buster & TJ Had A Good Time!\" follows two best friend blobs surviving in a buffoonish town that always escalates to unimaginable stakes that ruin the whole day for everyone.",
+        "title_suggest": {
+            "input": [
+                "Buster & TJ",
+                "& TJ",
+                "TJ"
+            ]
+        },
+        "title": "Buster & TJ",
+        "type": "episode",
+        "expiration_date": 1757735940,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "duration": 645.1779,
+        "collection_id": "AWlKh6kVHl5gR6828yqi",
+        "episode_number": "4",
+        "original_air_date": 1693025100,
+        "auth_launch_date": 1693025100,
+        "clip_order": null,
+        "airing_id": "RADS1009142400091809",
+        "media_id": "a607c555563610392f2f52830e6a86b65f640464",
+        "modified": 1726326616,
+        "slug": "buster-tj",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230822/thumbnails/1_238221137491-503-BusterandTJ.jpg",
+        "created": 1692715506,
+        "title_id": "2438490",
+        "season_number": "5",
+        "tv_rating": "tv-ma-l",
+        "published": 1726326616,
+        "tags": [],
+        "collection_title": "Smalls",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1726372800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230822/thumbnails/2_238221137491-503-BusterandTJ.jpg",
+        "id": "AYodtNs_Oz5CkuTcnw1d",
+        "auth": false
+    },
+    {
         "auth_expiration_date": null,
         "tms_id": "",
         "description": "A curse spreads throughout a town, and soup becomes sentient in space.",
