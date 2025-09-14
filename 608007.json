@@ -162,7 +162,7 @@
         "launch_date": 1756632600,
         "poster": "https://media.cdn.adultswim.com/uploads/20250818/thumbnails/2_2581805373-OP739_S17E111.jpg",
         "id": "AZh7iO3DITxXrw59dNER",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1760327940,
@@ -266,7 +266,7 @@
         "launch_date": 1757842200,
         "poster": "https://media.cdn.adultswim.com/uploads/20250825/thumbnails/2_25825176216-OP741_S1E113.jpg",
         "id": "AZi-2UX7ITxXrw59dNNF",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1757237340,
@@ -407,6 +407,43 @@
         "modified": 1756773949,
         "slug": "mens-pride-luffy-vs-fujitora-head-to-head",
         "id": "AZkHltq0ITxXrw59dNam",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1759656540,
+        "created": 1757379444,
+        "tms_id": "",
+        "title_id": "2550992",
+        "season_number": "17",
+        "tv_rating": "tv-pg-l",
+        "description": "The people of Dressrosa show their appreciation to the Straw Hats one last time by foiling Fujitora's plan. A new chapter begins!",
+        "title_suggest": {
+            "input": [
+                "No Way Out! Admiral Fujitora's Ruthless Pursuit!",
+                "Way Out! Admiral Fujitora's Ruthless Pursuit!",
+                "Out! Admiral Fujitora's Ruthless Pursuit!",
+                "Admiral Fujitora's Ruthless Pursuit!",
+                "Fujitora's Ruthless Pursuit!",
+                "Ruthless Pursuit!",
+                "Pursuit!"
+            ]
+        },
+        "published": 1757384501,
+        "title": "No Way Out! Admiral Fujitora's Ruthless Pursuit!",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1305.3707,
+        "episode_number": "",
+        "collection_title": "One Piece",
+        "original_air_date": 1757829600,
+        "auth_launch_date": 1757842200,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1009092500056853",
+        "media_id": "f25bc04ea1b56866995dfae662b793fd817ac49b",
+        "modified": 1757384501,
+        "slug": "no-way-out-admiral-fujitoras-ruthless-pursuit",
+        "id": "AZkr-j1yyEF1_1NDe6Pw",
         "auth": true
     }
 ]
