@@ -411,11 +411,7 @@
     },
     {
         "auth_expiration_date": 1759656540,
-        "created": 1757379444,
         "tms_id": "",
-        "title_id": "2550992",
-        "season_number": "17",
-        "tv_rating": "tv-pg-l",
         "description": "The people of Dressrosa show their appreciation to the Straw Hats one last time by foiling Fujitora's plan. A new chapter begins!",
         "title_suggest": {
             "input": [
@@ -428,21 +424,38 @@
                 "Pursuit!"
             ]
         },
-        "published": 1757384501,
         "title": "No Way Out! Admiral Fujitora's Ruthless Pursuit!",
         "type": "episode",
-        "tags": [],
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
         "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
         "duration": 1305.3707,
-        "episode_number": "",
-        "collection_title": "One Piece",
+        "episode_number": "116",
         "original_air_date": 1757829600,
         "auth_launch_date": 1757842200,
-        "modified_by": "ODT Listener",
+        "clip_order": null,
         "airing_id": "RADS1009092500056853",
         "media_id": "f25bc04ea1b56866995dfae662b793fd817ac49b",
-        "modified": 1757384501,
+        "modified": 1757965697,
         "slug": "no-way-out-admiral-fujitoras-ruthless-pursuit",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250915/thumbnails/1_259151547262-OP744_S17E116.jpg",
+        "created": 1757379444,
+        "title_id": "2550992",
+        "season_number": "17",
+        "tv_rating": "tv-pg-l",
+        "published": 1757965697,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "undefined undefined",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250915/thumbnails/2_259151547262-OP744_S17E116.jpg",
         "id": "AZkr-j1yyEF1_1NDe6Pw",
         "auth": true
     }
