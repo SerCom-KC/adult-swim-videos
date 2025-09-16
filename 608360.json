@@ -929,61 +929,6 @@
     },
     {
         "auth": true,
-        "ott_launch_date": 1447360140,
-        "auth_expiration_date": 1757995140,
-        "tms_id": "EP007259620089",
-        "rating": 7.1635633,
-        "description": "The creators imagine what goes on deep in the jungles of Pandora late at night, Harold and his purple crayon go on an adventure in a bad neighborhood, Major Nelson uses Jeannie to get back at NASA for firing him, and everyone in the G.I. Joe ranks gets to animal sidekick.",
-        "title_suggest": {
-            "input": [
-                "Big Trouble in Little Clerks 2",
-                "Trouble in Little Clerks 2",
-                "in Little Clerks 2",
-                "Little Clerks 2",
-                "Clerks 2",
-                "2"
-            ]
-        },
-        "type": "episode",
-        "title": "Big Trouble in Little Clerks 2",
-        "expiration_date": 1728964740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
-        "duration": 683.0333667,
-        "episode_number": "3",
-        "original_air_date": 1295844300,
-        "clip_order": null,
-        "auth_launch_date": 1728964800,
-        "modified": 1728565647,
-        "media_id": "513c4b6d61d0c4cc33478c1ccffb68c0744ad848",
-        "airing_id": "RADS1010022400096099",
-        "id": "41pWWcLlStGmzmeLB44uoA",
-        "slug": "big-trouble-in-little-clerks-2",
-        "views": 323571,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/1_20461118248-robotchicken_083_BIM.jpg",
-        "created": 1402945473,
-        "title_id": "826669",
-        "season_number": "5",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1728565647,
-        "tags": [],
-        "rating_count": 1504,
-        "collection_title": "Robot Chicken",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1728360000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461118248-robotchicken_083_BIM.jpg",
-        "cma_id": "1479156"
-    },
-    {
-        "auth": true,
         "ott_launch_date": 1447347660,
         "auth_expiration_date": 1778385540,
         "tms_id": "EP007259620025",
@@ -6334,7 +6279,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447349100,
         "auth_expiration_date": 1778385540,
         "tms_id": "EP007259620063",
@@ -6599,7 +6544,7 @@
         "cma_id": "1440063"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447349340,
         "auth_expiration_date": 1777780740,
         "tms_id": "EP007259620069",
@@ -7359,59 +7304,6 @@
     },
     {
         "auth": true,
-        "ott_launch_date": 1447360140,
-        "auth_expiration_date": 1757995140,
-        "tms_id": "EP007259620090",
-        "rating": 7.4823055,
-        "description": "Kim Possible's Dr. Drakken gets sent to prison, NASA's Lego people have a very bad launch day; see how Andy treats his toys after he comes home from college in Toy Story 4, and we find out what happened to some of our most memorable TV characters from the 90's. All this and more from the minds of the creators.",
-        "title_suggest": {
-            "input": [
-                "Kramer vs. Showgirls",
-                "vs. Showgirls",
-                "Showgirls"
-            ]
-        },
-        "type": "episode",
-        "title": "Kramer vs. Showgirls",
-        "expiration_date": 1728964740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
-        "duration": 639,
-        "episode_number": "4",
-        "original_air_date": 1296449100,
-        "clip_order": null,
-        "auth_launch_date": 1728964800,
-        "modified": 1728565657,
-        "media_id": "a2aebdae49a10efaf739da212a7bd22dbf091a57",
-        "airing_id": "RADS1010022400096097",
-        "id": "HpiKG4unSfGoge0uTxWpPA",
-        "slug": "kramer-vs-showgirls",
-        "views": 439874,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/1_20461127584-robotchicken_084_bim.jpg",
-        "created": 1402945473,
-        "title_id": "826670",
-        "season_number": "5",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1728565657,
-        "tags": [],
-        "rating_count": 1978,
-        "collection_title": "Robot Chicken",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1728360000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461127584-robotchicken_084_bim.jpg",
-        "cma_id": "826670"
-    },
-    {
-        "auth": true,
         "ott_launch_date": 1447348800,
         "auth_expiration_date": 1778385540,
         "tms_id": "EP007259620050",
@@ -7851,7 +7743,7 @@
         "cma_id": "1181419"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447359180,
         "auth_expiration_date": 1757995140,
         "tms_id": "EP007259620072",
@@ -7973,58 +7865,6 @@
     },
     {
         "auth": true,
-        "ott_launch_date": 1447360080,
-        "auth_expiration_date": 1757995140,
-        "tms_id": "EP007259620088",
-        "rating": 6.9299655,
-        "description": "Discover the secret origins of Mo-Larr, Eternian Destist! Lara Croft makes a terrifying find in a tomb, He-Man's father proves that sometimes the apple falls very, very far from the tree, and the creators imagine how Gargamel might finally get the best of the Smurf's in Smurfitar!",
-        "title_suggest": {
-            "input": [
-                "Terms of Endaredevil",
-                "of Endaredevil",
-                "Endaredevil"
-            ]
-        },
-        "type": "episode",
-        "title": "Terms of Endaredevil",
-        "expiration_date": 1728964740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
-        "duration": 674.5672339,
-        "episode_number": "2",
-        "original_air_date": 1295239500,
-        "clip_order": null,
-        "auth_launch_date": 1728964800,
-        "modified": 1728565654,
-        "media_id": "a8b244897f0560f18a48d2bb8f109597937e6108",
-        "airing_id": "RADS1010022400096101",
-        "id": "LXwFOeqPRwGDcakNrw_T8Q",
-        "slug": "terms-of-endaredevil",
-        "views": 449827,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200402/thumbnails/1_20421742371-robotchicken_082_BIM.jpg",
-        "created": 1402945473,
-        "title_id": "826668",
-        "season_number": "5",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1728565654,
-        "tags": [],
-        "rating_count": 1742,
-        "collection_title": "Robot Chicken",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1728360000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_20421742371-robotchicken_082_BIM.jpg",
-        "cma_id": "1471877"
-    },
-    {
-        "auth": true,
         "ott_launch_date": 1458568800,
         "auth_expiration_date": 1765256340,
         "tms_id": "EP007259620149",
@@ -8126,58 +7966,6 @@
         "launch_date": 1733202000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046120219-robotchicken_121-702_dup.jpg",
         "cma_id": "2020456"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447360140,
-        "auth_expiration_date": 1757995140,
-        "tms_id": "EP007259620091",
-        "rating": 5.8769383,
-        "description": "Find out what crimes your Thanksgiving turkey committed and was then pardoned for. The creators re-imagine the movie Marley and Me. See who earns the title of lamest villain ever.",
-        "title_suggest": {
-            "input": [
-                "Malcolm X: Fully Loaded",
-                "X: Fully Loaded",
-                "Fully Loaded",
-                "Loaded"
-            ]
-        },
-        "type": "episode",
-        "title": "Malcolm X: Fully Loaded",
-        "expiration_date": 1728964740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
-        "duration": 659,
-        "episode_number": "5",
-        "original_air_date": 1297053900,
-        "clip_order": null,
-        "auth_launch_date": 1728964800,
-        "modified": 1728565654,
-        "media_id": "7e9cf53067642eda17617aae00ca30410e9b56c3",
-        "airing_id": "RADS1010022400096095",
-        "id": "M2tSKpFoRkW3nfegIVKL2g",
-        "slug": "malcolm-x-fully-loaded",
-        "views": 558558,
-        "thumbnail": "",
-        "created": 1402945473,
-        "title_id": "826671",
-        "season_number": "5",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1728565654,
-        "tags": [],
-        "rating_count": 4063,
-        "collection_title": "Robot Chicken",
-        "modified_by": "ODT Listener",
-        "launch_date": 1728360000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/rc_cc_085_pt1-05.jpg",
-        "cma_id": "826671"
     },
     {
         "auth": true,
@@ -9292,7 +9080,7 @@
         "cma_id": "1190011"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447359120,
         "auth_expiration_date": 1757995140,
         "tms_id": "EP007259620073",
@@ -10624,7 +10412,7 @@
         "cma_id": "2014122"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447349340,
         "auth_expiration_date": 1757995140,
         "tms_id": "EP007259620068",
@@ -10837,7 +10625,7 @@
         "cma_id": "1128325"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447349100,
         "auth_expiration_date": 1778385540,
         "tms_id": "EP007259620065",
@@ -11191,7 +10979,7 @@
         "cma_id": "1184193"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447349280,
         "auth_expiration_date": 1778385540,
         "tms_id": "EP007259620066",
@@ -11456,7 +11244,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447349340,
         "auth_expiration_date": 1757995140,
         "tms_id": "EP007259620067",
@@ -11670,7 +11458,7 @@
         "cma_id": "1172610"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447359060,
         "auth_expiration_date": 1757995140,
         "tms_id": "EP007259620071",
@@ -12741,7 +12529,7 @@
         "cma_id": "1348561"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447349100,
         "auth_expiration_date": 1778385540,
         "tms_id": "EP007259620064",
@@ -13010,58 +12798,6 @@
         "launch_date": 1735016400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_204612518-robotchicken_130_dup-20140612.jpg",
         "cma_id": "1352503"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447360080,
-        "auth_expiration_date": 1757995140,
-        "tms_id": "EP007259620087",
-        "rating": 6.7985444,
-        "description": "Season Five of Robot Chicken opens with a bang on the beaches of Normandy! The creators imagine how Cabbage Patch Kids are made, what the real reaction to shows like STOMP! are, and we see what Skeletor is forced to do when Snake Mountain is forclosed on.",
-        "title_suggest": {
-            "input": [
-                "Saving Private Gigli",
-                "Private Gigli",
-                "Gigli"
-            ]
-        },
-        "type": "episode",
-        "title": "Saving Private Gigli",
-        "expiration_date": 1728964740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
-        "duration": 674.8008008,
-        "episode_number": "1",
-        "original_air_date": 1294634700,
-        "clip_order": null,
-        "auth_launch_date": 1728964800,
-        "modified": 1728565643,
-        "media_id": "ab2b972870b29c4aa236bc31dacda978dd5d318e",
-        "airing_id": "RADS1010022400096103",
-        "id": "uwApjVWRQa6yGi8AL2YTGg",
-        "slug": "saving-private-gigli",
-        "views": 479399,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200402/thumbnails/1_20421738466-robotchicken_081_BIM.jpg",
-        "created": 1402945473,
-        "title_id": "826667",
-        "season_number": "5",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1728565643,
-        "tags": [],
-        "rating_count": 3296,
-        "collection_title": "Robot Chicken",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1728360000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_20421738466-robotchicken_081_BIM.jpg",
-        "cma_id": "1466391"
     },
     {
         "auth": true,
