@@ -47,53 +47,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1758340740,
-        "tms_id": "EP034814950004",
-        "description": "Pim ventures into the forest across the road to fetch firewood for the office Halloween party.",
-        "title_suggest": {
-            "input": [
-                "A Silly Halloween Special",
-                "Silly Halloween Special",
-                "Halloween Special",
-                "Special"
-            ]
-        },
-        "title": "A Silly Halloween Special",
-        "type": "episode",
-        "expiration_date": 1751083140,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AXFAgKw8Rs3h4hI_X2xz",
-        "duration": 647.4134,
-        "episode_number": "4",
-        "original_air_date": 1642395600,
-        "auth_launch_date": 1751083200,
-        "clip_order": null,
-        "airing_id": "RADS1005152500036090",
-        "media_id": "b62330ba2815e7fc823f967b2aee59c448f56e9d",
-        "modified": 1750949581,
-        "slug": "a-silly-halloween-special",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220110/thumbnails/1_221101236131-SmilingFriends_104_ASillyHalloweenSpecial.png",
-        "created": 1641595035,
-        "title_id": "2322679",
-        "season_number": "1",
-        "tv_rating": "tv-14-lv",
-        "published": 1750949581,
-        "tags": [],
-        "collection_title": "Smiling Friends",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1748059200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220110/thumbnails/2_221101236131-SmilingFriends_104_ASillyHalloweenSpecial.png",
-        "id": "AX42sF3D208s7zyYUL9f",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1758945540,
         "tms_id": "EP034814950005",
         "description": "Who is famous food tycoon Simon S. Salty? Why was he brutally murdered in his own restaurant? Who done did do that there murder? Huh?",
@@ -417,7 +370,7 @@
         "launch_date": 1758340800,
         "poster": "https://media.cdn.adultswim.com/uploads/20240527/thumbnails/2_245271514478-Screenshot2024-05-27at3.14.23PM.png",
         "id": "AY-lwBIjC2cKYm1ap_0q",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1757735940,
@@ -757,7 +710,7 @@
         "launch_date": 1755316800,
         "poster": "https://media.cdn.adultswim.com/uploads/20240617/thumbnails/2_2461772603-Screenshot2024-06-17at7.25.09AM.png",
         "id": "AZANWyLFSaru9Cdsy6x0",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1755921540,
