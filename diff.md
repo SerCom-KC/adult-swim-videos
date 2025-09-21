@@ -2,130 +2,105 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: September 20, 2025 at 00:30:13 EDT_
+_Last Update: September 21, 2025 at 00:00:39 EDT_
 ## Video added
 ### Summary
 581006 American Dad: 2  
 437532 Futurama: 1  
 629835 King of the Hill: 1  
-2530043 Psi-Cops: 1  
-### 2392761
-**American Dad S18E06 - Better on Paper**  
-TV-14-DLS 🔒 21:03  
-⌛ September 26, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/better-on-paper  
-seriesid=`581006` titleid=`2392761` id=`AY0ZdzU8n_kciGPPrESf` mediaid=`346b2a519e25535ed0f4c82677ad532b8c95f807`  
-_When Stan discovers anonymous love letters written to Francine, he worries that this secret admirer could threaten their relationship._  
-<a href="https://media.cdn.adultswim.com/uploads/20240122/thumbnails/2_241221128199-Screenshot2024-01-22at11.27.58AM.png"><img src="https://media.cdn.adultswim.com/uploads/20240122/thumbnails/2_241221128199-Screenshot2024-01-22at11.27.58AM.png" height="144px" /></a>
-### 2392759
-**American Dad S18E07 - Cow I Met Your Moo-ther**  
+895948 The Eric Andre Show: 1  
+### 2392762
+**American Dad S18E09 - Saving Face**  
 TV-14-DLSV 🔒 21:03  
-⌛ September 26, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/cow-i-met-your-moo-ther  
-seriesid=`581006` titleid=`2392759` id=`AY0ZdsyW1E7YmWrdXLli` mediaid=`f8d29d0833abc01878c9bb75307311a486f55d95`  
-_The judgmental voice in Hayley's head makes it impossible for her to enjoy a girls' night with Nerfer and Danuta._  
-<a href="https://media.cdn.adultswim.com/uploads/20240122/thumbnails/2_241221126517-Screenshot2024-01-22at11.26.19AM.png"><img src="https://media.cdn.adultswim.com/uploads/20240122/thumbnails/2_241221126517-Screenshot2024-01-22at11.26.19AM.png" height="144px" /></a>
-### 444757
-**Futurama S05E10 - The Farnsworth Parabox**  
-TV-PG-L 🔒 23:14  
-⌛ September 26, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/the-farnsworth-parabox  
-seriesid=`437532` titleid=`444757` id=`AYDxY0Yq_0O4w1rD3SQu` mediaid=`6cc776b1e8a161bcc772ab0c42aeee43da9536cf`  
-_The professor conducts an experiment which hurls Leela into a parallel universe._  
-<a href="https://media.cdn.adultswim.com/uploads/20220527/thumbnails/2_225271218371-Futurama_066_TheFarnsworthParabox.png"><img src="https://media.cdn.adultswim.com/uploads/20220527/thumbnails/2_225271218371-Futurama_066_TheFarnsworthParabox.png" height="144px" /></a>
-### 731347
-**King of the Hill S05E19 - Hank's Back Story**  
-TV-14-DLS 🔒 23:15  
-⌛ September 26, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/hanks-back-story  
-seriesid=`629835` titleid=`731347` id=`pemmvphuRJ-mVUBxMrjhQA` mediaid=`0fc1d7822d219fe9e6dee5416041704c7ca2a511`  
-_Hank, Dale, Bill and Boomhauer enter the Durndle County Lawn Mower Races, but Hank is almost sidelined by debilitating back pain that is diagnosed as the result of the genetic condition of not having a rear end._  
-<a href="https://media.cdn.adultswim.com/uploads/20220927/thumbnails/2_229271551228-KingOfTheHill_517_HanksBackStory.png"><img src="https://media.cdn.adultswim.com/uploads/20220927/thumbnails/2_229271551228-KingOfTheHill_517_HanksBackStory.png" height="144px" /></a>
-### 2530056
-**Psi-Cops S01E24 - The Cave - Part 2**  
-TV-MA-SV 🔒 11:00  
-⌛ October 24, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/psi-cops/the-cave-part-2  
-seriesid=`2530043` titleid=`2530056` id=`AZIBLGvSSaru9Cdsy8C2` mediaid=`a318cc52bc72b1cc87e8c7ad6a928391d563fe59`  
-_Kydd and Felixx learn that the most important tool for a Psi Cop is rope. Tons and tons of rope._  
-<a href="https://media.cdn.adultswim.com/uploads/20241016/thumbnails/2_2410161114265-PSICOPS_SEASON1_EP124_SHOWSTILLS_IMAGE4_LEFTTORIGHT_KYDDFELIXXOILED.jpg"><img src="https://media.cdn.adultswim.com/uploads/20241016/thumbnails/2_2410161114265-PSICOPS_SEASON1_EP124_SHOWSTILLS_IMAGE4_LEFTTORIGHT_KYDDFELIXXOILED.jpg" height="144px" /></a>
+⌛ September 27, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/saving-face  
+seriesid=`581006` titleid=`2392762` id=`AY0Zd6jXn_kciGPPrESg` mediaid=`f7c1cd9a17453fe59dfed4f3e54bfa0520df52e2`  
+_In an attempt to maintain his "prime," Stan explores some cosmetic solutions that could not go worse._  
+<a href="https://media.cdn.adultswim.com/uploads/20240122/thumbnails/2_241221123552-Screenshot2024-01-22at11.23.31AM.png"><img src="https://media.cdn.adultswim.com/uploads/20240122/thumbnails/2_241221123552-Screenshot2024-01-22at11.23.31AM.png" height="144px" /></a>
+### 2392757
+**American Dad S18E08 - Stan Fixes a Shingle**  
+TV-14-DLV 🔒 21:03  
+⌛ September 27, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/stan-fixes-a-shingle  
+seriesid=`581006` titleid=`2392757` id=`AY0ZdlN-n_kciGPPrESe` mediaid=`e69125087bc7d7e76b27601f3b568922833a558d`  
+_Francine insists that Steve let her help with his school project, Stan finally fixes that shingle, and the rest of the family goes on a quest to return Gallagher's mallet._  
+<a href="https://media.cdn.adultswim.com/uploads/20240122/thumbnails/2_241221125127-Screenshot2024-01-22at11.24.51AM.png"><img src="https://media.cdn.adultswim.com/uploads/20240122/thumbnails/2_241221125127-Screenshot2024-01-22at11.24.51AM.png" height="144px" /></a>
+### 444758
+**Futurama S05E11 - Three Hundred Big Boys**  
+TV-PG-L 🔒 23:21  
+⌛ September 27, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/futurama/three-hundred-big-boys  
+seriesid=`437532` titleid=`444758` id=`AYDxic3Q208s7zyYUM9j` mediaid=`ecc736a01c1fc5ab000973bc2973db1ce44c9fbe`  
+_The gang finds wacky ways to spend extra money from a refund._  
+<a href="https://media.cdn.adultswim.com/uploads/20220527/thumbnails/2_225271219341-Futurama_067_ThreeHundredBigBoys.png"><img src="https://media.cdn.adultswim.com/uploads/20220527/thumbnails/2_225271219341-Futurama_067_ThreeHundredBigBoys.png" height="144px" /></a>
+### 731348
+**King of the Hill S05E20 - Kidney Boy and Hamster Girl: A Love Story**  
+TV-PG-D 🔒 23:17  
+⌛ September 27, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/king-of-the-hill/kidney-boy-and-hamster-girl-a-love-story  
+seriesid=`629835` titleid=`731348` id=`HMss38GtTiWpzI76gb6w5g` mediaid=`dc1ea6073736546f241443648740a6faf5d774db`  
+_Bobby poses as a high school student with a failing kidney, so that he can enjoy the perks of high school life.  Dale goes into the Port-A-Potty business._  
+<a href="https://media.cdn.adultswim.com/uploads/20221004/thumbnails/2_221041012355-KingOfTheHill_522_KidneyBoyAndHamsterGirlALoveStory.png"><img src="https://media.cdn.adultswim.com/uploads/20221004/thumbnails/2_221041012355-KingOfTheHill_522_KidneyBoyAndHamsterGirlALoveStory.png" height="144px" /></a>
+### 2032596
+**The Eric Andre Show S03E01 - Seth Rogen; Asa Akira**  
+TV-MA-L 🔓 11:16  
+⌛ October 25, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-eric-andre-show/seth-rogen-asa-akira  
+seriesid=`895948` titleid=`2032596` id=`BHK7jhhHQby3_ZfgbBQYDA` mediaid=`8aa5d058687a0de93dcfc2247886c81195fa1ba2`  
+_Interviews with Seth Rogen and Asa Akira; Musical guest Exhumed and The Supremes._  
+<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034161584-ericandre_021_dup-20141023.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034161584-ericandre_021_dup-20141023.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2224721 Smiling Friends: 1  
-2530043 Psi-Cops: 1  
+343621 Samurai Jack: 1  
 437532 Futurama: 1  
 581006 American Dad: 2  
-581268 Squidbillies: 3  
 629835 King of the Hill: 1  
-### 2322679
-**Smiling Friends S01E04 - A Silly Halloween Special**  
-TV-14-LV 🔒 10:47  
-⌛ September 19, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/smiling-friends/a-silly-halloween-special  
-seriesid=`2224721` titleid=`2322679` id=`AX42sF3D208s7zyYUL9f` mediaid=`b62330ba2815e7fc823f967b2aee59c448f56e9d`  
-_Pim ventures into the forest across the road to fetch firewood for the office Halloween party._  
-<a href="https://media.cdn.adultswim.com/uploads/20220110/thumbnails/2_221101236131-SmilingFriends_104_ASillyHalloweenSpecial.png"><img src="https://media.cdn.adultswim.com/uploads/20220110/thumbnails/2_221101236131-SmilingFriends_104_ASillyHalloweenSpecial.png" height="144px" /></a>
-### 2530061
-**Psi-Cops S01E19 - The Djinn**  
-TV-MA-V 🔒 11:00  
-⌛ September 19, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/psi-cops/the-djinn  
-seriesid=`2530043` titleid=`2530061` id=`AZG-k-Gcg6zBH7G86thO` mediaid=`36fc881e73da4b99fd712f1bb7f999bf8f161c5b`  
-_Stone enlists Kydd and Felixx on their most dangerous mission yet… breaking a cute magical monkey out of the evidence room._  
-<a href="https://media.cdn.adultswim.com/uploads/20241016/thumbnails/2_2410161110182-PSICOPS_SEASON1_EP119_SHOWSTILLS_IMAGE3_PARTYDISGUISESWIDE.jpg"><img src="https://media.cdn.adultswim.com/uploads/20241016/thumbnails/2_2410161110182-PSICOPS_SEASON1_EP119_SHOWSTILLS_IMAGE3_PARTYDISGUISESWIDE.jpg" height="144px" /></a>
-### 442425
-**Futurama S05E05 - Kif Gets Knocked Up a Notch**  
-TV-14 🔒 23:16  
-⌛ September 19, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/kif-gets-knocked-up-a-notch  
-seriesid=`437532` titleid=`442425` id=`AYC9xjJd_0O4w1rD3SL-` mediaid=`c846a52e8b29cd44fa05bf4914fdb093722648dc`  
-_Amy's romance with Kif Kroker leads to pregnancy._  
-<a href="https://media.cdn.adultswim.com/uploads/20220513/thumbnails/2_22513151615-Futurama_061_KifGetsKnockedUpANotch.png"><img src="https://media.cdn.adultswim.com/uploads/20220513/thumbnails/2_22513151615-Futurama_061_KifGetsKnockedUpANotch.png" height="144px" /></a>
-### 2342103
-**American Dad S17E17 - Hayley Was a Girl Scout?**  
-TV-14-DLSV 🔒 21:02  
-⌛ September 19, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/hayley-was-a-girl-scout  
-seriesid=`581006` titleid=`2342103` id=`AYX1F5_5uLQD-MTtYfyU` mediaid=`6cc450eee7bda465df34e5599985e440fe65ae67`  
-_Stan is forced to co-lead a scouts troop with Hayley while Steve blunders in his fantasy world._  
-<a href="https://media.cdn.adultswim.com/uploads/20230216/thumbnails/2_232161058291-HaleyGirlScout.png"><img src="https://media.cdn.adultswim.com/uploads/20230216/thumbnails/2_232161058291-HaleyGirlScout.png" height="144px" /></a>
-### 2342101
-**American Dad S17E16 - I Heard You Wanna Buy Some Speakers**  
-TV-14-DLV 🔒 21:03  
-⌛ September 19, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/i-heard-you-wanna-buy-some-speakers  
-seriesid=`581006` titleid=`2342101` id=`AYX1Fkpr4k01GlbfzrYQ` mediaid=`34c8b557b6b1f933a28dd70ac25578ab45ee6192`  
-_Barry blows out his dad's speakers and Snot helps him replace them. Stan attempts to do a standing backflip._  
-<a href="https://media.cdn.adultswim.com/uploads/20230216/thumbnails/2_2321611028-BuySpeakers.png"><img src="https://media.cdn.adultswim.com/uploads/20230216/thumbnails/2_2321611028-BuySpeakers.png" height="144px" /></a>
-### 758311
-**Squidbillies S04E04 - Anabolic-holic**  
-TV-MA 🔓 11:34  
-⌛ September 19, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/anabolic-holic  
-seriesid=`581268` titleid=`758311` id=`8qXyBYM5SNaECIJazg8uAA` mediaid=`0ad473306a3ed86772c24ead5fecaf40c6ead389`  
-_Rusty discovers that steroids have no negative repercussions._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131219165-squidbillies_041_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131219165-squidbillies_041_bim.jpg" height="144px" /></a>
-### 2199306
-**Squidbillies S12E05 - Rich Dan, Poor Dan**  
-TV-14-DLSV 🔓 11:26  
-⌛ September 19, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/rich-dan-poor-dan  
-seriesid=`581268` titleid=`2199306` id=`AWy6cI7hCorLtcgflt2f` mediaid=`6c4c5eb6f581f418429f38d5ca9d1d92989f736b`  
-_Dan Halen finds financial bankruptcy less enjoyable than moral bankruptcy._  
-<a href="https://media.cdn.adultswim.com/uploads/20190822/thumbnails/2_19822134784-squidbillies_1005_dup-20190820.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190822/thumbnails/2_19822134784-squidbillies_1005_dup-20190820.jpg" height="144px" /></a>
-### 2006885
-**Squidbillies S08E05 - A Jailhouse Divided**  
-TV-14-DLSV 🔓 11:32  
-⌛ September 19, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/a-jailhouse-divided  
-seriesid=`581268` titleid=`2006885` id=`YSfcIL5JTnihvZUmokm1wQ` mediaid=`c670afffca70e47003940450a7253008b422de23`  
-_Deputy Sheriff Denny runs for Sheriff against Sheriff Sheriff._  
-<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_2041411101-squidbillies_705_dup-20130912.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_2041411101-squidbillies_705_dup-20130912.jpg" height="144px" /></a>
-### 731341
-**King of the Hill S05E14 - The Exterminator**  
-TV-PG-DL 🔒 23:16  
-⌛ September 19, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/the-exterminator  
-seriesid=`629835` titleid=`731341` id=`Lr9BD3s6R9uWMkRmCOY39g` mediaid=`176178298f6e8f2fff4edbecb4352cf0b867c672`  
-_When Dale is forced to give up his extermination job, he discovers a talent for firing employees at his new place of work._  
-<a href="https://media.cdn.adultswim.com/uploads/20220922/thumbnails/2_229221031159-KingOfTheHill_509_TheExterminator.png"><img src="https://media.cdn.adultswim.com/uploads/20220922/thumbnails/2_229221031159-KingOfTheHill_509_TheExterminator.png" height="144px" /></a>
+895948 The Eric Andre Show: 1  
+### 434839
+**Samurai Jack S03E08 - XXXIV**  
+TV-Y7-FV 🔒 22:25  
+⌛ September 20, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/samurai-jack/xxxiv  
+seriesid=`343621` titleid=`434839` id=`5yhNOXmOTBCQMA5lyKr9Fw` mediaid=`c9ed19ade1b73702931691257feaab100e77dc9d`  
+_Jack and a Swamp Wizard travel to the four corners of the earth, collecting pieces that are meant to get Jack home. But when Aku reveals himself to be the Swamp Wizard, Jack must battle these pieces which are now being puppeteered by Aku's evil hands._  
+<a href="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471415496-samjack_034.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471415496-samjack_034.jpg" height="144px" /></a>
+### 444750
+**Futurama S05E06 - Less Than Hero**  
+TV-PG-L 🔒 23:19  
+⌛ September 20, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/futurama/less-than-hero  
+seriesid=`437532` titleid=`444750` id=`AYDCwy8f_0O4w1rD3SNK` mediaid=`55da7aa31534c1cba7dbbc14e64122b2489cb3aa`  
+_Fry, Leela and Bender develop superhuman powers and fight crime in the Big Apple._  
+<a href="https://media.cdn.adultswim.com/uploads/20220520/thumbnails/2_22520135130-FuturamaHero.png"><img src="https://media.cdn.adultswim.com/uploads/20220520/thumbnails/2_22520135130-FuturamaHero.png" height="144px" /></a>
+### 2342105
+**American Dad S17E18 - Please Please Jeff**  
+TV-14-DLS 🔒 21:02  
+⌛ September 20, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/please-please-jeff  
+seriesid=`581006` titleid=`2342105` id=`AYX1GNCl4k01GlbfzrYR` mediaid=`0cd28e79262f1d3dc617c94284579c6230304b9b`  
+_Jeff's people pleasing nature gets in the way of his relationship with Hayley; Stan wears a confusing costume to the CIA costume party._  
+<a href="https://media.cdn.adultswim.com/uploads/20230216/thumbnails/2_232161059341-PleaseJeff.png"><img src="https://media.cdn.adultswim.com/uploads/20230216/thumbnails/2_232161059341-PleaseJeff.png" height="144px" /></a>
+### 2342106
+**American Dad S17E19 - Jambalaya**  
+TV-14-DLV 🔒 21:02  
+⌛ September 20, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/jambalaya  
+seriesid=`581006` titleid=`2342106` id=`AYX1IGPxuLQD-MTtYfyY` mediaid=`492473ac3fbb9fba47c88aa3a7ee94001160d288`  
+_When Francine successfully grows a garden, it reminds Roger he knows a recipe for truly authentic jambalaya._  
+<a href="https://media.cdn.adultswim.com/uploads/20230224/thumbnails/2_23224128511-Jambalayatiny.png"><img src="https://media.cdn.adultswim.com/uploads/20230224/thumbnails/2_23224128511-Jambalayatiny.png" height="144px" /></a>
+### 731342
+**King of the Hill S05E15 - Luanne Virgin 2.0**  
+TV-PG-D 🔒 23:16  
+⌛ September 20, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/king-of-the-hill/luanne-virgin-2-0  
+seriesid=`629835` titleid=`731342` id=`9sSt3icJTHW2QorPzby5Vg` mediaid=`76ca892c6ad89d9939b9d2cc206995dceae1b683`  
+_Luanne embraces a religious ceremony that allows participants to regain their virginity, but in the process, Hank learns that Peggy had sex with another man before they were married._  
+<a href="https://media.cdn.adultswim.com/uploads/20220927/thumbnails/2_229271548421-KingOfTheHill_516_LuanneVirgin20.png"><img src="https://media.cdn.adultswim.com/uploads/20220927/thumbnails/2_229271548421-KingOfTheHill_516_LuanneVirgin20.png" height="144px" /></a>
+### 2012238
+**The Eric Andre Show S02E01 - Maria Menounos / Eric Balfour**  
+TV-14-DLV 🔒 11:10  
+⌛ September 20, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-eric-andre-show/maria-menounos-eric-balfour  
+seriesid=`895948` titleid=`2012238` id=`ZVEiUoYjSXayrvC4f7aBfw` mediaid=`e47f516211ea083cda15d41a62441ad767feb6d3`  
+_Interviews with Maria Menounos and Eric Balfour; Musical guest Irontom._  
+<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341611109-ericandre_011_dup_20130930.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341611109-ericandre_011_dup_20130930.jpg" height="144px" /></a>
