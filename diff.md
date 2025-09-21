@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: September 21, 2025 at 02:30:13 EDT_
+_Last Update: September 21, 2025 at 04:00:13 EDT_
 ## Video added
 ### Summary
-340537 Aqua Teen Hunger Force: 1  
-### 539148
-**Aqua Teen Hunger Force S02E24 - The Last One**  
-TV-14-V 🔒 11:08  
-⌛ September 30, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/the-last-one  
-seriesid=`340537` titleid=`539148` id=`KeIuYi4gROK99HTxeflSug` mediaid=`d583190772ef1da8ac0a29a08b3a70864b3075ed`  
-_Several of the Aqua Teens' enemies gather to plot their next move._  
-<a href="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241550429-athf_042_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241550429-athf_042_BIM.jpg" height="144px" /></a>
+2566519 Dragon Ball DAIMA: 1  
+### 2566533
+**Dragon Ball DAIMA S01E14 - Taboo**  
+TV-Y7-FV 🔒 22:27  
+⌛ November 30, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/dragon-ball-daima/taboo  
+seriesid=`2566519` titleid=`2566533` id=`AZgJ9CnbCI-3VkGoG1Q4` mediaid=`ccc78f1d76991140c7d4ce5005738a841553b1ec`  
+_Gomah's taboo stops Goku's team. Just as hope fades, a hidden power emerges._  
+<a href="https://media.cdn.adultswim.com/uploads/20250714/thumbnails/2_257141320438-DBDaima_S1_14.png"><img src="https://media.cdn.adultswim.com/uploads/20250714/thumbnails/2_257141320438-DBDaima_S1_14.png" height="144px" /></a>
 ## Video removed
 No videos were removed.  
