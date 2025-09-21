@@ -319,7 +319,7 @@
         "launch_date": 1757237400,
         "poster": "https://media.cdn.adultswim.com/uploads/20250818/thumbnails/2_25818056293-OP740_S17E112.jpg",
         "id": "AZiakB1CITxXrw59dNIb",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1758446940,
@@ -470,6 +470,44 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250915/thumbnails/2_259151547262-OP744_S17E116.jpg",
         "id": "AZkr-j1yyEF1_1NDe6Pw",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1760261340,
+        "created": 1757970524,
+        "tms_id": "",
+        "title_id": "2550993",
+        "season_number": "17",
+        "tv_rating": "tv-14",
+        "description": "With newfound allies won in the battle at Dressrosa and as the Navy watches, Luffy and the Straw Hats depart Dressrosa for open water.",
+        "title_suggest": {
+            "input": [
+                "Sons' Cups! The Straw Hat Fleet is Formed!",
+                "Cups! The Straw Hat Fleet is Formed!",
+                "The Straw Hat Fleet is Formed!",
+                "Straw Hat Fleet is Formed!",
+                "Hat Fleet is Formed!",
+                "Fleet is Formed!",
+                "is Formed!",
+                "Formed!"
+            ]
+        },
+        "published": 1757977206,
+        "title": "Sons' Cups! The Straw Hat Fleet is Formed!",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1305.4708,
+        "episode_number": "",
+        "collection_title": "One Piece",
+        "original_air_date": 1758434400,
+        "auth_launch_date": 1758447000,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1009152500057746",
+        "media_id": "6bac267da5fffc05f222703064eb9adb26a8ed1e",
+        "modified": 1757977206,
+        "slug": "sons-cups-the-straw-hat-fleet-is-formed",
+        "id": "AZlPNWgFyEF1_1NDe6Wx",
         "auth": true
     }
 ]
