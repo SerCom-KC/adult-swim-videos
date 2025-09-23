@@ -1,51 +1,5 @@
 [
     {
-        "auth_expiration_date": 1758599940,
-        "tms_id": "",
-        "description": "Bob helps Gene with a school project.",
-        "title_suggest": {
-            "input": [
-                "A-Sprout a Boy",
-                "a Boy",
-                "Boy"
-            ]
-        },
-        "title": "A-Sprout a Boy",
-        "type": "episode",
-        "expiration_date": 1750046340,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1286.7521,
-        "episode_number": "19",
-        "original_air_date": 1705978800,
-        "auth_launch_date": 1757390400,
-        "clip_order": null,
-        "airing_id": "RADS1009032500056141",
-        "media_id": "06c894e1cd4d8bdec50abd24c2978ef912181adf",
-        "modified": 1757138187,
-        "slug": "a-sprout-a-boy",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240423/thumbnails/1_24423912452-Screenshot2024-04-23at9.09.54AM.png",
-        "created": 1713405462,
-        "title_id": "2439001",
-        "season_number": "12",
-        "tv_rating": "tv-pg-l",
-        "published": 1757138187,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1749441600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240423/thumbnails/2_24423912452-Screenshot2024-04-23at9.09.54AM.png",
-        "id": "AY7u7IjI5I1d0UhX5iFp",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1758686340,
         "tms_id": "",
         "description": "The kids track down a lost recipe.",
@@ -482,6 +436,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181024134-BobsBurgers_1301.jpg",
         "id": "AZldOA8eyEF1_1NDe6aH",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1759809540,
+        "tms_id": "",
+        "description": "The family's Labor Day lake trip takes a turn when the Belchers find themselves trapped in their cabin, hiding from what lurks outside.",
+        "title_suggest": {
+            "input": [
+                "The Reeky Lake Show",
+                "Reeky Lake Show",
+                "Lake Show",
+                "Show"
+            ]
+        },
+        "title": "The Reeky Lake Show",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "2",
+        "original_air_date": null,
+        "auth_launch_date": 1758600000,
+        "clip_order": null,
+        "airing_id": "RADS1009182500058142",
+        "media_id": "7e02b663f85b5dc0b1f0cdde0cb1dd8d46fd1e7a",
+        "modified": 1758348105,
+        "slug": "the-reeky-lake-show",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181026582-BobsBurgers_1302.jpg",
+        "created": 1758205643,
+        "season_number": "13",
+        "title_id": "2569568",
+        "tv_rating": "tv-pg-l",
+        "published": 1758348105,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181026582-BobsBurgers_1302.jpg",
+        "id": "AZldOQuAs_ErlMTJpQnm",
         "auth": true
     }
 ]
