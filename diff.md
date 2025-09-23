@@ -2,49 +2,53 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: September 23, 2025 at 00:00:28 EDT_
+_Last Update: September 23, 2025 at 00:30:27 EDT_
 ## Video added
-No videos were added.  
+### Summary
+581006 American Dad: 1  
+2003422 Bob's Burgers: 1  
+2007823 Infomercials: 1  
+### 2392764
+**American Dad S18E11 - A Little Mystery**  
+TV-14-DLSV 🔒 21:03  
+⌛ September 29, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/a-little-mystery  
+seriesid=`581006` titleid=`2392764` id=`AY1BmXGz1E7YmWrdXLlu` mediaid=`4a2bb0d0132e493e2cd0612ca7478e437ca7b633`  
+_Hayley makes Jeff get a friend to add some mystery to their relationship but gets more mystery than she bargained for. Francine attempts to grow the world's longest fingernails._  
+<a href="https://media.cdn.adultswim.com/uploads/20240212/thumbnails/2_242121428330-Screenshot2024-02-12at2.28.06PM.png"><img src="https://media.cdn.adultswim.com/uploads/20240212/thumbnails/2_242121428330-Screenshot2024-02-12at2.28.06PM.png" height="144px" /></a>
+### 2569568
+**Bob's Burgers S13E02 - The Reeky Lake Show**  
+TV-PG-L 🔒 00:00  
+⌛ October 6, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/bobs-burgers/the-reeky-lake-show  
+seriesid=`2003422` titleid=`2569568` id=`AZldOQuAs_ErlMTJpQnm` mediaid=`7e02b663f85b5dc0b1f0cdde0cb1dd8d46fd1e7a`  
+_The family's Labor Day lake trip takes a turn when the Belchers find themselves trapped in their cabin, hiding from what lurks outside._  
+<a href="https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181026582-BobsBurgers_1302.jpg"><img src="https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181026582-BobsBurgers_1302.jpg" height="144px" /></a>
+### 2134722
+**Infomercials S07E01 - The Suplex Duplex Complex**  
+TV-PG-V 🔓 11:17  
+⌛ September 21, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/infomercials/the-suplex-duplex-complex  
+seriesid=`2007823` titleid=`2134722` id=`AV9ZLuOfSPzxOkLuqbaH` mediaid=`bc1074812303ed6dc38ece9108c67bd6f11d003a`  
+_A neighboring pair of wrestling tag teams learn the downsides of life without a landlord._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108720778805.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108720778805.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-608360 Robot Chicken: 5  
-### 826673
-**Robot Chicken S05E07 - Major League of Extraordinary Gentlemen**  
-TV-MA 🔒 11:36  
+2003422 Bob's Burgers: 1  
+581006 American Dad: 1  
+### 2439001
+**Bob's Burgers S12E19 - A-Sprout a Boy**  
+TV-PG-L 🔓 21:26  
 ⌛ September 22, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/robot-chicken/major-league-of-extraordinary-gentlemen  
-seriesid=`608360` titleid=`826673` id=`14UGePvySFmqZYjvGSWBpA` mediaid=`7aaf53c6b0f841c887de403b96576b24f182a0cf`  
-_The creators give us the best 60 seconds in TV history! Plus find out how the ice cream sundae was created; what having "Spider-sense" is really like, and if the Keebler Elves can defend their home against their greatest enemy: The Cookie Monster!_  
-<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461134582-robotchicken_087_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461134582-robotchicken_087_BIM.jpg" height="144px" /></a>
-### 826675
-**Robot Chicken S05E09 - No Country for Old Dogs**  
-TV-MA 🔒 10:48  
+https://www.adultswim.com/videos/bobs-burgers/a-sprout-a-boy  
+seriesid=`2003422` titleid=`2439001` id=`AY7u7IjI5I1d0UhX5iFp` mediaid=`06c894e1cd4d8bdec50abd24c2978ef912181adf`  
+_Bob helps Gene with a school project._  
+<a href="https://media.cdn.adultswim.com/uploads/20240423/thumbnails/2_24423912452-Screenshot2024-04-23at9.09.54AM.png"><img src="https://media.cdn.adultswim.com/uploads/20240423/thumbnails/2_24423912452-Screenshot2024-04-23at9.09.54AM.png" height="144px" /></a>
+### 2342108
+**American Dad S17E21 - Echoes**  
+TV-14-DLSV 🔓 21:02  
 ⌛ September 22, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/robot-chicken/no-country-for-old-dogs  
-seriesid=`608360` titleid=`826675` id=`9mjegfbTShitmpa4bFTdRg` mediaid=`6622695172c8a1559c9489415c4808dd6b2cce81`  
-_Is the voice that Mortal Kombat's Johnny Cage hears real or just in his own head? Also, the creators tackle the question of what was going through Morgan Freeman's mind during his 2008 car crash. Find out what happens when a group of mentally challenged soldiers take on Hitler and the SS._  
-<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461148462-robotchicken_089_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461148462-robotchicken_089_BIM.jpg" height="144px" /></a>
-### 862613
-**Robot Chicken S05E11 - Beastmaster and Commander**  
-TV-MA 🔒 10:55  
-⌛ September 22, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/robot-chicken/beastmaster-and-commander  
-seriesid=`608360` titleid=`862613` id=`Fr5bLMQmSuy6CwTaKPKOaw` mediaid=`ef6ea382405498bbc8a7434bc89a7c0b4bfe7c03`  
-_The creators imagine what CHiPs would have been like if the cops had actual potato chip heads, a magical zebra helps out a man with a broken cell phone, Green Lantern wears his ring on another part of his body, and the Bloopers Host returns with clips from his life._  
-<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046113174-robotchicken_091_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046113174-robotchicken_091_BIM.jpg" height="144px" /></a>
-### 826674
-**Robot Chicken S05E08 - Schindler's Bucket List**  
-TV-MA 🔒 11:00  
-⌛ September 22, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/robot-chicken/schindlers-bucket-list  
-seriesid=`608360` titleid=`826674` id=`qC9w-3HTQiWROdYEFONvUw` mediaid=`c4cfb8b4b842835998311cdc1d4cf73dffeebe55`  
-_Baby needs-a-name, from Strawberry Shortcake, gets a name no one will ever forget; a roast for Cobra Commander has a surprise ending and the creators finally reveal the secret of what happened to Skeeter from Muppet Babies._  
-<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461128571-robotchicken_088_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461128571-robotchicken_088_BIM.jpg" height="144px" /></a>
-### 826676
-**Robot Chicken S05E10 - Catch Me if you Kangaroo Jack**  
-TV-MA 🔒 11:35  
-⌛ September 22, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/robot-chicken/catch-me-if-you-kangaroo-jack  
-seriesid=`608360` titleid=`826676` id=`ywsLQLa_SK-D2U5z-xkQ9w` mediaid=`d529294b528227842ecdfe035d8e09474184e41d`  
-_The creators ponder what a Diablo Cody eulogy would be like -- home-skillett; the Joker finally gets what's coming to him and find out how the Robot Chicken Nerd would fare in the world of Tron._  
-<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461129537-robotchicken_090_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461129537-robotchicken_090_BIM.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/american-dad/echoes  
+seriesid=`581006` titleid=`2342108` id=`AYYY3GpN4k01GlbfzrYa` mediaid=`9cea36ea8ac5e57a394df0109b92464b6ed6d5cb`  
+_Steve starts a work-study program and discovers that not all is what it seems at Channel 3 News. Roger seeks redemption in the Nashville country music scene._  
+<a href="https://media.cdn.adultswim.com/uploads/20230206/thumbnails/2_23261324210-Echoestiny.png"><img src="https://media.cdn.adultswim.com/uploads/20230206/thumbnails/2_23261324210-Echoestiny.png" height="144px" /></a>
