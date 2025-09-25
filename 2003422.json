@@ -1,57 +1,5 @@
 [
     {
-        "auth_expiration_date": 1758772740,
-        "tms_id": "",
-        "description": "Tina turns to her fantasy world.",
-        "title_suggest": {
-            "input": [
-                "Some Like It Bot Part 1: Eighth Grade Runner",
-                "Like It Bot Part 1: Eighth Grade Runner",
-                "It Bot Part 1: Eighth Grade Runner",
-                "Bot Part 1: Eighth Grade Runner",
-                "Part 1: Eighth Grade Runner",
-                "1: Eighth Grade Runner",
-                "Eighth Grade Runner",
-                "Grade Runner",
-                "Runner"
-            ]
-        },
-        "title": "Some Like It Bot Part 1: Eighth Grade Runner",
-        "type": "episode",
-        "expiration_date": 1750046340,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1289.455,
-        "episode_number": "21",
-        "original_air_date": 1706581800,
-        "auth_launch_date": 1757563200,
-        "clip_order": null,
-        "airing_id": "RADS1009052500056481",
-        "media_id": "93101cce74c12c71610ddedfedd8567e76ab2ca4",
-        "modified": 1757315482,
-        "slug": "some-like-it-bot-part-1-eighth-grade-runner",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240429/thumbnails/1_24429101738-Screenshot2024-04-29at10.16.38AM.png",
-        "created": 1713826246,
-        "title_id": "2439003",
-        "season_number": "12",
-        "tv_rating": "tv-pg-dl",
-        "published": 1757315482,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1749441600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240429/thumbnails/2_24429101738-Screenshot2024-04-29at10.16.38AM.png",
-        "id": "AY8IAS-s5I1d0UhX5iFz",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1758859140,
         "tms_id": "",
         "description": "Tina goes on a mission.",
@@ -483,6 +431,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181027498-BobsBurgers_1303.jpg",
         "id": "AZldOYD1s_ErlMTJpQnn",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1759982340,
+        "tms_id": "",
+        "description": "At a comet watch party, Bob tries to keep Teddy from going off the deep end looking for signs from the universe.",
+        "title_suggest": {
+            "input": [
+                "Comet-Y of Errors",
+                "of Errors",
+                "Errors"
+            ]
+        },
+        "title": "Comet-Y of Errors",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "4",
+        "original_air_date": null,
+        "auth_launch_date": 1758772800,
+        "clip_order": null,
+        "airing_id": "RADS1009182500058318",
+        "media_id": "0da4c4695621e37c5640dd65763a4d9dad61a58d",
+        "modified": 1758518190,
+        "slug": "comet-y-of-errors",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181038334-BobsBurgers_1304.jpg",
+        "created": 1758206473,
+        "season_number": "13",
+        "title_id": "2569570",
+        "tv_rating": "tv-pg-l",
+        "published": 1758518190,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181038334-BobsBurgers_1304.jpg",
+        "id": "AZldRbWoyEF1_1NDe6aL",
         "auth": true
     }
 ]
