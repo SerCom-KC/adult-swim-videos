@@ -1,52 +1,5 @@
 [
     {
-        "auth_expiration_date": 1759031940,
-        "tms_id": "EP003034830069",
-        "description": "The gang finds wacky ways to spend extra money from a refund.",
-        "title_suggest": {
-            "input": [
-                "Three Hundred Big Boys",
-                "Hundred Big Boys",
-                "Big Boys",
-                "Boys"
-            ]
-        },
-        "title": "Three Hundred Big Boys",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1401.2999,
-        "episode_number": "11",
-        "original_air_date": 1069819200,
-        "auth_launch_date": 1758427200,
-        "clip_order": null,
-        "airing_id": "RADS1009152500057722",
-        "media_id": "ecc736a01c1fc5ab000973bc2973db1ce44c9fbe",
-        "modified": 1758173355,
-        "slug": "three-hundred-big-boys",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220527/thumbnails/1_225271219341-Futurama_067_ThreeHundredBigBoys.png",
-        "created": 1653319781,
-        "title_id": "444758",
-        "season_number": "5",
-        "tv_rating": "tv-pg-l",
-        "published": 1758173355,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220527/thumbnails/2_225271219341-Futurama_067_ThreeHundredBigBoys.png",
-        "id": "AYDxic3Q208s7zyYUM9j",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1759550340,
         "tms_id": "EP003034830073",
         "description": "Bender stars on the soap opera All My Circuits.",
@@ -94,6 +47,55 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220609/thumbnails/2_22691647454-Futurama_071_BenderShouldNotBeAllowedOnTelevision.png",
         "id": "AYE5OECR208s7zyYUNEY",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1759636740,
+        "tms_id": "EP003034830074",
+        "description": "Fry comes to regret making a deal with the devil to win Leela's heart.",
+        "title_suggest": {
+            "input": [
+                "The Devil's Hands Are Idle Playthings",
+                "Devil's Hands Are Idle Playthings",
+                "Hands Are Idle Playthings",
+                "Are Idle Playthings",
+                "Idle Playthings",
+                "Playthings"
+            ]
+        },
+        "title": "The Devil's Hands Are Idle Playthings",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1395.6275,
+        "episode_number": "16",
+        "original_air_date": 1069992000,
+        "auth_launch_date": 1759032000,
+        "clip_order": null,
+        "airing_id": "RADS1009232500059463",
+        "media_id": "7b82e4f09cc8092817ccee8b76d7af1124449eda",
+        "modified": 1758778608,
+        "slug": "the-devils-hands-are-idle-playthings",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220609/thumbnails/1_22691649451-Futurama_072_TheDevilsHandsAreIdlePlaythings.png",
+        "created": 1654522472,
+        "title_id": "444760",
+        "season_number": "5",
+        "tv_rating": "tv-pg-v",
+        "published": 1758778608,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220609/thumbnails/2_22691649451-Futurama_072_TheDevilsHandsAreIdlePlaythings.png",
+        "id": "AYE5OWoQ_0O4w1rD3SV0",
         "auth": true
     },
     {
