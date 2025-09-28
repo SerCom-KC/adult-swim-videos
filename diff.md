@@ -2,17 +2,16 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: September 28, 2025 at 05:00:27 EDT_
+_Last Update: September 28, 2025 at 06:00:29 EDT_
 ## Video added
 ### Summary
-2012528 Blue Exorcist: 1  
-### 2547009
-**Blue Exorcist S03E06 - I Can't Rely on Anyone**  
-TV-14-V 🔒 22:00  
-⌛ December 8, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/blue-exorcist/i-cant-rely-on-anyone  
-seriesid=`2012528` titleid=`2547009` id=`AZjTTnxECI-3VkGoG1gG` mediaid=`4df487b0fa584f968c57f22af70948731e6dc959`  
-_Izumo possesses divine power as a shrine maiden, but she spends her days with her mother and sister._  
-<a href="https://media.cdn.adultswim.com/uploads/20250822/thumbnails/2_258221542344-BEX-SIS_AdvStills_Ep6.jpg"><img src="https://media.cdn.adultswim.com/uploads/20250822/thumbnails/2_258221542344-BEX-SIS_AdvStills_Ep6.jpg" height="144px" /></a>
+608007 One Piece: 1  
+### 2550994
+**One Piece S17E?? - The Numerous Rivals Struggle Amongst Themselves! The Raging Monsters of the New World**  
+TV-PG 🔒 21:45  
+⌛ October 19, 2025 at 05:29:00 EDT  
+https://www.adultswim.com/videos/one-piece/the-numerous-rivals-struggle-amongst-themselves-the-raging-monsters-of-the-new-world  
+seriesid=`608007` titleid=`2550994` id=`AZl275BAs_ErlMTJpQn5` mediaid=`38daa22041a1d07e6f7b3e35efe3828233d0b265`  
+_While the Straw Hats are underway, the recent actions in Dressrosa have led to surprising results! Will there truly be an upset of the world order?_  
 ## Video removed
 No videos were removed.  
