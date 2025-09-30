@@ -1,5 +1,53 @@
 [
     {
+        "ott_launch_date": 1447789740,
+        "auth_expiration_date": 1753156740,
+        "tms_id": "SH018336770000",
+        "description": "Denny Boffa wants to save viewers time with his new invention: an all-in-one multi-purpose broom tool called the Broomshakalaka. But when things go violently wrong on set, Denny is the one running out of time.",
+        "title_suggest": {
+            "input": [
+                "Broomshakalaka"
+            ]
+        },
+        "expiration_date": 1790654340,
+        "type": "episode",
+        "title": "Broomshakalaka",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
+        "duration": 635.4170142,
+        "episode_number": "1",
+        "original_air_date": 1386666000,
+        "auth_launch_date": 1750132800,
+        "clip_order": null,
+        "media_id": "20cd6e2709abbcf7ecd5d3d9a2119f3e03801712",
+        "modified": 1758950842,
+        "airing_id": "RADS1009252500059767",
+        "slug": "broomshakalaka",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15150986087747.jpg",
+        "created": 1510603670,
+        "season_number": "3",
+        "title_id": "2007826",
+        "tv_rating": "tv-14-lv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1758950842,
+        "tags": [],
+        "collection_title": "Infomercials",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1759204800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15150986087747.jpg",
+        "id": "AV-2_sJ8wdpKFAKSbWYY",
+        "auth": false
+    },
+    {
         "ott_launch_date": 1447789500,
         "auth_expiration_date": 1756785540,
         "tms_id": "SH020417690000",
@@ -311,6 +359,55 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151509813513710.jpg",
         "id": "AV-3KdR1wdpKFAKSbWa5",
         "auth": false
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1747713540,
+        "tms_id": "SH028157750000",
+        "description": "Wet Shapes are America's most beloved friend and pet but they're under attack by Wet Shapes Degenerative Disease. Join us in a telethon to fund the cure.",
+        "title_suggest": {
+            "input": [
+                "Wet Shapes",
+                "Shapes"
+            ]
+        },
+        "title": "Wet Shapes",
+        "type": "episode",
+        "expiration_date": 1790654340,
+        "platforms": [
+            "web",
+            "mobile",
+            "fire-tv",
+            "roku"
+        ],
+        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
+        "duration": 677.4,
+        "episode_number": "2",
+        "original_air_date": 1510045200,
+        "auth_launch_date": 1744689600,
+        "clip_order": null,
+        "modified": 1758950816,
+        "media_id": "f83efc6de0fc7f45065aa36d5082075f07ff7f9c",
+        "airing_id": "RADS1009252500059769",
+        "id": "AV95D2JXZ-onAnjDLs3a",
+        "slug": "wet-shapes",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151087218637611.jpg",
+        "created": 1509564572,
+        "title_id": "2133192",
+        "tv_rating": "tv-pg",
+        "season_number": "7",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1758950816,
+        "tags": [],
+        "collection_title": "Infomercials",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1759204800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151087218637611.jpg",
+        "cma_id": "2133192"
     },
     {
         "auth": false,

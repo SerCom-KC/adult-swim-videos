@@ -1,55 +1,5 @@
 [
     {
-        "auth_expiration_date": 1759204740,
-        "tms_id": "",
-        "description": "Operation \"Take Over Family Time\" is a-go.",
-        "title_suggest": {
-            "input": [
-                "The Taking of Funtime One Two Three",
-                "Taking of Funtime One Two Three",
-                "of Funtime One Two Three",
-                "Funtime One Two Three",
-                "One Two Three",
-                "Two Three",
-                "Three"
-            ]
-        },
-        "title": "The Taking of Funtime One Two Three",
-        "expiration_date": 1750651140,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1290.289,
-        "episode_number": "2",
-        "original_air_date": null,
-        "auth_launch_date": 1757995200,
-        "clip_order": null,
-        "airing_id": "RADS1009102500057084",
-        "media_id": "e9bac7cb64a5ddc40607f6e173fb38d2e487571e",
-        "modified": 1757745585,
-        "slug": "the-taking-of-funtime-one-two-three",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231009/thumbnails/1_231091247483-Screenshot2023-10-09at11.45.14AM.png",
-        "created": 1696815718,
-        "season_number": "9",
-        "title_id": "2438918",
-        "tv_rating": "tv-pg-l",
-        "published": 1757745585,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1750046400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20231009/thumbnails/2_231091247483-Screenshot2023-10-09at11.45.14AM.png",
-        "id": "AYsSGSAO1E7YmWrdXLj5",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1759291140,
         "tms_id": "",
         "description": "A school project goes a little too far.",
@@ -469,6 +419,54 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181137218-BobsBurgers_1307.jpg",
         "id": "AZldefCXs_ErlMTJpQno",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1760414340,
+        "tms_id": "",
+        "description": "Bob takes Linda and the kids to visit his mother's grave, but finding the headstone is harder than he expected.",
+        "title_suggest": {
+            "input": [
+                "Show Mama from the Grave",
+                "Mama from the Grave",
+                "from the Grave",
+                "the Grave",
+                "Grave"
+            ]
+        },
+        "title": "Show Mama from the Grave",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "9",
+        "original_air_date": null,
+        "auth_launch_date": 1759204800,
+        "clip_order": null,
+        "airing_id": "RADS1009242500059547",
+        "media_id": "c5bf858b9e8c630f54ee0cda0352e33f86548f48",
+        "modified": 1758828721,
+        "slug": "show-mama-from-the-grave",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181144377-BobsBurgers_1309.jpg",
+        "created": 1758210299,
+        "season_number": "13",
+        "title_id": "2569574",
+        "tv_rating": "tv-pg-dl",
+        "published": 1758828721,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181144377-BobsBurgers_1309.jpg",
+        "id": "AZldgBSuyEF1_1NDe6aa",
         "auth": true
     }
 ]
