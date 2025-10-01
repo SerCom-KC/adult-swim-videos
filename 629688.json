@@ -1,6 +1,59 @@
 [
     {
         "auth": false,
+        "ott_launch_date": 1447172940,
+        "auth_expiration_date": 1738731540,
+        "tms_id": "EP007959510033",
+        "rating": 8.508695,
+        "description": "The town gets together and agrees not to give Orel any more advice.",
+        "title_suggest": {
+            "input": [
+                "Innocence"
+            ]
+        },
+        "type": "episode",
+        "title": "Innocence",
+        "expiration_date": 1762318740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
+        "duration": 704.667334,
+        "episode_number": "3",
+        "original_air_date": 1224216900,
+        "clip_order": null,
+        "auth_launch_date": 1735707600,
+        "modified": 1758913587,
+        "media_id": "ece3e87826283f04f240c74381fdfaeb673d0451",
+        "airing_id": "RADS1009252500059871",
+        "id": "1MKLsOP5Q3Cj_bTFmBJZoA",
+        "slug": "innocence",
+        "views": 248094,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_20311165406-moralorel_038.jpg",
+        "created": 1402945470,
+        "title_id": "723830",
+        "season_number": "3",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1758913587,
+        "tags": [
+            "moral orel episode 38 innocence advice blood virgins"
+        ],
+        "rating_count": 690,
+        "collection_title": "Moral Orel",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1759291200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311165406-moralorel_038.jpg",
+        "cma_id": "1443306"
+    },
+    {
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
         "tms_id": "",
@@ -238,60 +291,6 @@
         "launch_date": 1758686400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311165129-moralorel_032.jpg",
         "cma_id": "1439091"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1447172580,
-        "auth_expiration_date": 1759291140,
-        "tms_id": "EP007959510023",
-        "rating": 7.3402677,
-        "description": "Orel teaches the school bully that the best defense is no defense.",
-        "title_suggest": {
-            "input": [
-                "Turn the Other Cheek",
-                "the Other Cheek",
-                "Other Cheek",
-                "Cheek"
-            ]
-        },
-        "type": "episode",
-        "title": "Turn the Other Cheek",
-        "expiration_date": 1756267140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
-        "duration": 672.1334668,
-        "episode_number": "13",
-        "original_air_date": 1179720900,
-        "clip_order": null,
-        "auth_launch_date": 1756267200,
-        "modified": 1756017582,
-        "media_id": "cccf056d41b58fe2300900237c6e5e4d1d5ccf66",
-        "airing_id": "RADS1008212500053798",
-        "id": "7C8KYgNrQmKPWs5yBDzaRg",
-        "slug": "turn-the-other-cheek",
-        "views": 198055,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_20311161344-moralorel_024.jpg",
-        "created": 1402945470,
-        "title_id": "653304",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1756017582,
-        "tags": [],
-        "rating_count": 673,
-        "collection_title": "Moral Orel",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1753243200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311161344-moralorel_024.jpg",
-        "cma_id": "1403607"
     },
     {
         "auth": false,
@@ -793,7 +792,7 @@
         "cma_id": "1431483"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447172700,
         "auth_expiration_date": 1762318740,
         "tms_id": "EP007959510026",
