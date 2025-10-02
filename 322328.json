@@ -1087,6 +1087,52 @@
     },
     {
         "auth_expiration_date": null,
+        "tms_id": "EP001022180094",
+        "description": "Even though two prominent rappers, Ice-T and Ernie-C, make their 'Space Ghost Coast to Coast' debut, Space Ghost decides to do the 'hip shake' throughout the show. Zorak attempts to hypnotize all the guests, including actor Fred Willard.",
+        "title_suggest": {
+            "input": [
+                "Needledrop"
+            ]
+        },
+        "title": "Needledrop",
+        "expiration_date": 1786507140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+        "duration": 671.0704,
+        "episode_number": "13",
+        "original_air_date": "891059400",
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1010022500061080",
+        "media_id": "0547e8ae44f48cd4989d739cf43fef6962795a77",
+        "modified": 1759374684,
+        "slug": "needledrop",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_204201132203-sgc2c_9713_dst_cid-9127960.jpg",
+        "created": 1689871726,
+        "season_number": "4",
+        "title_id": "322351",
+        "tv_rating": "tv-pg",
+        "published": 1759374684,
+        "tags": [
+            "space ghost coast to coast sgc2c episode needledrop 46 ice-t ernie c rappers fred willard"
+        ],
+        "collection_title": "Space Ghost Coast to Coast",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1759377600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201132203-sgc2c_9713_dst_cid-9127960.jpg",
+        "id": "AYl0NDi32rZC6NyF61-J",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": null,
         "tms_id": "EP001022180056",
         "description": "Indie rock group Pavement, sitting in for an incarcerated Zorak and The Original Way-Outs, makes history as the first band ever to perform on Space Ghost Coast to Coast.",
         "title_suggest": {
@@ -3089,6 +3135,62 @@
         "modified_by": "ODT Listener",
         "launch_date": 1738818000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_20420120472-sgc2c_2305.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1450889700,
+        "auth_expiration_date": 1683691140,
+        "tms_id": "EP001022180070",
+        "rating": 6.8427672,
+        "description": "Space Ghost welcomes fellow intergalactic entertainer William Shatner, but their interview is cut short when Space Ghost is called into action to take part in an epic space battle.",
+        "title_suggest": {
+            "input": [
+                "In Memory of Elizabeth Reed",
+                "Memory of Elizabeth Reed",
+                "of Elizabeth Reed",
+                "Elizabeth Reed",
+                "Reed"
+            ]
+        },
+        "type": "episode",
+        "title": "In Memory of Elizabeth Reed",
+        "expiration_date": 1780459140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+        "duration": 713.2002002,
+        "episode_number": "4",
+        "original_air_date": 1070857800,
+        "clip_order": null,
+        "auth_launch_date": 1668315600,
+        "modified": 1759374686,
+        "airing_id": "RADS1010022500061079",
+        "media_id": "3ed6e0365ebd7069ca0bcd4e26dd8c0b62380086",
+        "id": "bk2udfR6RgO6cY_nbVmpNw",
+        "slug": "in-memory-of-elizabeth-reed",
+        "views": 24646,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_20420120222-sgc2c_2304.jpg",
+        "created": 1402945476,
+        "title_id": "449388",
+        "season_number": "8",
+        "tv_rating": "tv-14-v",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1759374686,
+        "tags": [
+            "space ghost c2c sg episode 86 in memory of elizabeth reed william shatner"
+        ],
+        "rating_count": 159,
+        "collection_title": "Space Ghost Coast to Coast",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1759377600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_20420120222-sgc2c_2304.jpg",
         "cma_id": ""
     },
     {

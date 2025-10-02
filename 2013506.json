@@ -60,6 +60,62 @@
         "cma_id": ""
     },
     {
+        "auth": true,
+        "ott_launch_date": 1458568980,
+        "auth_expiration_date": 1759982340,
+        "tms_id": "EP018336730011",
+        "rating": 7.956146,
+        "description": "Beth and Jerry head off on a romantic getaway. Rick and Summer throw a huge intergalactic house party, broh.",
+        "title_suggest": {
+            "input": [
+                "Ricksy Business",
+                "Business"
+            ]
+        },
+        "type": "episode",
+        "title": "Ricksy Business",
+        "expiration_date": 1750132740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 1346.71,
+        "episode_number": "11",
+        "original_air_date": 1397529000,
+        "clip_order": null,
+        "auth_launch_date": 1759377600,
+        "modified": 1759130512,
+        "media_id": "31283349b1e93d69fe0e072fb1fd4aa6ef2edfc7",
+        "airing_id": "RADS1009262500060207",
+        "id": "04FzVeNeSveLqB2Whx2X5g",
+        "slug": "ricksy-business",
+        "views": 1226252,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200324/thumbnails/1_20324939406-rickandmorty_011_dup-20140702.jpg",
+        "created": 1402945472,
+        "title_id": "2013516",
+        "season_number": "1",
+        "tv_rating": "tv-14-dlsv",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1759130512,
+        "tags": [
+            "rick",
+            "morty",
+            "rick and morty"
+        ],
+        "rating_count": 12609,
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1749528000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_20324939406-rickandmorty_011_dup-20140702.jpg",
+        "cma_id": "1465929"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": null,
@@ -120,6 +176,115 @@
         "launch_date": 1491318000,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/gear-head/AS_RAM_Gearhead_33CPW_2.png",
         "cma_id": ""
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1459173720,
+        "auth_expiration_date": 1759982340,
+        "tms_id": "EP018336730012",
+        "description": "Rick don goofed this time and mussed up the whole time frame broh! Beth and Jerry get romantic!",
+        "title_suggest": {
+            "input": [
+                "A Rickle in Time",
+                "Rickle in Time",
+                "in Time",
+                "Time"
+            ]
+        },
+        "title": "A Rickle in Time",
+        "type": "episode",
+        "expiration_date": 1750737540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 1368.4,
+        "episode_number": "1",
+        "original_air_date": 1437967800,
+        "clip_order": null,
+        "auth_launch_date": 1759377600,
+        "modified": 1759131413,
+        "media_id": "92a3dfc6982445858dc7936f63ad6d075983f7d1",
+        "airing_id": "RADS1009262500060205",
+        "id": "1GygwzX5SGW_dCv8DOF1BQ",
+        "slug": "a-rickle-in-time",
+        "views": 9,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200324/thumbnails/1_2032494087-rickandmorty_201_dup-20150714.jpg",
+        "created": 1437490073,
+        "season_number": "2",
+        "title_id": "2060764",
+        "tv_rating": "tv-14-l",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1759131413,
+        "first_published": 1437490073,
+        "tags": [
+            "rick",
+            "morty",
+            "rick and morty"
+        ],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1750132800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_2032494087-rickandmorty_201_dup-20150714.jpg",
+        "cma_id": "1379963"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1500906660,
+        "auth_expiration_date": 1759982340,
+        "tms_id": "EP018336730022",
+        "description": "The family deals with stuff in this one broh. What's Rick gonna do? This is a real episode right here broh.",
+        "title_suggest": {
+            "input": [
+                "The Rickshank Rickdemption",
+                "Rickshank Rickdemption",
+                "Rickdemption"
+            ]
+        },
+        "expiration_date": 1751947140,
+        "title": "The Rickshank Rickdemption",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "duration": 1371.92,
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "episode_number": "1",
+        "original_air_date": 1491091200,
+        "clip_order": null,
+        "auth_launch_date": 1759377600,
+        "modified": 1759133185,
+        "media_id": "54d52374765c915b74439200af5b47addfc1779d",
+        "airing_id": "RADS1009262500060203",
+        "id": "20Lrd8P6SFCTzSU73lLViQ",
+        "slug": "the-rickshank-rickdemption",
+        "views": 223385,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200324/thumbnails/1_20324944389-rickandmorty_301_Long_dup-20170515.jpg",
+        "created": 1494259555,
+        "season_number": "3",
+        "title_id": "2116830",
+        "tv_rating": "tv-14-dlv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1759133185,
+        "first_published": 1500664220,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1751342400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_20324944389-rickandmorty_301_Long_dup-20170515.jpg",
+        "cma_id": "1438509"
     },
     {
         "auth": false,
@@ -5813,52 +5978,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1759377540,
-        "tms_id": "EP018336730052",
-        "description": "Check these ferrets broh. Gotta keep it in the family though.",
-        "title_suggest": {
-            "input": [
-                "Gotron Jerrysis Rickvangelion",
-                "Jerrysis Rickvangelion",
-                "Rickvangelion"
-            ]
-        },
-        "title": "Gotron Jerrysis Rickvangelion",
-        "expiration_date": 1754366340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
-        "duration": 1392.124,
-        "episode_number": "7",
-        "original_air_date": "1627873200",
-        "auth_launch_date": 1758772800,
-        "clip_order": null,
-        "airing_id": "RADS1009182500058541",
-        "media_id": "a3687438f6f1436285db1b86540483ea5499d22b",
-        "modified": 1758518196,
-        "slug": "gotron-jerrysis-rickvangelion",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210730/thumbnails/1_21730119216-RickAndMorty_504_GotronJerrysisRickvangelion.png",
-        "created": 1627657777,
-        "season_number": "5",
-        "title_id": "2270461",
-        "tv_rating": "tv-14-dlv",
-        "published": 1758518196,
-        "tags": [],
-        "collection_title": "Rick and Morty",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1753761600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210730/thumbnails/2_21730119216-RickAndMorty_504_GotronJerrysisRickvangelion.png",
-        "id": "AXr39rJfeTntnGIjub01",
-        "auth": true
-    },
-    {
         "auth_expiration_date": null,
         "tms_id": "",
         "description": "What happens in the Smith family, stays in the Smith family as the crew examines Rick's descent into Gotron ferret obsession.",
@@ -5906,54 +6025,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20210730/thumbnails/2_21730123298-RickMorty_Inside504_VYX5J.png",
         "id": "AXr4QxgUeTntnGIjub02",
         "auth": false
-    },
-    {
-        "auth_expiration_date": 1759377540,
-        "tms_id": "EP018336730055",
-        "description": "Gobble gobble broh. Rick and Morty givin thanks in this one.",
-        "title_suggest": {
-            "input": [
-                "Rick & Morty's Thanksploitation Spectacular",
-                "& Morty's Thanksploitation Spectacular",
-                "Morty's Thanksploitation Spectacular",
-                "Thanksploitation Spectacular",
-                "Spectacular"
-            ]
-        },
-        "title": "Rick & Morty's Thanksploitation Spectacular",
-        "expiration_date": 1754366340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
-        "duration": 1488.2868,
-        "episode_number": "6",
-        "original_air_date": "1627268400",
-        "auth_launch_date": 1758772800,
-        "clip_order": null,
-        "airing_id": "RADS1009182500058539",
-        "media_id": "f5740598cff3f4f50be327635fca96fb27e2de9d",
-        "modified": 1758519703,
-        "slug": "rick-mortys-thanksploitation-spectacular",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210723/thumbnails/1_21723114577-RickAndMorty_507_ThanksploitationSpectacular.png",
-        "created": 1627052729,
-        "season_number": "5",
-        "title_id": "2270464",
-        "tv_rating": "tv-14-dlv",
-        "published": 1758519703,
-        "tags": [],
-        "collection_title": "Rick and Morty",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1753761600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210723/thumbnails/2_21723114577-RickAndMorty_507_ThanksploitationSpectacular.png",
-        "id": "AXrT5mYgeTntnGIjub0s",
-        "auth": true
     },
     {
         "auth_expiration_date": null,
@@ -6056,55 +6127,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1759377540,
-        "tms_id": "EP018336730056",
-        "description": "Friendship is hard. It's like a journey of the mind, broh.",
-        "title_suggest": {
-            "input": [
-                "Rickternal Friendshine of the Spotless Mort",
-                "Friendshine of the Spotless Mort",
-                "of the Spotless Mort",
-                "the Spotless Mort",
-                "Spotless Mort",
-                "Mort"
-            ]
-        },
-        "title": "Rickternal Friendshine of the Spotless Mort",
-        "type": "episode",
-        "expiration_date": 1754971140,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
-        "duration": 1417.8164,
-        "episode_number": "8",
-        "original_air_date": 1628478000,
-        "auth_launch_date": 1758772800,
-        "clip_order": null,
-        "airing_id": "RADS1009182500058543",
-        "media_id": "8d01191a5cacfe28ac0e163c5355807f6f8bba0d",
-        "modified": 1758540113,
-        "slug": "rickternal-friendshine-of-the-spotless-mort",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210806/thumbnails/1_2186105552-RickAndMorty_508_RickternalFriendshineOfTheSpotlessMort.png",
-        "created": 1628255894,
-        "title_id": "2270465",
-        "season_number": "5",
-        "tv_rating": "tv-14-dlv",
-        "published": 1758540113,
-        "tags": [],
-        "collection_title": "Rick and Morty",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1754366400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210806/thumbnails/2_2186105552-RickAndMorty_508_RickternalFriendshineOfTheSpotlessMort.png",
-        "id": "AXsbnTrbeTntnGIjub07",
-        "auth": true
-    },
-    {
         "auth_expiration_date": null,
         "tms_id": "",
         "description": "Rick plumbs the depths of Birdperson's psyche, but will the two emerge as friends or foes? The crew is here to discuss the making of this heady episode.",
@@ -6155,6 +6177,97 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20210806/thumbnails/2_21861228563-RickMorty_Inside508_WKT6G.png",
         "id": "AXscS_tAeTntnGIjub08",
         "auth": false
+    },
+    {
+        "auth_expiration_date": 1759982340,
+        "tms_id": "EP018336730060",
+        "description": "Two Crows, broh. These guys are mad smart.",
+        "title_suggest": {
+            "input": [
+                "Forgetting Sarick Mortshall",
+                "Sarick Mortshall",
+                "Mortshall"
+            ]
+        },
+        "title": "Forgetting Sarick Mortshall",
+        "expiration_date": 1754971140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 1400.5325,
+        "episode_number": "9",
+        "original_air_date": "1630897200",
+        "auth_launch_date": 1759377600,
+        "clip_order": null,
+        "airing_id": "RADS1009262500060199",
+        "media_id": "680b40ba0c9c3542abf5e0dd60cf70e007cefd0f",
+        "modified": 1759132303,
+        "slug": "forgetting-sarick-mortshall",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/1_21921511194-RickAndMorty_509_ForgettingSarickMortshall.png",
+        "created": 1630609892,
+        "season_number": "5",
+        "title_id": "2270466",
+        "tv_rating": "tv-14-dlv",
+        "published": 1759132303,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1754366400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_21921511194-RickAndMorty_509_ForgettingSarickMortshall.png",
+        "id": "AXun7GUP4Xbjep71f6Gt",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1759982340,
+        "tms_id": "EP018336730061",
+        "description": "Tryin something new broh. Doin it big.",
+        "title_suggest": {
+            "input": [
+                "Rickmurai Jack",
+                "Jack"
+            ]
+        },
+        "title": "Rickmurai Jack",
+        "expiration_date": 1754971140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 1433.3319,
+        "episode_number": "10",
+        "original_air_date": "1630899000",
+        "auth_launch_date": 1759377600,
+        "clip_order": null,
+        "airing_id": "RADS1009262500060201",
+        "media_id": "47e38bd6cfd4fed35f3ec228ca5109ec49584135",
+        "modified": 1759122687,
+        "slug": "rickmurai-jack",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/1_2192151296-RickAndMorty_510_RickmuraiJack.png",
+        "created": 1630609941,
+        "season_number": "5",
+        "title_id": "2270467",
+        "tv_rating": "tv-14-dlv",
+        "published": 1759122687,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1754366400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_2192151296-RickAndMorty_510_RickmuraiJack.png",
+        "id": "AXun7SS-4Xbjep71f6Gu",
+        "auth": true
     },
     {
         "auth_expiration_date": null,
@@ -6584,51 +6697,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1759377540,
-        "tms_id": "",
-        "description": "Fortune cookies, broh.",
-        "title_suggest": {
-            "input": [
-                "Final DeSmithation",
-                "DeSmithation"
-            ]
-        },
-        "title": "Final DeSmithation",
-        "expiration_date": 1755575940,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
-        "duration": 1461.0263,
-        "episode_number": "5",
-        "original_air_date": "1664766000",
-        "auth_launch_date": 1758772800,
-        "clip_order": null,
-        "airing_id": "RADS1009182500058537",
-        "media_id": "359284b5b8549ee4b44170eaaa75b55975533a51",
-        "modified": 1758518193,
-        "slug": "final-de-smithation",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220927/thumbnails/1_229271558509-RickAndMorty_607_DeSmithation.png",
-        "created": 1664308742,
-        "season_number": "6",
-        "title_id": "2397938",
-        "tv_rating": "tv-14-dlv",
-        "published": 1758518193,
-        "tags": [],
-        "collection_title": "Rick and Morty",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1754971200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220927/thumbnails/2_229271558509-RickAndMorty_607_DeSmithation.png",
-        "id": "AYOAiApm3sQvipyea-cJ",
-        "auth": true
-    },
-    {
         "auth_expiration_date": null,
         "tms_id": "",
         "description": "Episode 2. Dating profiles are hard.",
@@ -7050,51 +7118,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1759377540,
-        "tms_id": "",
-        "description": "They're back, broh.",
-        "title_suggest": {
-            "input": [
-                "JuRicksic Mort",
-                "Mort"
-            ]
-        },
-        "title": "JuRicksic Mort",
-        "expiration_date": 1755575940,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
-        "duration": 1440.7393,
-        "episode_number": "6",
-        "original_air_date": "1665370800",
-        "auth_launch_date": 1758772800,
-        "clip_order": null,
-        "airing_id": "RADS1009182500058535",
-        "media_id": "9b7c14b0f3f087ddb20ad91104fbbd00ff243146",
-        "modified": 1758519704,
-        "slug": "ju-ricksic-mort",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20221004/thumbnails/1_221041021238-RickAndMorty_606_JuRicksicMort.png",
-        "created": 1664893295,
-        "season_number": "6",
-        "title_id": "2397939",
-        "tv_rating": "tv-14-dl",
-        "published": 1758519704,
-        "tags": [],
-        "collection_title": "Rick and Morty",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1754971200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20221004/thumbnails/2_221041021238-RickAndMorty_606_JuRicksicMort.png",
-        "id": "AYOjX5sKIAxeiVkFtLSE",
-        "auth": true
-    },
-    {
         "auth_expiration_date": null,
         "tms_id": "",
         "description": "An unexpected guest livens up Summer\u2019s sleepover party in this trippy horror short from Claymation filmmaker Lee Hardcastle.",
@@ -7140,19 +7163,18 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1758772740,
+        "auth_expiration_date": 1759982340,
         "tms_id": "",
-        "description": "Rick left the kids in a matrix. Not chill, broh.",
+        "description": "This one wrinkled my brain, broh.",
         "title_suggest": {
             "input": [
-                "Summer of All Fears",
-                "of All Fears",
-                "All Fears",
-                "Fears"
+                "Full Meta Jackrick",
+                "Meta Jackrick",
+                "Jackrick"
             ]
         },
-        "title": "Summer of All Fears",
-        "expiration_date": 1759377540,
+        "title": "Full Meta Jackrick",
+        "expiration_date": 1755575940,
         "type": "episode",
         "platforms": [
             "android",
@@ -7161,42 +7183,43 @@
             "fire-tv"
         ],
         "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
-        "duration": 1392.9582,
-        "episode_number": "1",
-        "original_air_date": "1748228400",
-        "auth_launch_date": 1758168000,
+        "duration": 1374.2061,
+        "episode_number": "7",
+        "original_air_date": "1669003200",
+        "auth_launch_date": 1759377600,
         "clip_order": null,
-        "airing_id": "RADS1009122500057333",
-        "media_id": "a60e748e610fc8274ed34221a46578875cdc1879",
-        "modified": 1758543114,
-        "slug": "summer-of-all-fears",
+        "airing_id": "RADS1009262500060195",
+        "media_id": "a4953b3af66a8d52939c87efdd3d0f16044c392c",
+        "modified": 1759122431,
+        "slug": "full-meta-jackrick",
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250516/thumbnails/1_255161450178-RAM-S08E01-1920x1080.png",
-        "created": 1747421436,
-        "season_number": "8",
-        "title_id": "2555951",
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20221115/thumbnails/1_2211151249465-RickandMorty_608_FullMetaJackrick.png",
+        "created": 1668534597,
+        "season_number": "6",
+        "title_id": "2397940",
         "tv_rating": "tv-14-lv",
-        "published": 1758543114,
+        "published": 1759122431,
         "tags": [],
         "collection_title": "Rick and Morty",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1758772800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250516/thumbnails/2_255161450178-RAM-S08E01-1920x1080.png",
-        "id": "AZbabxumC3J9ee8ny70V",
-        "auth": false
+        "launch_date": 1754971200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20221115/thumbnails/2_2211151249465-RickandMorty_608_FullMetaJackrick.png",
+        "id": "AYR8aXXgIAxeiVkFtLTW",
+        "auth": true
     },
     {
-        "auth_expiration_date": 1758772740,
+        "auth_expiration_date": 1759982340,
         "tms_id": "",
-        "description": "Space Beth calls her dad for a ride, broh.",
+        "description": "Haters gonna hate, broh.",
         "title_suggest": {
             "input": [
-                "Valkyrick"
+                "Analyze Piss",
+                "Piss"
             ]
         },
-        "title": "Valkyrick",
-        "expiration_date": 1759377540,
+        "title": "Analyze Piss",
+        "expiration_date": 1756267199,
         "type": "episode",
         "platforms": [
             "android",
@@ -7205,30 +7228,30 @@
             "fire-tv"
         ],
         "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
-        "duration": 1317.0157,
-        "episode_number": "2",
-        "original_air_date": "1748833200",
-        "auth_launch_date": 1758168000,
+        "duration": 1447.4794,
+        "episode_number": "8",
+        "original_air_date": "1669608000",
+        "auth_launch_date": 1759377600,
         "clip_order": null,
-        "airing_id": "RADS1009182500058521",
-        "media_id": "df9124843a2eb095b423006de9c4feec6d1cde8c",
-        "modified": 1758545336,
-        "slug": "valkyrick",
+        "airing_id": "RADS1009262500060197",
+        "media_id": "7488b547f194ea57db8c916bb719d8e163eeed54",
+        "modified": 1759132585,
+        "slug": "analyze-piss",
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250516/thumbnails/1_255161452448-RAM-S08E02-1920x1080.png",
-        "created": 1747421668,
-        "season_number": "8",
-        "title_id": "2555959",
-        "tv_rating": "tv-14-dlv",
-        "published": 1758545336,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20221121/thumbnails/1_221121161358-RickAndMorty_604_AnalyzePiss.png",
+        "created": 1669064506,
+        "season_number": "6",
+        "title_id": "2397941",
+        "tv_rating": "tv-ma-lsv",
+        "published": 1759132585,
         "tags": [],
         "collection_title": "Rick and Morty",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1758772800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250516/thumbnails/2_255161452448-RAM-S08E02-1920x1080.png",
-        "id": "AZbacqQz5aaI-__GJ7Pk",
-        "auth": false
+        "launch_date": 1755576000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20221121/thumbnails/2_221121161358-RickAndMorty_604_AnalyzePiss.png",
+        "id": "AYSb_zswuLQD-MTtYfAW",
+        "auth": true
     },
     {
         "auth_expiration_date": 1759982340,
@@ -7278,7 +7301,7 @@
         "launch_date": 1758772800,
         "poster": "https://media.cdn.adultswim.com/uploads/20250516/thumbnails/2_25516145578-RAM-S08E03-1920x1080.png",
         "id": "AZbadKjvC3J9ee8ny70W",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1759982340,
@@ -7326,7 +7349,7 @@
         "launch_date": 1758772800,
         "poster": "https://media.cdn.adultswim.com/uploads/20250516/thumbnails/2_255161457147-RAM-S08E04-1920x1080.png",
         "id": "AZbadVDC5aaI-__GJ7Pl",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1759982340,
@@ -7373,7 +7396,7 @@
         "launch_date": 1758772800,
         "poster": "https://media.cdn.adultswim.com/uploads/20250516/thumbnails/2_255161457579-RAM-S08E05-1920x1080.png",
         "id": "AZbadfySC3J9ee8ny70Y",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1759377540,
@@ -7422,7 +7445,97 @@
         "launch_date": 1759377600,
         "poster": "https://media.cdn.adultswim.com/uploads/20250516/thumbnails/2_25516150295-RAM-S08E06-1920x1080.png",
         "id": "AZbaeFZuC3J9ee8ny70Z",
-        "auth": true
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1758167940,
+        "tms_id": "",
+        "description": "Rick and Morty write the next installment of their favorite movie franchise. Pure cinema, broh.",
+        "title_suggest": {
+            "input": [
+                "Ricker than Fiction",
+                "than Fiction",
+                "Fiction"
+            ]
+        },
+        "title": "Ricker than Fiction",
+        "expiration_date": 1759982340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 1342.341,
+        "episode_number": "7",
+        "original_air_date": "1751857200",
+        "auth_launch_date": 1757563200,
+        "clip_order": null,
+        "airing_id": "RADS1009262500060185",
+        "media_id": "56731db7cc9f18f04c060f4c6d04cc890e171def",
+        "modified": 1759123334,
+        "slug": "ricker-than-fiction",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250516/thumbnails/1_25516151518-RAM-S08E07-1920x1080.png",
+        "created": 1747422161,
+        "season_number": "8",
+        "title_id": "2555957",
+        "tv_rating": "tv-14-dlv",
+        "published": 1759123334,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1759377600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250516/thumbnails/2_25516151518-RAM-S08E07-1920x1080.png",
+        "id": "AZbaeiwTC3J9ee8ny70b",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1758167940,
+        "tms_id": "",
+        "description": "That funemployed life, broh. Jerry makes a friend just as jobless as he is.",
+        "title_suggest": {
+            "input": [
+                "Nomortland"
+            ]
+        },
+        "title": "Nomortland",
+        "expiration_date": 1759982340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 1339.1044,
+        "episode_number": "8",
+        "original_air_date": null,
+        "auth_launch_date": 1757563200,
+        "clip_order": null,
+        "airing_id": "RADS1009262500060183",
+        "media_id": "f18454f4ea9aec59941c25c441199d78f004b80a",
+        "modified": 1759122685,
+        "slug": "nomortland",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250516/thumbnails/1_25516154267-RAM-S08E08-1920x1080.png",
+        "created": 1747422372,
+        "season_number": "8",
+        "title_id": "2555958",
+        "tv_rating": "tv-14-dlv",
+        "published": 1759122685,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1759377600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250516/thumbnails/2_25516154267-RAM-S08E08-1920x1080.png",
+        "id": "AZbafWHhC3J9ee8ny70d",
+        "auth": false
     },
     {
         "auth_expiration_date": 1759377540,
@@ -7467,7 +7580,7 @@
         "launch_date": 1759377600,
         "poster": "https://media.cdn.adultswim.com/uploads/20250516/thumbnails/2_25516158166-RAM-S08E09-1920x1080.png",
         "id": "AZbagRH8C3J9ee8ny70e",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1759377540,
@@ -7512,7 +7625,7 @@
         "launch_date": 1759377600,
         "poster": "https://media.cdn.adultswim.com/uploads/20250612/thumbnails/2_256121434468-RAM-S08E10-1920x1080.jpg",
         "id": "AZcyjk2jCI-3VkGoG1AE",
-        "auth": true
+        "auth": false
     },
     {
         "auth": false,
@@ -7845,65 +7958,6 @@
         "launch_date": 1500904800,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/the-non-canonical-adventures-ghostbusters/RAM_NonCanonicalAdventures_Ghostbusters.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1457362800,
-        "auth_expiration_date": 1759377540,
-        "tms_id": "EP018336730009",
-        "rating": 8.173131,
-        "description": "Rick goes to battle with the devil, and Summer gets upset about it, broh. Plus Jerry and Morty hang out, broh! (Guest starring Alfred Molina, Nolan North, and Rich Fulcher)",
-        "title_suggest": {
-            "input": [
-                "Something Ricked This Way Comes",
-                "Ricked This Way Comes",
-                "This Way Comes",
-                "Way Comes",
-                "Comes"
-            ]
-        },
-        "type": "episode",
-        "title": "Something Ricked This Way Comes",
-        "expiration_date": 1750132740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
-        "duration": 1344.29,
-        "episode_number": "9",
-        "original_air_date": 1395714600,
-        "clip_order": null,
-        "auth_launch_date": 1758772800,
-        "modified": 1758517886,
-        "media_id": "84535a89bb65bdf47618dac0e9af01609a427960",
-        "airing_id": "RADS1009182500058545",
-        "id": "IFXj07L_Ty6rtBpOSXe_Og",
-        "slug": "something-ricked-this-way-comes",
-        "views": 1236450,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200324/thumbnails/1_20324938551-rickandmorty_009_dup-20140818.jpg",
-        "created": 1402945472,
-        "title_id": "2013515",
-        "season_number": "1",
-        "tv_rating": "tv-14-dlsv",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1758517886,
-        "tags": [
-            "rick",
-            "morty",
-            "rick and morty"
-        ],
-        "rating_count": 15417,
-        "collection_title": "Rick and Morty",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1749528000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_20324938551-rickandmorty_009_dup-20140818.jpg",
-        "cma_id": "1457063"
     },
     {
         "auth": false,
@@ -9503,66 +9557,6 @@
         "launch_date": 1481577840,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/rick-and-morty-marathon/rickandmorty_310_dup-20170928_1.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1457964180,
-        "auth_expiration_date": 1759377540,
-        "tms_id": "EP018336730010",
-        "rating": 8.387098,
-        "description": "Rick has a run in with some old associates, resulting in a fallout with Morty. You got any chips, broh?",
-        "title_suggest": {
-            "input": [
-                "Close Rick-Counters of the Rick Kind",
-                "Rick-Counters of the Rick Kind",
-                "of the Rick Kind",
-                "the Rick Kind",
-                "Rick Kind",
-                "Kind"
-            ]
-        },
-        "type": "episode",
-        "title": "Close Rick-Counters of the Rick Kind",
-        "expiration_date": 1750132740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
-        "duration": 1351.29,
-        "episode_number": "10",
-        "original_air_date": 1396924200,
-        "clip_order": null,
-        "auth_launch_date": 1758772800,
-        "modified": 1758517887,
-        "media_id": "ab9288967655a85aa9e96cbde8bacee9ce968547",
-        "airing_id": "RADS1009182500058547",
-        "id": "k-CbT8RlRVmK8QhM20IYxg",
-        "slug": "close-rick-counters-of-the-rick-kind",
-        "views": 1319660,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200324/thumbnails/1_20324939194-rickandmorty_010_dup-20140627.jpg",
-        "created": 1402945472,
-        "title_id": "2013512",
-        "season_number": "1",
-        "tv_rating": "tv-14-dlsv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1758517887,
-        "tags": [
-            "rick",
-            "morty",
-            "rick and morty"
-        ],
-        "rating_count": 16524,
-        "collection_title": "Rick and Morty",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1749528000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_20324939194-rickandmorty_010_dup-20140627.jpg",
-        "cma_id": "1461404"
     },
     {
         "auth": false,
