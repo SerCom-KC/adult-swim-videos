@@ -1,52 +1,5 @@
 [
     {
-        "auth_expiration_date": 1759463940,
-        "tms_id": "",
-        "description": "Louise, Tina and Gene seek the ultimate revenge.",
-        "title_suggest": {
-            "input": [
-                "Live and Let Fly",
-                "and Let Fly",
-                "Let Fly",
-                "Fly"
-            ]
-        },
-        "title": "Live and Let Fly",
-        "expiration_date": 1751255940,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1291.8239,
-        "episode_number": "5",
-        "original_air_date": null,
-        "auth_launch_date": 1758254400,
-        "clip_order": null,
-        "airing_id": "RADS1009142500057549",
-        "media_id": "66756c2384fdeeced425d47c85f3081d175fbbd5",
-        "modified": 1758002080,
-        "slug": "live-and-let-fly",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231017/thumbnails/1_2310171827289-Screenshot2023-10-17at6.27.18PM.png",
-        "created": 1696861924,
-        "season_number": "9",
-        "title_id": "2438921",
-        "tv_rating": "",
-        "published": 1758002080,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1750651200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20231017/thumbnails/2_2310171827289-Screenshot2023-10-17at6.27.18PM.png",
-        "id": "AYsU2iw2n_kciGPPrC3g",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1759723140,
         "tms_id": "",
         "description": "Bob, Linda and the kids help Mr. Fischoeder put on a play to get his brother Felix to confess to a theft. Louise is jealous of Tina's hands.",
@@ -468,6 +421,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/2_25922154765-BobsBurgers_1502.jpg",
         "id": "AZlzJI0TyEF1_1NDe6fd",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1760673540,
+        "tms_id": "",
+        "description": "Linda agrees to drive Teddy to pick up Kathleen from her colonoscopy after he accidentally injures himself.",
+        "title_suggest": {
+            "input": [
+                "Colon-ly the Dronely",
+                "the Dronely",
+                "Dronely"
+            ]
+        },
+        "title": "Colon-ly the Dronely",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "3",
+        "original_air_date": null,
+        "auth_launch_date": 1759464000,
+        "clip_order": null,
+        "airing_id": "RADS1009242500059554",
+        "media_id": "e093593bedea710f54ecc0464b237a527eeb2109",
+        "modified": 1759212972,
+        "slug": "colon-ly-the-dronely",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/1_259221719502-BobsBurgers_1503.jpg",
+        "created": 1758576000,
+        "season_number": "15",
+        "title_id": "2569622",
+        "tv_rating": "tv-pg-lv",
+        "published": 1759212972,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/2_259221719502-BobsBurgers_1503.jpg",
+        "id": "AZlzTD2cs_ErlMTJpQn4",
         "auth": true
     }
 ]
