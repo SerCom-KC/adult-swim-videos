@@ -318,7 +318,7 @@
         "launch_date": 1758447000,
         "poster": "https://media.cdn.adultswim.com/uploads/20250825/thumbnails/2_258251711112-OP742_S1114.jpg",
         "id": "AZjjEit-ITxXrw59dNSu",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1759051740,
@@ -417,7 +417,7 @@
         "launch_date": 1759656600,
         "poster": "https://media.cdn.adultswim.com/uploads/20250915/thumbnails/2_259151547262-OP744_S17E116.jpg",
         "id": "AZkr-j1yyEF1_1NDe6Pw",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1760866140,
@@ -524,6 +524,57 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/2_25922181060-OP745_S17E117.jpg",
         "id": "AZlPNWgFyEF1_1NDe6Wx",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1761470940,
+        "tms_id": "",
+        "description": "Luffy and Bartolomeo's hunger lands them in a trap set by a silver-controlling pirate lord.",
+        "title_suggest": {
+            "input": [
+                "The Silver Fortress! Luffy and Barto's Great Adventure!",
+                "Silver Fortress! Luffy and Barto's Great Adventure!",
+                "Fortress! Luffy and Barto's Great Adventure!",
+                "Luffy and Barto's Great Adventure!",
+                "and Barto's Great Adventure!",
+                "Barto's Great Adventure!",
+                "Great Adventure!",
+                "Adventure!"
+            ]
+        },
+        "title": "The Silver Fortress! Luffy and Barto's Great Adventure!",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
+        "duration": 1290.4224,
+        "episode_number": "1",
+        "original_air_date": null,
+        "auth_launch_date": 1759656600,
+        "clip_order": null,
+        "airing_id": "RADS1009302500060998",
+        "media_id": "a243d75ed35b15b28446bfb6ffd6f1a022177278",
+        "modified": 1759547767,
+        "slug": "the-silver-fortress-luffy-and-bartos-great-adventure",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20251003/thumbnails/1_25103129357-OP747_S18Ep1.jpg",
+        "created": 1759507045,
+        "season_number": "18",
+        "title_id": "2550995",
+        "tv_rating": "tv-14",
+        "published": 1759547767,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20251003/thumbnails/2_25103129357-OP747_S18Ep1.jpg",
+        "id": "AZmqyt1fs_ErlMTJpQpS",
         "auth": true
     }
 ]
