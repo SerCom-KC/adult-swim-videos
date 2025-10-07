@@ -48,6 +48,58 @@
         "auth": false
     },
     {
+        "ott_launch_date": 1447789260,
+        "auth_expiration_date": 1753761540,
+        "tms_id": "SH018336790000",
+        "description": "The Fastest Growing College on the Internet! Join Now, Print Your Degree Today and Come Profit With Us!",
+        "title_suggest": {
+            "input": [
+                "For-Profit Online University",
+                "Online University",
+                "University"
+            ]
+        },
+        "expiration_date": 1791259140,
+        "type": "episode",
+        "title": "For-Profit Online University",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
+        "duration": 660.5838198,
+        "episode_number": "2",
+        "original_air_date": 1387270800,
+        "auth_launch_date": 1750737600,
+        "clip_order": null,
+        "media_id": "38a692afaa8d949719684f1e17db665b3b1fdd0c",
+        "modified": 1759557838,
+        "airing_id": "RADS1010022500061152",
+        "slug": "for-profit-online-university",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15150977957037.jpg",
+        "created": 1510604496,
+        "season_number": "3",
+        "title_id": "2007825",
+        "tv_rating": "tv-14-dv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1759557838,
+        "tags": [
+            "money custom family military dating livecam bachelors masters [[Ad sales contact user [BOT]FPOU-AdBotDomo]]"
+        ],
+        "collection_title": "Infomercials",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1759809600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15150977957037.jpg",
+        "id": "AV-3C18nwdpKFAKSbWZL",
+        "auth": false
+    },
+    {
         "ott_launch_date": 1447789500,
         "auth_expiration_date": 1756785540,
         "tms_id": "SH020417690000",
@@ -459,6 +511,57 @@
         "launch_date": 1758600000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15108720778805.jpg",
         "cma_id": "2134722"
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1748318340,
+        "tms_id": "EP027786570027",
+        "description": "Docu-series profiling American ingenuity.",
+        "title_suggest": {
+            "input": [
+                "Innovation Makers: The Coyote Suit",
+                "Makers: The Coyote Suit",
+                "The Coyote Suit",
+                "Coyote Suit",
+                "Suit"
+            ]
+        },
+        "expiration_date": 1791259140,
+        "type": "episode",
+        "title": "Innovation Makers: The Coyote Suit",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "EwOg4-pfTNyPjquOTm2HwQ",
+        "duration": 702.5,
+        "episode_number": "3",
+        "original_air_date": 1513069200,
+        "auth_launch_date": 1745294400,
+        "clip_order": null,
+        "media_id": "5b353baa4104b2f1bb3472287e4114a7ab8b721e",
+        "modified": 1759559932,
+        "airing_id": "RADS1010022500061154",
+        "slug": "innovation-makers-the-coyote-suit",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15143258616671.png",
+        "created": 1513362575,
+        "season_number": "7",
+        "title_id": "2134723",
+        "tv_rating": "tv-14-dlv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1759559932,
+        "tags": [],
+        "collection_title": "Infomercials",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1759809600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15143258616671.png",
+        "id": "AWBbcE9HwdpKFAKSb4fy",
+        "auth": false
     },
     {
         "auth_expiration_date": 1698119940,
