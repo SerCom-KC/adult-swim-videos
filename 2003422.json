@@ -1,51 +1,5 @@
 [
     {
-        "auth_expiration_date": 1759895940,
-        "tms_id": "",
-        "description": "A school assignment about careers sends Louise spiraling, trying to imagine what her future might hold.",
-        "title_suggest": {
-            "input": [
-                "What About Job?",
-                "About Job?",
-                "Job?"
-            ]
-        },
-        "title": "What About Job?",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "3",
-        "original_air_date": null,
-        "auth_launch_date": 1758686400,
-        "clip_order": null,
-        "airing_id": "RADS1009182500058229",
-        "media_id": "9d23118393aa1b04081ac14a3dd345b53c20cf3d",
-        "modified": 1758436942,
-        "slug": "what-about-job",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181027498-BobsBurgers_1303.jpg",
-        "created": 1758205673,
-        "season_number": "13",
-        "title_id": "2569569",
-        "tv_rating": "tv-pg-lv",
-        "published": 1758436942,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181027498-BobsBurgers_1303.jpg",
-        "id": "AZldOYD1s_ErlMTJpQnn",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1759982340,
         "tms_id": "",
         "description": "At a comet watch party, Bob tries to keep Teddy from going off the deep end looking for signs from the universe.",
@@ -232,6 +186,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181144377-BobsBurgers_1309.jpg",
         "id": "AZldgBSuyEF1_1NDe6aa",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1761105540,
+        "tms_id": "",
+        "description": "A man trying to row from New Zealand to Nova Scotia visits the restaurant to have a burger, and it changes everything.",
+        "title_suggest": {
+            "input": [
+                "Oh Row You Didn't",
+                "Row You Didn't",
+                "You Didn't",
+                "Didn't"
+            ]
+        },
+        "title": "Oh Row You Didn't",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "12",
+        "original_air_date": null,
+        "auth_launch_date": 1759896000,
+        "clip_order": null,
+        "airing_id": "RADS1010022500061289",
+        "media_id": "8fd640705608c534d058bc45cc7957928b8534e9",
+        "modified": 1759435340,
+        "slug": "oh-row-you-didnt",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181152552-BobsBurgers_1312.jpg",
+        "created": 1758210777,
+        "season_number": "13",
+        "title_id": "2569577",
+        "tv_rating": "tv-pg-l",
+        "published": 1759435340,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181152552-BobsBurgers_1312.jpg",
+        "id": "AZldh2OXs_ErlMTJpQns",
         "auth": true
     },
     {
