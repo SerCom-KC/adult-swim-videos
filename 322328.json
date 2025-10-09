@@ -3087,6 +3087,59 @@
     {
         "auth": false,
         "ott_launch_date": 1450889700,
+        "auth_expiration_date": 1684295940,
+        "tms_id": "EP001022180071",
+        "rating": 6.5873017,
+        "description": "Space Ghost gets hammered during his interview with Jeff Probst, the host of TV's \"Survivor\".",
+        "title_suggest": {
+            "input": [
+                "Idlewild South",
+                "South"
+            ]
+        },
+        "type": "episode",
+        "title": "Idlewild South",
+        "expiration_date": 1781063940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+        "duration": 618.1334668,
+        "episode_number": "5",
+        "original_air_date": 1071462600,
+        "clip_order": null,
+        "auth_launch_date": 1668315600,
+        "modified": 1759937088,
+        "airing_id": "RADS1010082500061918",
+        "media_id": "c20636b78db02da52ee4507ae19acddef7689040",
+        "id": "bQvdlbRvStCa6509F4XRHA",
+        "slug": "idlewild-south",
+        "views": 29189,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_20420120472-sgc2c_2305.jpg",
+        "created": 1402945476,
+        "title_id": "449389",
+        "season_number": "8",
+        "tv_rating": "tv-14-l",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1759937088,
+        "tags": [
+            "space ghost c2c sg episode 87 idlewild south jeff probst survivor"
+        ],
+        "rating_count": 189,
+        "collection_title": "Space Ghost Coast to Coast",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1759982400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_20420120472-sgc2c_2305.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1450889700,
         "auth_expiration_date": 1683691140,
         "tms_id": "EP001022180070",
         "rating": 6.8427672,
@@ -3606,6 +3659,58 @@
         "modified_by": "ODT Listener",
         "launch_date": 1751515200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_2041710140-sgc2c_9613_dst_cid-9108808.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1449870660,
+        "auth_expiration_date": 1684900799,
+        "tms_id": "EP001022180064",
+        "rating": 9.38843,
+        "description": "\"Beavis and Butthead\" and \"King of the Hill\" creator Mike Judge kindly asks Space Ghost to \"whack the Rugrats.\" Space Ghost agrees to the job, as long as he can get onto one of Judge's shows. Harland Williams doesn't last long after calling Space Ghost \"Billy\" and \"Naughty Space Ghost.\"",
+        "title_suggest": {
+            "input": [
+                "Sphinx"
+            ]
+        },
+        "type": "episode",
+        "title": "Sphinx",
+        "expiration_date": 1784087940,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+        "duration": 675.98,
+        "episode_number": "14",
+        "original_air_date": 896499000,
+        "clip_order": null,
+        "auth_launch_date": 1676437200,
+        "modified": 1759937397,
+        "airing_id": "RADS1010082500061919",
+        "media_id": "44175c79d87b23e2b1142a95d35703a97b04a8aa",
+        "id": "qI9WrMu-SmOL7_usY2P_7w",
+        "slug": "sphinx",
+        "views": 36493,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_204201132443-sgc2c_9714_air_cid-9268247.jpg",
+        "created": 1402945476,
+        "title_id": "322338",
+        "season_number": "4",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1759937397,
+        "tags": [
+            "space ghost coast to coast sgc2c episode 47 sphinx beavis butthead mike judge harland williams"
+        ],
+        "rating_count": 121,
+        "collection_title": "Space Ghost Coast to Coast",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1759982400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201132443-sgc2c_9714_air_cid-9268247.jpg",
         "cma_id": ""
     },
     {
