@@ -1,54 +1,5 @@
 [
     {
-        "auth_expiration_date": 1760068740,
-        "tms_id": "",
-        "description": "The Belchers are out to a ball game.",
-        "title_suggest": {
-            "input": [
-                "So You Stink You Can Dance",
-                "You Stink You Can Dance",
-                "Stink You Can Dance",
-                "You Can Dance",
-                "Can Dance",
-                "Dance"
-            ]
-        },
-        "title": "So You Stink You Can Dance",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "5",
-        "original_air_date": null,
-        "auth_launch_date": 1758859200,
-        "clip_order": null,
-        "airing_id": "RADS1009192500058682",
-        "media_id": "746128820faf54ab6d3ad7a2772a6cdf3e8c3380",
-        "modified": 1758608507,
-        "slug": "so-you-stink-you-can-dance",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_25918112346-BobsBurgers_1305.jpg",
-        "created": 1758207761,
-        "season_number": "13",
-        "title_id": "2569571",
-        "tv_rating": "tv-pg-dl",
-        "published": 1758608507,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_25918112346-BobsBurgers_1305.jpg",
-        "id": "AZldWVq_yEF1_1NDe6aS",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1760327940,
         "tms_id": "",
         "description": "A VR arcade opens next door, and Gene spends all his money.",
@@ -283,6 +234,55 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181153364-BobsBurgers_1313.jpg",
         "id": "AZldiBy0yEF1_1NDe6ac",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1761278340,
+        "tms_id": "",
+        "description": "When the cool teens start coming into the restaurant, Tina decides she needs to be just like them.",
+        "title_suggest": {
+            "input": [
+                "These Boots Are Made for Stalking",
+                "Boots Are Made for Stalking",
+                "Are Made for Stalking",
+                "Made for Stalking",
+                "for Stalking",
+                "Stalking"
+            ]
+        },
+        "title": "These Boots Are Made for Stalking",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "14",
+        "original_air_date": null,
+        "auth_launch_date": 1760068800,
+        "clip_order": null,
+        "airing_id": "RADS1010062500061643",
+        "media_id": "a2aa0e8ccae4144f7223e6f88f57856824740dbf",
+        "modified": 1759819163,
+        "slug": "these-boots-are-made-for-stalking",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181154194-BobsBurgers_1314.jpg",
+        "created": 1758210880,
+        "season_number": "13",
+        "title_id": "2569579",
+        "tv_rating": "tv-pg-l",
+        "published": 1759819163,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181154194-BobsBurgers_1314.jpg",
+        "id": "AZldiPTKs_ErlMTJpQnt",
         "auth": true
     },
     {
