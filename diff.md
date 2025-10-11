@@ -2,122 +2,130 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: October 10, 2025 at 00:30:13 EDT_
+_Last Update: October 11, 2025 at 00:00:42 EDT_
 ## Video added
 ### Summary
 581006 American Dad: 2  
-2003422 Bob's Burgers: 1  
 437532 Futurama: 1  
 629835 King of the Hill: 1  
-439722 The Venture Bros.: 2  
-547867 Tom Goes To The Mayor: 1  
-### 2445761
-**American Dad S19E18 - Oh Brothel, Where Art Thou?**  
-TV-14-DLS 🔒 00:00  
-⌛ October 16, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/oh-brothel-where-art-thou  
-seriesid=`581006` titleid=`2445761` id=`AZUpsmO44ijrGBacAUzN` mediaid=`ca6248c893eb05d002ebbe0d71069b18f035050f`  
-_After Greg receives a plaque from the local historical society, Stan goes to great lengths to get the same honor. Roger becomes a traveling salesman._  
-<a href="https://media.cdn.adultswim.com/uploads/20250221/thumbnails/2_25221138284-AmDad-S19E19-OhBrothelWhereArtThou-1920x1080.jpg"><img src="https://media.cdn.adultswim.com/uploads/20250221/thumbnails/2_25221138284-AmDad-S19E19-OhBrothelWhereArtThou-1920x1080.jpg" height="144px" /></a>
-### 2445764
-**American Dad S19E19 - The Sickness**  
+2530043 Psi-Cops: 1  
+### 2445765
+**American Dad S19E21 - Guardian**  
 TV-14-DLSV 🔒 00:00  
-⌛ October 16, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-sickness  
-seriesid=`581006` titleid=`2445764` id=`AZUpsrPOem4-xVQSK9S4` mediaid=`f71ee07d38edce3df4b56148628cc97f8053e5f9`  
-_When Rogu comes down with a mysterious illness, the Smiths struggle to find a cure._  
-<a href="https://media.cdn.adultswim.com/uploads/20250221/thumbnails/2_25221138486-AmDad-S19E18-TheSickness-1920x1080.jpg"><img src="https://media.cdn.adultswim.com/uploads/20250221/thumbnails/2_25221138486-AmDad-S19E18-TheSickness-1920x1080.jpg" height="144px" /></a>
-### 2569579
-**Bob's Burgers S13E14 - These Boots Are Made for Stalking**  
-TV-PG-L 🔒 00:00  
-⌛ October 23, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/these-boots-are-made-for-stalking  
-seriesid=`2003422` titleid=`2569579` id=`AZldiPTKs_ErlMTJpQnt` mediaid=`a2aa0e8ccae4144f7223e6f88f57856824740dbf`  
-_When the cool teens start coming into the restaurant, Tina decides she needs to be just like them._  
-<a href="https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181154194-BobsBurgers_1314.jpg"><img src="https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181154194-BobsBurgers_1314.jpg" height="144px" /></a>
-### 2161611
-**Futurama S06E08 - The Beast with a Billion Backs Part 4**  
-TV-14-DLSV 🔒 22:30  
-⌛ October 16, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/the-beast-with-a-billion-backs-part-4  
-seriesid=`437532` titleid=`2161611` id=`AX59ZeM3_0O4w1rD3RcL` mediaid=`dd1d17814adf429bb079078ff06e684f77d23b6a`  
-_Everybody in the Universe and Yivo live together happily, except for a skeptical Leela. Bender misses the humans._  
-<a href="https://media.cdn.adultswim.com/uploads/20220121/thumbnails/2_221211619156-Futurama_608_TheBeastWithABillionBacks_Part4.png"><img src="https://media.cdn.adultswim.com/uploads/20220121/thumbnails/2_221211619156-Futurama_608_TheBeastWithABillionBacks_Part4.png" height="144px" /></a>
-### 731374
-**King of the Hill S06E13 - Tankin' It To the Streets**  
-TV-PG-DL 🔒 24:30  
-⌛ October 16, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/tankin-it-to-the-streets  
-seriesid=`629835` titleid=`731374` id=`aSlaTnOQSvq1yyBekp7OTA` mediaid=`4d708fdb781d25b8d1289a925caa0ecf5a93fe78`  
-_Bill gets drunk and steals a military tank after learning he was used as a guinea pig in a secret Army experiment._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15205394547751.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15205394547751.jpg" height="144px" /></a>
-### 718819
-**The Venture Bros. S03E08 - Tears of a Sea Cow**  
-TV-14-DLSV 🔓 22:18  
-⌛ August 5, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-venture-bros/tears-of-a-sea-cow  
-seriesid=`439722` titleid=`718819` id=`xomKvs2AS4-k7AmhSftDLA` mediaid=`a8035ab1962cf2e546950638685c2d795a5b3e0e`  
-_Bored and under-whelmed with his new Guild-assigned arch-enemies, The Monarch seeks to re-spark his old hatred by secretly visiting the Venture Compound while Dr. Venture is away at the Science Now conference. His passion for arching all things Venture may threaten to seriously cool things with his other love, Dr. Mrs. The Monarch, but does it really count as arching when there's nobody home? Or is there?_  
-<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116141105-venture_134_dst_cid-UQXH.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116141105-venture_134_dst_cid-UQXH.jpg" height="144px" /></a>
-### 718818
-**The Venture Bros. S03E07 - What Goes Down Must Come Up**  
-TV-14-DLSV 🔓 22:27  
-⌛ August 5, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-venture-bros/what-goes-down-must-come-up  
-seriesid=`439722` titleid=`718818` id=`cHVpPHbcSkuxMbPP9Ol0jg` mediaid=`5fc055e4abda05ded4297f67a0fb8da12f5bc208`  
-_All basements are kinda spooky, but the Ventures are about to learn the hard way that beneath the foundations of the Venture Compound lie deep, dark secrets... great and small. Only the one-two punch of magic and technology can save Doc, Brock--and perhaps the planet--from certain doom as the boys recruit The Order of the Triad and Pete White to get to the bottom of a thirty year old mystery._  
-<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116140559-venture_133_dst_cid-UQXF.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116140559-venture_133_dst_cid-UQXF.jpg" height="144px" /></a>
-### 639411
-**Tom Goes To The Mayor S02E15 - Undercover**  
-TV-14 🔓 11:38  
-⌛ December 18, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/tom-goes-to-the-mayor/undercover  
-seriesid=`547867` titleid=`639411` id=`KCurLYD7T1WMDKEw45yL3Q` mediaid=`dc7238434110c66fd1f2f9f517fe6992a30d91e6`  
-_Tom goes undercover at his son's school to find out if they are being served high levels of starch._  
-<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_211795854-tgttm_028.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_211795854-tgttm_028.jpg" height="144px" /></a>
+⌛ October 17, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/guardian  
+seriesid=`581006` titleid=`2445765` id=`AZWBvHcM4ijrGBacAU8D` mediaid=`8e10c8f3b63a816dc4747394ccfee08792a17a9d`  
+_Stan uses a mothballed military computer to do Steve's math homework, starting the clock toward nuclear annihilation._  
+<a href="https://media.cdn.adultswim.com/uploads/20250310/thumbnails/2_25310162643-AmDad-S19E22-Guardian-1920x1080.jpg"><img src="https://media.cdn.adultswim.com/uploads/20250310/thumbnails/2_25310162643-AmDad-S19E22-Guardian-1920x1080.jpg" height="144px" /></a>
+### 2445763
+**American Dad S19E20 - Silicon Steve**  
+TV-14-DL 🔒 00:00  
+⌛ October 17, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/silicon-steve  
+seriesid=`581006` titleid=`2445763` id=`AZWAeagFem4-xVQSK9Zf` mediaid=`c2ff25bcde82f6503fe8fbecd7de9bf523adac7a`  
+_Steve spends his summer working on an app with some unlikely friends, while the rest of the family become cord-cutters._  
+<a href="https://media.cdn.adultswim.com/uploads/20250310/thumbnails/2_253101033282-AmDad-S19E20-SiliconSteve-1920x1080.jpg"><img src="https://media.cdn.adultswim.com/uploads/20250310/thumbnails/2_253101033282-AmDad-S19E20-SiliconSteve-1920x1080.jpg" height="144px" /></a>
+### 2161612
+**Futurama S06E09 - Bender's Game Part 1**  
+TV-14-DLV 🔒 22:31  
+⌛ October 17, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/futurama/benders-game-part-1  
+seriesid=`437532` titleid=`2161612` id=`AX6dVsFb_0O4w1rD3Rg9` mediaid=`407216b0e7e42f24034afb1a729c9195e70b70dd`  
+_When Leela loses her cool over some redneck bullies, Farnsworth orders her to wear an electrical collar to help control her temper; and Bender loses his mind over Dungeons and Dragons._  
+<a href="https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_2212716054-Futurama_609_BendersGame_Part1.png"><img src="https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_2212716054-Futurama_609_BendersGame_Part1.png" height="144px" /></a>
+### 731375
+**King of the Hill S06E14 - Of Mice and Little Green Men**  
+TV-PG-DL 🔒 24:27  
+⌛ October 17, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/king-of-the-hill/of-mice-and-little-green-men  
+seriesid=`629835` titleid=`731375` id=`zspZohFYR_S_3mylncYujg` mediaid=`948148ddf4b545e6909adbe398a682424e31b559`  
+_Bobby and Joseph are hurt when their dads show more interest in one another's son than in their own. Dale is convinced that Joseph's real father is an alien._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15205394245998.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15205394245998.jpg" height="144px" /></a>
+### 2530046
+**Psi-Cops S01E03 - Bloody Mary**  
+TV-MA-V 🔒 11:00  
+⌛ November 14, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/psi-cops/bloody-mary  
+seriesid=`2530043` titleid=`2530046` id=`AZCfZbr2Saru9Cdsy7JP` mediaid=`566a9366aebe2bc888142382796d531742b90873`  
+_Kydd and Felixx attend a slumber party and learn that mirror demons aren't nearly as scary as their own reflections._  
+<a href="https://media.cdn.adultswim.com/uploads/20240715/thumbnails/2_24715112430-PSICOPS_SEASON1_EP103_SHOWSTILLS_IMAGE3_LEFTTORIGHT_KYDDFELIXXERIC.jpg"><img src="https://media.cdn.adultswim.com/uploads/20240715/thumbnails/2_24715112430-PSICOPS_SEASON1_EP103_SHOWSTILLS_IMAGE3_LEFTTORIGHT_KYDDFELIXXERIC.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 1  
+2224721 Smiling Friends: 1  
+2530043 Psi-Cops: 1  
 437532 Futurama: 1  
 581006 American Dad: 2  
+581268 Squidbillies: 3  
 629835 King of the Hill: 1  
-### 2569571
-**Bob's Burgers S13E05 - So You Stink You Can Dance**  
-TV-PG-DL 🔒 00:00  
-⌛ October 9, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/so-you-stink-you-can-dance  
-seriesid=`2003422` titleid=`2569571` id=`AZldWVq_yEF1_1NDe6aS` mediaid=`746128820faf54ab6d3ad7a2772a6cdf3e8c3380`  
-_The Belchers are out to a ball game._  
-<a href="https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_25918112346-BobsBurgers_1305.jpg"><img src="https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_25918112346-BobsBurgers_1305.jpg" height="144px" /></a>
-### 2161606
-**Futurama S06E03 - Bender's Big Score Part 3**  
-TV-14-DLV 🔒 22:25  
-⌛ October 9, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/benders-big-score-part-3  
-seriesid=`437532` titleid=`2161606` id=`AX4xSLf_208s7zyYUL9W` mediaid=`61408e5b17dde7fa1395e032846e402877ddc561`  
-_As Leela and Lars prepare to get married, we learn what happened to Fry when he returned to the 21st century._  
-<a href="https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_22161625445-Futurama_603_BendersBigScore_Part3.png"><img src="https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_22161625445-Futurama_603_BendersBigScore_Part3.png" height="144px" /></a>
-### 2445749
-**American Dad S19E06 - The Violence of the Clams**  
+### 2322682
+**Smiling Friends S01E07 - Frowning Friends**  
+TV-14-LV 🔒 11:07  
+⌛ October 10, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/smiling-friends/frowning-friends  
+seriesid=`2224721` titleid=`2322682` id=`AX42sTZm208s7zyYUL9h` mediaid=`307cfc0e3282638d68d69de07a0d44b526f49d14`  
+_A rival business moves across the street, much to the Boss's dismay. Nuff said._  
+<a href="https://media.cdn.adultswim.com/uploads/20220110/thumbnails/2_221101238285-SmilingFriends_107_FrowningFriends.png"><img src="https://media.cdn.adultswim.com/uploads/20220110/thumbnails/2_221101238285-SmilingFriends_107_FrowningFriends.png" height="144px" /></a>
+### 2530057
+**Psi-Cops S01E22 - Undead Soldier**  
+TV-MA-V 🔒 11:00  
+⌛ October 10, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/psi-cops/undead-soldier  
+seriesid=`2530043` titleid=`2530057` id=`AZHe-r74Saru9Cdsy79a` mediaid=`d558b8d88f8a62aca39cb0e6d714218935bc86a4`  
+_Kydd and Felixx allow a reanimated corpse to terrorize a military base until they are paid properly._  
+<a href="https://media.cdn.adultswim.com/uploads/20241016/thumbnails/2_241016111328-PSICOPS_SEASON1_EP122_SHOWSTILLS_IMAGE3_WEREWOLFGOAT.jpg"><img src="https://media.cdn.adultswim.com/uploads/20241016/thumbnails/2_241016111328-PSICOPS_SEASON1_EP122_SHOWSTILLS_IMAGE3_WEREWOLFGOAT.jpg" height="144px" /></a>
+### 2161607
+**Futurama S06E04 - Bender's Big Score Part 4**  
+TV-14-DLV 🔒 22:24  
+⌛ October 10, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/futurama/benders-big-score-part-4  
+seriesid=`437532` titleid=`2161607` id=`AX4xSdr0208s7zyYUL9X` mediaid=`02875490520ab971acf2414a4d9d6947bfccb78b`  
+_Alien scammers buy the planet and banish its inhabitants to Neptune, leading to an intergalactic battle for Earth._  
+<a href="https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_22161626567-Futurama_604_BendersBigScore_Part4.png"><img src="https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_22161626567-Futurama_604_BendersBigScore_Part4.png" height="144px" /></a>
+### 2445751
+**American Dad S19E08 - Piece by Piece**  
 TV-14-DLV 🔒 00:00  
-⌛ October 9, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-violence-of-the-clams  
-seriesid=`581006` titleid=`2445749` id=`AZNpDA0gIFyXXN-f0M-i` mediaid=`5c175928918a4f3384aa27b80c623bafe8f3134b`  
-_Being the only one of his friends to not like a new fast-food restaurant drives Steve to madness._  
-<a href="https://media.cdn.adultswim.com/uploads/20241126/thumbnails/2_2411261016536-AmDad-S19E06-ViolenceOfTheClams-1920x1080.jpg"><img src="https://media.cdn.adultswim.com/uploads/20241126/thumbnails/2_2411261016536-AmDad-S19E06-ViolenceOfTheClams-1920x1080.jpg" height="144px" /></a>
-### 2445750
-**American Dad S19E07 - An Adult Woman**  
-TV-14-DLV 🔒 00:00  
-⌛ October 9, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/an-adult-woman  
-seriesid=`581006` titleid=`2445750` id=`AZNpDGy8IFyXXN-f0M-j` mediaid=`535b34000b82ea5511810b2692e3d95a9fc5ad0d`  
-_After Hayley is deemed a "big child" by The Lady from The Hamster Rescue Society, she gets involved with two Roger personas._  
-<a href="https://media.cdn.adultswim.com/uploads/20241126/thumbnails/2_2411261017178-AmDad-S19E07-AnAdultWoman-1920x1080.jpg"><img src="https://media.cdn.adultswim.com/uploads/20241126/thumbnails/2_2411261017178-AmDad-S19E07-AnAdultWoman-1920x1080.jpg" height="144px" /></a>
-### 731359
-**King of the Hill S06E07 - Torch Song Hillogy**  
-TV-PG 🔒 24:27  
-⌛ October 9, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/torch-song-hillogy  
-seriesid=`629835` titleid=`731359` id=`SwlWJ7DGSLCLqo9lPkFq6Q` mediaid=`da77bfd2a39759f710ccaca2116e33fb981c2643`  
-_Peggy loses her job as a substitute teacher after she spanks an unruly student._  
-<a href="https://media.cdn.adultswim.com/uploads/20221012/thumbnails/2_2210121048309-KingOfTheHill_612_TorchSongHillogy.png"><img src="https://media.cdn.adultswim.com/uploads/20221012/thumbnails/2_2210121048309-KingOfTheHill_612_TorchSongHillogy.png" height="144px" /></a>
+⌛ October 10, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/piece-by-piece  
+seriesid=`581006` titleid=`2445751` id=`AZNpDMh0IFyXXN-f0M-k` mediaid=`1da4303c7a4abfd68c458353e38f27fb2a0af54d`  
+_After a nearly fatal interaction with one of Roger's personas, Steve and Stan work together to uncover the persona's mysterious past._  
+<a href="https://media.cdn.adultswim.com/uploads/20241126/thumbnails/2_2411261017412-AmDad-S19E08-PieceByPiece-1920x1080.jpg"><img src="https://media.cdn.adultswim.com/uploads/20241126/thumbnails/2_2411261017412-AmDad-S19E08-PieceByPiece-1920x1080.jpg" height="144px" /></a>
+### 2445753
+**American Dad S19E09 - Nasty Christmas**  
+TV-14-DL 🔒 00:00  
+⌛ October 10, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/nasty-christmas  
+seriesid=`581006` titleid=`2445753` id=`AZNpDTu_J6hTPa_yiOA1` mediaid=`3ac16ad5324b0db52a3a8730127a9b5b321e9684`  
+_Bullock throws a private, star-studded Christmas party the exact same night as the CIA work party. Stan and Klaus are determined to get in._  
+<a href="https://media.cdn.adultswim.com/uploads/20241126/thumbnails/2_2411261018119-AmDad-S19E10-NastyChristmas-1920x1080.jpg"><img src="https://media.cdn.adultswim.com/uploads/20241126/thumbnails/2_2411261018119-AmDad-S19E10-NastyChristmas-1920x1080.jpg" height="144px" /></a>
+### 2199309
+**Squidbillies S12E09 - Events By Russell**  
+TV-14-DLSV 🔓 11:17  
+⌛ October 10, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/squidbillies/events-by-russell  
+seriesid=`581268` titleid=`2199309` id=`AW0nGhd4CorLtcgfluVw` mediaid=`d38cfb672fc4eda20264552574cdb1d439708d3b`  
+_Early interferes with Rusty's new party business and it's last call…for action!_  
+<a href="https://media.cdn.adultswim.com/uploads/20190913/thumbnails/2_19913133124-squidbillies_1008_dup-20190912.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190913/thumbnails/2_19913133124-squidbillies_1008_dup-20190912.jpg" height="144px" /></a>
+### 2006888
+**Squidbillies S08E08 - The Squid Stays in the Picture**  
+TV-MA 🔓 11:15  
+⌛ October 10, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/squidbillies/the-squid-stays-in-the-picture  
+seriesid=`581268` titleid=`2006888` id=`JrHdk87RTmCeIzcsj5PHvg` mediaid=`344fa888a714da7906cda2aa6c2e2741a883cb5a`  
+_Early sells out to liberal Hollywood._  
+<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_20414114135-squidbillies_709_dup-20131024.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_20414114135-squidbillies_709_dup-20131024.jpg" height="144px" /></a>
+### 758316
+**Squidbillies S04E07 - Atone Deaf**  
+TV-14-SV 🔓 11:14  
+⌛ October 10, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/squidbillies/atone-deaf  
+seriesid=`581268` titleid=`758316` id=`WkSdupxCRh28JLhNG9Lppg` mediaid=`a7dd8798ca008af54f873db2fdee3714c8fc65e4`  
+_Early learns to deal with rage by punching it in the face._  
+<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131220271-squidbillies_046_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131220271-squidbillies_046_bim.jpg" height="144px" /></a>
+### 731362
+**King of the Hill S06E08 - Joust Like a Woman**  
+TV-PG-DLV 🔒 24:28  
+⌛ October 10, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/king-of-the-hill/joust-like-a-woman  
+seriesid=`629835` titleid=`731362` id=`kvYlYk_bRVyrqrIGMPQuFQ` mediaid=`c54c039b5edbf776d218ec0db378b80e7d9e3da8`  
+_Hank tries to win the Renaissance Faire propane account by getting Peggy to work at the Faire.  But, when Peggy is sentenced to the stocks for protesting the treatment of female employees, Hank must joust to defend his wife's honor._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203656609561.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203656609561.jpg" height="144px" /></a>
