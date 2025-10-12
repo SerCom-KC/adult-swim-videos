@@ -284,7 +284,7 @@
         "launch_date": 1759046400,
         "poster": "https://media.cdn.adultswim.com/uploads/20250725/thumbnails/2_257251521408-Ep07_Still_0051.png",
         "id": "AZhDCO5xITxXrw59dM90",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1759651140,
@@ -475,6 +475,55 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250725/thumbnails/2_257251525581-Ep11_Still_0195.png",
         "id": "AZhDDMVyCI-3VkGoG1VK",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1762073940,
+        "tms_id": "",
+        "description": "Momo and Okarun head to Jiji's house to investigate what happened to Jiji's family. There are several figures watching them...",
+        "title_suggest": {
+            "input": [
+                "Let's Go to the Cursed House",
+                "Go to the Cursed House",
+                "to the Cursed House",
+                "the Cursed House",
+                "Cursed House",
+                "House"
+            ]
+        },
+        "title": "Let's Go to the Cursed House",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZhC4WShITxXrw59dM9q",
+        "duration": 1357.7564,
+        "episode_number": "12",
+        "original_air_date": null,
+        "auth_launch_date": 1760256000,
+        "clip_order": null,
+        "airing_id": "RADS1010072500061806",
+        "media_id": "bc1f12a17fc81d640ebbd7f2635c66f9d5b01321",
+        "modified": 1759952995,
+        "slug": "lets-go-to-the-cursed-house",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250725/thumbnails/1_257251526584-Ep12_Still_0144.png",
+        "created": 1753471632,
+        "season_number": "1",
+        "title_id": "2568755",
+        "tv_rating": "tv-ma",
+        "published": 1759952995,
+        "tags": [],
+        "collection_title": "DAN DA DAN",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250725/thumbnails/2_257251526584-Ep12_Still_0144.png",
+        "id": "AZhDDcRdITxXrw59dM94",
         "auth": true
     }
 ]
