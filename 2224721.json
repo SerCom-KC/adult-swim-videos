@@ -188,6 +188,51 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1764997140,
+        "tms_id": "EP034814950007",
+        "description": "A rival business moves across the street, much to the Boss's dismay. Nuff said.",
+        "title_suggest": {
+            "input": [
+                "Frowning Friends",
+                "Friends"
+            ]
+        },
+        "title": "Frowning Friends",
+        "type": "episode",
+        "expiration_date": 1752897540,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXFAgKw8Rs3h4hI_X2xz",
+        "duration": 667.667,
+        "episode_number": "7",
+        "original_air_date": 1643001300,
+        "auth_launch_date": 1760241600,
+        "clip_order": null,
+        "airing_id": "RADS1010112500062464",
+        "media_id": "307cfc0e3282638d68d69de07a0d44b526f49d14",
+        "modified": 1760187565,
+        "slug": "frowning-friends",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220110/thumbnails/1_221101238285-SmilingFriends_107_FrowningFriends.png",
+        "created": 1641595090,
+        "title_id": "2322682",
+        "season_number": "1",
+        "tv_rating": "tv-14-lv",
+        "published": 1760187565,
+        "tags": [],
+        "collection_title": "Smiling Friends",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1749873600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220110/thumbnails/2_221101238285-SmilingFriends_107_FrowningFriends.png",
+        "id": "AX42sTZm208s7zyYUL9h",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1760759940,
         "tms_id": "EP034814950008",
         "description": "In the season finale, Charlie actually dies for real.",
