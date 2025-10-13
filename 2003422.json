@@ -1,51 +1,5 @@
 [
     {
-        "auth_expiration_date": 1760327940,
-        "tms_id": "",
-        "description": "A VR arcade opens next door, and Gene spends all his money.",
-        "title_suggest": {
-            "input": [
-                "Ready Player Gene",
-                "Player Gene",
-                "Gene"
-            ]
-        },
-        "title": "Ready Player Gene",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "7",
-        "original_air_date": null,
-        "auth_launch_date": 1759118400,
-        "clip_order": null,
-        "airing_id": "RADS1009242500059551",
-        "media_id": "5be73faa150ee83cdea1a7bfc8f3e12ef2037505",
-        "modified": 1758866801,
-        "slug": "ready-player-gene",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181137218-BobsBurgers_1307.jpg",
-        "created": 1758209896,
-        "season_number": "13",
-        "title_id": "2569588",
-        "tv_rating": "tv-pg-dl",
-        "published": 1758866801,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181137218-BobsBurgers_1307.jpg",
-        "id": "AZldefCXs_ErlMTJpQno",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1760414340,
         "tms_id": "",
         "description": "Bob takes Linda and the kids to visit his mother's grave, but finding the headstone is harder than he expected.",
@@ -468,6 +422,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291449150-BobsBurgers_1507.jpg",
         "id": "AZmW0ACLs_ErlMTJpQn8",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1761537540,
+        "tms_id": "",
+        "description": "When Louise signs up for a father-daughter boogie board contest, Bob's past comes back to haunt him.",
+        "title_suggest": {
+            "input": [
+                "Boogie Days",
+                "Days"
+            ]
+        },
+        "title": "Boogie Days",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "8",
+        "original_air_date": null,
+        "auth_launch_date": 1760328000,
+        "clip_order": null,
+        "airing_id": "RADS1010072500061875",
+        "media_id": "974980fb22d67a7700774bbd5710ca3c6ede8860",
+        "modified": 1760079303,
+        "slug": "boogie-days",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_25929145222-BobsBurgers_1508.jpg",
+        "created": 1759171926,
+        "season_number": "15",
+        "title_id": "2569626",
+        "tv_rating": "tv-pg-l",
+        "published": 1760079303,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_25929145222-BobsBurgers_1508.jpg",
+        "id": "AZmW0VmDs_ErlMTJpQn9",
         "auth": true
     }
 ]
