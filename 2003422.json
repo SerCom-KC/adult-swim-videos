@@ -1,53 +1,5 @@
 [
     {
-        "auth_expiration_date": 1760414340,
-        "tms_id": "",
-        "description": "Bob takes Linda and the kids to visit his mother's grave, but finding the headstone is harder than he expected.",
-        "title_suggest": {
-            "input": [
-                "Show Mama from the Grave",
-                "Mama from the Grave",
-                "from the Grave",
-                "the Grave",
-                "Grave"
-            ]
-        },
-        "title": "Show Mama from the Grave",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "9",
-        "original_air_date": null,
-        "auth_launch_date": 1759204800,
-        "clip_order": null,
-        "airing_id": "RADS1009242500059547",
-        "media_id": "c5bf858b9e8c630f54ee0cda0352e33f86548f48",
-        "modified": 1758828721,
-        "slug": "show-mama-from-the-grave",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181144377-BobsBurgers_1309.jpg",
-        "created": 1758210299,
-        "season_number": "13",
-        "title_id": "2569574",
-        "tv_rating": "tv-pg-dl",
-        "published": 1758828721,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181144377-BobsBurgers_1309.jpg",
-        "id": "AZldgBSuyEF1_1NDe6aa",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1761105540,
         "tms_id": "",
         "description": "A man trying to row from New Zealand to Nova Scotia visits the restaurant to have a burger, and it changes everything.",
@@ -467,6 +419,54 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_25929145222-BobsBurgers_1508.jpg",
         "id": "AZmW0VmDs_ErlMTJpQn9",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1761623940,
+        "tms_id": "",
+        "description": "Tina and Louise get into an argument that escalates across several graphic \"apology\" cards.",
+        "title_suggest": {
+            "input": [
+                "They Slug Horses, Don't They?",
+                "Slug Horses, Don't They?",
+                "Horses, Don't They?",
+                "Don't They?",
+                "They?"
+            ]
+        },
+        "title": "They Slug Horses, Don't They?",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "6",
+        "original_air_date": null,
+        "auth_launch_date": 1760414400,
+        "clip_order": null,
+        "airing_id": "RADS1010082500061975",
+        "media_id": "72ce73d4d84f6b546c4dc015bf1ce8872adec083",
+        "modified": 1760160879,
+        "slug": "they-slug-horses-dont-they",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_259291442109-BobsBurgers_1506.jpg",
+        "created": 1759171588,
+        "season_number": "15",
+        "title_id": "2569627",
+        "tv_rating": "tv-pg-l",
+        "published": 1760160879,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291442109-BobsBurgers_1506.jpg",
+        "id": "AZmWzDBYs_ErlMTJpQn7",
         "auth": true
     }
 ]
