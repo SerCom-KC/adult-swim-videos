@@ -620,52 +620,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1760414340,
-        "tms_id": "",
-        "description": "Francine and Roger become addicted to peeping in on people at a mysterious motel.",
-        "title_suggest": {
-            "input": [
-                "The Clearview Motel",
-                "Clearview Motel",
-                "Motel"
-            ]
-        },
-        "title": "The Clearview Motel",
-        "expiration_date": 1753070340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 0,
-        "episode_number": "13",
-        "original_air_date": "1737943200",
-        "auth_launch_date": 1759809600,
-        "clip_order": null,
-        "airing_id": "RADS1010022500061163",
-        "media_id": "d1b6cf0e79f4b021bbe8ed9af7cfe22fddaa6af3",
-        "modified": 1759554514,
-        "slug": "the-clearview-motel",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241217/thumbnails/1_2412171233366-AmDad-S19E13-ClearviewMotel-1920x1080.jpg",
-        "created": 1734456819,
-        "season_number": "19",
-        "title_id": "2445756",
-        "tv_rating": "tv-14-dlsv",
-        "published": 1759554514,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1752465600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20241217/thumbnails/2_2412171233366-AmDad-S19E13-ClearviewMotel-1920x1080.jpg",
-        "id": "AZPVrr9khkIHwKa-EB3r",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1760500740,
         "tms_id": "",
         "description": "Forces of evil beyond human comprehension bully Hayley into doing a Space Jam.",
@@ -1038,5 +992,55 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20250310/thumbnails/2_25310162643-AmDad-S19E22-Guardian-1920x1080.jpg",
         "id": "AZWBvHcM4ijrGBacAU8D",
         "auth": true
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1761019140,
+        "tms_id": "EP007164450227",
+        "description": "Hayley takes Roger with her to a meditation center and he quickly takes over, becoming one of the world's leading authorities on meditation. Stan and Steve become apprentices as they are taught the art of making sushi.",
+        "title_suggest": {
+            "input": [
+                "The Enlightenment of Ragi-Baba",
+                "Enlightenment of Ragi-Baba",
+                "of Ragi-Baba",
+                "Ragi-Baba"
+            ]
+        },
+        "title": "The Enlightenment of Ragi-Baba",
+        "type": "episode",
+        "expiration_date": 1753675140,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1275.73,
+        "episode_number": "3",
+        "original_air_date": 1480561200,
+        "auth_launch_date": 1760414400,
+        "clip_order": null,
+        "modified": 1760163882,
+        "media_id": "5d4218baa48a0c16816b753d6db8066528622760",
+        "airing_id": "RADS1010082500061949",
+        "id": "Pio80KFJQd6SVdNWrk5VgA",
+        "slug": "the-enlightenment-of-ragi-baba",
+        "views": 1177,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15175251844527.jpg",
+        "created": 1480515082,
+        "title_id": "2069534",
+        "tv_rating": "tv-14",
+        "season_number": "12",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1760163882,
+        "first_published": 1480515082,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1753070400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15175251844527.jpg",
+        "cma_id": "1335078"
     }
 ]
