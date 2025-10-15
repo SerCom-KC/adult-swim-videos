@@ -110,7 +110,7 @@
         "cma_id": "1352058"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1445971080,
         "auth_expiration_date": 1760500799,
         "tms_id": "EP004662930058",
@@ -902,7 +902,7 @@
         "cma_id": "1156633"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1445970780,
         "auth_expiration_date": 1776225540,
         "tms_id": "EP004662930110",
@@ -1884,7 +1884,7 @@
         "launch_date": 1729137600,
         "poster": "https://media.cdn.adultswim.com/uploads/20230324/thumbnails/2_233241611143-Plantasmtiny.png",
         "id": "AYb1Sfo0uLQD-MTtYgm8",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1748318340,
@@ -2224,7 +2224,7 @@
         "cma_id": "1409964"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1445971020,
         "auth_expiration_date": 1760500740,
         "tms_id": "EP004662930057",
@@ -2330,7 +2330,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1445970780,
         "auth_expiration_date": 1776225540,
         "tms_id": "EP004662930136",
@@ -2408,7 +2408,7 @@
         "cma_id": "1286048"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1445970900,
         "auth_expiration_date": 1760500740,
         "tms_id": "EP004662930056",
@@ -2959,7 +2959,7 @@
         "cma_id": "1267243"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1445971200,
         "auth_expiration_date": 1760500799,
         "tms_id": "EP004662930060",
@@ -5803,7 +5803,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1760500799,
         "tms_id": "EP004662930059",
@@ -6807,7 +6807,7 @@
         "cma_id": "1414529"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1445970900,
         "auth_expiration_date": 1776225540,
         "tms_id": "EP004662930055",
@@ -7531,7 +7531,7 @@
         "cma_id": "1388891"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1445970840,
         "auth_expiration_date": 1776225540,
         "tms_id": "EP004662930054",
@@ -7754,7 +7754,7 @@
         "cma_id": "1136005"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1445970840,
         "auth_expiration_date": 1776225540,
         "tms_id": "EP004662930052",
