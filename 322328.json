@@ -1133,6 +1133,52 @@
     },
     {
         "auth_expiration_date": null,
+        "tms_id": "EP001022180056",
+        "description": "Indie rock group Pavement, sitting in for an incarcerated Zorak and The Original Way-Outs, makes history as the first band ever to perform on Space Ghost Coast to Coast.",
+        "title_suggest": {
+            "input": [
+                "Pavement"
+            ]
+        },
+        "title": "Pavement",
+        "expiration_date": 1787716740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+        "duration": 727.9272,
+        "episode_number": "15",
+        "original_air_date": "889245000",
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1010152500062759",
+        "media_id": "fcaecbc43f968b3b254fd666f3c6595316f17b7d",
+        "modified": 1760535948,
+        "slug": "pavement",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_204201133119-sgc2c_9715_air_cid-9268244.jpg",
+        "created": 1689871797,
+        "season_number": "4",
+        "title_id": "322637",
+        "tv_rating": "tv-pg",
+        "published": 1760535948,
+        "tags": [
+            "space ghost coast to coast sgc2c episode 48 pavement goldie hawn tommy davidson red green colin quinn"
+        ],
+        "collection_title": "Space Ghost Coast to Coast",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1760587200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201133119-sgc2c_9715_air_cid-9268244.jpg",
+        "id": "AYl0NU072rZC6NyF61-K",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": null,
         "tms_id": "EP001022180102",
         "description": "Space Ghost, an unofficial member of the P-Funk Mob, sets the groove in motion with George Clinton, but Moltar attempts to wrest the show from Space Ghost's control so he can interview his hero and the star of TV's 'CHiPs,' Erik Estrada.",
         "title_suggest": {
@@ -3971,6 +4017,58 @@
         "modified_by": "ODT Listener",
         "launch_date": 1752724800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417102286-sgc2c_9615_dst_cid-9161145.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1450888020,
+        "auth_expiration_date": 1684900740,
+        "tms_id": "EP001022180072",
+        "rating": 6.151164,
+        "description": "Space Ghost gets down and dirty with Triumph, the dog who loves to piss everyone off.",
+        "title_suggest": {
+            "input": [
+                "Dreams"
+            ]
+        },
+        "type": "episode",
+        "title": "Dreams",
+        "expiration_date": 1781668740,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+        "duration": 708.2669336,
+        "episode_number": "1",
+        "original_air_date": 1073881800,
+        "clip_order": null,
+        "auth_launch_date": 1668315600,
+        "modified": 1760535947,
+        "airing_id": "RADS1010152500062758",
+        "media_id": "7bad879b2915d6da2572006e1d70eeabbd9737ad",
+        "id": "w1gHXTPETSOf0qDNNJUegA",
+        "slug": "dreams",
+        "views": 15570,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_20420121165-sgc2c_2401.jpg",
+        "created": 1402945476,
+        "title_id": "539127",
+        "season_number": "9",
+        "tv_rating": "tv-14-l",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1760535947,
+        "tags": [
+            "space ghost c2c sg episode 88 dreams triumph the insult comic dog"
+        ],
+        "rating_count": 172,
+        "collection_title": "Space Ghost Coast to Coast",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1760587200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_20420121165-sgc2c_2401.jpg",
         "cma_id": ""
     },
     {
