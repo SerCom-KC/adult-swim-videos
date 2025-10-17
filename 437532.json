@@ -1,5 +1,56 @@
 [
     {
+        "auth_expiration_date": 1760673540,
+        "tms_id": "EP003034830082",
+        "description": "Everybody in the Universe and Yivo live together happily, except for a skeptical Leela. Bender misses the humans.",
+        "title_suggest": {
+            "input": [
+                "The Beast with a Billion Backs Part 4",
+                "Beast with a Billion Backs Part 4",
+                "with a Billion Backs Part 4",
+                "a Billion Backs Part 4",
+                "Billion Backs Part 4",
+                "Backs Part 4",
+                "Part 4",
+                "4"
+            ]
+        },
+        "title": "The Beast with a Billion Backs Part 4",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1350.9829,
+        "episode_number": "8",
+        "original_air_date": 1642991400,
+        "auth_launch_date": 1760068800,
+        "clip_order": null,
+        "airing_id": "RADS1010062500061615",
+        "media_id": "dd1d17814adf429bb079078ff06e684f77d23b6a",
+        "modified": 1759815006,
+        "slug": "the-beast-with-a-billion-backs-part-4",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220121/thumbnails/1_221211619156-Futurama_608_TheBeastWithABillionBacks_Part4.png",
+        "created": 1642781336,
+        "title_id": "2161611",
+        "season_number": "6",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1759815006,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220121/thumbnails/2_221211619156-Futurama_608_TheBeastWithABillionBacks_Part4.png",
+        "id": "AX59ZeM3_0O4w1rD3RcL",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1760846340,
         "tms_id": "EP003034830103",
         "description": "When doctors can't get through to Bender, they order a robotomy.",
@@ -185,56 +236,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220204/thumbnails/2_22241458287-Futurama_612_BendersGame_Part4.png",
         "id": "AX7GUTT3208s7zyYUL-p",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1761278340,
-        "tms_id": "EP003034830083",
-        "description": "In New Mars Vegas, Fry gains the power to read minds and competes in a poker tournament.",
-        "title_suggest": {
-            "input": [
-                "Into the Wild Green Yonder Part 1",
-                "the Wild Green Yonder Part 1",
-                "Wild Green Yonder Part 1",
-                "Green Yonder Part 1",
-                "Yonder Part 1",
-                "Part 1",
-                "1"
-            ]
-        },
-        "title": "Into the Wild Green Yonder Part 1",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1371.0029,
-        "episode_number": "13",
-        "original_air_date": 1644804000,
-        "auth_launch_date": 1760673600,
-        "clip_order": null,
-        "airing_id": "RADS1010102500062357",
-        "media_id": "d4219113cb593e57f428defe2828ced2dea50d4a",
-        "modified": 1760478020,
-        "slug": "into-the-wild-green-yonder-part-1",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220216/thumbnails/1_222161352378-Futurama_613_IntoTheWildGreenYonderPart1.png",
-        "created": 1644619000,
-        "title_id": "2161616",
-        "season_number": "6",
-        "tv_rating": "tv-14-dlv",
-        "published": 1760478020,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220216/thumbnails/2_222161352378-Futurama_613_IntoTheWildGreenYonderPart1.png",
-        "id": "AX7q7msV_0O4w1rD3RpX",
         "auth": true
     }
 ]
