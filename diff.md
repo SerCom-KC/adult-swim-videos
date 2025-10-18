@@ -2,62 +2,60 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: October 18, 2025 at 00:00:34 EDT_
+_Last Update: October 18, 2025 at 00:30:27 EDT_
 ## Video added
 ### Summary
-629835 King of the Hill: 1  
-2530043 Psi-Cops: 1  
-### 731388
-**King of the Hill S06E19 - Sug Night**  
-TV-PG-DL 🔒 24:28  
+581006 American Dad: 2  
+437532 Futurama: 1  
+### 2069541
+**American Dad S12E10 - A Nice Night for a Drive**  
+TV-14 🔒 21:14  
 ⌛ October 24, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/sug-night  
-seriesid=`629835` titleid=`731388` id=`-qyQxPanTACm92UL1K2tHw` mediaid=`0bd1a120a2cabe402a7194a34654108a6fc779a1`  
-_When Hank has a dream about he and Nancy grilling hamburgers in the nude, Peggy tries to figure out a way to win her husband back._  
-<a href="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_2588940631721235432.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_2588940631721235432.jpg" height="144px" /></a>
-### 2530047
-**Psi-Cops S01E04 - Breeder**  
-TV-MA-SV 🔒 11:00  
-⌛ November 21, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/psi-cops/breeder  
-seriesid=`2530043` titleid=`2530047` id=`AZCfZuVRSaru9Cdsy7JQ` mediaid=`7d376af9a38184ba6edcacddd2bb65cc3aab2043`  
-_Kydd, Felixx, and Eric's dead grandpappy band together to teach Eric the art of seduction._  
-<a href="https://media.cdn.adultswim.com/uploads/20240715/thumbnails/2_24715112583-PSICOPS_SEASON1_EP104_SHOWSTILLS_IMAGE2_LEFTTORIGHT_FELIXXBLUEMONKEYKYDD.jpg"><img src="https://media.cdn.adultswim.com/uploads/20240715/thumbnails/2_24715112583-PSICOPS_SEASON1_EP104_SHOWSTILLS_IMAGE2_LEFTTORIGHT_FELIXXBLUEMONKEYKYDD.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/american-dad/a-nice-night-for-a-drive  
+seriesid=`581006` titleid=`2069541` id=`Jv3Vtv7GTM2hwe473Cu2Vg` mediaid=`afa206c1964b52fc4ec86c6fd2c1cee8a5deaddf`  
+_Klaus gets transferred into the navigation system of Stan's car after Stan refuses to pay for a life-saving surgery. Steve and his friends prank Roger's Frank character and he terrorizes them for revenge._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751872861710.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751872861710.jpg" height="144px" /></a>
+### 2069542
+**American Dad S12E11 - Casino Normale**  
+TV-14 🔒 21:13  
+⌛ October 24, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/casino-normale  
+seriesid=`581006` titleid=`2069542` id=`Kh2zdJEDQb-HJmzQQbcygw` mediaid=`2d57d865f29fc91eeb3889c89a5f1e136848434d`  
+_Francine steals from the CIA and pretends to be a sexy supervillain to incite Stan to be more seductive. Roger tricks Hayley and Steve into trapping Jay Leno so he can take revenge on him._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751877069417.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151751877069417.jpg" height="144px" /></a>
+### 2161617
+**Futurama S06E14 - Into the Wild Green Yonder Part 2**  
+TV-14-V 🔒 22:30  
+⌛ October 24, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/futurama/into-the-wild-green-yonder-part-2  
+seriesid=`437532` titleid=`2161617` id=`AX7q7mwc_0O4w1rD3RpY` mediaid=`c5a35e486fd9ab0df5b0b551d77db01c8d742645`  
+_Leela joins the eco-feminists to stop Leo Wong from building a galactic mini-golf course and Fry learns more about his newfound ability._  
+<a href="https://media.cdn.adultswim.com/uploads/20220216/thumbnails/2_22216135377-Futurama_614_IntoTheWildGreenYonderPart2.png"><img src="https://media.cdn.adultswim.com/uploads/20220216/thumbnails/2_22216135377-Futurama_614_IntoTheWildGreenYonderPart2.png" height="144px" /></a>
 ## Video removed
 ### Summary
-2224721 Smiling Friends: 1  
-2530043 Psi-Cops: 1  
-581268 Squidbillies: 1  
-629835 King of the Hill: 1  
-### 2322683
-**Smiling Friends S01E08 - Charlie Dies and Doesn't Come Back**  
-TV-MA 🔒 11:11  
+437532 Futurama: 1  
+581006 American Dad: 2  
+### 2161612
+**Futurama S06E09 - Bender's Game Part 1**  
+TV-14-DLV 🔓 22:31  
 ⌛ October 17, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/smiling-friends/charlie-dies-and-doesnt-come-back  
-seriesid=`2224721` titleid=`2322683` id=`AX42sZA8_0O4w1rD3RRg` mediaid=`cbb49f5a8f9d9e3a3a0a5a794fa49c226cddd40b`  
-_In the season finale, Charlie actually dies for real._  
-<a href="https://media.cdn.adultswim.com/uploads/20220110/thumbnails/2_221101239112-SmilingFriends_108_CharlieDiesAndDoesntComeBack.png"><img src="https://media.cdn.adultswim.com/uploads/20220110/thumbnails/2_221101239112-SmilingFriends_108_CharlieDiesAndDoesntComeBack.png" height="144px" /></a>
-### 2530058
-**Psi-Cops S01E23 - The Cave - Part 1**  
-TV-MA-SV 🔒 11:00  
+https://www.adultswim.com/videos/futurama/benders-game-part-1  
+seriesid=`437532` titleid=`2161612` id=`AX6dVsFb_0O4w1rD3Rg9` mediaid=`407216b0e7e42f24034afb1a729c9195e70b70dd`  
+_When Leela loses her cool over some redneck bullies, Farnsworth orders her to wear an electrical collar to help control her temper; and Bender loses his mind over Dungeons and Dragons._  
+<a href="https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_2212716054-Futurama_609_BendersGame_Part1.png"><img src="https://media.cdn.adultswim.com/uploads/20220127/thumbnails/2_2212716054-Futurama_609_BendersGame_Part1.png" height="144px" /></a>
+### 2445763
+**American Dad S19E20 - Silicon Steve**  
+TV-14-DL 🔓 00:00  
 ⌛ October 17, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/psi-cops/the-cave-part-1  
-seriesid=`2530043` titleid=`2530058` id=`AZIBKwS5Saru9Cdsy8C0` mediaid=`84ef8df0e9028bed4f7f48c2499bbdc2bbf46479`  
-_Kydd and Felixx learn that the most important tool for a Psi Cop is rope. Tons and tons of rope._  
-<a href="https://media.cdn.adultswim.com/uploads/20241016/thumbnails/2_2410161113387-PSICOPS_SEASON1_EP123_SHOWSTILLS_IMAGE6_SITTINGCHURCHPATRONSHAND.jpg"><img src="https://media.cdn.adultswim.com/uploads/20241016/thumbnails/2_2410161113387-PSICOPS_SEASON1_EP123_SHOWSTILLS_IMAGE6_SITTINGCHURCHPATRONSHAND.jpg" height="144px" /></a>
-### 2006889
-**Squidbillies S08E09 - Gun of a Son**  
-TV-14-LV 🔓 11:13  
+https://www.adultswim.com/videos/american-dad/silicon-steve  
+seriesid=`581006` titleid=`2445763` id=`AZWAeagFem4-xVQSK9Zf` mediaid=`c2ff25bcde82f6503fe8fbecd7de9bf523adac7a`  
+_Steve spends his summer working on an app with some unlikely friends, while the rest of the family become cord-cutters._  
+<a href="https://media.cdn.adultswim.com/uploads/20250310/thumbnails/2_253101033282-AmDad-S19E20-SiliconSteve-1920x1080.jpg"><img src="https://media.cdn.adultswim.com/uploads/20250310/thumbnails/2_253101033282-AmDad-S19E20-SiliconSteve-1920x1080.jpg" height="144px" /></a>
+### 2445765
+**American Dad S19E21 - Guardian**  
+TV-14-DLSV 🔓 00:00  
 ⌛ October 17, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/gun-of-a-son  
-seriesid=`581268` titleid=`2006889` id=`NgEtP707RUqQLrWY8pUK3A` mediaid=`6d0b27d1bacdb84e0752cddf06e134161d81d7f0`  
-_Early shoots Rusty to prove that guns should be legal._  
-<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_20414114465-squidbillies_710_dup-20131021.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_20414114465-squidbillies_710_dup-20131021.jpg" height="144px" /></a>
-### 731375
-**King of the Hill S06E14 - Of Mice and Little Green Men**  
-TV-PG-DL 🔒 24:27  
-⌛ October 17, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/of-mice-and-little-green-men  
-seriesid=`629835` titleid=`731375` id=`zspZohFYR_S_3mylncYujg` mediaid=`948148ddf4b545e6909adbe398a682424e31b559`  
-_Bobby and Joseph are hurt when their dads show more interest in one another's son than in their own. Dale is convinced that Joseph's real father is an alien._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15205394245998.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15205394245998.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/american-dad/guardian  
+seriesid=`581006` titleid=`2445765` id=`AZWBvHcM4ijrGBacAU8D` mediaid=`8e10c8f3b63a816dc4747394ccfee08792a17a9d`  
+_Stan uses a mothballed military computer to do Steve's math homework, starting the clock toward nuclear annihilation._  
+<a href="https://media.cdn.adultswim.com/uploads/20250310/thumbnails/2_25310162643-AmDad-S19E22-Guardian-1920x1080.jpg"><img src="https://media.cdn.adultswim.com/uploads/20250310/thumbnails/2_25310162643-AmDad-S19E22-Guardian-1920x1080.jpg" height="144px" /></a>
