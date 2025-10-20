@@ -292,52 +292,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1760932740,
-        "tms_id": "",
-        "description": "Louise trains Tina to be the last student standing during a cheese throwing battle.",
-        "title_suggest": {
-            "input": [
-                "Don't Stop Be-Cheesin'",
-                "Stop Be-Cheesin'",
-                "Be-Cheesin'"
-            ]
-        },
-        "title": "Don't Stop Be-Cheesin'",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "4",
-        "original_air_date": null,
-        "auth_launch_date": 1759723200,
-        "clip_order": null,
-        "airing_id": "RADS1010022500061135",
-        "media_id": "ec8ac815e6db36fb1d33ef21a675e1e5432d1235",
-        "modified": 1759469857,
-        "slug": "dont-stop-be-cheesin",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/1_259221733580-BobsBurgers_1504.jpg",
-        "created": 1758576854,
-        "season_number": "15",
-        "title_id": "2569624",
-        "tv_rating": "tv-pg-l",
-        "published": 1759469857,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/2_259221733580-BobsBurgers_1504.jpg",
-        "id": "AZlzWUeEyEF1_1NDe6fi",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1761019140,
         "tms_id": "",
         "description": "The kids want to host an open mic night at the restaurant, but the hidden costs keep mounting, and Bob worries that this night will ruin them.",
@@ -476,5 +430,54 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291442109-BobsBurgers_1506.jpg",
         "id": "AZmWzDBYs_ErlMTJpQn7",
         "auth": true
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1762145940,
+        "tms_id": "EP012792980024",
+        "description": "The Belcher kids break their Halloween tradition by ditching their usual trick-or-treating route and venturing off to Kingshead Island, a posh neighborhood that is known for distributing full-sized candy bars. Meanwhile, Bob and Linda attend Teddy's annual \"Black and Orange\" party.",
+        "title_suggest": {
+            "input": [
+                "Full Bars",
+                "Bars"
+            ]
+        },
+        "expiration_date": 1661745540,
+        "title": "Full Bars",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1275.7745,
+        "episode_number": "2",
+        "original_air_date": 1383012000,
+        "clip_order": null,
+        "auth_launch_date": 1760932800,
+        "modified": 1760558729,
+        "media_id": "eeb581363da7986f1e3d885d9d2b46e52c145de3",
+        "airing_id": "RADS1010152500062688",
+        "id": "ClXtTaMsTqeJ9gW6Fx286w",
+        "slug": "full-bars",
+        "views": 7191,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15295038587449.jpg",
+        "created": 1403210185,
+        "season_number": "3",
+        "title_id": "2003513",
+        "tv_rating": "tv-pg",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1760558729,
+        "first_published": 1409541627,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1661140800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15295038587449.jpg",
+        "cma_id": "2003513"
     }
 ]
