@@ -292,53 +292,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1761019140,
-        "tms_id": "",
-        "description": "The kids want to host an open mic night at the restaurant, but the hidden costs keep mounting, and Bob worries that this night will ruin them.",
-        "title_suggest": {
-            "input": [
-                "Hope N' Mic Night",
-                "N' Mic Night",
-                "Mic Night",
-                "Night"
-            ]
-        },
-        "title": "Hope N' Mic Night",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "7",
-        "original_air_date": null,
-        "auth_launch_date": 1759809600,
-        "clip_order": null,
-        "airing_id": "RADS1010022500061198",
-        "media_id": "80120a387f1ae6b2334602388b6d891aafeb7c2a",
-        "modified": 1759554515,
-        "slug": "hope-n-mic-night",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_259291449150-BobsBurgers_1507.jpg",
-        "created": 1759171838,
-        "season_number": "15",
-        "title_id": "2569625",
-        "tv_rating": "tv-pg-l",
-        "published": 1759554515,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291449150-BobsBurgers_1507.jpg",
-        "id": "AZmW0ACLs_ErlMTJpQn8",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1761537540,
         "tms_id": "",
         "description": "When Louise signs up for a father-daughter boogie board contest, Bob's past comes back to haunt him.",
@@ -479,5 +432,52 @@
         "launch_date": 1661140800,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15295038587449.jpg",
         "cma_id": "2003513"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1762232340,
+        "tms_id": "EP012792980050",
+        "description": "Tina, Gene and Louise are filled with the Halloween spirit and head out with their friends for a candy-fueled adventure. However, things take a turn for the worse when the kids build their own fort and find themselves held hostage by Louise's wacko friend, Millie.",
+        "title_suggest": {
+            "input": [
+                "Fort Night",
+                "Night"
+            ]
+        },
+        "title": "Fort Night",
+        "type": "episode",
+        "expiration_date": 1665979140,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1293.2253,
+        "episode_number": "2",
+        "original_air_date": 1414373400,
+        "auth_launch_date": 1761019200,
+        "clip_order": null,
+        "modified": 1760559055,
+        "media_id": "d9b39e28678026f4e0d605a247e86569819acaf5",
+        "airing_id": "RADS1010152500062818",
+        "id": "pgZGJHhBSiiiY1E3pl_GCw",
+        "slug": "fort-night",
+        "views": 8256,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15187081051505.jpg",
+        "created": 1414380043,
+        "title_id": "2030305",
+        "tv_rating": "tv-14",
+        "season_number": "4",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1760559055,
+        "first_published": 1414380043,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1665374400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187081051505.jpg",
+        "cma_id": "2030305"
     }
 ]
