@@ -635,58 +635,6 @@
     },
     {
         "auth": true,
-        "ott_launch_date": 1447172160,
-        "auth_expiration_date": 1761105540,
-        "tms_id": "EP007959510028",
-        "rating": 7.236125,
-        "description": "Orel has some competition for the lead role in the school pageant.",
-        "title_suggest": {
-            "input": [
-                "School Pageant",
-                "Pageant"
-            ]
-        },
-        "type": "episode",
-        "title": "School Pageant",
-        "expiration_date": 1758081540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
-        "duration": 704.5672339,
-        "episode_number": "16",
-        "original_air_date": 1181535300,
-        "clip_order": null,
-        "auth_launch_date": 1758081600,
-        "modified": 1757834196,
-        "media_id": "5b80fa67347d77efbabbe6d297cd389785aa6140",
-        "airing_id": "RADS1008082500051934",
-        "id": "esJmpYKBSSuC5AgMY1_m-A",
-        "slug": "school-pageant",
-        "views": 295795,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_20311162363-moralorel_019.jpg",
-        "created": 1402945470,
-        "title_id": "657352",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1757834196,
-        "tags": [],
-        "rating_count": 1982,
-        "collection_title": "Moral Orel",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1755057600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311162363-moralorel_019.jpg",
-        "cma_id": "1414028"
-    },
-    {
-        "auth": false,
         "ott_launch_date": 1447172880,
         "auth_expiration_date": 1764133140,
         "tms_id": "EP007959510031",
@@ -737,6 +685,59 @@
         "launch_date": 1758081600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311164382-moralorel_031.jpg",
         "cma_id": "1434931"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447173060,
+        "auth_expiration_date": 1740545940,
+        "tms_id": "EP007959510036",
+        "rating": 8.020065,
+        "description": "Discontent with being raised by his octogenarian Father and depressed, middle-aged half sister, Joe searches for a more vibrant guardian.",
+        "title_suggest": {
+            "input": [
+                "Dumb"
+            ]
+        },
+        "type": "episode",
+        "title": "Dumb",
+        "expiration_date": 1764133140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
+        "duration": 700.9342676,
+        "episode_number": "6",
+        "original_air_date": 1225340100,
+        "clip_order": null,
+        "auth_launch_date": 1737522000,
+        "modified": 1760652933,
+        "media_id": "682fe870920415b83e1209f3409d26b137401970",
+        "airing_id": "RADS1010162500063016",
+        "id": "nj5LAcM2SrOyOzb-mk9nvQ",
+        "slug": "dumb",
+        "views": 267945,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_20311167106-moralorel_036.jpg",
+        "created": 1402945470,
+        "title_id": "723833",
+        "season_number": "3",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1760652933,
+        "tags": [
+            "moral orel episode 36 dumb joe father nurse bendy coach stopframe"
+        ],
+        "rating_count": 847,
+        "collection_title": "Moral Orel",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1761105600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311167106-moralorel_036.jpg",
+        "cma_id": "1457594"
     },
     {
         "auth": true,
