@@ -1,55 +1,5 @@
 [
     {
-        "auth_expiration_date": 1761278340,
-        "tms_id": "EP003034830083",
-        "description": "In New Mars Vegas, Fry gains the power to read minds and competes in a poker tournament.",
-        "title_suggest": {
-            "input": [
-                "Into the Wild Green Yonder Part 1",
-                "the Wild Green Yonder Part 1",
-                "Wild Green Yonder Part 1",
-                "Green Yonder Part 1",
-                "Yonder Part 1",
-                "Part 1",
-                "1"
-            ]
-        },
-        "title": "Into the Wild Green Yonder Part 1",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1371.0029,
-        "episode_number": "13",
-        "original_air_date": 1644804000,
-        "auth_launch_date": 1760673600,
-        "clip_order": null,
-        "airing_id": "RADS1010102500062357",
-        "media_id": "d4219113cb593e57f428defe2828ced2dea50d4a",
-        "modified": 1760478020,
-        "slug": "into-the-wild-green-yonder-part-1",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220216/thumbnails/1_222161352378-Futurama_613_IntoTheWildGreenYonderPart1.png",
-        "created": 1644619000,
-        "title_id": "2161616",
-        "season_number": "6",
-        "tv_rating": "tv-14-dlv",
-        "published": 1760478020,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220216/thumbnails/2_222161352378-Futurama_613_IntoTheWildGreenYonderPart1.png",
-        "id": "AX7q7msV_0O4w1rD3RpX",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1761364740,
         "tms_id": "EP003034830084",
         "description": "Leela joins the eco-feminists to stop Leo Wong from building a galactic mini-golf course and Fry learns more about his newfound ability.",
@@ -241,6 +191,50 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/2_22223943117-Futurama_701_Rebirth.png",
         "id": "AX8Igrfc208s7zyYUMHj",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1761883140,
+        "tms_id": "EP003034830087",
+        "description": "Leela and Zapp Brannigan find themselves stranded on an Eden-like planet.",
+        "title_suggest": {
+            "input": [
+                "In-A-Gadda-Da-Leela"
+            ]
+        },
+        "title": "In-A-Gadda-Da-Leela",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1348.3804,
+        "episode_number": "2",
+        "original_air_date": "1646015400",
+        "auth_launch_date": 1761278400,
+        "clip_order": null,
+        "airing_id": "RADS1010172500063697",
+        "media_id": "baee87f7ea6820e9d3c9caa353c1d664c6dcc6ab",
+        "modified": 1761028159,
+        "slug": "in-a-gadda-da-leela",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/1_22223943455-Futurama_702_InAGaddaDaLeela.png",
+        "created": 1645115266,
+        "season_number": "7",
+        "title_id": "2161621",
+        "tv_rating": "",
+        "published": 1761028159,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/2_22223943455-Futurama_702_InAGaddaDaLeela.png",
+        "id": "AX8IgtUf208s7zyYUMHk",
         "auth": true
     }
 ]
