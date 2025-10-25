@@ -2,57 +2,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1761364740,
-        "tms_id": "EP002070020129",
-        "rating": 7.73284,
-        "description": "When Hank has a dream about he and Nancy grilling hamburgers in the nude, Peggy tries to figure out a way to win her husband back.",
-        "title_suggest": {
-            "input": [
-                "Sug Night",
-                "Night"
-            ]
-        },
-        "type": "episode",
-        "title": "Sug Night",
-        "expiration_date": 1506860999,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
-        "duration": 1468.1667,
-        "episode_number": "19",
-        "original_air_date": 1233457200,
-        "clip_order": null,
-        "auth_launch_date": 1760760000,
-        "modified": 1760511945,
-        "media_id": "0bd1a120a2cabe402a7194a34654108a6fc779a1",
-        "airing_id": "RADS1010132500062506",
-        "id": "-qyQxPanTACm92UL1K2tHw",
-        "slug": "sug-night",
-        "views": 521273,
-        "thumbnail": "",
-        "created": 1402945468,
-        "title_id": "731388",
-        "season_number": "6",
-        "tv_rating": "tv-pg-dl",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1760511945,
-        "tags": [
-            "king of the hill koth episode 605 sug night"
-        ],
-        "rating_count": 1486,
-        "collection_title": "King of the Hill",
-        "modified_by": "ODT Listener",
-        "launch_date": 1506256200,
-        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_2588940631721235432.jpg",
-        "cma_id": "1479980"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1761451140,
         "tms_id": "EP002070020130",
         "rating": 8.662036,
@@ -108,6 +57,61 @@
         "launch_date": 1506258000,
         "poster": "https://media.cdn.adultswim.com/uploads/20221031/thumbnails/2_2210311345329-KingOfTheHill_617_DangOlLove.png",
         "cma_id": "1479938"
+    },
+    {
+        "auth": true,
+        "auth_expiration_date": 1761969540,
+        "tms_id": "EP002070020134",
+        "rating": 8.594916,
+        "description": "A cute groupie convinces Bill to enter a hot dog eating contest that pits him against a Laotian champion.",
+        "title_suggest": {
+            "input": [
+                "The Fat and the Furious",
+                "Fat and the Furious",
+                "and the Furious",
+                "the Furious",
+                "Furious"
+            ]
+        },
+        "type": "episode",
+        "title": "The Fat and the Furious",
+        "expiration_date": 1507087799,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "zXXZkvdrRAa-8Cz4AV4QlA",
+        "duration": 1449.0143,
+        "episode_number": "2",
+        "original_air_date": 1234236600,
+        "auth_launch_date": 1761364800,
+        "modified": 1761115785,
+        "media_id": "6da493b2b80013cf076a5af42cdeb7ae439f7a16",
+        "airing_id": "RADS1010202500063899",
+        "id": "I3VxRkYZS8mVMKwC8SCPZg",
+        "slug": "the-fat-and-the-furious",
+        "views": 354085,
+        "created": 1402945468,
+        "title_id": "731401",
+        "season_number": "7",
+        "tv_rating": "tv-pg-dl",
+        "active": false,
+        "published": 1761115785,
+        "tags": [
+            "the fat and the furious",
+            " groupie",
+            " bill",
+            " hot dog",
+            " contest",
+            " laotian",
+            " champion"
+        ],
+        "rating_count": 590,
+        "collection_title": "King of the Hill",
+        "modified_by": "ODT Listener",
+        "launch_date": 1506483000,
+        "poster": "https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_5194115732514835363.jpg",
+        "cma_id": "1481228"
     },
     {
         "auth": true,
