@@ -1,55 +1,5 @@
 [
     {
-        "auth_expiration_date": 1761451140,
-        "tms_id": "EP003034830085",
-        "description": "Fry goes undercover working for Wong, but can't tell Leela he is really on her side; Zapp, Kiff, and Bender try to capture the feministas.",
-        "title_suggest": {
-            "input": [
-                "Into the Wild Green Yonder Part 3",
-                "the Wild Green Yonder Part 3",
-                "Wild Green Yonder Part 3",
-                "Green Yonder Part 3",
-                "Yonder Part 3",
-                "Part 3",
-                "3"
-            ]
-        },
-        "title": "Into the Wild Green Yonder Part 3",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1350.7828,
-        "episode_number": "15",
-        "original_air_date": "1645408800",
-        "auth_launch_date": 1760846400,
-        "clip_order": null,
-        "airing_id": "RADS1010132500062581",
-        "media_id": "9f9c3a1e4ecf7309008cc2ffe1d1822d53f0b11f",
-        "modified": 1760593559,
-        "slug": "into-the-wild-green-yonder-part-3",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220217/thumbnails/1_22217170438-Futurama_615_IntoTheWildGreenYonderPart3.png",
-        "created": 1645115245,
-        "season_number": "6",
-        "title_id": "2161618",
-        "tv_rating": "tv-14-dlv",
-        "published": 1760593559,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220217/thumbnails/2_22217170438-Futurama_615_IntoTheWildGreenYonderPart3.png",
-        "id": "AX8IgoJT208s7zyYUMHi",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1761537540,
         "tms_id": "EP003034830086",
         "description": "Leela, Amy, and the rest of the Feministas stand trial for attempting to save the rare Violet Star and its precious ecosystem.",
@@ -233,6 +183,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311145473-Futurama_703_AttackOfTheKillerApp.png",
         "id": "AX9GX8hF_0O4w1rD3Rw3",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1762055940,
+        "tms_id": "EP003034830090",
+        "description": "Bender leads a campaign to legalize robosexual marriage between humans and robots.",
+        "title_suggest": {
+            "input": [
+                "Proposition Infinity",
+                "Infinity"
+            ]
+        },
+        "title": "Proposition Infinity",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1357.356,
+        "episode_number": "4",
+        "original_air_date": "1646620200",
+        "auth_launch_date": 1761451200,
+        "clip_order": null,
+        "airing_id": "RADS1010202500063945",
+        "media_id": "cb96ac3754af8b9463c8f24b54783190914fe6ce",
+        "modified": 1761196457,
+        "slug": "proposition-infinity",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/1_22311146361-Futurama_704_PropositionInfinity.png",
+        "created": 1646153204,
+        "season_number": "7",
+        "title_id": "2161623",
+        "tv_rating": "tv-14-dsv",
+        "published": 1761196457,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311146361-Futurama_704_PropositionInfinity.png",
+        "id": "AX9GYIQj208s7zyYUMOe",
         "auth": true
     }
 ]
