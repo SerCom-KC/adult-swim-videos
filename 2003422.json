@@ -100,6 +100,51 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15192402394087.jpg"
     },
     {
+        "auth_expiration_date": 1763009940,
+        "tms_id": "",
+        "description": "The kids' Halloween plan goes awry.",
+        "title_suggest": {
+            "input": [
+                "Heartbreak Hotel-Oween",
+                "Hotel-Oween"
+            ]
+        },
+        "title": "Heartbreak Hotel-Oween",
+        "type": "episode",
+        "expiration_date": 1742183940,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1291.7572,
+        "episode_number": "4",
+        "original_air_date": 1696901400,
+        "auth_launch_date": 1761796800,
+        "clip_order": null,
+        "airing_id": "RADS1010242500064745",
+        "media_id": "36c324f5a2036c5a573885f391314d0d681a2641",
+        "modified": 1761542637,
+        "slug": "heartbreak-hotel-oween",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231023/thumbnails/1_2310231125472-Screenshot2023-10-23at11.25.30AM.png",
+        "created": 1697688570,
+        "title_id": "2438964",
+        "season_number": "11",
+        "tv_rating": "tv-pg-dl",
+        "published": 1761542637,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1741579200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20231023/thumbnails/2_2310231125472-Screenshot2023-10-23at11.25.30AM.png",
+        "id": "AYtGH8wC1E7YmWrdXLkQ",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1762923540,
         "tms_id": "",
         "description": "A pig stir in science class.",
@@ -193,54 +238,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_25918112279-BobsBurgers_1306.jpg",
         "id": "AZldcIu8yEF1_1NDe6aX",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1761796740,
-        "tms_id": "",
-        "description": "Mr. Fischoeder challenges Bob to successfully prank him on April Fool's Day or lose his lease.",
-        "title_suggest": {
-            "input": [
-                "What a (April) Fool Believes",
-                "a (April) Fool Believes",
-                "(April) Fool Believes",
-                "Fool Believes",
-                "Believes"
-            ]
-        },
-        "title": "What a (April) Fool Believes",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "17",
-        "original_air_date": null,
-        "auth_launch_date": 1760587200,
-        "clip_order": null,
-        "airing_id": "RADS1010092500062165",
-        "media_id": "555be66d735171f067bdefd5e3354381e4600386",
-        "modified": 1760335235,
-        "slug": "what-a-april-fool-believes",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_25918125570-BobsBurgers_1317.jpg",
-        "created": 1758211562,
-        "season_number": "13",
-        "title_id": "2569581",
-        "tv_rating": "tv-pg-l",
-        "published": 1760335235,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_25918125570-BobsBurgers_1317.jpg",
-        "id": "AZldk1s3yEF1_1NDe6ak",
         "auth": true
     },
     {
