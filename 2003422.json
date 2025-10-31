@@ -193,6 +193,51 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1763096340,
+        "tms_id": "",
+        "description": "Linda and Gayle get a mysterious note.",
+        "title_suggest": {
+            "input": [
+                "The Pumpkinening",
+                "Pumpkinening"
+            ]
+        },
+        "title": "The Pumpkinening",
+        "type": "episode",
+        "expiration_date": 1746417540,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1291.7238,
+        "episode_number": "3",
+        "original_air_date": 1696903200,
+        "auth_launch_date": 1761883200,
+        "clip_order": null,
+        "airing_id": "RADS1010242500064776",
+        "media_id": "fef9fbc337ee64a649ac7fd5f3a7b4ca7044622f",
+        "modified": 1761632019,
+        "slug": "the-pumpkinening",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231030/thumbnails/1_231030151024-Screenshot2023-10-30at3.09.50PM.png",
+        "created": 1698185752,
+        "title_id": "2438985",
+        "season_number": "12",
+        "tv_rating": "tv-pg-l",
+        "published": 1761632019,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1745812800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20231030/thumbnails/2_231030151024-Screenshot2023-10-30at3.09.50PM.png",
+        "id": "AYtjwi6tn_kciGPPrDF_",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1762750740,
         "tms_id": "",
         "description": "Louise suspects there's something sinister afoot during a Halloween field trip to an apple orchard.",
@@ -238,55 +283,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_25918112279-BobsBurgers_1306.jpg",
         "id": "AZldcIu8yEF1_1NDe6aX",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1761883140,
-        "tms_id": "",
-        "description": "Tina drags Bob along on a desperate quest to earn her bird-watching badge for ThunderGirls.",
-        "title_suggest": {
-            "input": [
-                "Crows Encounters of the Bird Kind",
-                "Encounters of the Bird Kind",
-                "of the Bird Kind",
-                "the Bird Kind",
-                "Bird Kind",
-                "Kind"
-            ]
-        },
-        "title": "Crows Encounters of the Bird Kind",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "16",
-        "original_air_date": null,
-        "auth_launch_date": 1760673600,
-        "clip_order": null,
-        "airing_id": "RADS1010102500062359",
-        "media_id": "2b5cb584944954f3ecb9ba0c5b9421d3e1702eb0",
-        "modified": 1760480720,
-        "slug": "crows-encounters-of-the-bird-kind",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_25918125178-BobsBurgers_1316.jpg",
-        "created": 1758211522,
-        "season_number": "13",
-        "title_id": "2569582",
-        "tv_rating": "tv-pg-l",
-        "published": 1760480720,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_25918125178-BobsBurgers_1316.jpg",
-        "id": "AZldkr8XyEF1_1NDe6ai",
         "auth": true
     },
     {
