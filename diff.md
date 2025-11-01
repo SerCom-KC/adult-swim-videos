@@ -2,122 +2,129 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: October 31, 2025 at 00:30:14 EDT_
+_Last Update: November 1, 2025 at 00:00:42 EDT_
 ## Video added
 ### Summary
 581006 American Dad: 2  
-2003422 Bob's Burgers: 1  
 437532 Futurama: 1  
 629835 King of the Hill: 1  
-439722 The Venture Bros.: 2  
-547867 Tom Goes To The Mayor: 1  
-### 2069564
-**American Dad S13E11 - My Purity Ball and Chain**  
-TV-14-DLSV 🔒 21:03  
-⌛ November 6, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/my-purity-ball-and-chain  
-seriesid=`581006` titleid=`2069564` id=`AWHnqhey0KIGIdXCKzwy` mediaid=`c3ff7352f7f673d3e852c426c00d034a3974b2c8`  
-_Stan avoids giving Steve "the talk" by joining a chastity group. The Smiths build a waterslide in the backyard._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001014945514.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001014945514.jpg" height="144px" /></a>
-### 2069565
-**American Dad S13E12 - OreTron Trail**  
+2530043 Psi-Cops: 1  
+### 2069566
+**American Dad S13E13 - Mean Francine**  
 TV-14-DLV 🔒 21:03  
-⌛ November 6, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/ore-tron-trail  
-seriesid=`581006` titleid=`2069565` id=`AWqxHynKCorLtcgflqW9` mediaid=`8de704e6174b2e88144012149e47b35af5df0c05`  
-_Roger becomes worried about outliving the family. Klaus opens a convenience store in the attic._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155836385145518.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155836385145518.jpg" height="144px" /></a>
-### 2438985
-**Bob's Burgers S12E03 - The Pumpkinening**  
-TV-PG-L 🔒 21:31  
-⌛ November 13, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/the-pumpkinening  
-seriesid=`2003422` titleid=`2438985` id=`AYtjwi6tn_kciGPPrDF_` mediaid=`fef9fbc337ee64a649ac7fd5f3a7b4ca7044622f`  
-_Linda and Gayle get a mysterious note._  
-<a href="https://media.cdn.adultswim.com/uploads/20231030/thumbnails/2_231030151024-Screenshot2023-10-30at3.09.50PM.png"><img src="https://media.cdn.adultswim.com/uploads/20231030/thumbnails/2_231030151024-Screenshot2023-10-30at3.09.50PM.png" height="144px" /></a>
-### 2161626
-**Futurama S07E07 - The Late Philip J. Fry**  
-TV-14-DLV 🔒 22:46  
-⌛ November 6, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/futurama/the-late-philip-j-fry  
-seriesid=`437532` titleid=`2161626` id=`AX-ZHPge_0O4w1rD3R2F` mediaid=`7b322190b051299aa2ac49ff77bfa5528c121162`  
-_The Professor invents a one-way time machine that takes the crew ever further into the future with no hope of returning._  
-<a href="https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171421184-Futurama_707_TheLatePhillipJFry.png"><img src="https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171421184-Futurama_707_TheLatePhillipJFry.png" height="144px" /></a>
-### 731421
-**King of the Hill S07E06 - The Son Also Roses**  
-TV-PG 🔒 24:08  
-⌛ November 6, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/king-of-the-hill/the-son-also-roses  
-seriesid=`629835` titleid=`731421` id=`vLwAZF-mQsq_eDdv-rocnA` mediaid=`0ef0a914c5b05066dc3f11064a7a7ca90009c3a5`  
-_Bobby takes up rose gardening, and Hank enters him in a cutthroat competition._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148524603820.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148524603820.jpg" height="144px" /></a>
-### 772173
-**The Venture Bros. S04E01 - Blood of the Father, Heart of Steel**  
-TV-14-DLV 🔓 22:19  
-⌛ August 26, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-venture-bros/blood-of-the-father-heart-of-steel  
-seriesid=`439722` titleid=`772173` id=`FSHDhFn_QWOfLtkL23O4fA` mediaid=`33fc6638021ff450ed537d4f77d0c2890c1aa531`  
-_Questions are answered and truths are revealed.  Learn how Henchman 21 copes with life without 24.  See what happens when Brock and the Venture family are forced to part ways.  Discover the final fate of H.E.L.P.eR.  And all the while, the balance of the free world hangs in the hands of Dean Venture, who must kill Hitler._  
-<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161410475-venture_146_dst_cid-MKC0.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161410475-venture_146_dst_cid-MKC0.jpg" height="144px" /></a>
-### 718824
-**The Venture Bros. S03E13 - The Family That Slays Together, Stays Together Part 2**  
-TV-14-LV 🔓 22:18  
-⌛ August 26, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-venture-bros/the-family-that-slays-together-stays-together-part-2  
-seriesid=`439722` titleid=`718824` id=`lIXb2S2rQlqGFl02yNwl1A` mediaid=`e401d8335adfd97845c524e1c775c6d2a69bb805`  
-_Heads will fly as the explosive conclusion of The Venture Bros. two-part season finale finds Brock and the Venture family on the run from the Law, The Monarch, Sgt. Hatred and the entire O.S.I.! Only bald ingenuity and an unlikely ally can possibly save their necks from the deadly noose tightening around the Venture Compound, but they stand to lose so much more when they learn the hard way that you can't go home again._  
-<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116149329-venture_139_dst_cid-M565.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116149329-venture_139_dst_cid-M565.jpg" height="144px" /></a>
-### 581466
-**Tom Goes To The Mayor S01E01 - Bear Trap Brothers**  
-TV-PG-V 🔓 11:41  
-⌛ January 8, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/tom-goes-to-the-mayor/bear-trap-brothers  
-seriesid=`547867` titleid=`581466` id=`MrLKv1RYQhW0zTploTp5Gw` mediaid=`250c115ff68a2eec7825e5f144e89263b9e949a7`  
-_With the help of the Bear Trap Brothers, Tom and The Mayor teach Jefferton about the significance of bear traps in child safety.  Jack Black and Kyle Gass appear as the Bear Trap Brothers, two rival storekeepers who must help convince the City Council the plan is a good one._  
-<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117834325-tgttm_001.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117834325-tgttm_001.jpg" height="144px" /></a>
+⌛ November 7, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/mean-francine  
+seriesid=`581006` titleid=`2069566` id=`AWrGc2RCCorLtcgflqgM` mediaid=`1be2e6cab939c9cadb8a0eeaaae7dc84e7a83f99`  
+_Francine falls in with a group of tough girls after becoming the new school guidance counselor. Jeff panics when he loses his hat._  
+<a href="https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_207171727483-americandad_1213_air_cid-3G163.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_207171727483-americandad_1213_air_cid-3G163.jpg" height="144px" /></a>
+### 2069567
+**American Dad S13E14 - One-Woman Swole**  
+TV-14-DLSV 🔒 21:13  
+⌛ November 7, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/one-woman-swole  
+seriesid=`581006` titleid=`2069567` id=`AWT2gyOXTdxzjxdCnOX6` mediaid=`9c370cdb6f87dad064899b75c01cbcd11c84b6e0`  
+_After her family accuses her of being a quitter, Francine becomes a bodybuilder. Klaus claims to have invented the high five._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15501614167832.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15501614167832.jpg" height="144px" /></a>
+### 2161627
+**Futurama S07E08 - That Darn Katz!**  
+TV-14-DLV 🔒 22:28  
+⌛ November 7, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/futurama/that-darn-katz  
+seriesid=`437532` titleid=`2161627` id=`AX-ZHX6j208s7zyYUMWE` mediaid=`f3527f80700f760a9c3225139cca722522065e43`  
+_Earth is overrun by a race of intelligent felines._  
+<a href="https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171421537-Futurama_708_ThatDarnKatz.png"><img src="https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_223171421537-Futurama_708_ThatDarnKatz.png" height="144px" /></a>
+### 731425
+**King of the Hill S07E07 - The Texas Skillsaw Massacre**  
+TV-PG-LV 🔒 24:09  
+⌛ November 7, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/king-of-the-hill/the-texas-skillsaw-massacre  
+seriesid=`629835` titleid=`731425` id=`_P6QeHfORqO73edS3ESX2g` mediaid=`5a35dc602119486fb4e275e33873e8e0ab530ed6`  
+_When Hank accidentally cuts off Dale's finger with a circular saw, he's ordered by the court to attend an anger management class._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148527278411.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148527278411.jpg" height="144px" /></a>
+### 2530049
+**Psi-Cops S01E06 - Faith Healer**  
+TV-MA-V 🔒 11:00  
+⌛ December 5, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/psi-cops/faith-healer  
+seriesid=`2530043` titleid=`2530049` id=`AZDCmRVeSaru9Cdsy7Ph` mediaid=`b514899aadae79c4417125ed1378a575bfb0e0ef`  
+_Faith heals all. Well, faith and money._  
+<a href="https://media.cdn.adultswim.com/uploads/20240722/thumbnails/2_24722935560-PSICOPS_SEASON1_EP106_SHOWSTILLS_IMAGE1_PEACESIGNMAN.jpg"><img src="https://media.cdn.adultswim.com/uploads/20240722/thumbnails/2_24722935560-PSICOPS_SEASON1_EP106_SHOWSTILLS_IMAGE1_PEACESIGNMAN.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 1  
+2530043 Psi-Cops: 1  
 437532 Futurama: 1  
 581006 American Dad: 2  
+581268 Squidbillies: 4  
 629835 King of the Hill: 1  
-### 2569582
-**Bob's Burgers S13E16 - Crows Encounters of the Bird Kind**  
-TV-PG-L 🔒 00:00  
-⌛ October 30, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/crows-encounters-of-the-bird-kind  
-seriesid=`2003422` titleid=`2569582` id=`AZldkr8XyEF1_1NDe6ai` mediaid=`2b5cb584944954f3ecb9ba0c5b9421d3e1702eb0`  
-_Tina drags Bob along on a desperate quest to earn her bird-watching badge for ThunderGirls._  
-<a href="https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_25918125178-BobsBurgers_1316.jpg"><img src="https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_25918125178-BobsBurgers_1316.jpg" height="144px" /></a>
-### 2161621
-**Futurama S07E02 - In-A-Gadda-Da-Leela**  
- 🔒 22:28  
-⌛ October 30, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/futurama/in-a-gadda-da-leela  
-seriesid=`437532` titleid=`2161621` id=`AX8IgtUf208s7zyYUMHk` mediaid=`baee87f7ea6820e9d3c9caa353c1d664c6dcc6ab`  
-_Leela and Zapp Brannigan find themselves stranded on an Eden-like planet._  
-<a href="https://media.cdn.adultswim.com/uploads/20220223/thumbnails/2_22223943455-Futurama_702_InAGaddaDaLeela.png"><img src="https://media.cdn.adultswim.com/uploads/20220223/thumbnails/2_22223943455-Futurama_702_InAGaddaDaLeela.png" height="144px" /></a>
-### 2069547
-**American Dad S12E21 - The Talented Mr. Dingleberry**  
-TV-14-DLSV 🔒 21:14  
-⌛ October 30, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-talented-mr-dingleberry  
-seriesid=`581006` titleid=`2069547` id=`DHxenpZFQmqu9ENjBxxVnQ` mediaid=`0877535adea01a8cbaef98d478cad2a7dbe24c4f`  
-_Roger becomes a marionette and injures other students to help Steve win the school talent show. Stan, Hayley and Klaus start their own local honey business._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151880435105520.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151880435105520.jpg" height="144px" /></a>
-### 2069553
-**American Dad S12E22 - West to Mexico**  
-TV-14-DLV 🔒 21:14  
-⌛ October 30, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/west-to-mexico  
-seriesid=`581006` titleid=`2069553` id=`vz3Y_dibRLuu8ZDlkfKtbQ` mediaid=`199076f9e1f7b33c00570f8b218ef0d10f550e07`  
-_In an American Dad western, Stan is a wanted man hunted by Roger the bounty hunter. He ends up in a town in need of a good guy and helps Principal Lewis, Francine, Steve, and Hayley._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15188043915002.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15188043915002.jpg" height="144px" /></a>
-### 731398
-**King of the Hill S07E01 - Get Your Freak Off**  
-TV-PG-DL 🔒 24:10  
-⌛ October 30, 2025 at 23:59:00 EDT  
-https://www.adultswim.com/videos/king-of-the-hill/get-your-freak-off  
-seriesid=`629835` titleid=`731398` id=`aXX4yL1ESIu8S5H_qGUz7w` mediaid=`0f442bfd30db77fc4ab0e9cadf70476e55172983`  
-_After Hank catches Bobby freak dancing at a concert, he forbids his son from attending a boys-and-girls slumber party--but Bobby sneaks off on his own._  
-<a href="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_1627335888776307326.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_1627335888776307326.jpg" height="144px" /></a>
+### 2530044
+**Psi-Cops S01E01 - The Facility**  
+TV-MA-V 🔒 11:00  
+⌛ October 31, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/psi-cops/the-facility  
+seriesid=`2530043` titleid=`2530044` id=`AZB6KFFoSaru9Cdsy7Dv` mediaid=`091d43382dcedbea0702bdd66988743f5afec88c`  
+_An experimental facility hidden in a frozen wasteland houses dark secrets, scientists with hidden agendas, genetically altered monkeys and well… bananas._  
+<a href="https://media.cdn.adultswim.com/uploads/20240708/thumbnails/2_2478103531-PSICOPS_SEASON1_EP101_SHOWSTILLS_IMAGE4_CROWDAROUNDTRAILER.jpg"><img src="https://media.cdn.adultswim.com/uploads/20240708/thumbnails/2_2478103531-PSICOPS_SEASON1_EP101_SHOWSTILLS_IMAGE4_CROWDAROUNDTRAILER.jpg" height="144px" /></a>
+### 2161622
+**Futurama S07E03 - Attack of the Killer App**  
+TV-14-DLV 🔒 22:35  
+⌛ October 31, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/futurama/attack-of-the-killer-app  
+seriesid=`437532` titleid=`2161622` id=`AX9GX8hF_0O4w1rD3Rw3` mediaid=`9e53bdac03090542b8d75d0692bc7c208de1b0fd`  
+_The latest trend in social networking and having no life takes over Earth; and Fry posts an embarrassing video of Leela on-line._  
+<a href="https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311145473-Futurama_703_AttackOfTheKillerApp.png"><img src="https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311145473-Futurama_703_AttackOfTheKillerApp.png" height="144px" /></a>
+### 2069555
+**American Dad S13E02 - The Census of the Lambs**  
+TV-14-DLV 🔒 21:03  
+⌛ October 31, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/the-census-of-the-lambs  
+seriesid=`581006` titleid=`2069555` id=`RktRj9lgSdelLLgUqsKLbA` mediaid=`98679cbf54e6667a5cc100bb21b22e7b75009409`  
+_Hayley and Stan compete while collecting data for the US Census. Klaus inherits a camera and has Steve and his friends model for him._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407732527.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407732527.jpg" height="144px" /></a>
+### 2069554
+**American Dad S13E01 - Paranoid_Frandroid**  
+TV-14-DLSV 🔒 21:03  
+⌛ October 31, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/paranoid-frandroid  
+seriesid=`581006` titleid=`2069554` id=`kuyoMQr6Ta62NeNv3TRsgw` mediaid=`9a7930d726aa9b94583f7600197cfc38b50e90c7`  
+_Francine becomes a conspiracy theorist. Klaus & Steve help Snot pimp out his new room._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407975132.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407975132.jpg" height="144px" /></a>
+### 626850
+**Squidbillies S01E03 - School Days, Fool Days**  
+TV-14-DLV 🔓 11:26  
+⌛ October 31, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/squidbillies/school-days-fool-days  
+seriesid=`581268` titleid=`626850` id=`7iWZyWxOT6uqbugAD6eJPQ` mediaid=`3d106544ab3e4b2a7d92300c98cc69c537723251`  
+_After a debilitating sports injury, Rusty is home schooled by Early._  
+<a href="https://media.cdn.adultswim.com/uploads/20200408/thumbnails/2_20481611575-squidbillies_003.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200408/thumbnails/2_20481611575-squidbillies_003.jpg" height="144px" /></a>
+### 758320
+**Squidbillies S04E10 - Not Without My Cash Cow!**  
+TV-MA 🔓 11:26  
+⌛ October 31, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/squidbillies/not-without-my-cash-cow  
+seriesid=`581268` titleid=`758320` id=`QW3ug_u6Q3eMk61EKNNKOQ` mediaid=`643984d7ddc13c022d56fdeff5aca659362fa2f3`  
+_When the media sensationalizes his son's disappearance, Early finds the coverage to be sensational._  
+<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131221598-squidbillies_050_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131221598-squidbillies_050_bim.jpg" height="144px" /></a>
+### 2032578
+**Squidbillies S09E02 - Limbitless**  
+TV-14-LV 🔓 11:46  
+⌛ October 31, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/squidbillies/limbitless  
+seriesid=`581268` titleid=`2032578` id=`_tz4f6DiSRSW79uZ4e0cLw` mediaid=`f1ba52aaf32fbfe3935abb25c844bf5277244632`  
+_Early trades his legs for walking around money._  
+<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_20414115474-squidbillies_088_dup-20140923.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_20414115474-squidbillies_088_dup-20140923.jpg" height="144px" /></a>
+### 653889
+**Squidbillies S02E07 - The Tiniest Princess**  
+TV-MA 🔓 11:14  
+⌛ October 31, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/squidbillies/the-tiniest-princess  
+seriesid=`581268` titleid=`653889` id=`l3B5NoudQH2F-N11OhI6rA` mediaid=`90788f40bdc06ab0340c6ea9bb8305f89dc65145`  
+_A giant ant-man ruins Halloween._  
+<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131115240-squidbillies_012.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131115240-squidbillies_012.jpg" height="144px" /></a>
+### 731401
+**King of the Hill S07E02 - The Fat and the Furious**  
+TV-PG-DL 🔒 24:09  
+⌛ October 31, 2025 at 23:59:00 EDT  
+https://www.adultswim.com/videos/king-of-the-hill/the-fat-and-the-furious  
+seriesid=`629835` titleid=`731401` id=`I3VxRkYZS8mVMKwC8SCPZg` mediaid=`6da493b2b80013cf076a5af42cdeb7ae439f7a16`  
+_A cute groupie convinces Bill to enter a hot dog eating contest that pits him against a Laotian champion._  
+<a href="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_5194115732514835363.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a2505951e3ac6db011e3c1420880059/thumbnail_5194115732514835363.jpg" height="144px" /></a>
