@@ -94,6 +94,52 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1762664340,
+        "tms_id": "EP003034830096",
+        "description": "The theory of evolution is put to the test on a planet inhabited by robots.",
+        "title_suggest": {
+            "input": [
+                "A Clockwork Origin",
+                "Clockwork Origin",
+                "Origin"
+            ]
+        },
+        "title": "A Clockwork Origin",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1366.1314,
+        "episode_number": "9",
+        "original_air_date": "1648429200",
+        "auth_launch_date": 1762056000,
+        "clip_order": null,
+        "airing_id": "RADS1010282500065342",
+        "media_id": "8286bf16549615893dc068b3747fa1ed7293538e",
+        "modified": 1761824361,
+        "slug": "a-clockwork-origin",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220322/thumbnails/1_223221442419-Futurama_709_AClockworkOrigin.png",
+        "created": 1647974570,
+        "season_number": "7",
+        "title_id": "2161628",
+        "tv_rating": "tv-14-dlv",
+        "published": 1761824361,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220322/thumbnails/2_223221442419-Futurama_709_AClockworkOrigin.png",
+        "id": "AX-y8FjQ_0O4w1rD3R4A",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1762145940,
         "tms_id": "EP003034830091",
         "description": "The crew races to future-Rome to unearth the shocking secret of Leonardo da Vinci.",
@@ -183,50 +229,5 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20220310/thumbnails/2_22310132798-Futurama_706_LethalInspection.png",
         "id": "AX91FeOz208s7zyYUMR1",
         "auth": true
-    },
-    {
-        "auth_expiration_date": 1762055940,
-        "tms_id": "EP003034830090",
-        "description": "Bender leads a campaign to legalize robosexual marriage between humans and robots.",
-        "title_suggest": {
-            "input": [
-                "Proposition Infinity",
-                "Infinity"
-            ]
-        },
-        "title": "Proposition Infinity",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1357.356,
-        "episode_number": "4",
-        "original_air_date": "1646620200",
-        "auth_launch_date": 1761451200,
-        "clip_order": null,
-        "airing_id": "RADS1010202500063945",
-        "media_id": "cb96ac3754af8b9463c8f24b54783190914fe6ce",
-        "modified": 1761196457,
-        "slug": "proposition-infinity",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/1_22311146361-Futurama_704_PropositionInfinity.png",
-        "created": 1646153204,
-        "season_number": "7",
-        "title_id": "2161623",
-        "tv_rating": "tv-14-dsv",
-        "published": 1761196457,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311146361-Futurama_704_PropositionInfinity.png",
-        "id": "AX9GYIQj208s7zyYUMOe",
-        "auth": false
     }
 ]
