@@ -100,6 +100,53 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15192402394087.jpg"
     },
     {
+        "auth_expiration_date": 1763355540,
+        "tms_id": "",
+        "description": "It's a Belcher family turkey rescue.",
+        "title_suggest": {
+            "input": [
+                "I Bob Your Pardon",
+                "Bob Your Pardon",
+                "Your Pardon",
+                "Pardon"
+            ]
+        },
+        "title": "I Bob Your Pardon",
+        "expiration_date": 1751860740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1289.922,
+        "episode_number": "7",
+        "original_air_date": null,
+        "auth_launch_date": 1762146000,
+        "clip_order": null,
+        "airing_id": "RADS1010302500065645",
+        "media_id": "9497f98206956de7214b3825081699f33d99aad2",
+        "modified": 1761897642,
+        "slug": "i-bob-your-pardon",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231114/thumbnails/1_231114140501-Screenshot2023-11-14at1.59.37PM.png",
+        "created": 1696862254,
+        "season_number": "9",
+        "title_id": "2438923",
+        "tv_rating": "",
+        "published": 1761897642,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1751256000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20231114/thumbnails/2_231114140501-Screenshot2023-11-14at1.59.37PM.png",
+        "id": "AYsU3zdd1E7YmWrdXLj8",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1763009940,
         "tms_id": "",
         "description": "The kids' Halloween plan goes awry.",
@@ -332,55 +379,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/2_259221742300-BobsBurgers_1505.jpg",
         "id": "AZlzb5x1yEF1_1NDe6fk",
         "auth": true
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1762145940,
-        "tms_id": "EP012792980024",
-        "description": "The Belcher kids break their Halloween tradition by ditching their usual trick-or-treating route and venturing off to Kingshead Island, a posh neighborhood that is known for distributing full-sized candy bars. Meanwhile, Bob and Linda attend Teddy's annual \"Black and Orange\" party.",
-        "title_suggest": {
-            "input": [
-                "Full Bars",
-                "Bars"
-            ]
-        },
-        "expiration_date": 1661745540,
-        "title": "Full Bars",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1275.7745,
-        "episode_number": "2",
-        "original_air_date": 1383012000,
-        "clip_order": null,
-        "auth_launch_date": 1760932800,
-        "modified": 1760558729,
-        "media_id": "eeb581363da7986f1e3d885d9d2b46e52c145de3",
-        "airing_id": "RADS1010152500062688",
-        "id": "ClXtTaMsTqeJ9gW6Fx286w",
-        "slug": "full-bars",
-        "views": 7191,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15295038587449.jpg",
-        "created": 1403210185,
-        "season_number": "3",
-        "title_id": "2003513",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1760558729,
-        "first_published": 1409541627,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1661140800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15295038587449.jpg",
-        "cma_id": "2003513"
     },
     {
         "auth": true,
