@@ -285,55 +285,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1763441940,
-        "tms_id": "",
-        "description": "It's all about the turkey.",
-        "title_suggest": {
-            "input": [
-                "Now We're Not Cooking with Gas",
-                "We're Not Cooking with Gas",
-                "Not Cooking with Gas",
-                "Cooking with Gas",
-                "with Gas",
-                "Gas"
-            ]
-        },
-        "title": "Now We're Not Cooking with Gas",
-        "expiration_date": 1738558740,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1291.7904,
-        "episode_number": "8",
-        "original_air_date": "1699927200",
-        "auth_launch_date": 1762232400,
-        "clip_order": null,
-        "airing_id": "RADS1010302500065739",
-        "media_id": "9d2a8f414dd00c427a0886e8f230eeeb698ea20f",
-        "modified": 1761978391,
-        "slug": "now-were-not-cooking-with-gas",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231120/thumbnails/1_2311201756105-Screenshot2023-11-20at5.55.34PM.png",
-        "created": 1698863429,
-        "season_number": "10",
-        "title_id": "2438946",
-        "tv_rating": "tv-pg-l",
-        "published": 1761978391,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1737954000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20231120/thumbnails/2_2311201756105-Screenshot2023-11-20at5.55.34PM.png",
-        "id": "AYuMJrg_1E7YmWrdXLkj",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1762750740,
         "tms_id": "",
         "description": "Louise suspects there's something sinister afoot during a Halloween field trip to an apple orchard.",
@@ -477,5 +428,52 @@
         "launch_date": 1674450000,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/the-hauntening/bobsburgers_513_air_cid-2WYDK.jpg",
         "cma_id": "2097191"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1762232340,
+        "tms_id": "EP012792980050",
+        "description": "Tina, Gene and Louise are filled with the Halloween spirit and head out with their friends for a candy-fueled adventure. However, things take a turn for the worse when the kids build their own fort and find themselves held hostage by Louise's wacko friend, Millie.",
+        "title_suggest": {
+            "input": [
+                "Fort Night",
+                "Night"
+            ]
+        },
+        "title": "Fort Night",
+        "type": "episode",
+        "expiration_date": 1665979140,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1293.2253,
+        "episode_number": "2",
+        "original_air_date": 1414373400,
+        "auth_launch_date": 1761019200,
+        "clip_order": null,
+        "modified": 1760559055,
+        "media_id": "d9b39e28678026f4e0d605a247e86569819acaf5",
+        "airing_id": "RADS1010152500062818",
+        "id": "pgZGJHhBSiiiY1E3pl_GCw",
+        "slug": "fort-night",
+        "views": 8256,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15187081051505.jpg",
+        "created": 1414380043,
+        "title_id": "2030305",
+        "tv_rating": "tv-14",
+        "season_number": "4",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1760559055,
+        "first_published": 1414380043,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1665374400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187081051505.jpg",
+        "cma_id": "2030305"
     }
 ]
