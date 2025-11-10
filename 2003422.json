@@ -331,54 +331,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1762750740,
-        "tms_id": "",
-        "description": "Louise suspects there's something sinister afoot during a Halloween field trip to an apple orchard.",
-        "title_suggest": {
-            "input": [
-                "Apple Gore-Chard! (But Not Gory)",
-                "Gore-Chard! (But Not Gory)",
-                "(But Not Gory)",
-                "Not Gory)",
-                "Gory)"
-            ]
-        },
-        "title": "Apple Gore-Chard! (But Not Gory)",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "6",
-        "original_air_date": null,
-        "auth_launch_date": 1761537600,
-        "clip_order": null,
-        "airing_id": "RADS1010222500064375",
-        "media_id": "e93dedceb4a16a2c686bdb081c511b1885a195f9",
-        "modified": 1761187612,
-        "slug": "apple-gore-chard-but-not-gory",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_25918112279-BobsBurgers_1306.jpg",
-        "created": 1758209280,
-        "season_number": "13",
-        "title_id": "2569572",
-        "tv_rating": "tv-pg-l",
-        "published": 1761187612,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_25918112279-BobsBurgers_1306.jpg",
-        "id": "AZldcIu8yEF1_1NDe6aX",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1762837140,
         "tms_id": "",
         "description": "It's a mystery within a mystery as Louise stages a murder mystery in a creepy old dollhouse store for reasons that she has trouble explaining.",
@@ -425,6 +377,56 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/2_259221742300-BobsBurgers_1505.jpg",
         "id": "AZlzb5x1yEF1_1NDe6fk",
         "auth": true
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1763960340,
+        "tms_id": "EP012792980053",
+        "description": "Determined to have a perfect Thanksgiving, Bob meticulously prepares the family turkey. But, to his horror, he finds that someone then dumps the turkey in the toilet in an act of Thanksgiving sabotage.",
+        "title_suggest": {
+            "input": [
+                "Turkey in a Can",
+                "in a Can",
+                "a Can",
+                "Can"
+            ]
+        },
+        "title": "Turkey in a Can",
+        "type": "episode",
+        "expiration_date": 1666583940,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1274.0728,
+        "episode_number": "5",
+        "original_air_date": 1416798000,
+        "auth_launch_date": 1762750800,
+        "clip_order": null,
+        "modified": 1762457859,
+        "media_id": "51af3e49977f9bd4d2412c277fe92b53c8f2baf4",
+        "airing_id": "RADS1011062500067316",
+        "id": "oKS-s_nDTPW06xmPrkV5Lw",
+        "slug": "turkey-in-a-can",
+        "views": 6204,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-153132725097715.jpg",
+        "created": 1416806423,
+        "title_id": "2030308",
+        "tv_rating": "tv-14",
+        "season_number": "4",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1762457859,
+        "first_published": 1416806423,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1665979200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153132725097715.jpg",
+        "cma_id": "1461131"
     },
     {
         "auth": true,
