@@ -191,6 +191,54 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1767070740,
+        "tms_id": "",
+        "description": "The battle against Acrobatic Silky is over, and the three briefly go back to normal school life before Serpoians show up again.",
+        "title_suggest": {
+            "input": [
+                "I've Got This Funny Feeling",
+                "Got This Funny Feeling",
+                "This Funny Feeling",
+                "Funny Feeling",
+                "Feeling"
+            ]
+        },
+        "title": "I've Got This Funny Feeling",
+        "expiration_date": 1760860740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZhC4WShITxXrw59dM9q",
+        "duration": 1356.722,
+        "episode_number": "8",
+        "original_air_date": null,
+        "auth_launch_date": 1762923600,
+        "clip_order": null,
+        "airing_id": "RADS1011112500068529",
+        "media_id": "0b0491b8a25f4de32e085a0423913b6ad0465b03",
+        "modified": 1762879373,
+        "slug": "ive-got-this-funny-feeling",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250725/thumbnails/1_257251522567-Ep08_Still_0063.png",
+        "created": 1753471404,
+        "season_number": "1",
+        "title_id": "2568751",
+        "tv_rating": "tv-ma",
+        "published": 1762879373,
+        "tags": [],
+        "collection_title": "DAN DA DAN",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1759651200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250725/thumbnails/2_257251522567-Ep08_Still_0063.png",
+        "id": "AZhDCkjvITxXrw59dM92",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1767675599,
         "tms_id": "",
         "description": "Aira has awakened Acrobatic Silky's powers within her. She joins the battle against the aliens together with Momo and Okarun.",
@@ -286,6 +334,51 @@
         "launch_date": 1760860800,
         "poster": "https://media.cdn.adultswim.com/uploads/20250725/thumbnails/2_25725152573-Ep10_Still_0113.png",
         "id": "AZhDDCajCI-3VkGoG1VJ",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1768885140,
+        "tms_id": "",
+        "description": "Momo's childhood friend Jiji begins living in Momo's house. Jiji, plagued by apparitions in the house he moved into, has come to seek help from Seiko.",
+        "title_suggest": {
+            "input": [
+                "First Love",
+                "Love"
+            ]
+        },
+        "title": "First Love",
+        "expiration_date": 1762837199,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZhC4WShITxXrw59dM9q",
+        "duration": 1357.7564,
+        "episode_number": "11",
+        "original_air_date": null,
+        "auth_launch_date": 1762923600,
+        "clip_order": null,
+        "airing_id": "RADS1011112500068546",
+        "media_id": "1029c81ffacefa305bf22938c1275ba4c56ff62b",
+        "modified": 1762880241,
+        "slug": "first-love",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250725/thumbnails/1_257251525581-Ep11_Still_0195.png",
+        "created": 1753471567,
+        "season_number": "1",
+        "title_id": "2568754",
+        "tv_rating": "tv-ma-v",
+        "published": 1762880241,
+        "tags": [],
+        "collection_title": "DAN DA DAN",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1761465600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250725/thumbnails/2_257251525581-Ep11_Still_0195.png",
+        "id": "AZhDDMVyCI-3VkGoG1VK",
         "auth": true
     },
     {

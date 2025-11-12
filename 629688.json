@@ -410,61 +410,6 @@
         "cma_id": ""
     },
     {
-        "auth": true,
-        "ott_launch_date": 1447172280,
-        "auth_expiration_date": 1762923540,
-        "tms_id": "EP007959510029",
-        "rating": 6.5537734,
-        "description": "Orel and Clay take a father and son hunting trip.",
-        "title_suggest": {
-            "input": [
-                "Nature pt. 1",
-                "pt. 1",
-                "1"
-            ]
-        },
-        "type": "episode",
-        "title": "Nature pt. 1",
-        "expiration_date": 1759895940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
-        "duration": 678.6339673,
-        "episode_number": "19",
-        "original_air_date": 1183954500,
-        "clip_order": null,
-        "auth_launch_date": 1759896000,
-        "modified": 1759647066,
-        "media_id": "f03c78dab8fd65ab2080f3ed850d221557152680",
-        "airing_id": "RADS1010022500061284",
-        "id": "CZwiihI4QjSbAmOjo9G9eA",
-        "slug": "nature-pt-1",
-        "views": 372481,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_20311163585-moralorel_022.jpg",
-        "created": 1402945470,
-        "title_id": "657353",
-        "season_number": "2",
-        "tv_rating": "tv-ma",
-        "active": true,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1759647066,
-        "tags": [
-            "moral orel episode 22 nature 1 hunting camping trip clay shot gun"
-        ],
-        "rating_count": 5114,
-        "collection_title": "Moral Orel",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1756872000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311163585-moralorel_022.jpg",
-        "cma_id": "1427090"
-    },
-    {
         "auth": false,
         "ott_launch_date": 1447173120,
         "auth_expiration_date": 1741150740,
@@ -514,6 +459,59 @@
         "launch_date": 1761710400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311167346-moralorel_039.jpg",
         "cma_id": "1461975"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": 1447173120,
+        "auth_expiration_date": 1742356740,
+        "tms_id": "EP007959510039",
+        "rating": 8.953155,
+        "description": "Stephanie is hell-bent on Orel having a better experience than her own at the school's annual \"Arms Length Dance.\"",
+        "title_suggest": {
+            "input": [
+                "Closeface"
+            ]
+        },
+        "type": "episode",
+        "title": "Closeface",
+        "expiration_date": 1765947540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "kr5vuPsxROGONX4xTfJK9g",
+        "duration": 704.7007007,
+        "episode_number": "9",
+        "original_air_date": 1226466900,
+        "clip_order": null,
+        "auth_launch_date": 1739336400,
+        "modified": 1762551462,
+        "media_id": "e14fc2e50e678f1e60814056c395101172a1e8c3",
+        "airing_id": "RADS1011072500067714",
+        "id": "LPnVotAlQJ6Vaij6cZLx_A",
+        "slug": "closeface",
+        "views": 291426,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/1_20311168168-moralorel_037.jpg",
+        "created": 1402945470,
+        "title_id": "723835",
+        "season_number": "3",
+        "tv_rating": "tv-ma",
+        "active": true,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1762551462,
+        "tags": [
+            "moral orel episode 37 closeface stephanie christina arms length dance love dating kiss"
+        ],
+        "rating_count": 1110,
+        "collection_title": "Moral Orel",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1762923600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311168168-moralorel_037.jpg",
+        "cma_id": "1471741"
     },
     {
         "auth": false,
@@ -579,7 +577,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447172940,
         "auth_expiration_date": 1765947540,
         "tms_id": "EP007959510034",
