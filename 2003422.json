@@ -1,5 +1,51 @@
 [
     {
+        "ott_launch_date": null,
+        "auth": true,
+        "auth_expiration_date": 1764219540,
+        "tms_id": "EP012792980116",
+        "description": "When Mr. Frond's annual play threatens to ruin the half day before Thanksgiving, Gene and Louise decide they need to sabotage it in order to save their long weekend.",
+        "title_suggest": {
+            "input": [
+                "The Quirk-Ducers",
+                "Quirk-Ducers"
+            ]
+        },
+        "title": "The Quirk-Ducers",
+        "type": "episode",
+        "expiration_date": 1679284740,
+        "platforms": [
+            "web",
+            "mobile",
+            "fire-tv",
+            "roku"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1300.63,
+        "episode_number": "6",
+        "original_air_date": 1519610400,
+        "auth_launch_date": 1763010000,
+        "clip_order": null,
+        "media_id": "de187014e68d404e0abdaccc1d7c151bc1380d49",
+        "modified": 1762756673,
+        "airing_id": "RADS1011072500067825",
+        "id": "AWG1Yym-NWyh42wYnk6f",
+        "slug": "the-quirk-ducers",
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15198454863205.jpg",
+        "created": 1519166630,
+        "title_id": "2132992",
+        "tv_rating": "tv-pg-dlv",
+        "season_number": "7",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1762756673,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1678680000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15198454863205.jpg"
+    },
+    {
         "auth_expiration_date": 1763355540,
         "tms_id": "",
         "description": "It's a Belcher family turkey rescue.",
@@ -44,51 +90,6 @@
         "launch_date": 1751256000,
         "poster": "https://media.cdn.adultswim.com/uploads/20231114/thumbnails/2_231114140501-Screenshot2023-11-14at1.59.37PM.png",
         "id": "AYsU3zdd1E7YmWrdXLj8",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1763009940,
-        "tms_id": "",
-        "description": "The kids' Halloween plan goes awry.",
-        "title_suggest": {
-            "input": [
-                "Heartbreak Hotel-Oween",
-                "Hotel-Oween"
-            ]
-        },
-        "title": "Heartbreak Hotel-Oween",
-        "type": "episode",
-        "expiration_date": 1742183940,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1291.7572,
-        "episode_number": "4",
-        "original_air_date": 1696901400,
-        "auth_launch_date": 1761796800,
-        "clip_order": null,
-        "airing_id": "RADS1010242500064745",
-        "media_id": "36c324f5a2036c5a573885f391314d0d681a2641",
-        "modified": 1761542637,
-        "slug": "heartbreak-hotel-oween",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231023/thumbnails/1_2310231125472-Screenshot2023-10-23at11.25.30AM.png",
-        "created": 1697688570,
-        "title_id": "2438964",
-        "season_number": "11",
-        "tv_rating": "tv-pg-dl",
-        "published": 1761542637,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1741579200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20231023/thumbnails/2_2310231125472-Screenshot2023-10-23at11.25.30AM.png",
-        "id": "AYtGH8wC1E7YmWrdXLkQ",
         "auth": true
     },
     {
