@@ -1,6 +1,59 @@
 [
     {
         "auth": false,
+        "ott_launch_date": 1451681760,
+        "auth_expiration_date": 1703221140,
+        "tms_id": "EP007008200002",
+        "rating": 6.4794273,
+        "description": "Tom and the Mayor try to celebrate a relic of Jefferton's past by rebuilding a Western-themed amusement park called Pioneer Island. Patton Oswalt guest stars as Zynx, a new threat to the Mayor's power.",
+        "title_suggest": {
+            "input": [
+                "Pioneer Island",
+                "Island"
+            ]
+        },
+        "type": "episode",
+        "title": "Pioneer Island",
+        "expiration_date": 1769144340,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
+        "duration": 693.99,
+        "episode_number": "2",
+        "original_air_date": 1102307400,
+        "clip_order": null,
+        "auth_launch_date": 1700197200,
+        "modified": 1762909039,
+        "airing_id": "RADS1011102500068069",
+        "media_id": "750238ec74b8f7f87bb8fddafe2039b7cc1e6c35",
+        "id": "4Y8oUeIOSya7ux4a42RlvQ",
+        "slug": "pioneer-island",
+        "views": 96178,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117834500-tgttm_002.jpg",
+        "created": 1402945482,
+        "title_id": "607107",
+        "season_number": "1",
+        "tv_rating": "tv-pg",
+        "active": true,
+        "ott_expiration_date": null,
+        "published": 1762909039,
+        "tags": [
+            "tom goes to the mayor tgttm episode 2 pioneer island western restaurant son patton oswalt"
+        ],
+        "rating_count": 559,
+        "collection_title": "Tom Goes To The Mayor",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1763096400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117834500-tgttm_002.jpg",
+        "cma_id": ""
+    },
+    {
+        "auth": false,
         "ott_launch_date": 1451682780,
         "auth_expiration_date": 1697774340,
         "tms_id": "EP007008200015",
