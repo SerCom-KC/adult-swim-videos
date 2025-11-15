@@ -2,60 +2,122 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: November 14, 2025 at 00:30:14 EST_
+_Last Update: November 15, 2025 at 00:30:42 EST_
 ## Video added
 ### Summary
 581006 American Dad: 2  
-2003422 Bob's Burgers: 1  
-### 2186663
-**American Dad S14E14 - Hamerican Dad!**  
+437532 Futurama: 1  
+629835 King of the Hill: 1  
+2530043 Psi-Cops: 1  
+### 2186664
+**American Dad S14E15 - Demolition Daddy**  
 TV-14-DLSV 🔒 21:02  
-⌛ November 20, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/hamerican-dad  
-seriesid=`581006` titleid=`2186663` id=`AXKPZmnhC8QgH-t19JjV` mediaid=`22719bca3d20ee8dd73a3cd906c93d85ff103cf9`  
-_Stan, reluctantly invites Roger into his ham club. Francine decides to scare Greg._  
-<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_206892083-americandad_1314_air_cid-46CYK.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_206892083-americandad_1314_air_cid-46CYK.jpg" height="144px" /></a>
-### 2186662
-**American Dad S14E13 - Mom Sauce**  
+⌛ November 21, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/demolition-daddy  
+seriesid=`581006` titleid=`2186664` id=`AXKPZuazRs3h4hI_X4A-` mediaid=`4052df40c5fe09a1659e275384c6d9287ca98fb6`  
+_Thanks to Roger, Snot discovers his dead father was a demolition derby driver. Hayley takes Steve on a road trip, so he can learn to drive._  
+<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068919384-americandad_1315_air_cid-3XVN9.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068919384-americandad_1315_air_cid-3XVN9.jpg" height="144px" /></a>
+### 2186665
+**American Dad S14E16 - Pride Before the Fail**  
 TV-14-DLSV 🔒 21:03  
-⌛ November 20, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/mom-sauce  
-seriesid=`581006` titleid=`2186662` id=`AXKPZbx3Rs3h4hI_X4A9` mediaid=`fe5524e638316357b15d463e007bea8105ad43cf`  
-_Steve's life is turned upside down when Snot gets rich after his mom starts selling a new dipping sauce. Klaus, Stan, Roger and Jeff become mall fashion show models._  
-<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068918507-americandad_1313_air_cid-3XN4Y.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068918507-americandad_1313_air_cid-3XN4Y.jpg" height="144px" /></a>
-### 2171436
-**Bob's Burgers S08E05 - Thanks-hoarding**  
-TV-PG-L 🔒 21:21  
-⌛ November 27, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/thanks-hoarding  
-seriesid=`2003422` titleid=`2171436` id=`AWZ49jL7h5enQuYyJW6z` mediaid=`0708ee46e2c401b02429ef1ee7f811f93da21cbd`  
-_Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154264611007218.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154264611007218.jpg" height="144px" /></a>
+⌛ November 21, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/pride-before-the-fail  
+seriesid=`581006` titleid=`2186665` id=`AXKUOAGSRs3h4hI_X4BT` mediaid=`f9f7945f1cad6a5f1870836f0cdded3be56b78b3`  
+_Roger tries to force Hayley into graduating from community college so he can move into her room. Klaus repairs Francine's car._  
+<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068956328-americandad_1316_air_cid-3Y3D1.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068956328-americandad_1316_air_cid-3Y3D1.jpg" height="144px" /></a>
+### 2161633
+**Futurama S08E05 - The Silence of the Clamps**  
+TV-14-DLSV 🔒 22:39  
+⌛ November 21, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/futurama/the-silence-of-the-clamps  
+seriesid=`437532` titleid=`2161633` id=`AYBIQClS_0O4w1rD3SCd` mediaid=`8fdccab7c43a8c275283291d8317794fcf387b65`  
+_After testifying against the Robot Mafia, Bender goes into hiding in the witness relocation program._  
+<a href="https://media.cdn.adultswim.com/uploads/20220420/thumbnails/2_224201433182-Futurama_801_TheSilenceOfTheClamps.png"><img src="https://media.cdn.adultswim.com/uploads/20220420/thumbnails/2_224201433182-Futurama_801_TheSilenceOfTheClamps.png" height="144px" /></a>
+### 731484
+**King of the Hill S07E17 - The Good Buck**  
+TV-PG-DL 🔒 24:10  
+⌛ November 21, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/king-of-the-hill/the-good-buck  
+seriesid=`629835` titleid=`731484` id=`oRq5vjKFS7aNubA24SblaQ` mediaid=`b1059964fb4684e982ce7cf1e7a2f3da98f40727`  
+_Hank and Peggy become concerned when the leering Buck Strickland ends up in Luanne's Bible study class; Bobby skips gym class to have tea and scones at the posh Hotel Arlen._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15221642818499.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15221642818499.jpg" height="144px" /></a>
+### 2530051
+**Psi-Cops S01E08 - Shape Shifter**  
+TV-MA-LV 🔒 11:00  
+⌛ December 19, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/psi-cops/shape-shifter  
+seriesid=`2530043` titleid=`2530051` id=`AZDqWNLyg6zBH7G86tg1` mediaid=`66c28bec7ec9e5e0b4a2ee62b860308893a7ac9f`  
+_Getting to know your colleagues is hard, especially when one might be a demon in disguise._  
+<a href="https://media.cdn.adultswim.com/uploads/20240729/thumbnails/2_24729946319-PSICOPS_SEASON1_EP108_SHOWSTILLS_IMAGE3_LEFTTORIGHT_KYDDFELIXXDEADGRANDPACHIEFBEEFERICGRAVEYARD.jpg"><img src="https://media.cdn.adultswim.com/uploads/20240729/thumbnails/2_24729946319-PSICOPS_SEASON1_EP108_SHOWSTILLS_IMAGE3_LEFTTORIGHT_KYDDFELIXXDEADGRANDPACHIEFBEEFERICGRAVEYARD.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 1  
+2398940 Housing Complex C: 1  
+2530043 Psi-Cops: 1  
+437532 Futurama: 1  
 581006 American Dad: 2  
-### 2438985
-**Bob's Burgers S12E03 - The Pumpkinening**  
-TV-PG-L 🔒 21:31  
-⌛ November 13, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/the-pumpkinening  
-seriesid=`2003422` titleid=`2438985` id=`AYtjwi6tn_kciGPPrDF_` mediaid=`fef9fbc337ee64a649ac7fd5f3a7b4ca7044622f`  
-_Linda and Gayle get a mysterious note._  
-<a href="https://media.cdn.adultswim.com/uploads/20231030/thumbnails/2_231030151024-Screenshot2023-10-30at3.09.50PM.png"><img src="https://media.cdn.adultswim.com/uploads/20231030/thumbnails/2_231030151024-Screenshot2023-10-30at3.09.50PM.png" height="144px" /></a>
-### 2186651
-**American Dad S14E02 - I Am The Jeans: The Gina Lavetti Story**  
-TV-14-DLV 🔒 21:02  
-⌛ November 13, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/i-am-the-jeans-the-gina-lavetti-story  
-seriesid=`581006` titleid=`2186651` id=`AWjyUKXnHl5gR6828yeL` mediaid=`a295465726db5a96b4c3e6f3ce151fbf0a9539b1`  
+581268 Squidbillies: 2  
+629835 King of the Hill: 1  
+### 2398941
+**Housing Complex C S01E01 - Optical Illusion**  
+TV-MA-V 🔓 25:03  
+⌛ November 14, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/housing-complex-c/optical-illusion  
+seriesid=`2398940` titleid=`2398941` id=`AYOPwhqbIAxeiVkFtLSA` mediaid=`d8ed118d7011a5c8b409a58d7ab59eb97d6cfd5c`  
+_Everything in Housing Complex C has always seemed fine. Until a new batch residents move in, and some strange incidents occur. Is their arrival just a coincidence? One of the established residents, Kimi, joins one of the new girls, Yuri, and together they make an odd discovery._  
+<a href="https://media.cdn.adultswim.com/uploads/20220930/thumbnails/2_229301456195-HousingComplexC101OpticalIllusion-min.png"><img src="https://media.cdn.adultswim.com/uploads/20220930/thumbnails/2_229301456195-HousingComplexC101OpticalIllusion-min.png" height="144px" /></a>
+### 2530046
+**Psi-Cops S01E03 - Bloody Mary**  
+TV-MA-V 🔓 11:00  
+⌛ November 14, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/psi-cops/bloody-mary  
+seriesid=`2530043` titleid=`2530046` id=`AZCfZbr2Saru9Cdsy7JP` mediaid=`566a9366aebe2bc888142382796d531742b90873`  
+_Kydd and Felixx attend a slumber party and learn that mirror demons aren't nearly as scary as their own reflections._  
+<a href="https://media.cdn.adultswim.com/uploads/20240715/thumbnails/2_24715112430-PSICOPS_SEASON1_EP103_SHOWSTILLS_IMAGE3_LEFTTORIGHT_KYDDFELIXXERIC.jpg"><img src="https://media.cdn.adultswim.com/uploads/20240715/thumbnails/2_24715112430-PSICOPS_SEASON1_EP103_SHOWSTILLS_IMAGE3_LEFTTORIGHT_KYDDFELIXXERIC.jpg" height="144px" /></a>
+### 2161632
+**Futurama S07E13 - Holiday Spectacular**  
+TV-14-DLV 🔓 22:37  
+⌛ November 14, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/futurama/holiday-spectacular  
+seriesid=`437532` titleid=`2161632` id=`AYAJe5Lg208s7zyYUMiQ` mediaid=`4f5e5217d454be4ab623f71b9829eec61f7ef5eb`  
+_In this festive three-part episode, the Planet Express crew races to preserve the traditional practices of the classic holidays of Xmas, Robanukah and Kwanzaa._  
+<a href="https://media.cdn.adultswim.com/uploads/20220408/thumbnails/2_2248155290-Futurama_713_TheFuturamaHolidaySpectacular.png"><img src="https://media.cdn.adultswim.com/uploads/20220408/thumbnails/2_2248155290-Futurama_713_TheFuturamaHolidaySpectacular.png" height="144px" /></a>
+### 2186652
+**American Dad S14E03 - Stan & Francine & Connie & Ted**  
+TV-14-DLSV 🔓 21:02  
+⌛ November 14, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/stan-francine-connie-ted  
+seriesid=`581006` titleid=`2186652` id=`AWjyT5XbAScUIg8XxdOE` mediaid=`5fa6fc2b56f1f6cb2eaa2c01406cb0f8f8822215`  
 _A CIA agent will do anything to protect his homeland and family._  
-<a href="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541513204-americandad_1302_air_cid-3VW4F.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541513204-americandad_1302_air_cid-3VW4F.jpg" height="144px" /></a>
-### 2186650
-**American Dad S14E01 - Fantasy Baseball**  
-TV-14-DLSV 🔒 21:02  
-⌛ November 13, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/fantasy-baseball  
-seriesid=`581006` titleid=`2186650` id=`AWjyVXZRAScUIg8XxdOH` mediaid=`596ffacb60795401af5fffdf6d1a3213ee6bb519`  
+<a href="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541513557-americandad_1303_air_cid-3VY0N.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541513557-americandad_1303_air_cid-3VY0N.jpg" height="144px" /></a>
+### 2186653
+**American Dad S14E04 - Rabbit Ears**  
+TV-14-L 🔓 21:02  
+⌛ November 14, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/rabbit-ears  
+seriesid=`581006` titleid=`2186653` id=`AWlKnTxTHl5gR6828yqj` mediaid=`8c82fe0846f1bf0ef9182a0f0f16c9352bde8b8f`  
 _A CIA agent will do anything to protect his homeland and family._  
-<a href="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541512565-americandad_1301_air_cid-3VJV7.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541512565-americandad_1301_air_cid-3VJV7.jpg" height="144px" /></a>
+<a href="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541514235-americandad_1304_air_cid-3W0VV.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541514235-americandad_1304_air_cid-3W0VV.jpg" height="144px" /></a>
+### 626852
+**Squidbillies S01E05 - Family Trouble**  
+TV-14-DLV 🔓 11:27  
+⌛ November 14, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/squidbillies/family-trouble  
+seriesid=`581268` titleid=`626852` id=`IURw_-bmQKW5S4xpSeRHMg` mediaid=`538f432a5b8d7a5e5d7b264b738cb2faaf211701`  
+_Revelations regarding Rusty's maternity lead to questions regarding Rusty's paternity._  
+<a href="https://media.cdn.adultswim.com/uploads/20200408/thumbnails/2_20481612367-squidbillies_005.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200408/thumbnails/2_20481612367-squidbillies_005.jpg" height="144px" /></a>
+### 798531
+**Squidbillies S05E02 - The Many Loves of Early Cuyler**  
+TV-MA 🔓 11:34  
+⌛ November 14, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/squidbillies/the-many-loves-of-early-cuyler  
+seriesid=`581268` titleid=`798531` id=`Ywy1pr8_Td-qg5IQXNPZZQ` mediaid=`2719fdcf0b93c70c5c9ecb1c4859263c170992f3`  
+_Early decides to remain faithful to all 97 of his new wives._  
+<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131315461-squidbillies_051_dst_cid-RFG8.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131315461-squidbillies_051_dst_cid-RFG8.jpg" height="144px" /></a>
+### 731473
+**King of the Hill S07E12 - Vision Quest**  
+TV-PG 🔓 24:10  
+⌛ November 14, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/king-of-the-hill/vision-quest  
+seriesid=`629835` titleid=`731473` id=`EQyrjE7HTuy_aWozAyMFQw` mediaid=`c8d0a8ae8182d98ed4386fc21bf9f0f4b7259134`  
+_When Bill falls in love with his blind date Charlene, a hot single mother, Dale's intuition tells him something's wrong; and he meddles in their relationship._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148536509210.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152148536509210.jpg" height="144px" /></a>
