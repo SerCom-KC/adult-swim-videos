@@ -2,17 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: November 16, 2025 at 05:30:41 EST_
+_Last Update: November 17, 2025 at 00:00:14 EST_
 ## Video added
 ### Summary
-608007 One Piece: 1  
-### 2573235
-**One Piece S18E06 - The New Warlord! The Legendary Whitebeard's Son Appears!**  
-TV-14-L 🔒 21:30  
-⌛ January 25, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/one-piece/the-new-warlord-the-legendary-whitebeards-son-appears  
-seriesid=`608007` titleid=`2573235` id=`AZpV4b6pyEF1_1NDe7P5` mediaid=`52c99b43e4a5731e1e45e4fcdd8cdb530a58b056`  
-_Luffy and the others arrive at the land of Zou and find Sunny. Then, they climb the monstrous elephant!_  
-<a href="https://media.cdn.adultswim.com/uploads/20251105/thumbnails/2_251151617110-OnePiece_s18ep6.png"><img src="https://media.cdn.adultswim.com/uploads/20251105/thumbnails/2_251151617110-OnePiece_s18ep6.png" height="144px" /></a>
+2546928 Haha, You Clowns: 1  
+2224721 Smiling Friends: 1  
+### 2546935
+**Haha, You Clowns S01E05 - Duncan Holds a Baby**  
+ 🔒 11:23  
+⌛ December 7, 2025 at 23:45:00 EST  
+https://www.adultswim.com/videos/haha-you-clowns/duncan-holds-a-baby  
+seriesid=`2546928` titleid=`2546935` id=`AZpWc4uUyEF1_1NDe7QK` mediaid=`4ee5408ca57e4aedc41fea348424f0909afff99f`  
+_Duncan struggles to hide his fear of holding babies._  
+<a href="https://media.cdn.adultswim.com/uploads/20251105/thumbnails/2_251151856336-AS_HahaYouClowns_05_107_DuncanHoldsABaby_Preferred.png"><img src="https://media.cdn.adultswim.com/uploads/20251105/thumbnails/2_251151856336-AS_HahaYouClowns_05_107_DuncanHoldsABaby_Preferred.png" height="144px" /></a>
+### 2477369
+**Smiling Friends S03E06 - Squim Returns**  
+TV-MA 🔒 11:31  
+⌛ December 7, 2025 at 23:29:00 EST  
+https://www.adultswim.com/videos/smiling-friends/squim-returns  
+seriesid=`2224721` titleid=`2477369` id=`AZpWcAcvs_ErlMTJpQqa` mediaid=`ae2941d9107c93a67156e509c25ed7d382a68c63`  
+_After buying a magic mirror, Pim meets Squim. Charlie starts "digging deep" and gets into some really bad internet stuff…like REALLY bad stuff._  
+<a href="https://media.cdn.adultswim.com/uploads/20251105/thumbnails/2_251151852281-AS_SmilingFriends_06_305_SquimReturns_PlatformPreferred.png"><img src="https://media.cdn.adultswim.com/uploads/20251105/thumbnails/2_251151852281-AS_SmilingFriends_06_305_SquimReturns_PlatformPreferred.png" height="144px" /></a>
 ## Video removed
 No videos were removed.  
