@@ -92,55 +92,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1763441940,
-        "tms_id": "",
-        "description": "It's all about the turkey.",
-        "title_suggest": {
-            "input": [
-                "Now We're Not Cooking with Gas",
-                "We're Not Cooking with Gas",
-                "Not Cooking with Gas",
-                "Cooking with Gas",
-                "with Gas",
-                "Gas"
-            ]
-        },
-        "title": "Now We're Not Cooking with Gas",
-        "expiration_date": 1738558740,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1291.7904,
-        "episode_number": "8",
-        "original_air_date": "1699927200",
-        "auth_launch_date": 1762232400,
-        "clip_order": null,
-        "airing_id": "RADS1010302500065739",
-        "media_id": "9d2a8f414dd00c427a0886e8f230eeeb698ea20f",
-        "modified": 1761978391,
-        "slug": "now-were-not-cooking-with-gas",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231120/thumbnails/1_2311201756105-Screenshot2023-11-20at5.55.34PM.png",
-        "created": 1698863429,
-        "season_number": "10",
-        "title_id": "2438946",
-        "tv_rating": "tv-pg-l",
-        "published": 1761978391,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1737954000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20231120/thumbnails/2_2311201756105-Screenshot2023-11-20at5.55.34PM.png",
-        "id": "AYuMJrg_1E7YmWrdXLkj",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1763528340,
         "tms_id": "",
         "description": "The stomach flu derails the Belcher's Thanksgiving.",
@@ -283,6 +234,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_25918126528-BobsBurgers_1318.jpg",
         "id": "AZldlHXIs_ErlMTJpQnu",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1764651540,
+        "tms_id": "",
+        "description": "The kids become a part of a crustacean-themed wrestling show. Meanwhile, Linda tries to form a 21-day habit.",
+        "title_suggest": {
+            "input": [
+                "Crab-solutely Fabulous",
+                "Fabulous"
+            ]
+        },
+        "title": "Crab-solutely Fabulous",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "19",
+        "original_air_date": null,
+        "auth_launch_date": 1763442000,
+        "clip_order": null,
+        "airing_id": "RADS1011162500069117",
+        "media_id": "a0e471360138fc09fa8e24d5174fece28a72cfab",
+        "modified": 1763332451,
+        "slug": "crab-solutely-fabulous",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_2591812840-BobsBurgers_1319.jpg",
+        "created": 1758211688,
+        "season_number": "13",
+        "title_id": "2569584",
+        "tv_rating": "tv-pg-l",
+        "published": 1763332451,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_2591812840-BobsBurgers_1319.jpg",
+        "id": "AZldlUjfyEF1_1NDe6am",
         "auth": true
     },
     {
