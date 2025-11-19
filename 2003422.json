@@ -92,54 +92,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1763528340,
-        "tms_id": "",
-        "description": "The stomach flu derails the Belcher's Thanksgiving.",
-        "title_suggest": {
-            "input": [
-                "Diarrhea of a Poopy Kid",
-                "of a Poopy Kid",
-                "a Poopy Kid",
-                "Poopy Kid",
-                "Kid"
-            ]
-        },
-        "title": "Diarrhea of a Poopy Kid",
-        "type": "episode",
-        "expiration_date": 1742788740,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1289.8885,
-        "episode_number": "7",
-        "original_air_date": 1699929000,
-        "auth_launch_date": 1762318800,
-        "clip_order": null,
-        "airing_id": "RADS1010302500065793",
-        "media_id": "2839f13ef21bc7cf6520a4097b2e2014ef0ca2cb",
-        "modified": 1762066636,
-        "slug": "diarrhea-of-a-poopy-kid",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231120/thumbnails/1_2311201754309-Screenshot2023-11-20at5.53.55PM.png",
-        "created": 1699999932,
-        "title_id": "2438967",
-        "season_number": "11",
-        "tv_rating": "tv-pg-lv",
-        "published": 1762066636,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1742184000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20231120/thumbnails/2_2311201754309-Screenshot2023-11-20at5.53.55PM.png",
-        "id": "AYvP5F7T1E7YmWrdXLk2",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1763614740,
         "tms_id": "",
         "description": "The Belcher's visit a retirement home.",
@@ -279,6 +231,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_2591812840-BobsBurgers_1319.jpg",
         "id": "AZldlUjfyEF1_1NDe6am",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1764737940,
+        "tms_id": "",
+        "description": "Bob tells Linda and the kids the story behind an old, broken radio.",
+        "title_suggest": {
+            "input": [
+                "Radio No You Didn't",
+                "No You Didn't",
+                "You Didn't",
+                "Didn't"
+            ]
+        },
+        "title": "Radio No You Didn't",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "20",
+        "original_air_date": null,
+        "auth_launch_date": 1763528400,
+        "clip_order": null,
+        "airing_id": "RADS1011162500069174",
+        "media_id": "35929116022278efeff31f699dbbd2eff662effc",
+        "modified": 1763334502,
+        "slug": "radio-no-you-didnt",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_25918121070-BobsBurgers_1320.jpg",
+        "created": 1758211811,
+        "season_number": "13",
+        "title_id": "2569585",
+        "tv_rating": "tv-pg-l",
+        "published": 1763334502,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_25918121070-BobsBurgers_1320.jpg",
+        "id": "AZldlygHs_ErlMTJpQnv",
         "auth": true
     },
     {

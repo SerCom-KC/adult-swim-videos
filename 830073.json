@@ -957,7 +957,7 @@
         "launch_date": 1763528400,
         "poster": "https://media.cdn.adultswim.com/uploads/20211217/thumbnails/2_2112171454154-OffTheAir_1104_Liminal.png",
         "id": "AX3J9ctQ4Xbjep71f6Hu",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1759895940,
@@ -2231,7 +2231,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1449258960,
         "auth_expiration_date": 1764133140,
         "tms_id": "EP014135410002",
