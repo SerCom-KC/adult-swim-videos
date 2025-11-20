@@ -92,55 +92,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1763614740,
-        "tms_id": "",
-        "description": "The Belcher's visit a retirement home.",
-        "title_suggest": {
-            "input": [
-                "Stuck in the Kitchen with You",
-                "in the Kitchen with You",
-                "the Kitchen with You",
-                "Kitchen with You",
-                "with You",
-                "You"
-            ]
-        },
-        "title": "Stuck in the Kitchen with You",
-        "type": "episode",
-        "expiration_date": 1747627140,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1291.8239,
-        "episode_number": "8",
-        "original_air_date": 1699930800,
-        "auth_launch_date": 1762405200,
-        "clip_order": null,
-        "airing_id": "RADS1010302500066198",
-        "media_id": "2b49795bdb2af0f82b3cd727c56fdf1bc0e89aef",
-        "modified": 1762150079,
-        "slug": "stuck-in-the-kitchen-with-you",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231120/thumbnails/1_2311201751338-Screenshot2023-11-20at5.50.41PM.png",
-        "created": 1699999978,
-        "title_id": "2438990",
-        "season_number": "12",
-        "tv_rating": "tv-pg-dl",
-        "published": 1762150079,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1747022400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20231120/thumbnails/2_2311201751338-Screenshot2023-11-20at5.50.41PM.png",
-        "id": "AYvP5RU81E7YmWrdXLk3",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1764565140,
         "tms_id": "",
         "description": "When a customer leaves a $100 gift card as a tip, Bob, Linda, and the kids go on a shopping spree.",
@@ -278,6 +229,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_25918121070-BobsBurgers_1320.jpg",
         "id": "AZldlygHs_ErlMTJpQnv",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1764824340,
+        "tms_id": "",
+        "description": "Mr. Fischoeder gets the chance to conduct his favorite symphony.",
+        "title_suggest": {
+            "input": [
+                "Mr. Fischoeder's Opus",
+                "Fischoeder's Opus",
+                "Opus"
+            ]
+        },
+        "title": "Mr. Fischoeder's Opus",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "11",
+        "original_air_date": null,
+        "auth_launch_date": 1763614800,
+        "clip_order": null,
+        "airing_id": "RADS1011172500069333",
+        "media_id": "3121176c740d21b311af37651af24d0a3cc79de6",
+        "modified": 1763360340,
+        "slug": "mr-fischoeders-opus",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_259291455540-BobsBurgers_1511.jpg",
+        "created": 1759172164,
+        "season_number": "15",
+        "title_id": "2569630",
+        "tv_rating": "tv-pg-l",
+        "published": 1763360340,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291455540-BobsBurgers_1511.jpg",
+        "id": "AZmW1PukyEF1_1NDe6m4",
         "auth": true
     },
     {
