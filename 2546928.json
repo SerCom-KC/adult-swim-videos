@@ -223,5 +223,50 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20251105/thumbnails/2_251151856336-AS_HahaYouClowns_05_107_DuncanHoldsABaby_Preferred.png",
         "id": "AZpWc4uUyEF1_1NDe7QK",
         "auth": true
+    },
+    {
+        "auth_expiration_date": 1765773900,
+        "tms_id": "",
+        "description": "Dad's old friends are in town for his birthday, and they have quite the stories to tell.",
+        "title_suggest": {
+            "input": [
+                "Dad's Birthday",
+                "Birthday"
+            ]
+        },
+        "title": "Dad's Birthday",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZmhFjW4yEF1_1NDe6pV",
+        "duration": 683.5162,
+        "episode_number": "6",
+        "original_air_date": "1763959560",
+        "auth_launch_date": 1763959560,
+        "clip_order": null,
+        "airing_id": "RADS1011182500069630",
+        "media_id": "abef306b9a86f14c09ebc1f4e490ef1f56a90e41",
+        "modified": 1763504899,
+        "slug": "dads-birthday",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20251105/thumbnails/1_251151857216-AS_HahaYouClowns_06_105_DadsBirthday-PlatformPreferred.png",
+        "created": 1762387122,
+        "season_number": "1",
+        "title_id": "2546933",
+        "tv_rating": "",
+        "published": 1763504899,
+        "tags": [],
+        "collection_title": "Haha, You Clowns",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20251105/thumbnails/2_251151857216-AS_HahaYouClowns_06_105_DadsBirthday-PlatformPreferred.png",
+        "id": "AZpWdVs8yEF1_1NDe7QM",
+        "auth": true
     }
 ]
