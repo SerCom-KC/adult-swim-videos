@@ -92,6 +92,50 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1765169940,
+        "tms_id": "",
+        "description": "The Belchers go to a mini golf course on Thanksgiving morning.",
+        "title_suggest": {
+            "input": [
+                "Putts-giving"
+            ]
+        },
+        "title": "Putts-giving",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "8",
+        "original_air_date": null,
+        "auth_launch_date": 1763960400,
+        "clip_order": null,
+        "airing_id": "RADS1011192500069692",
+        "media_id": "14ee3a97dcede56aac0c252d9e0da348d8305281",
+        "modified": 1763710418,
+        "slug": "putts-giving",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_25918113981-BobsBurgers_1308.jpg",
+        "created": 1758209951,
+        "season_number": "13",
+        "title_id": "2569573",
+        "tv_rating": "tv-pg-l",
+        "published": 1763710418,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_25918113981-BobsBurgers_1308.jpg",
+        "id": "AZldesjIs_ErlMTJpQnp",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1764565140,
         "tms_id": "",
         "description": "When a customer leaves a $100 gift card as a tip, Bob, Linda, and the kids go on a shopping spree.",
@@ -371,56 +415,6 @@
         "launch_date": 1670216400,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/dawn-of-the-peck/bobsburgers_416_air_cid-2P5DP.jpg",
         "cma_id": "1470743"
-    },
-    {
-        "auth": false,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1763960340,
-        "tms_id": "EP012792980053",
-        "description": "Determined to have a perfect Thanksgiving, Bob meticulously prepares the family turkey. But, to his horror, he finds that someone then dumps the turkey in the toilet in an act of Thanksgiving sabotage.",
-        "title_suggest": {
-            "input": [
-                "Turkey in a Can",
-                "in a Can",
-                "a Can",
-                "Can"
-            ]
-        },
-        "title": "Turkey in a Can",
-        "type": "episode",
-        "expiration_date": 1666583940,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1274.0728,
-        "episode_number": "5",
-        "original_air_date": 1416798000,
-        "auth_launch_date": 1762750800,
-        "clip_order": null,
-        "modified": 1762457859,
-        "media_id": "51af3e49977f9bd4d2412c277fe92b53c8f2baf4",
-        "airing_id": "RADS1011062500067316",
-        "id": "oKS-s_nDTPW06xmPrkV5Lw",
-        "slug": "turkey-in-a-can",
-        "views": 6204,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-153132725097715.jpg",
-        "created": 1416806423,
-        "title_id": "2030308",
-        "tv_rating": "tv-14",
-        "season_number": "4",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1762457859,
-        "first_published": 1416806423,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1665979200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153132725097715.jpg",
-        "cma_id": "1461131"
     },
     {
         "auth": true,
