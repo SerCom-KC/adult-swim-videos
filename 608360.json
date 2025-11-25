@@ -1,6 +1,6 @@
 [
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447361280,
         "auth_expiration_date": 1764046740,
         "tms_id": "EP007259620122",
@@ -54,7 +54,7 @@
         "cma_id": "1426964"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447367760,
         "auth_expiration_date": 1778385540,
         "tms_id": "EP007259620118",
@@ -1386,7 +1386,7 @@
         "cma_id": "1336375"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447361940,
         "auth_expiration_date": 1778385540,
         "tms_id": "EP007259620116",
@@ -6547,7 +6547,7 @@
         "cma_id": "1174084"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447361580,
         "auth_expiration_date": 1764046740,
         "tms_id": "EP007259620121",
@@ -6864,7 +6864,7 @@
         "cma_id": "1443348"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447362060,
         "auth_expiration_date": 1764046740,
         "tms_id": "EP007259620124",
@@ -6937,57 +6937,6 @@
         "launch_date": 1764046800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046115369-robotchicken_615_dup_20130104.jpg",
         "cma_id": "1458566"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447362540,
-        "auth_expiration_date": 1764046740,
-        "tms_id": "EP007259620138",
-        "rating": 5.9240503,
-        "description": "The RC gang thought the drift in Pacific Rim could use a little reworking, the future is revealed to kinda suck for Looney Tunes characters in Looper, Voltron gets a new number, and Skeletor takes a trip back through time to rid himself of He-Man once and for all.",
-        "title_suggest": {
-            "input": [
-                "Snarfer Image",
-                "Image"
-            ]
-        },
-        "type": "episode",
-        "title": "Snarfer Image",
-        "expiration_date": 1735016340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
-        "duration": 676.7007007,
-        "episode_number": "7",
-        "original_air_date": 1401075000,
-        "clip_order": null,
-        "auth_launch_date": 1735016400,
-        "modified": 1734633389,
-        "media_id": "d082dc8708308de5faeba5377dfe004b2b11b1f0",
-        "airing_id": "RADS1012192400009324",
-        "id": "EXCs3tcXSU2soOEtdwkTNg",
-        "slug": "snarfer-image",
-        "views": 33500,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/1_2046123142-robotchicken_127-708_dup-20140508.jpg",
-        "created": 1404767078,
-        "title_id": "2020462",
-        "season_number": "7",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1734633389,
-        "tags": [],
-        "rating_count": 79,
-        "collection_title": "Robot Chicken",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1734411600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046123142-robotchicken_127-708_dup-20140508.jpg",
-        "cma_id": "1340399"
     },
     {
         "auth": true,
@@ -7466,7 +7415,7 @@
         "cma_id": "1206041"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447361940,
         "auth_expiration_date": 1764046740,
         "tms_id": "EP007259620120",
@@ -9505,80 +9454,6 @@
     },
     {
         "auth": true,
-        "ott_launch_date": 1447363320,
-        "auth_expiration_date": 1764046740,
-        "tms_id": "EP007259620151",
-        "description": "The wacky Robot Chicken writers take on every holiday that ever existed in this holiday special! We see what Mother's Day is like for the Disney characters, a talented Jewish boy raps about gelt, a young Pilgrim man has a special surprise for his family on the first Thanksgiving, and Santa has a little trouble with his neighbor up at the North Pole.",
-        "title_suggest": {
-            "input": [
-                "The Robot Chicken Lots of Holidays But Don't Worry Christmas is Still in There Too So Pull the Stick Out of Your Ass Fox News Special",
-                "Robot Chicken Lots of Holidays But Don't Worry Christmas is Still in There Too So Pull the Stick Out of Your Ass Fox News Special",
-                "Chicken Lots of Holidays But Don't Worry Christmas is Still in There Too So Pull the Stick Out of Your Ass Fox News Special",
-                "Lots of Holidays But Don't Worry Christmas is Still in There Too So Pull the Stick Out of Your Ass Fox News Special",
-                "of Holidays But Don't Worry Christmas is Still in There Too So Pull the Stick Out of Your Ass Fox News Special",
-                "Holidays But Don't Worry Christmas is Still in There Too So Pull the Stick Out of Your Ass Fox News Special",
-                "But Don't Worry Christmas is Still in There Too So Pull the Stick Out of Your Ass Fox News Special",
-                "Don't Worry Christmas is Still in There Too So Pull the Stick Out of Your Ass Fox News Special",
-                "Worry Christmas is Still in There Too So Pull the Stick Out of Your Ass Fox News Special",
-                "Christmas is Still in There Too So Pull the Stick Out of Your Ass Fox News Special",
-                "is Still in There Too So Pull the Stick Out of Your Ass Fox News Special",
-                "Still in There Too So Pull the Stick Out of Your Ass Fox News Special",
-                "in There Too So Pull the Stick Out of Your Ass Fox News Special",
-                "There Too So Pull the Stick Out of Your Ass Fox News Special",
-                "Too So Pull the Stick Out of Your Ass Fox News Special",
-                "So Pull the Stick Out of Your Ass Fox News Special",
-                "Pull the Stick Out of Your Ass Fox News Special",
-                "the Stick Out of Your Ass Fox News Special",
-                "Stick Out of Your Ass Fox News Special",
-                "Out of Your Ass Fox News Special",
-                "of Your Ass Fox News Special",
-                "Your Ass Fox News Special",
-                "Ass Fox News Special",
-                "Fox News Special",
-                "News Special",
-                "Special"
-            ]
-        },
-        "expiration_date": 1735016340,
-        "title": "The Robot Chicken Lots of Holidays But Don't Worry Christmas is Still in There Too So Pull the Stick Out of Your Ass Fox News Special",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
-        "duration": 679.1668335,
-        "episode_number": "",
-        "original_air_date": 1418013000,
-        "clip_order": null,
-        "auth_launch_date": 1735016400,
-        "modified": 1738874333,
-        "media_id": "f2d2c0059df42af2c7212379fa22b010690b21f3",
-        "airing_id": "RADS1012112400007845",
-        "id": "UuO_8Ka5Q4KAEH_6tvoyyQ",
-        "slug": "the-robot-chicken-lots-of-holidays-but-dont-worry-christmas-is-still-in-there-too-so-pull-the-stick-out-of-your-ass-fox-news-special",
-        "views": 34487,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/1_20461212401-robotchicken_717_holidays_dup-20141023.jpg",
-        "created": 1403535150,
-        "season_number": "99",
-        "title_id": "2020475",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1738874333,
-        "first_published": 1418055614,
-        "tags": [],
-        "collection_title": "Robot Chicken",
-        "disable_ads": false,
-        "modified_by": "Jonathan Jackson",
-        "launch_date": 1734411600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461212401-robotchicken_717_holidays_dup-20141023.jpg",
-        "cma_id": "1393003"
-    },
-    {
-        "auth": true,
         "ott_launch_date": 1458568800,
         "auth_expiration_date": 1766465940,
         "tms_id": "EP007259620155",
@@ -10283,7 +10158,7 @@
         "cma_id": "1449407"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447367820,
         "auth_expiration_date": 1778385540,
         "tms_id": "EP007259620119",
@@ -10568,60 +10443,6 @@
         "launch_date": 1738645200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461256381-robotchicken_818_dup-20160330.jpg",
         "cma_id": "1198928"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447281480,
-        "auth_expiration_date": 1764046740,
-        "tms_id": "EP007259620130",
-        "description": "Robot Chicken takes down Christmas once again! Our writers reveal the origins of the Heat Miser and Snow Miser. Witness Ebenezer Scrooge learn the true TRUE meaning of Christmas. Learn the perils of getting a job at the North Pole. Discover how Santa Claus ruined World War One's  greatest day!",
-        "title_suggest": {
-            "input": [
-                "Born Again Virgin Christmas Special",
-                "Again Virgin Christmas Special",
-                "Virgin Christmas Special",
-                "Christmas Special",
-                "Special"
-            ]
-        },
-        "title": "Born Again Virgin Christmas Special",
-        "type": "episode",
-        "expiration_date": 1735016340,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
-        "duration": 669.1334668,
-        "episode_number": "",
-        "original_air_date": 1387256400,
-        "clip_order": null,
-        "auth_launch_date": 1735016400,
-        "modified": 1738874283,
-        "media_id": "294e797e3f3e628745e71721ff3b8cd66c91a079",
-        "airing_id": "RADS1012192400009334",
-        "id": "arhOfP3ITqaqEIfmGzDfqA",
-        "slug": "born-again-virgin-christmas-special",
-        "views": 5523,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/1_20461136387-robotchicken_XMAS2013.jpg",
-        "created": 1415806374,
-        "season_number": "99",
-        "title_id": "2014122",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1738874283,
-        "first_published": 1415806374,
-        "tags": [],
-        "collection_title": "Robot Chicken",
-        "disable_ads": false,
-        "modified_by": "Jonathan Jackson",
-        "launch_date": 1734411600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461136387-robotchicken_XMAS2013.jpg",
-        "cma_id": "2014122"
     },
     {
         "auth": true,
@@ -12148,7 +11969,7 @@
         "cma_id": "1187343"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447361160,
         "auth_expiration_date": 1778385540,
         "tms_id": "EP007259620113",
@@ -12635,60 +12456,6 @@
         "launch_date": 1722312000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411137514-robotchicken_034.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447362540,
-        "auth_expiration_date": 1764046740,
-        "tms_id": "EP007259620139",
-        "rating": 5.1481476,
-        "description": "Our writers imagine how Scrooge McDuck would do on Shark Tank, Fred Flintstone gets a colonoscopy, Shrek has a moment of clarity, and Doc from Mike Tyson's Punchout passes on to the great arena in the sky.",
-        "title_suggest": {
-            "input": [
-                "Up Up and Buffet",
-                "Up and Buffet",
-                "and Buffet",
-                "Buffet"
-            ]
-        },
-        "expiration_date": 1735016340,
-        "title": "Up Up and Buffet",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
-        "duration": 663,
-        "episode_number": "8",
-        "original_air_date": 1401679800,
-        "clip_order": null,
-        "auth_launch_date": 1735016400,
-        "modified": 1734633106,
-        "media_id": "44ca6e1ecc2f5ad465570884876a936afe3bc20d",
-        "airing_id": "RADS1012112400007847",
-        "id": "qpR16qNORGWmi7YLvGLIUQ",
-        "slug": "up-up-and-buffet",
-        "views": 40887,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/1_2046123491-robotchicken_128_dup-20140528.jpg",
-        "created": 1406906834,
-        "season_number": "7",
-        "title_id": "2020463",
-        "tv_rating": "tv-ma",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1734633106,
-        "first_published": 1404627628,
-        "tags": [],
-        "rating_count": 540,
-        "collection_title": "Robot Chicken",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1734411600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046123491-robotchicken_128_dup-20140528.jpg",
-        "cma_id": "1344559"
     },
     {
         "auth": true,
@@ -13397,7 +13164,7 @@
         "cma_id": "1160023"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447361280,
         "auth_expiration_date": 1778385540,
         "tms_id": "EP007259620115",
@@ -13788,7 +13555,7 @@
         "cma_id": "1219839"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447361700,
         "auth_expiration_date": 1764046740,
         "tms_id": "EP007259620123",
