@@ -2,138 +2,113 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: November 25, 2025 at 00:30:29 EST_
+_Last Update: November 26, 2025 at 00:00:41 EST_
 ## Video added
 ### Summary
-581006 American Dad: 1  
+581006 American Dad: 2  
 2003422 Bob's Burgers: 1  
-2398940 Housing Complex C: 1  
-2007823 Infomercials: 1  
-343621 Samurai Jack: 1  
-581268 Squidbillies: 3  
-### 2197416
-**American Dad S15E11 - Salute Your Sllort**  
- 🔒 20:59  
-⌛ December 1, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/salute-your-sllort  
-seriesid=`581006` titleid=`2197416` id=`AXb4H0xWbxpjZvbXYl-A` mediaid=`ede68dd32522f2ca79c53ddf0a40d736f48603fc`  
-_Steve's efforts to befriend a Swedish exchange student backfire in a big way; The family calls in an animal behaviorist to deal with Klaus._  
-<a href="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121442446-americandad_1412_air_cid-GW67D-SaluteYourSllort.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121442446-americandad_1412_air_cid-GW67D-SaluteYourSllort.jpg" height="144px" /></a>
-### 2569586
-**Bob's Burgers S13E21 - Mother Author Laser Pointer**  
+344089 Home Movies: 1  
+629688 Moral Orel: 1  
+### 2197417
+**American Dad S15E12 - Ghost Dad**  
+ 🔒 21:03  
+⌛ December 2, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/ghost-dad  
+seriesid=`581006` titleid=`2197417` id=`AXb8Nb3EQJ_4Uej5kTlN` mediaid=`710148d4b0cfcc77671ef9b3d3fe2bac5cadb4b9`  
+_Stan struggles to cope with the untimely death of his father. Meanwhile, a simple canoeing trip does catastrophic damage to Hayley and Jeff's relationship._  
+<a href="https://media.cdn.adultswim.com/uploads/20210113/thumbnails/2_21113945464-americandad_1413_air_cid-D8CWH-GhostDad.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210113/thumbnails/2_21113945464-americandad_1413_air_cid-D8CWH-GhostDad.jpg" height="144px" /></a>
+### 2197418
+**American Dad S15E13 - Men ll Boyz**  
+ 🔒 21:03  
+⌛ December 2, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/men-ll-boyz  
+seriesid=`581006` titleid=`2197418` id=`AXb8Ng9qbxpjZvbXYl-E` mediaid=`a3c50599ddad5888052e958466f7e6923ef146b6`  
+_Klaus enlists Stan, Roger and Jeff to join him on a wild bachelor party weekend._  
+<a href="https://media.cdn.adultswim.com/uploads/20210113/thumbnails/2_2111394673-americandad_1414_air_cid-D8CW1-MentoBoyz.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210113/thumbnails/2_2111394673-americandad_1414_air_cid-D8CW1-MentoBoyz.jpg" height="144px" /></a>
+### 2569587
+**Bob's Burgers S13E22 - Amelia**  
 TV-PG-L 🔒 00:00  
-⌛ December 8, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/mother-author-laser-pointer  
-seriesid=`2003422` titleid=`2569586` id=`AZlduTags_ErlMTJpQnw` mediaid=`ee734d0589d7fba31d00b6c396cef7e63eb5fe1c`  
-_Linda almost totally accidentally kidnaps a children's book author._  
-<a href="https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181246335-BobsBurgers_1321.jpg"><img src="https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181246335-BobsBurgers_1321.jpg" height="144px" /></a>
-### 2398942
-**Housing Complex C S01E02 - Mismatched Buttons**  
-TV-MA 🔓 25:00  
-⌛ November 20, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/housing-complex-c/mismatched-buttons  
-seriesid=`2398940` titleid=`2398942` id=`AYOjWsCg3sQvipyea-hf` mediaid=`bd3960b2a3f177adf4196c0e77550386e749d10f`  
-_Kimi wants to get along with the other new residents, and hopes a party will help break the ice. What better way than a shaved ice party? But there's something odd in the syrup…_  
-<a href="https://media.cdn.adultswim.com/uploads/20221004/thumbnails/2_22104101660-HousingComplexC_102_MismatchedButtons.png"><img src="https://media.cdn.adultswim.com/uploads/20221004/thumbnails/2_22104101660-HousingComplexC_102_MismatchedButtons.png" height="144px" /></a>
-### 2191427
-**Infomercials S09E01 - When Panties Fly**  
-TV-MA-S 🔓 11:21  
-⌛ November 23, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/infomercials/when-panties-fly  
-seriesid=`2007823` titleid=`2191427` id=`AW8BAtn13HMJfT8do6Zt` mediaid=`2d0e66f4c1cf249651ddbcd4f44010193827d79d`  
-_A video exploring the existential meaning of panties in modern life. It'll make people be more gentle with their panties the next time they wash it._  
-<a href="https://media.cdn.adultswim.com/uploads/20191213/thumbnails/2_1912131545531-infomercials_WhenPantiesFly_dup-20191213.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191213/thumbnails/2_1912131545531-infomercials_WhenPantiesFly_dup-20191213.jpg" height="144px" /></a>
-### 444717
-**Samurai Jack S04E03 - XLIII**  
-TV-Y7-FV 🔒 22:34  
-⌛ November 21, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/samurai-jack/xliii  
-seriesid=`343621` titleid=`444717` id=`GHUvZqMST66dwRtS11Gm6A` mediaid=`795da5b1291bc3cb400dff238474be295d4a3427`  
-_When Aku catches a cold and sneezes on Jack, Jack becomes infected with Aku’s badness which begins to take over his entire body._  
-<a href="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471420288-samjack_043.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471420288-samjack_043.jpg" height="144px" /></a>
-### 2032581
-**Squidbillies S09E05 - Bunker Down, You Hairy Dawg!**  
-TV-14-DLSV 🔓 11:28  
-⌛ August 7, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/bunker-down-you-hairy-dawg  
-seriesid=`581268` titleid=`2032581` id=`vfffN8ZfSG-ngPeZP-eZZA` mediaid=`ee030371b470a4d177e5f9ebf0ebc8b228ec4d63`  
-_Early triggers the collapse of society so he can enjoy his expensive new doomsday bunker._  
-<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_20414117326-squidbillies_091_dup-20141014.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_20414117326-squidbillies_091_dup-20141014.jpg" height="144px" /></a>
-### 787520
-**Squidbillies S05E03 - Dead Squid Walking**  
-TV-PG-DLV 🔓 11:33  
-⌛ August 7, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/dead-squid-walking  
-seriesid=`581268` titleid=`787520` id=`w-_792J2QmqVkzlLRP0Pqg` mediaid=`710b1580bd88a7e954b498ef1cf98f9de82bd606`  
-_When his father is placed on death row, Early snaps to action and tries on a new hat._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131317589-squidbillies_053_dst_cid-PWYP.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131317589-squidbillies_053_dst_cid-PWYP.jpg" height="144px" /></a>
-### 626853
-**Squidbillies S01E06 - Office Politics Trouble**  
-TV-14-DL 🔓 11:29  
-⌛ August 7, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/office-politics-trouble  
-seriesid=`581268` titleid=`626853` id=`XXfr1n2ITnqvUKd_kGcLtg` mediaid=`6b27b7e7f6d2e83f4cfb1aa9071f3c1abde5623a`  
-_Early concocts a popular new beverage._  
-<a href="https://media.cdn.adultswim.com/uploads/20200408/thumbnails/2_20481612597-squidbillies_006.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200408/thumbnails/2_20481612597-squidbillies_006.jpg" height="144px" /></a>
+⌛ December 9, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/amelia  
+seriesid=`2003422` titleid=`2569587` id=`AZld0KCJyEF1_1NDe6as` mediaid=`bd7d98dfecafdfe1e6a76ed265cb510991615fcf`  
+_Louise takes a class assignment -- and a few unhelpful comments by Wayne -- very personally._  
+<a href="https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_25918137268-BobsBurgers_1322.jpg"><img src="https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_25918137268-BobsBurgers_1322.jpg" height="144px" /></a>
+### 344130
+**Home Movies S02E01 - Politics**  
+TV-PG-L 🔓 22:25  
+⌛ December 30, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/home-movies/politics  
+seriesid=`344089` titleid=`344130` id=`iSgoJXKTQAOachOgQ8DLuw` mediaid=`78ca9b9187da6df48c668569fcf7a4c44b41234c`  
+_Melissa and Jason help Brendon run for office against the previously undefeated Thurman Thackery. Unsolicited help from the school bully, Shannon, raises questions about the fairness of the campaign. Also: Coach McGuirk gives stand-up comedy a try._  
+<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_203516632-hmovies_014.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_203516632-hmovies_014.jpg" height="144px" /></a>
+### 723838
+**Moral Orel S03E11 - Sacrifice**  
+TV-MA 🔓 11:43  
+⌛ December 30, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/moral-orel/sacrifice  
+seriesid=`629688` titleid=`723838` id=`yWQq6n5ISUO79682qNzifg` mediaid=`9f6f677b3fd3a841dc6527b4c9b8fbc128829a76`  
+_It's Easter and the lack of happiness in Moralton leads several troubled souls to Forghetty's Pub for some unavailable solace._  
+<a href="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311168556-moralorel_041.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311168556-moralorel_041.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
 2003422 Bob's Burgers: 1  
-2326791 Smalls: 1  
-581006 American Dad: 1  
-608360 Robot Chicken: 4  
-### 2065455
-**Bob's Burgers S05E04 - Dawn of the Peck**  
-TV-PG-DLV 🔒 21:30  
-⌛ November 24, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/dawn-of-the-peck  
-seriesid=`2003422` titleid=`2065455` id=`SmjARULQRayI7fqg43Kw5g` mediaid=`593564928c16129e601b29d940b7cc011e913005`  
-_While Bob is boycotting the holiday, Linda and the kids spend Thanksgiving at the first annual Fischoeder Turk-tacular Turkey Town Festival. However, a wild bird attack leads to total mayhem._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/dawn-of-the-peck/bobsburgers_416_air_cid-2P5DP.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/dawn-of-the-peck/bobsburgers_416_air_cid-2P5DP.jpg" height="144px" /></a>
-### 2192787
-**Smalls S02E?? - Wet City**  
- 🔓 11:47  
-⌛ November 24, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/smalls/wet-city  
-seriesid=`2326791` titleid=`2192787` id=`AWlumJKnHl5gR6828yzv` mediaid=`9f965828fc26f6ad97697a634d8153ee83ad4f49`  
-_In a watery near future, a man embarks on a quest to rescue his stolen pet cyber-shark._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15523386070035.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15523386070035.jpg" height="144px" /></a>
-### 2186669
-**American Dad S14E20 - The Hand that Rocks the Rogu**  
-TV-14-DLSV 🔒 21:04  
-⌛ November 24, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/the-hand-that-rocks-the-rogu  
-seriesid=`581006` titleid=`2186669` id=`AXKUOb9LC8QgH-t19Jj6` mediaid=`d6fcf8645e8022d7bdb0529940ab79aa25ab1ed2`  
-_Steve babysits Roger's ex-tumor, Rogu, to prove to Francine that he's ready for the responsibility. Stan and Francine get into trouble in their respective clubs._  
-<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068958281-americandad_1320_air_cid-4101Y.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068958281-americandad_1320_air_cid-4101Y.jpg" height="144px" /></a>
-### 2020462
-**Robot Chicken S07E07 - Snarfer Image**  
-TV-MA 🔒 11:16  
-⌛ November 24, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/snarfer-image  
-seriesid=`608360` titleid=`2020462` id=`EXCs3tcXSU2soOEtdwkTNg` mediaid=`d082dc8708308de5faeba5377dfe004b2b11b1f0`  
-_The RC gang thought the drift in Pacific Rim could use a little reworking, the future is revealed to kinda suck for Looney Tunes characters in Looper, Voltron gets a new number, and Skeletor takes a trip back through time to rid himself of He-Man once and for all._  
-<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046123142-robotchicken_127-708_dup-20140508.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046123142-robotchicken_127-708_dup-20140508.jpg" height="144px" /></a>
-### 2020475
-**Robot Chicken S99E?? - The Robot Chicken Lots of Holidays But Don't Worry Christmas is Still in There Too So Pull the Stick Out of Your Ass Fox News Special**  
-TV-MA 🔒 11:19  
-⌛ November 24, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/the-robot-chicken-lots-of-holidays-but-dont-worry-christmas-is-still-in-there-too-so-pull-the-stick-out-of-your-ass-fox-news-special  
-seriesid=`608360` titleid=`2020475` id=`UuO_8Ka5Q4KAEH_6tvoyyQ` mediaid=`f2d2c0059df42af2c7212379fa22b010690b21f3`  
-_The wacky Robot Chicken writers take on every holiday that ever existed in this holiday special! We see what Mother's Day is like for the Disney characters, a talented Jewish boy raps about gelt, a young Pilgrim man has a special surprise for his family on the first Thanksgiving, and Santa has a little trouble with his neighbor up at the North Pole._  
-<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461212401-robotchicken_717_holidays_dup-20141023.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461212401-robotchicken_717_holidays_dup-20141023.jpg" height="144px" /></a>
-### 2014122
-**Robot Chicken S99E?? - Born Again Virgin Christmas Special**  
-TV-MA 🔒 11:09  
-⌛ November 24, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/born-again-virgin-christmas-special  
-seriesid=`608360` titleid=`2014122` id=`arhOfP3ITqaqEIfmGzDfqA` mediaid=`294e797e3f3e628745e71721ff3b8cd66c91a079`  
-_Robot Chicken takes down Christmas once again! Our writers reveal the origins of the Heat Miser and Snow Miser. Witness Ebenezer Scrooge learn the true TRUE meaning of Christmas. Learn the perils of getting a job at the North Pole. Discover how Santa Claus ruined World War One's  greatest day!_  
-<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461136387-robotchicken_XMAS2013.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461136387-robotchicken_XMAS2013.jpg" height="144px" /></a>
-### 2020463
-**Robot Chicken S07E08 - Up Up and Buffet**  
-TV-MA 🔒 11:03  
-⌛ November 24, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/robot-chicken/up-up-and-buffet  
-seriesid=`608360` titleid=`2020463` id=`qpR16qNORGWmi7YLvGLIUQ` mediaid=`44ca6e1ecc2f5ad465570884876a936afe3bc20d`  
-_Our writers imagine how Scrooge McDuck would do on Shark Tank, Fred Flintstone gets a colonoscopy, Shrek has a moment of clarity, and Doc from Mike Tyson's Punchout passes on to the great arena in the sky._  
-<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046123491-robotchicken_128_dup-20140528.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046123491-robotchicken_128_dup-20140528.jpg" height="144px" /></a>
+322328 Space Ghost Coast to Coast: 2  
+344089 Home Movies: 1  
+581006 American Dad: 2  
+629688 Moral Orel: 1  
+### 2097192
+**Bob's Burgers S06E04 - Gayle Makin' Bob Sled**  
+TV-PG 🔒 21:38  
+⌛ November 25, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/gayle-makin-bob-sled  
+seriesid=`2003422` titleid=`2097192` id=`v6nNJ5WAThuzJULB1NDY5w` mediaid=`ef860e4a7a4f08fb19d493c1082c28479f9cf175`  
+_When Gayle is injured, Linda sends Bob off to pick her up so she doesn't miss out on the Thanksgiving festivities. But a snowstorm derails his trip home and his epic plan to prepare the turkey is foiled._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/gayle-makin-bob-sled/bobsburgers_517_air_cid-2X4TJ.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/gayle-makin-bob-sled/bobsburgers_517_air_cid-2X4TJ.jpg" height="144px" /></a>
+### 322348
+**Space Ghost Coast to Coast S04E22 - Telethon**  
+TV-PG 🔓 12:10  
+⌛ November 25, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/space-ghost-coast-to-coast/telethon  
+seriesid=`322328` titleid=`322348` id=`AYl0OWk-2rZC6NyF61-N` mediaid=`035958631e8cbb967170ad2f6175b4d4a5a0ee15`  
+_When the Council of Doom takes your phone calls and the only caller is Brak posing as Seymour Hiney, you know your telethon is in trouble. It takes Space Ghost until the telethon's ending to realize his show is completely bankrupt for good!_  
+<a href="https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_20420114141-sgc2c_9722_dst_cid-9259694.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_20420114141-sgc2c_9722_dst_cid-9259694.jpg" height="144px" /></a>
+### 322737
+**Space Ghost Coast to Coast S01E05 - Bobcat**  
+TV-PG 🔓 11:17  
+⌛ November 25, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/space-ghost-coast-to-coast/bobcat  
+seriesid=`322328` titleid=`322737` id=`n53ziL4DRo6pFGTtPEF6Qw` mediaid=`bb7027f15c8815172fe43b0c87baf89edd7c37f3`  
+_During an otherwise friendly interview with comedian Bobcat Goldthwait, Zorak reveals Space Ghost's secret identity: Tad Ghostal. Goldthwait agrees to party with Space Ghost after the show. The festivities are spoiled, however, by Zorak and his punk friends, The Ramones._  
+<a href="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417946286-sgc2c_9405_dst_cid-9129902.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417946286-sgc2c_9405_dst_cid-9129902.jpg" height="144px" /></a>
+### 344120
+**Home Movies S01E04 - Brendon Gets Rabies**  
+TV-PG-L 🔒 22:11  
+⌛ November 25, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/home-movies/brendon-gets-rabies  
+seriesid=`344089` titleid=`344120` id=`LdU165OcT_CgluoKZKnxmQ` mediaid=`ebad6a1f8bb2b4e2e7e5ba21576e8984a524d89c`  
+_Taking care of the neighbor's cat isn't as easy as the Smalls thought it would be._  
+<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035162506-hmovies_004.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_2035162506-hmovies_004.jpg" height="144px" /></a>
+### 2186670
+**American Dad S14E21 - Downtown**  
+TV-14-DLV 🔒 21:03  
+⌛ November 25, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/downtown  
+seriesid=`581006` titleid=`2186670` id=`AXKUOl5bC8QgH-t19Jj7` mediaid=`e352edca867a17986f9a34a9dc0813a5791ca7d9`  
+_Hayley drives Steve to a testing center in "no good" downtown but they end up stranded in a worse suburban neighborhood. Stan, Francine, and Roger mistakenly go downtown to rescue them._  
+<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_206895975-americandad_1321_air_cid-46P0N.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_206895975-americandad_1321_air_cid-46P0N.jpg" height="144px" /></a>
+### 2186671
+**American Dad S14E22 - Cheek to Cheek: A Stripper's Story**  
+TV-14-DLSV 🔒 21:03  
+⌛ November 25, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/cheek-to-cheek-a-strippers-story  
+seriesid=`581006` titleid=`2186671` id=`AXKUOra-C8QgH-t19Jj8` mediaid=`ffbb1a99f3f42c324ea4eee7ae4ffc812f2759c8`  
+_Roger enlists Jeff as his protégé in order to open his dream chivalric strip club. Klaus moves into Steve's room._  
+<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068959310-americandad_1322_air_cid-46P0T.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068959310-americandad_1322_air_cid-46P0T.jpg" height="144px" /></a>
+### 724140
+**Moral Orel S03E01 - Numb**  
+TV-MA 🔒 11:43  
+⌛ November 25, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/moral-orel/numb  
+seriesid=`629688` titleid=`724140` id=`fZa17oRcQLuz7PtDB8y2Tw` mediaid=`d1598ab4891d6027c2f25a6b484036f91654c44a`  
+_Bloberta searches for a solution to her humdrum life._  
+<a href="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311164382-moralorel_031.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200311/thumbnails/2_20311164382-moralorel_031.jpg" height="144px" /></a>
