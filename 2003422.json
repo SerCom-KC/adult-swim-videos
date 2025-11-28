@@ -1,5 +1,51 @@
 [
     {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1764305940,
+        "tms_id": "",
+        "description": "Bob Belcher is a third-generation restaurateur who runs Bob's Burgers with his loving wife and their three children. Bob believes his burgers speak for themselves and isn't afraid to offer a variety of off-beat creations.",
+        "title_suggest": {
+            "input": [
+                "Thanks-hoarding"
+            ]
+        },
+        "title": "Thanks-hoarding",
+        "expiration_date": 1690775940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1281.93,
+        "episode_number": "5",
+        "original_air_date": 1542594600,
+        "auth_launch_date": 1763096400,
+        "clip_order": null,
+        "media_id": "0708ee46e2c401b02429ef1ee7f811f93da21cbd",
+        "modified": 1762840649,
+        "airing_id": "RADS1011102500068078",
+        "slug": "thanks-hoarding",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-154264611007218.jpg",
+        "created": 1539627692,
+        "season_number": "8",
+        "title_id": "2171436",
+        "tv_rating": "tv-pg-l",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1762840649,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1690171200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154264611007218.jpg",
+        "id": "AWZ49jL7h5enQuYyJW6z",
+        "auth": false
+    },
+    {
         "auth_expiration_date": 1765342740,
         "tms_id": "",
         "description": "Louise takes a class assignment -- and a few unhelpful comments by Wayne -- very personally.",
@@ -411,54 +457,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291455540-BobsBurgers_1511.jpg",
         "id": "AZmW1PukyEF1_1NDe6m4",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1765515540,
-        "tms_id": "",
-        "description": "Tina and the Thundergirls spend the night in the woods, and Tina faces something even scarier than her nemesis, Troop 257.",
-        "title_suggest": {
-            "input": [
-                "The Place Beyond the Pinecones",
-                "Place Beyond the Pinecones",
-                "Beyond the Pinecones",
-                "the Pinecones",
-                "Pinecones"
-            ]
-        },
-        "title": "The Place Beyond the Pinecones",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "14",
-        "original_air_date": null,
-        "auth_launch_date": 1764306000,
-        "clip_order": null,
-        "airing_id": "RADS1011212500070900",
-        "media_id": "681941265d6379d9e2f811f7fde1954fc33da2de",
-        "modified": 1764050965,
-        "slug": "the-place-beyond-the-pinecones",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_25929155380-BobsBurgers_1514.jpg",
-        "created": 1759172742,
-        "season_number": "15",
-        "title_id": "2569633",
-        "tv_rating": "tv-pg-l",
-        "published": 1764050965,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_25929155380-BobsBurgers_1514.jpg",
-        "id": "AZmW3cwVs_ErlMTJpQoA",
         "auth": true
     }
 ]
