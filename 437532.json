@@ -1,53 +1,5 @@
 [
     {
-        "auth_expiration_date": 1764392340,
-        "tms_id": "EP003034830119",
-        "description": "The crew uncovers a dark secret concerning a covert mission undertaken by the Professor and Dr. Zoidberg many years earlier.",
-        "title_suggest": {
-            "input": [
-                "The Tip of the Zoidberg",
-                "Tip of the Zoidberg",
-                "of the Zoidberg",
-                "the Zoidberg",
-                "Zoidberg"
-            ]
-        },
-        "title": "The Tip of the Zoidberg",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AX3EZD2dUQa40cfnRS9d",
-        "duration": 1360.6593,
-        "episode_number": "10",
-        "original_air_date": 1652662800,
-        "auth_launch_date": 1763787600,
-        "clip_order": null,
-        "airing_id": "RADS1011172500069468",
-        "media_id": "d44476ddd3919a6d8a44598ba01124446dbf95b7",
-        "modified": 1763576908,
-        "slug": "the-tip-of-the-zoidberg",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220516/thumbnails/1_225161017225-Zoidberg.png",
-        "created": 1652478306,
-        "title_id": "2161637",
-        "season_number": "8",
-        "tv_rating": "tv-14-dlv",
-        "published": 1763576908,
-        "tags": [],
-        "collection_title": "Futurama",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220516/thumbnails/2_225161017225-Zoidberg.png",
-        "id": "AYC_YeoQ_0O4w1rD3SMe",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1764478740,
         "tms_id": "EP003034830120",
         "description": "Fry's sneezing reintroduces the common cold to the world of the future, with devastating consequences.",
@@ -90,6 +42,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20220516/thumbnails/2_225161021194-FryCold.png",
         "id": "AYC_Yf9T_0O4w1rD3SMf",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1764997140,
+        "tms_id": "EP003034830124",
+        "description": "An ancient prophecy predicts the world will end in the year 3012.",
+        "title_suggest": {
+            "input": [
+                "A Farewell to Arms",
+                "Farewell to Arms",
+                "to Arms",
+                "Arms"
+            ]
+        },
+        "title": "A Farewell to Arms",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AX3EZD2dUQa40cfnRS9d",
+        "duration": 1358.9576,
+        "episode_number": "2",
+        "original_air_date": "1653874200",
+        "auth_launch_date": 1764392400,
+        "clip_order": null,
+        "airing_id": "RADS1011242500071054",
+        "media_id": "8aa01cbbb445f87b08b1a0516c75032159f94309",
+        "modified": 1764141889,
+        "slug": "a-farewell-to-arms",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220525/thumbnails/1_225251152235-Futurama_902_AFarewellToArms.png",
+        "created": 1653493951,
+        "season_number": "9",
+        "title_id": "2161647",
+        "tv_rating": "tv-14-dlv",
+        "published": 1764141889,
+        "tags": [],
+        "collection_title": "Futurama",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220525/thumbnails/2_225251152235-Futurama_902_AFarewellToArms.png",
+        "id": "AYD7622H208s7zyYUM-P",
         "auth": true
     },
     {
