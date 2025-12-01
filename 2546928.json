@@ -268,5 +268,50 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20251105/thumbnails/2_251151857216-AS_HahaYouClowns_06_105_DadsBirthday-PlatformPreferred.png",
         "id": "AZpWdVs8yEF1_1NDe7QM",
         "auth": true
+    },
+    {
+        "auth_expiration_date": 1766378700,
+        "tms_id": "",
+        "description": "The boys beg Dad to let them get a hot tub.",
+        "title_suggest": {
+            "input": [
+                "Hot Tub",
+                "Tub"
+            ]
+        },
+        "title": "Hot Tub",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZmhFjW4yEF1_1NDe6pV",
+        "duration": 688.5545,
+        "episode_number": "7",
+        "original_air_date": "1764564360",
+        "auth_launch_date": 1764564360,
+        "clip_order": null,
+        "airing_id": "RADS1011252500071183",
+        "media_id": "ca5811d4f2afefb374b3cefdf17ec96a0f59bfcc",
+        "modified": 1764307796,
+        "slug": "hot-tub",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20251121/thumbnails/1_2511211950476-AS_HahaYouClowns_07_106_HotTub_Preferred.png",
+        "created": 1763772662,
+        "season_number": "1",
+        "title_id": "2546934",
+        "tv_rating": "tv-14-dlv",
+        "published": 1764307796,
+        "tags": [],
+        "collection_title": "Haha, You Clowns",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20251121/thumbnails/2_2511211950476-AS_HahaYouClowns_07_106_HotTub_Preferred.png",
+        "id": "AZqpCwUMyEF1_1NDe7hc",
+        "auth": true
     }
 ]
