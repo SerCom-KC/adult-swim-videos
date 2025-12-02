@@ -1,6 +1,6 @@
 [
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447361280,
         "auth_expiration_date": 1778385540,
         "tms_id": "EP007259620122",
@@ -1037,7 +1037,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447362120,
         "auth_expiration_date": 1764651540,
         "tms_id": "EP007259620127",
@@ -1767,6 +1767,66 @@
         "cma_id": ""
     },
     {
+        "ott_launch_date": 1513006242,
+        "auth_expiration_date": 1764651540,
+        "tms_id": "SH028336110000",
+        "description": "Happy holidays everyone, as Robot Chicken joins Santa for the one Christmas he'll never forget. The north pole elves dream of the toys of holidays past. Krampus puts in a good word for the coal industry. St. Nick meets his idol: Jared Leto.",
+        "title_suggest": {
+            "input": [
+                "Freshly Baked: The Robot Chicken Santa Claus Pot Cookie Freakout Special: Special Edition",
+                "Baked: The Robot Chicken Santa Claus Pot Cookie Freakout Special: Special Edition",
+                "The Robot Chicken Santa Claus Pot Cookie Freakout Special: Special Edition",
+                "Robot Chicken Santa Claus Pot Cookie Freakout Special: Special Edition",
+                "Chicken Santa Claus Pot Cookie Freakout Special: Special Edition",
+                "Santa Claus Pot Cookie Freakout Special: Special Edition",
+                "Claus Pot Cookie Freakout Special: Special Edition",
+                "Pot Cookie Freakout Special: Special Edition",
+                "Cookie Freakout Special: Special Edition",
+                "Freakout Special: Special Edition",
+                "Special: Special Edition",
+                "Special Edition",
+                "Edition"
+            ]
+        },
+        "expiration_date": 1735621140,
+        "type": "episode",
+        "title": "Freshly Baked: The Robot Chicken Santa Claus Pot Cookie Freakout Special: Special Edition",
+        "platforms": [
+            "android",
+            "fire-tv",
+            "ios",
+            "ott",
+            "roku"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 690.13,
+        "episode_number": "1",
+        "original_air_date": 1512966600,
+        "auth_launch_date": 1735621200,
+        "clip_order": null,
+        "media_id": "976f594c3d4596f93931522f5ebadb065eab79f7",
+        "modified": 1735480135,
+        "airing_id": "RADS1012192400009330",
+        "slug": "freshly-baked-the-robot-chicken-santa-claus-pot-cookie-freakout-special-special-edition",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/1_20461311492-robotchicken_909_dup-20180110.jpg",
+        "created": 1511796241,
+        "season_number": "9",
+        "title_id": "2139703",
+        "tv_rating": "tv-ma",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1735480135,
+        "tags": [],
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1735016400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461311492-robotchicken_909_dup-20180110.jpg",
+        "id": "AV_-E_LEwdpKFAKSblB-",
+        "auth": true
+    },
+    {
         "ott_launch_date": 1513611000,
         "auth": true,
         "auth_expiration_date": 1768885140,
@@ -2348,6 +2408,62 @@
         "launch_date": 1742875200,
         "poster": "https://media.cdn.adultswim.com/uploads/20191015/thumbnails/2_1910151124592-robotchicken_1010_dup-20190717.jpg",
         "id": "AW2EUJ2badNs2hMNfuIo",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1764651540,
+        "tms_id": "EP007259620210",
+        "description": "The Robot Chicken Christmas Murder Mystery Special!",
+        "title_suggest": {
+            "input": [
+                "Robot Chicken's Santa's Dead (Spoiler Alert) Holiday Murder Thing Special",
+                "Chicken's Santa's Dead (Spoiler Alert) Holiday Murder Thing Special",
+                "Santa's Dead (Spoiler Alert) Holiday Murder Thing Special",
+                "Dead (Spoiler Alert) Holiday Murder Thing Special",
+                "(Spoiler Alert) Holiday Murder Thing Special",
+                "Alert) Holiday Murder Thing Special",
+                "Holiday Murder Thing Special",
+                "Murder Thing Special",
+                "Thing Special",
+                "Special"
+            ]
+        },
+        "title": "Robot Chicken's Santa's Dead (Spoiler Alert) Holiday Murder Thing Special",
+        "expiration_date": 1735621140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 674.1735,
+        "episode_number": "11",
+        "original_air_date": 1575955800,
+        "auth_launch_date": 1735621200,
+        "clip_order": null,
+        "media_id": "c5b426e30d30926ba6d070e8bb075c6278446099",
+        "modified": 1735482223,
+        "airing_id": "RADS1012272400011724",
+        "slug": "robot-chickens-santas-dead-spoiler-alert-holiday-murder-thing-special",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191202/thumbnails/1_191221132100-robotchicken_1013_dup-20191025.jpg",
+        "created": 1575304341,
+        "season_number": "10",
+        "title_id": "2213486",
+        "tv_rating": "tv-ma",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1735482223,
+        "tags": [],
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1735016400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20191202/thumbnails/2_191221132100-robotchicken_1013_dup-20191025.jpg",
+        "id": "AW7HdKmX1YiBSfg0KZAG",
         "auth": true
     },
     {
@@ -6431,7 +6547,7 @@
         "cma_id": "1174084"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447361580,
         "auth_expiration_date": 1778385540,
         "tms_id": "EP007259620121",
@@ -6748,7 +6864,7 @@
         "cma_id": "1443348"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447362060,
         "auth_expiration_date": 1778385540,
         "tms_id": "EP007259620124",
@@ -7350,7 +7466,7 @@
         "cma_id": "1206041"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447361940,
         "auth_expiration_date": 1778385540,
         "tms_id": "EP007259620120",
@@ -9623,7 +9739,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447362180,
         "auth_expiration_date": 1764651540,
         "tms_id": "EP007259620129",
@@ -10328,7 +10444,7 @@
         "cma_id": "1381013"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447362060,
         "auth_expiration_date": 1764651540,
         "tms_id": "EP007259620125",
@@ -10824,7 +10940,7 @@
         "cma_id": "1459259"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447362120,
         "auth_expiration_date": 1764651540,
         "tms_id": "EP007259620126",
@@ -12309,7 +12425,7 @@
         "cma_id": "1432258"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447362120,
         "auth_expiration_date": 1764651540,
         "tms_id": "EP007259620128",
@@ -12576,6 +12692,56 @@
     },
     {
         "auth": true,
+        "ott_launch_date": 1447362600,
+        "auth_expiration_date": 1764651540,
+        "tms_id": "EP007259620140",
+        "rating": 5.9749994,
+        "description": "The zany writers of the show put Master Chief and Cortana in an uncomfortable conversation, Drones are put into action on the G.I. Joe team, we see a few more animal totems from the Visionaries cartoon, and the little Lego folks take on some scary stuff in World War B.",
+        "title_suggest": {
+            "input": [
+                "Panthropologie"
+            ]
+        },
+        "type": "episode",
+        "title": "Panthropologie",
+        "expiration_date": 1735621140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 666.9676343,
+        "episode_number": "9",
+        "original_air_date": 1402284600,
+        "clip_order": null,
+        "auth_launch_date": 1735621200,
+        "modified": 1735480118,
+        "media_id": "1c5eed6ad3cc49ace9a668a1e832a6446f6b7508",
+        "airing_id": "RADS1012272400011719",
+        "id": "rrcmw3ceTBO-S0jMmsOk8A",
+        "slug": "panthropologie",
+        "views": 26632,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/1_2046124331-robotchicken_129.jpg",
+        "created": 1405976606,
+        "title_id": "2020464",
+        "season_number": "7",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1735480118,
+        "tags": [],
+        "rating_count": 120,
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1735016400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046124331-robotchicken_129.jpg",
+        "cma_id": "1348561"
+    },
+    {
+        "auth": true,
         "ott_launch_date": 1447349100,
         "auth_expiration_date": 1778385540,
         "tms_id": "EP007259620064",
@@ -12791,6 +12957,59 @@
         "launch_date": 1758600000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200402/thumbnails/2_2042165289-robotchicken_068.jpg",
         "cma_id": "1323624"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": 1447362600,
+        "auth_expiration_date": 1764651540,
+        "tms_id": "EP007259620141",
+        "rating": 5.207865,
+        "description": "The Robot Chicken crew lets you know if Santa Claus is a racist, Tiger Woods gets his own Space Jam type of movie and we find out what The Bratz girls did last summer.",
+        "title_suggest": {
+            "input": [
+                "Catdog on a Stick",
+                "on a Stick",
+                "a Stick",
+                "Stick"
+            ]
+        },
+        "type": "episode",
+        "title": "Catdog on a Stick",
+        "expiration_date": 1735621140,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 689.9342676,
+        "episode_number": "10",
+        "original_air_date": 1402889400,
+        "clip_order": null,
+        "auth_launch_date": 1735621200,
+        "modified": 1736870382,
+        "media_id": "542f7a3244b9f453c1087c53e42b7048cec9bb0d",
+        "airing_id": "RADS1012272400011717",
+        "id": "uaOgtkS9QVKbgw_5_F5pEQ",
+        "slug": "catdog-on-a-stick",
+        "views": 27172,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/1_204612518-robotchicken_130_dup-20140612.jpg",
+        "created": 1406649598,
+        "title_id": "2020465",
+        "season_number": "7",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1736870382,
+        "tags": [],
+        "rating_count": 178,
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1735016400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_204612518-robotchicken_130_dup-20140612.jpg",
+        "cma_id": "1352503"
     },
     {
         "auth": true,
@@ -13569,7 +13788,7 @@
         "cma_id": "1219839"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447361700,
         "auth_expiration_date": 1778385540,
         "tms_id": "EP007259620123",
