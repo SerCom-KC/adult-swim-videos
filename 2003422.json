@@ -275,6 +275,53 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1766033940,
+        "tms_id": "",
+        "description": "Gene tries to learn how to lucid dream in order to recover the world's most perfect song that he wrote while asleep.",
+        "title_suggest": {
+            "input": [
+                "Running Down a Gene",
+                "Down a Gene",
+                "a Gene",
+                "Gene"
+            ]
+        },
+        "title": "Running Down a Gene",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "4",
+        "original_air_date": null,
+        "auth_launch_date": 1764824400,
+        "clip_order": null,
+        "airing_id": "RADS1011292500071740",
+        "media_id": "2090530107803a1fa28a1b7553480411c402c88e",
+        "modified": 1764462269,
+        "slug": "running-down-a-gene",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181445565-BobsBurgers_1404.jpg",
+        "created": 1758221176,
+        "season_number": "14",
+        "title_id": "2569591",
+        "tv_rating": "tv-pg-l",
+        "published": 1764462269,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181445565-BobsBurgers_1404.jpg",
+        "id": "AZleJgzlyEF1_1NDe6a1",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1764910740,
         "tms_id": "",
         "description": "Tina, Gene, and Louise strike it rich in the illegal snack business at school.",
@@ -316,52 +363,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291457218-BobsBurgers_1513.jpg",
         "id": "AZmW10YuyEF1_1NDe6m6",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1764824340,
-        "tms_id": "",
-        "description": "Mr. Fischoeder gets the chance to conduct his favorite symphony.",
-        "title_suggest": {
-            "input": [
-                "Mr. Fischoeder's Opus",
-                "Fischoeder's Opus",
-                "Opus"
-            ]
-        },
-        "title": "Mr. Fischoeder's Opus",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "11",
-        "original_air_date": null,
-        "auth_launch_date": 1763614800,
-        "clip_order": null,
-        "airing_id": "RADS1011172500069333",
-        "media_id": "3121176c740d21b311af37651af24d0a3cc79de6",
-        "modified": 1763360340,
-        "slug": "mr-fischoeders-opus",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_259291455540-BobsBurgers_1511.jpg",
-        "created": 1759172164,
-        "season_number": "15",
-        "title_id": "2569630",
-        "tv_rating": "tv-pg-l",
-        "published": 1763360340,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291455540-BobsBurgers_1511.jpg",
-        "id": "AZmW1PukyEF1_1NDe6m4",
         "auth": true
     },
     {
