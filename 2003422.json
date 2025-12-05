@@ -322,50 +322,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1764910740,
-        "tms_id": "",
-        "description": "Tina, Gene, and Louise strike it rich in the illegal snack business at school.",
-        "title_suggest": {
-            "input": [
-                "Snackface"
-            ]
-        },
-        "title": "Snackface",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "13",
-        "original_air_date": null,
-        "auth_launch_date": 1763701200,
-        "clip_order": null,
-        "airing_id": "RADS1011172500069397",
-        "media_id": "bc7e3c49f883b938fbcc66acd9b3f64e455aa77e",
-        "modified": 1763447328,
-        "slug": "snackface",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_259291457218-BobsBurgers_1513.jpg",
-        "created": 1759172314,
-        "season_number": "15",
-        "title_id": "2569632",
-        "tv_rating": "tv-pg-l",
-        "published": 1763447328,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291457218-BobsBurgers_1513.jpg",
-        "id": "AZmW10YuyEF1_1NDe6m6",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1765515540,
         "tms_id": "",
         "description": "Tina and the Thundergirls spend the night in the woods, and Tina faces something even scarier than her nemesis, Troop 257.",
@@ -459,6 +415,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_25929159231-BobsBurgers_1515.jpg",
         "id": "AZmW4UBkyEF1_1NDe6m8",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1766120340,
+        "tms_id": "",
+        "description": "Bob competes in a Bachelor-style competition to inherit Mr. Fischoeder's 100-year-old giant tortoise.",
+        "title_suggest": {
+            "input": [
+                "The Shell Game",
+                "Shell Game",
+                "Game"
+            ]
+        },
+        "title": "The Shell Game",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "18",
+        "original_air_date": null,
+        "auth_launch_date": 1764910800,
+        "clip_order": null,
+        "airing_id": "RADS1011302500071795",
+        "media_id": "ef8250ab6f346fd187e934f9ec9a3252f483024a",
+        "modified": 1764534298,
+        "slug": "the-shell-game",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_259291513159-BobsBurgers_1518.jpg",
+        "created": 1759173305,
+        "season_number": "15",
+        "title_id": "2569635",
+        "tv_rating": "tv-pg-l",
+        "published": 1764534298,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291513159-BobsBurgers_1518.jpg",
+        "id": "AZmW5mT1s_ErlMTJpQoC",
         "auth": true
     }
 ]
