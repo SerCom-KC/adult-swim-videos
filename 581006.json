@@ -286,51 +286,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1765688340,
-        "tms_id": "EP007164450398",
-        "description": "Hayley searches for guidance and instead finds a community of 'cool butts.'",
-        "title_suggest": {
-            "input": [
-                "Hot Scoomp",
-                "Scoomp"
-            ]
-        },
-        "title": "Hot Scoomp",
-        "type": "episode",
-        "expiration_date": 1759723140,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1262.9617,
-        "episode_number": "11",
-        "original_air_date": 1625448600,
-        "auth_launch_date": 1765083600,
-        "clip_order": null,
-        "airing_id": "RADS1012022500072311",
-        "media_id": "fe550e2d6564293ae1db13ebfbccee800e73a316",
-        "modified": 1764866377,
-        "slug": "hot-scoomp",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/1_221241340120-AmericanDad_1512_HotScoomp.png",
-        "created": 1642781345,
-        "title_id": "2238759",
-        "season_number": "16",
-        "tv_rating": "tv-14-dlv",
-        "published": 1764866377,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1759118400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/2_221241340120-AmericanDad_1512_HotScoomp.png",
-        "id": "AX59Zgif_0O4w1rD3RcN",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1765601940,
         "tms_id": "EP007164450395",
         "description": "Roger reveals a secret passion to Klaus; Stan and Francine seek revenge on Bazooka Sharks management.",
@@ -374,50 +329,6 @@
         "launch_date": 1758513600,
         "poster": "https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_22114171837-AmericanDad_1509_MusedAndAbused.png",
         "id": "AX5Vso9F208s7zyYUL9p",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1765688340,
-        "tms_id": "EP007164450396",
-        "description": "Stan's childhood imaginary friend returns to collect a debt. Klaus has a big date and needs a fishbowl upgrade.",
-        "title_suggest": {
-            "input": [
-                "Henderson"
-            ]
-        },
-        "title": "Henderson",
-        "type": "episode",
-        "expiration_date": 1759118340,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1263.1953,
-        "episode_number": "10",
-        "original_air_date": 1624843800,
-        "auth_launch_date": 1765083600,
-        "clip_order": null,
-        "airing_id": "RADS1012022500072309",
-        "media_id": "78a4dfab99c4e5a7e8566f08e75e70eb6bfbe6cd",
-        "modified": 1764866377,
-        "slug": "henderson",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220114/thumbnails/1_221141718493-AmericanDad_1511_Henderson.png",
-        "created": 1642115268,
-        "title_id": "2238758",
-        "season_number": "16",
-        "tv_rating": "tv-14-dlsv",
-        "published": 1764866377,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1758513600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_221141718493-AmericanDad_1511_Henderson.png",
-        "id": "AX5VsoEb208s7zyYUL9o",
         "auth": true
     },
     {
@@ -556,6 +467,101 @@
         "launch_date": 1758513600,
         "poster": "https://media.cdn.adultswim.com/uploads/20220114/thumbnails/2_221141715144-AmericanDad_1506_TheWondercabinet.png",
         "id": "AX5VssDL_0O4w1rD3RXh",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1765083540,
+        "tms_id": "EP007164450379",
+        "description": "The Smiths take a trip on an old steam locomotive to visit Francine's aunt only to discover it's being hijacked.",
+        "title_suggest": {
+            "input": [
+                "The Last Ride of the Dodge City Rambler",
+                "Last Ride of the Dodge City Rambler",
+                "Ride of the Dodge City Rambler",
+                "of the Dodge City Rambler",
+                "the Dodge City Rambler",
+                "Dodge City Rambler",
+                "City Rambler",
+                "Rambler"
+            ]
+        },
+        "title": "The Last Ride of the Dodge City Rambler",
+        "expiration_date": 1758513540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1262.9951,
+        "episode_number": "20",
+        "original_air_date": "1600048800",
+        "auth_launch_date": 1764478800,
+        "clip_order": null,
+        "airing_id": "RADS1011242500071154",
+        "media_id": "636725544290eb8e3928973bf218aad5319ca1e5",
+        "modified": 1764264888,
+        "slug": "the-last-ride-of-the-dodge-city-rambler",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210113/thumbnails/1_21113948546-americandad_1421_air_cid-C5TJD-LastRideOfDodgeCityRambler.jpg",
+        "created": 1610549337,
+        "season_number": "15",
+        "title_id": "2197425",
+        "tv_rating": "",
+        "published": 1764264888,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1757908800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210113/thumbnails/2_21113948546-americandad_1421_air_cid-C5TJD-LastRideOfDodgeCityRambler.jpg",
+        "id": "AXb8OJzqQJ_4Uej5kTlS",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1765083540,
+        "tms_id": "EP007164450378",
+        "description": "American Dad becomes the 25th scripted prime-time show in the History of Television to reach 300 episodes and Roger's past comes back to haunt him.",
+        "title_suggest": {
+            "input": [
+                "300"
+            ]
+        },
+        "title": "300",
+        "expiration_date": 1758513540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1263.1953,
+        "episode_number": "21",
+        "original_air_date": "1600653600",
+        "auth_launch_date": 1764478800,
+        "clip_order": null,
+        "airing_id": "RADS1011242500071152",
+        "media_id": "bc69a84b079670554eb522dae921876e22b2c0eb",
+        "modified": 1764264895,
+        "slug": "300",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210113/thumbnails/1_21113949113-americandad_1422_air_cid-K3JHT-300.jpg",
+        "created": 1610549354,
+        "season_number": "15",
+        "title_id": "2197426",
+        "tv_rating": "",
+        "published": 1764264895,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1757908800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20210113/thumbnails/2_21113949113-americandad_1422_air_cid-K3JHT-300.jpg",
+        "id": "AXb8ON6mQJ_4Uej5kTlT",
         "auth": true
     },
     {
