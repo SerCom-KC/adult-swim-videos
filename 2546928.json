@@ -222,7 +222,7 @@
         "launch_date": 1765169160,
         "poster": "https://media.cdn.adultswim.com/uploads/20251105/thumbnails/2_251151856336-AS_HahaYouClowns_05_107_DuncanHoldsABaby_Preferred.png",
         "id": "AZpWc4uUyEF1_1NDe7QK",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1765773900,
@@ -312,6 +312,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20251121/thumbnails/2_2511211950476-AS_HahaYouClowns_07_106_HotTub_Preferred.png",
         "id": "AZqpCwUMyEF1_1NDe7hc",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1766983440,
+        "tms_id": "",
+        "description": "The boys try to set Dad up on a date to find love.",
+        "title_suggest": {
+            "input": [
+                "Call to the Battalion",
+                "to the Battalion",
+                "the Battalion",
+                "Battalion"
+            ]
+        },
+        "title": "Call to the Battalion",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZmhFjW4yEF1_1NDe6pV",
+        "duration": 683.5495,
+        "episode_number": "8",
+        "original_air_date": "1765169100",
+        "auth_launch_date": 1765169100,
+        "clip_order": null,
+        "airing_id": "RADS1012022500072329",
+        "media_id": "c51fe971bfb8f99e59b09321c56d5e61c2141af1",
+        "modified": 1764912561,
+        "slug": "call-to-the-battalion",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20251121/thumbnails/1_2511211952181-AS_HahaYouClowns_08_110_CallToTheBattalion-PlatformPreferred.png",
+        "created": 1763772753,
+        "season_number": "1",
+        "title_id": "2572879",
+        "tv_rating": "tv-14-lv",
+        "published": 1764912561,
+        "tags": [],
+        "collection_title": "Haha, You Clowns",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20251121/thumbnails/2_2511211952181-AS_HahaYouClowns_08_110_CallToTheBattalion-PlatformPreferred.png",
+        "id": "AZqpDGbEs_ErlMTJpQqe",
         "auth": true
     }
 ]
