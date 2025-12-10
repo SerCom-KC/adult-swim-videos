@@ -332,98 +332,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1765342740,
-        "tms_id": "EP007164450382",
-        "description": "Stan becomes infatuated with a doll that the CIA wants to use to spy on the Russians.",
-        "title_suggest": {
-            "input": [
-                "Russian Doll",
-                "Doll"
-            ]
-        },
-        "title": "Russian Doll",
-        "expiration_date": 1759118340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1263.0284,
-        "episode_number": "2",
-        "original_air_date": "1620005400",
-        "auth_launch_date": 1764738000,
-        "clip_order": null,
-        "airing_id": "RADS1011272500071633",
-        "media_id": "919c9daf4cafe827194ebddaa8412b9485f53483",
-        "modified": 1764520483,
-        "slug": "russian-doll",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/1_2216163174-AmericanDad_1502_RussianDoll.png",
-        "created": 1641504676,
-        "season_number": "16",
-        "title_id": "2238749",
-        "tv_rating": "tv-14-dlsv",
-        "published": 1764520483,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1758513600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_2216163174-AmericanDad_1502_RussianDoll.png",
-        "id": "AX4xTZlk_0O4w1rD3RQj",
-        "auth": false
-    },
-    {
-        "auth_expiration_date": 1765342740,
-        "tms_id": "EP007164450383",
-        "description": "Stan moves to Chicago to become a comic while Steve and Hayley host Roger for a nice night in.",
-        "title_suggest": {
-            "input": [
-                "Stan Moves to Chicago",
-                "Moves to Chicago",
-                "to Chicago",
-                "Chicago"
-            ]
-        },
-        "title": "Stan Moves to Chicago",
-        "expiration_date": 1759118340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1263.0951,
-        "episode_number": "3",
-        "original_air_date": "1620610200",
-        "auth_launch_date": 1764738000,
-        "clip_order": null,
-        "airing_id": "RADS1011272500071631",
-        "media_id": "c600f1c3275de58d70f3b1fa888e67ca77704610",
-        "modified": 1764520183,
-        "slug": "stan-moves-to-chicago",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/1_22161631554-AmericanDad_1503_StanMovesToChicago.png",
-        "created": 1641504728,
-        "season_number": "16",
-        "title_id": "2238750",
-        "tv_rating": "tv-14-dlv",
-        "published": 1764520183,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1758513600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_22161631554-AmericanDad_1503_StanMovesToChicago.png",
-        "id": "AX4xTmV0208s7zyYUL9Z",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1765429140,
         "tms_id": "EP007164450385",
         "description": "Steve and Jeff try to bond as brothers while the rest of the family visits an escape room.",
@@ -525,6 +433,52 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1765947540,
+        "tms_id": "EP007164450401",
+        "description": "Francine and Roger get lost in a good book (or five) after Francine escapes an embarrassing situation. Stan reluctantly hangs out at the library.",
+        "title_suggest": {
+            "input": [
+                "Flush After Reading",
+                "After Reading",
+                "Reading"
+            ]
+        },
+        "title": "Flush After Reading",
+        "type": "episode",
+        "expiration_date": 1759723140,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1263.0951,
+        "episode_number": "14",
+        "original_air_date": 1627263000,
+        "auth_launch_date": 1765342800,
+        "clip_order": null,
+        "airing_id": "RADS1012042500072994",
+        "media_id": "6b616c9386865fde777a7e934fff46c0147fb9f6",
+        "modified": 1765093773,
+        "slug": "flush-after-reading",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/1_221241341589-AmericanDad_1516_FlushAfterReading.png",
+        "created": 1642781331,
+        "title_id": "2238763",
+        "season_number": "16",
+        "tv_rating": "tv-14-dlv",
+        "published": 1765093773,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1759118400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/2_221241341589-AmericanDad_1516_FlushAfterReading.png",
+        "id": "AX59ZdGz208s7zyYUL9v",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1765861140,
         "tms_id": "EP007164450403",
         "description": "Stan and Francine go back in time to settle an argument.",
@@ -619,6 +573,54 @@
         "launch_date": 1759118400,
         "poster": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/2_221241340120-AmericanDad_1512_HotScoomp.png",
         "id": "AX59Zgif_0O4w1rD3RcN",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1765947540,
+        "tms_id": "EP007164450405",
+        "description": "Stan finally decides to do something about his secret baldness and enlists the help of Josay Bosay, Roger's famed hair-stylist-to-the-stars persona.",
+        "title_suggest": {
+            "input": [
+                "Comb Over: A Hair Piece",
+                "Over: A Hair Piece",
+                "A Hair Piece",
+                "Hair Piece",
+                "Piece"
+            ]
+        },
+        "title": "Comb Over: A Hair Piece",
+        "type": "episode",
+        "expiration_date": 1759723140,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1263.0618,
+        "episode_number": "15",
+        "original_air_date": 1627867800,
+        "auth_launch_date": 1765342800,
+        "clip_order": null,
+        "airing_id": "RADS1012042500072992",
+        "media_id": "e04c38a303935beedb49515d7bed1ecf7c37ba36",
+        "modified": 1765093160,
+        "slug": "comb-over-a-hair-piece",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/1_221241342308-AmericanDad_1517_CombOverAHairPiece.png",
+        "created": 1642781392,
+        "title_id": "2238764",
+        "season_number": "16",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1765093160,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1759118400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/2_221241342308-AmericanDad_1517_CombOverAHairPiece.png",
+        "id": "AX59Zr9y_0O4w1rD3RcP",
         "auth": true
     },
     {
