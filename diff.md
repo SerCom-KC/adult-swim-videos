@@ -2,34 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 12, 2025 at 00:30:40 EST_
+_Last Update: December 12, 2025 at 15:30:42 EST_
 ## Video added
-### Summary
-439722 The Venture Bros.: 2  
-547867 Tom Goes To The Mayor: 1  
-### 812731
-**The Venture Bros. S04E13 - Bright Lights, Dean City**  
-TV-14-DLS 🔓 22:44  
-⌛ October 7, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-venture-bros/bright-lights-dean-city  
-seriesid=`439722` titleid=`812731` id=`poYXsgX2Q-2n4FYw2UR0MQ` mediaid=`4c319da11dc089c0a18204ddf487be6f99ede2f1`  
-_Dean's summer internship in New York City turns deadly when he learns his new employer harbors a dark secret.  Meanwhile, Doc's newfound love of show tunes makes him an easy target for the newly re-formed Revenge Society._  
-<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116148228-venture_153.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116148228-venture_153.jpg" height="144px" /></a>
-### 812730
-**The Venture Bros. S04E12 - Everybody Comes To Hank's**  
-TV-14-DLS 🔓 21:10  
-⌛ October 7, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/the-venture-bros/everybody-comes-to-hanks  
-seriesid=`439722` titleid=`812730` id=`wi0ou10_TuW3H9LubNsrPA` mediaid=`167198f4ae13f98c91d52bca9ef9b983ebc256a7`  
-_With Dean off to New York for a summer internship, Hank is forced by his father to get a job. But when the budding entrepreneur dons a fabled fedora to become a private dick, a tangled mystery of sex, lies, and dirty secrets lands right in his lap._  
-<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_211614856-venture_152.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_211614856-venture_152.jpg" height="144px" /></a>
-### 612756
-**Tom Goes To The Mayor S01E07 - Vehicular Manslaughter**  
-TV-14-DL 🔓 11:45  
-⌛ February 19, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/tom-goes-to-the-mayor/vehicular-manslaughter  
-seriesid=`547867` titleid=`612756` id=`99O9jSxQRRenSFRqlhd2HA` mediaid=`a698e5860f4cfbe4f687039eaee9ea36461ce9d1`  
-_One of the Mayor's old college buddies stops by unexpectedly. Special guest: Michael Ian Black._  
-<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117836230-tgttm_007.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117836230-tgttm_007.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+2224721 Smiling Friends: 1  
+2326791 Smalls: 1  
+### 2322684
+**Smiling Friends S01E09 - The Smiling Friends Go To Brazil!**  
+TV-14-L 🔒 11:21  
+⌛ December 19, 2025 at 23:59:59 EST  
+https://www.adultswim.com/videos/smiling-friends/the-smiling-friends-go-to-brazil  
+seriesid=`2224721` titleid=`2322684` id=`AYJfbyjN3sQvipyea9ru` mediaid=`2dc5eece0f58a480dbbecdf5acb1d00e843a56c5`  
+_The Smiling Friends finally get to relax in a beautiful Brazilian beach town. Pim works on his novel, Charlie binges a load of torrent shows on his portable hard drive. Allan and Glep enjoy some long-awaited "chill out" time at the beach._  
+<a href="https://media.cdn.adultswim.com/uploads/20220802/thumbnails/2_22821241277-SmilingFriends_109_TheSmilingFriendsGoToBrazil.png"><img src="https://media.cdn.adultswim.com/uploads/20220802/thumbnails/2_22821241277-SmilingFriends_109_TheSmilingFriendsGoToBrazil.png" height="144px" /></a>
+### 2546920
+**Smalls S06E07 - Bodyhead**  
+TV-MA-LSV 🔓 11:14  
+⌛ December 19, 2025 at 23:59:59 EST  
+https://www.adultswim.com/videos/smalls/bodyhead  
+seriesid=`2326791` titleid=`2546920` id=`AZMjk5FXIFyXXN-f0M0X` mediaid=`bb00db3f5ff712e720c6f1fb593e1db9df110aeb`  
+_Teen siblings combine forces to accomplish basic adult tasks._  
+<a href="https://media.cdn.adultswim.com/uploads/20241112/thumbnails/2_2411122231219-AS_SMALLS_S6_BODYHEAD.png"><img src="https://media.cdn.adultswim.com/uploads/20241112/thumbnails/2_2411122231219-AS_SMALLS_S6_BODYHEAD.png" height="144px" /></a>
