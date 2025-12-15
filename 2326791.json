@@ -867,5 +867,50 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20250908/thumbnails/2_25981453563-AS-SMALLS-704-1920x1080.png",
         "id": "AZfCxNfCCI-3VkGoG1Lq",
         "auth": false
+    },
+    {
+        "auth_expiration_date": 1767589140,
+        "tms_id": "",
+        "description": "Lil Daddy follows the day-to-day misadventures of a struggling single father chasing love and respect while ruining everyone's day along the way.",
+        "title_suggest": {
+            "input": [
+                "Lil Daddy",
+                "Daddy"
+            ]
+        },
+        "title": "Lil Daddy",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWlKh6kVHl5gR6828yqi",
+        "duration": 675.1745,
+        "episode_number": "5",
+        "original_air_date": 1765774800,
+        "auth_launch_date": 1765774800,
+        "clip_order": null,
+        "airing_id": "RADS1012092500073680",
+        "media_id": "2050bbb95b8e507f014393940ec14345a93b6453",
+        "modified": 1765398811,
+        "slug": "lil-daddy",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20251210/thumbnails/1_2512101532214-AS_SMALLS_705_LilDaddy.png",
+        "created": 1765308795,
+        "title_id": "2573161",
+        "season_number": "7",
+        "tv_rating": "tv-ma-l",
+        "published": 1765398811,
+        "tags": [],
+        "collection_title": "Smalls",
+        "disable_ads": false,
+        "modified_by": "undefined undefined",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20251210/thumbnails/2_2512101532214-AS_SMALLS_705_LilDaddy.png",
+        "id": "AZsEmoxms_ErlMTJpQuv",
+        "auth": true
     }
 ]
