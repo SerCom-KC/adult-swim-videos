@@ -86,7 +86,7 @@
         "launch_date": 1763351160,
         "poster": "https://media.cdn.adultswim.com/uploads/20251006/thumbnails/2_251061549235-AS_HahaYouClowns_02_102_Viral_Preferred.png",
         "id": "AZm7FZL_yEF1_1NDe6vX",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1769921940,
@@ -134,7 +134,7 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1764564300,
+        "auth_expiration_date": 1770526740,
         "tms_id": "",
         "description": "Dad confronts his fear of flying on the way to Mexico.",
         "title_suggest": {
@@ -155,11 +155,11 @@
         "duration": 683.5495,
         "episode_number": "4",
         "original_air_date": "1762749960",
-        "auth_launch_date": 1762749960,
+        "auth_launch_date": 1766983560,
         "clip_order": null,
-        "airing_id": "RADS1011052500066819",
+        "airing_id": "RADS1012132500075239",
         "media_id": "389a082a85211877622bce0665ed2a5b0261aa4e",
-        "modified": 1764315121,
+        "modified": 1765773931,
         "slug": "plane",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20251006/thumbnails/1_25106166481-AS_HahaYouClowns_04_103_Plane_Preferred.png",
@@ -167,7 +167,7 @@
         "season_number": "1",
         "title_id": "2546931",
         "tv_rating": "",
-        "published": 1764315121,
+        "published": 1765773931,
         "tags": [],
         "collection_title": "Haha, You Clowns",
         "disable_ads": false,
@@ -267,7 +267,7 @@
         "launch_date": 1765773960,
         "poster": "https://media.cdn.adultswim.com/uploads/20251105/thumbnails/2_251151857216-AS_HahaYouClowns_06_105_DadsBirthday-PlatformPreferred.png",
         "id": "AZpWdVs8yEF1_1NDe7QM",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1766378700,
@@ -327,7 +327,7 @@
             ]
         },
         "title": "Call to the Battalion",
-        "expiration_date": null,
+        "expiration_date": 1769921940,
         "type": "episode",
         "platforms": [
             "android",
@@ -341,9 +341,9 @@
         "original_air_date": "1765169100",
         "auth_launch_date": 1765169100,
         "clip_order": null,
-        "airing_id": "RADS1012022500072329",
+        "airing_id": "RADS1012132500075236",
         "media_id": "c51fe971bfb8f99e59b09321c56d5e61c2141af1",
-        "modified": 1764912561,
+        "modified": 1765773931,
         "slug": "call-to-the-battalion",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20251121/thumbnails/1_2511211952181-AS_HahaYouClowns_08_110_CallToTheBattalion-PlatformPreferred.png",
@@ -351,14 +351,58 @@
         "season_number": "1",
         "title_id": "2572879",
         "tv_rating": "tv-14-lv",
-        "published": 1764912561,
+        "published": 1765773931,
+        "tags": [],
+        "collection_title": "Haha, You Clowns",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1766983500,
+        "poster": "https://media.cdn.adultswim.com/uploads/20251121/thumbnails/2_2511211952181-AS_HahaYouClowns_08_110_CallToTheBattalion-PlatformPreferred.png",
+        "id": "AZqpDGbEs_ErlMTJpQqe",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1767588240,
+        "tms_id": "",
+        "description": "The boys get a cool new therapist.",
+        "title_suggest": {
+            "input": [
+                "Therapy"
+            ]
+        },
+        "title": "Therapy",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZmhFjW4yEF1_1NDe6pV",
+        "duration": 683.5829,
+        "episode_number": "9",
+        "original_air_date": "1765773900",
+        "auth_launch_date": 1765773900,
+        "clip_order": null,
+        "airing_id": "RADS1012082500073567",
+        "media_id": "f6f9dce465ed3e9ac6d55a514c0145e80e5493f2",
+        "modified": 1765517733,
+        "slug": "therapy",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20251121/thumbnails/1_251121195494-AS_HahaYouClowns_09_109_Therapy_Preferred.png",
+        "created": 1763772864,
+        "season_number": "1",
+        "title_id": "2572878",
+        "tv_rating": "tv-14-dl",
+        "published": 1765517733,
         "tags": [],
         "collection_title": "Haha, You Clowns",
         "disable_ads": false,
         "modified_by": "ODT Listener",
         "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20251121/thumbnails/2_2511211952181-AS_HahaYouClowns_08_110_CallToTheBattalion-PlatformPreferred.png",
-        "id": "AZqpDGbEs_ErlMTJpQqe",
+        "poster": "https://media.cdn.adultswim.com/uploads/20251121/thumbnails/2_251121195494-AS_HahaYouClowns_09_109_Therapy_Preferred.png",
+        "id": "AZqpDhhnyEF1_1NDe7hd",
         "auth": true
     }
 ]
