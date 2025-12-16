@@ -526,58 +526,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1765861140,
-        "tms_id": "EP007164450403",
-        "description": "Stan and Francine go back in time to settle an argument.",
-        "title_suggest": {
-            "input": [
-                "Stan & Francine & Stan & Francine & Radika",
-                "& Francine & Stan & Francine & Radika",
-                "Francine & Stan & Francine & Radika",
-                "& Stan & Francine & Radika",
-                "Stan & Francine & Radika",
-                "& Francine & Radika",
-                "Francine & Radika",
-                "& Radika",
-                "Radika"
-            ]
-        },
-        "title": "Stan & Francine & Stan & Francine & Radika",
-        "type": "episode",
-        "expiration_date": 1759723140,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1263.1952,
-        "episode_number": "13",
-        "original_air_date": 1626658200,
-        "auth_launch_date": 1765256400,
-        "clip_order": null,
-        "airing_id": "RADS1012042500072897",
-        "media_id": "3554a6d7240f00f877d48f2a7e7d7b59c3e591c5",
-        "modified": 1765029881,
-        "slug": "stan-francine-stan-francine-radika",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/1_221241341303-AmericanDad_1515_StanAndFrancineAndStanAndFrancineAndRadika.png",
-        "created": 1642781343,
-        "title_id": "2238762",
-        "season_number": "16",
-        "tv_rating": "tv-14-dlsv",
-        "published": 1765029881,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1759118400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220124/thumbnails/2_221241341303-AmericanDad_1515_StanAndFrancineAndStanAndFrancineAndRadika.png",
-        "id": "AX59Zf4w_0O4w1rD3RcM",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1765947540,
         "tms_id": "EP007164450405",
         "description": "Stan finally decides to do something about his secret baldness and enlists the help of Josay Bosay, Roger's famed hair-stylist-to-the-stars persona.",
@@ -1032,6 +980,53 @@
         "launch_date": 1759723200,
         "poster": "https://media.cdn.adultswim.com/uploads/20230119/thumbnails/2_23119115725-DressedDowntiny.png",
         "id": "AYXAUs-64k01GlbfzrYA",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1766465940,
+        "tms_id": "EP007164450413",
+        "description": "Stan takes Steve to his favorite barbershop to hang with his crew; Jeff starts journaling to help with his bad memory.",
+        "title_suggest": {
+            "input": [
+                "The Book of Fischer",
+                "Book of Fischer",
+                "of Fischer",
+                "Fischer"
+            ]
+        },
+        "title": "The Book of Fischer",
+        "type": "episode",
+        "expiration_date": 1760327940,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1263.162,
+        "episode_number": "3",
+        "original_air_date": 1644809400,
+        "auth_launch_date": 1765861200,
+        "clip_order": null,
+        "airing_id": "RADS1012092500073684",
+        "media_id": "1bab21bb73c36a629ee2366d46ab3cc2a6ff7a93",
+        "modified": 1765637747,
+        "slug": "the-book-of-fischer",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230119/thumbnails/1_231191156354-BookOfFischertiny.png",
+        "created": 1673969030,
+        "title_id": "2342089",
+        "season_number": "17",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1765637747,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1759723200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230119/thumbnails/2_231191156354-BookOfFischertiny.png",
+        "id": "AYXAVFU9uLQD-MTtYfm-",
         "auth": true
     }
 ]
