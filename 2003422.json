@@ -149,52 +149,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1765861140,
-        "tms_id": "",
-        "description": "Rudy attends an important dinner. The Belchers make an important casserole.",
-        "title_suggest": {
-            "input": [
-                "The Amazing Rudy",
-                "Amazing Rudy",
-                "Rudy"
-            ]
-        },
-        "title": "The Amazing Rudy",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "2",
-        "original_air_date": null,
-        "auth_launch_date": 1764651600,
-        "clip_order": null,
-        "airing_id": "RADS1011262500071525",
-        "media_id": "dc08fe0c96aabb6826e454dc40f3b7638ca38dbf",
-        "modified": 1764400462,
-        "slug": "the-amazing-rudy",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_25918149533-BobsBurgers_1402.jpg",
-        "created": 1758219010,
-        "season_number": "14",
-        "title_id": "2569604",
-        "tv_rating": "tv-pg-l",
-        "published": 1764400462,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_25918149533-BobsBurgers_1402.jpg",
-        "id": "AZleBQEQs_ErlMTJpQnx",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1765947540,
         "tms_id": "",
         "description": "Bob and Linda help Gretchen throw her sister's bachelorette party.",
@@ -376,6 +330,54 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291513159-BobsBurgers_1518.jpg",
         "id": "AZmW5mT1s_ErlMTJpQoC",
         "auth": true
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1767070740,
+        "tms_id": "EP012792980095",
+        "description": "When a mall Santa threatens the kids with the Naughty List, Gene, Tina and Louise decide to put on a musical performance, which highlights all of their good deeds in order to earn their spot on the Nice List.",
+        "title_suggest": {
+            "input": [
+                "Nice-Capades"
+            ]
+        },
+        "title": "Nice-Capades",
+        "type": "episode",
+        "expiration_date": 1675659540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1282.0333667,
+        "episode_number": "5",
+        "original_air_date": 1485399600,
+        "clip_order": null,
+        "auth_launch_date": 1765861200,
+        "modified": 1765605927,
+        "media_id": "b01f7cd99a5bf1bc12f47f37b91cbe3e9974c4b8",
+        "airing_id": "RADS1012092500073685",
+        "id": "oaRxLGs_QGyPbnh9h2SL1A",
+        "slug": "nice-capades",
+        "views": 1,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1485065443,
+        "title_id": "2097193",
+        "tv_rating": "tv-14",
+        "season_number": "6",
+        "ott_expiration_date": null,
+        "active": false,
+        "blacklist": [],
+        "published": 1765605927,
+        "first_published": 1485065443,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1675054800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/nice-capades/bobsburgers_518_air_cid-2X5HJ.jpg",
+        "cma_id": "1432573"
     },
     {
         "auth": true,
