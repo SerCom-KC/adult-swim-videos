@@ -1,5 +1,54 @@
 [
     {
+        "auth_expiration_date": 1766638740,
+        "tms_id": "",
+        "description": "In this special holiday episode, a selfish Peter loses his Christmas spirit and is visited by ghosts of Christmas past, present and future who take him on a journey around Quahog in the style of Charles Dickens' A Christmas Carol.",
+        "title_suggest": {
+            "input": [
+                "Don't Be a Dickens at Christmas",
+                "Be a Dickens at Christmas",
+                "a Dickens at Christmas",
+                "Dickens at Christmas",
+                "at Christmas",
+                "Christmas"
+            ]
+        },
+        "title": "Don't Be a Dickens at Christmas",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
+        "duration": 0,
+        "episode_number": "9",
+        "original_air_date": "1738296000",
+        "auth_launch_date": 1766034000,
+        "clip_order": null,
+        "airing_id": "RADS1012122500074296",
+        "media_id": "783263c5a5f0568761770fd6cc4bdae1db583389",
+        "modified": 1765780249,
+        "slug": "dont-be-a-dickens-at-christmas",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241231/thumbnails/1_2412311659576-FamilyGuy_S16_DontBeADickensatChristmas_Episode9.jpg",
+        "created": 1735682407,
+        "season_number": "16",
+        "title_id": "2539781",
+        "tv_rating": "tv-14-dls",
+        "published": 1765780249,
+        "tags": [],
+        "collection_title": "Family Guy",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20241231/thumbnails/2_2412311659576-FamilyGuy_S16_DontBeADickensatChristmas_Episode9.jpg",
+        "id": "AZQeu7zPhcl3AH3uIkjd",
+        "auth": true
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1766638740,
@@ -147,55 +196,6 @@
         "launch_date": 1629259200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210105/thumbnails/2_21151251409-familyguy_1406_HowGriffinStoleChristmas.jpg",
         "cma_id": "1314764"
-    },
-    {
-        "auth": true,
-        "auth_expiration_date": 1766033940,
-        "tms_id": "EP002960010219",
-        "description": "As Christmas approaches...Peter tells the story of the Nativity, with friends and family members appearing as biblical characters.",
-        "title_suggest": {
-            "input": [
-                "Jesus, Mary and Joseph!",
-                "Mary and Joseph!",
-                "and Joseph!",
-                "Joseph!"
-            ]
-        },
-        "title": "Jesus, Mary and Joseph!",
-        "type": "episode",
-        "expiration_date": 1622433540,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "S-I8npXYS5W04PS9vAfgvg",
-        "duration": 1291.0565,
-        "episode_number": "8",
-        "original_air_date": 1357012800,
-        "clip_order": null,
-        "auth_launch_date": 1764824400,
-        "modified": 1764452056,
-        "media_id": "e250037dfce43db293726bbd8a0131d07512b758",
-        "airing_id": "RADS1011292500071708",
-        "id": "oXyOxdugSqagfg04R0yghQ",
-        "slug": "jesus-mary-and-joseph",
-        "views": 296,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200707/thumbnails/1_20771222164-familyguy_1007_JesusMaryJoseph.jpg",
-        "created": 1408425628,
-        "title_id": "809251",
-        "tv_rating": "tv-14",
-        "season_number": "11",
-        "active": false,
-        "published": 1764452056,
-        "first_published": 1408425628,
-        "tags": [],
-        "collection_title": "Family Guy",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1621828800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200707/thumbnails/2_20771222164-familyguy_1007_JesusMaryJoseph.jpg",
-        "cma_id": "1403145"
     },
     {
         "auth": true,
