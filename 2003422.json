@@ -154,6 +154,55 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151984550603814.jpg"
     },
     {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1767243540,
+        "tms_id": "EP012792980141",
+        "description": "Linda is determined to host a party at the restaurant in order to spread a little cheer around the neighborhood. But when she realizes that her prized ornaments have been stolen, she begins questioning all the guests.",
+        "title_suggest": {
+            "input": [
+                "The Bleakening Part 1",
+                "Bleakening Part 1",
+                "Part 1",
+                "1"
+            ]
+        },
+        "title": "The Bleakening Part 1",
+        "type": "episode",
+        "expiration_date": 1690775940,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1301.97,
+        "episode_number": "6",
+        "original_air_date": 1544409000,
+        "auth_launch_date": 1766034000,
+        "clip_order": null,
+        "airing_id": "RADS1012122500074298",
+        "media_id": "b74be759ba210b72338a7f06ceae86ad0a805da8",
+        "modified": 1765789264,
+        "slug": "the-bleakening-part-1",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15444603910052.jpg",
+        "created": 1543859362,
+        "title_id": "2171437",
+        "season_number": "8",
+        "tv_rating": "tv-pg-dl",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1765789264,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1690171200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15444603910052.jpg",
+        "id": "AWd1MFj-qD68dq0Op5rc",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1766465940,
         "tms_id": "",
         "description": "Bob and Linda try to attend all three kids' holiday performances at the same time.",
@@ -198,53 +247,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181145515-BobsBurgers_1310.jpg",
         "id": "AZldgnKes_ErlMTJpQnq",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1766033940,
-        "tms_id": "",
-        "description": "Gene tries to learn how to lucid dream in order to recover the world's most perfect song that he wrote while asleep.",
-        "title_suggest": {
-            "input": [
-                "Running Down a Gene",
-                "Down a Gene",
-                "a Gene",
-                "Gene"
-            ]
-        },
-        "title": "Running Down a Gene",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "4",
-        "original_air_date": null,
-        "auth_launch_date": 1764824400,
-        "clip_order": null,
-        "airing_id": "RADS1011292500071740",
-        "media_id": "2090530107803a1fa28a1b7553480411c402c88e",
-        "modified": 1764462269,
-        "slug": "running-down-a-gene",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181445565-BobsBurgers_1404.jpg",
-        "created": 1758221176,
-        "season_number": "14",
-        "title_id": "2569591",
-        "tv_rating": "tv-pg-l",
-        "published": 1764462269,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181445565-BobsBurgers_1404.jpg",
-        "id": "AZleJgzlyEF1_1NDe6a1",
         "auth": true
     },
     {
