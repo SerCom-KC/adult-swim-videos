@@ -203,6 +203,55 @@
         "auth": true
     },
     {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1767329940,
+        "tms_id": "EP012792980142",
+        "description": "After Linda's prized ornaments go missing during a holiday party at the restaurant, Linda suspects one of the attendees as the thief. However, the kids have their own theory: attributing the robbery to the anti-Santa - \"The Bleaken.\"",
+        "title_suggest": {
+            "input": [
+                "The Bleakening Part 2",
+                "Bleakening Part 2",
+                "Part 2",
+                "2"
+            ]
+        },
+        "title": "The Bleakening Part 2",
+        "expiration_date": 1691380740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1297.2,
+        "episode_number": "7",
+        "original_air_date": 1545013800,
+        "auth_launch_date": 1766120400,
+        "clip_order": null,
+        "media_id": "63c5b8fc0b72c40c04f413bed73afb589e3a014a",
+        "modified": 1765866977,
+        "airing_id": "RADS1012122500074367",
+        "slug": "the-bleakening-part-2",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15450597262919.jpg",
+        "created": 1543954675,
+        "season_number": "8",
+        "title_id": "2171438",
+        "tv_rating": "tv-pg-dl",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1765866977,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1690776000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15450597262919.jpg",
+        "id": "AWd63rgSqD68dq0Op5t4",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1766465940,
         "tms_id": "",
         "description": "Bob and Linda try to attend all three kids' holiday performances at the same time.",
@@ -292,52 +341,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_25929151237-BobsBurgers_1517.jpg",
         "id": "AZmW47AkyEF1_1NDe6m9",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1766120340,
-        "tms_id": "",
-        "description": "Bob competes in a Bachelor-style competition to inherit Mr. Fischoeder's 100-year-old giant tortoise.",
-        "title_suggest": {
-            "input": [
-                "The Shell Game",
-                "Shell Game",
-                "Game"
-            ]
-        },
-        "title": "The Shell Game",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "18",
-        "original_air_date": null,
-        "auth_launch_date": 1764910800,
-        "clip_order": null,
-        "airing_id": "RADS1011302500071795",
-        "media_id": "ef8250ab6f346fd187e934f9ec9a3252f483024a",
-        "modified": 1764534298,
-        "slug": "the-shell-game",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_259291513159-BobsBurgers_1518.jpg",
-        "created": 1759173305,
-        "season_number": "15",
-        "title_id": "2569635",
-        "tv_rating": "tv-pg-l",
-        "published": 1764534298,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291513159-BobsBurgers_1518.jpg",
-        "id": "AZmW5mT1s_ErlMTJpQoC",
         "auth": true
     },
     {
