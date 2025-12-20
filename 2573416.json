@@ -1,5 +1,51 @@
 [
     {
+        "auth_expiration_date": 1768035540,
+        "tms_id": "",
+        "description": "This captures how four animators made a special without knowing what the others were doing and the moment they watch the special for the first time.",
+        "title_suggest": {
+            "input": [
+                "Behind The Elephant",
+                "The Elephant",
+                "Elephant"
+            ]
+        },
+        "title": "Behind The Elephant",
+        "type": "episode",
+        "expiration_date": 1767603540,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZsYCQuIc6shItN4M66X",
+        "duration": 1290.9563,
+        "episode_number": "",
+        "original_air_date": 1766221200,
+        "auth_launch_date": 1766221200,
+        "clip_order": null,
+        "airing_id": "RADS1012122500074694",
+        "media_id": "afa7dfce0d639ee6075142830d07857797e5b667",
+        "modified": 1766176850,
+        "slug": "behind-the-elephant",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20251219/thumbnails/1_2512191533197-Elephant_BTS-1920x1080.png",
+        "created": 1765634880,
+        "title_id": "2573533",
+        "season_number": "1",
+        "tv_rating": "tv-14-lv",
+        "published": 1766176850,
+        "tags": [],
+        "collection_title": "adult swim\u2019s The Elephant",
+        "disable_ads": false,
+        "modified_by": "undefined undefined",
+        "launch_date": 1766394000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20251219/thumbnails/2_2512191533197-Elephant_BTS-1920x1080.png",
+        "id": "AZsYCjVUNi2EYjVB1WCL",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1768017540,
         "tms_id": "",
         "description": "Crafted in three parts by four animation superstars, Adult Swim's The Elephant brings to life a very human journey of self-discovery in varied styles.",
