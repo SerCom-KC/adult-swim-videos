@@ -421,11 +421,7 @@
     },
     {
         "auth_expiration_date": 1772427540,
-        "created": 1765573791,
         "tms_id": "",
-        "title_id": "2573240",
-        "season_number": "18",
-        "tv_rating": "tv-14-lv",
         "description": "Luffy faces new foes on Zou as his words spark unexpected danger.",
         "title_suggest": {
             "input": [
@@ -438,21 +434,38 @@
                 "Jack!"
             ]
         },
-        "published": 1765584163,
         "title": "A Threat Descends! The Beast Pirates, Jack!",
         "type": "episode",
-        "tags": [],
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
         "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
         "duration": 1291.1899,
-        "episode_number": "",
-        "collection_title": "One Piece",
+        "episode_number": "11",
         "original_air_date": 1766298600,
         "auth_launch_date": 1766311200,
-        "modified_by": "ODT Listener",
+        "clip_order": null,
         "airing_id": "RADS1012122500074722",
         "media_id": "df83d6bd4c3c5bbf967fd08aabb4ee09649ef842",
-        "modified": 1765584163,
+        "modified": 1766432078,
         "slug": "a-threat-descends-the-beast-pirates-jack",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20251222/thumbnails/1_251222143414-OnePiece757_s18ep11.png",
+        "created": 1765573791,
+        "title_id": "2573240",
+        "season_number": "18",
+        "tv_rating": "tv-14-lv",
+        "published": 1766432078,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "undefined undefined",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20251222/thumbnails/2_251222143414-OnePiece757_s18ep11.png",
         "id": "AZsUZhC9Ni2EYjVB1WCH",
         "auth": true
     }
