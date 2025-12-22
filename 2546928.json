@@ -131,7 +131,7 @@
         "launch_date": 1763959560,
         "poster": "https://media.cdn.adultswim.com/uploads/20251006/thumbnails/2_251061558524-AS_HahaYouClowns_03_104_BomberJacket_Preferred.png",
         "id": "AZm7HJKis_ErlMTJpQpU",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1770526740,
@@ -312,7 +312,7 @@
         "launch_date": 1766378760,
         "poster": "https://media.cdn.adultswim.com/uploads/20251121/thumbnails/2_2511211950476-AS_HahaYouClowns_07_106_HotTub_Preferred.png",
         "id": "AZqpCwUMyEF1_1NDe7hc",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1766983440,
@@ -403,6 +403,37 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20251121/thumbnails/2_251121195494-AS_HahaYouClowns_09_109_Therapy_Preferred.png",
         "id": "AZqpDhhnyEF1_1NDe7hd",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1768193040,
+        "created": 1765574198,
+        "tms_id": "",
+        "title_id": "2546936",
+        "season_number": "1",
+        "tv_rating": "tv-ma-v",
+        "description": "Tristan gets immersed in a new hobby.",
+        "title_suggest": {
+            "input": [
+                "Improv"
+            ]
+        },
+        "published": 1765657565,
+        "title": "Improv",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AZmhFjW4yEF1_1NDe6pV",
+        "duration": 683.5495,
+        "episode_number": "10",
+        "collection_title": "Haha, You Clowns",
+        "original_air_date": 1766378700,
+        "auth_launch_date": 1766378700,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1012122500074729",
+        "media_id": "a51fc5bb38120edeea38a570341722bec13f8640",
+        "modified": 1765657565,
+        "slug": "improv",
+        "id": "AZsUbEUlNi2EYjVB1WCI",
         "auth": true
     }
 ]
