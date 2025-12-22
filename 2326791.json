@@ -957,5 +957,68 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20251210/thumbnails/2_2512101532214-AS_SMALLS_705_LilDaddy.png",
         "id": "AZsEmoxms_ErlMTJpQuv",
         "auth": true
+    },
+    {
+        "auth_expiration_date": 1768194840,
+        "created": 1765612026,
+        "tms_id": "",
+        "title_id": "2573164",
+        "season_number": "7",
+        "tv_rating": "tv-ma-v",
+        "description": "Ever since a childhood dog-bite, Munch Rexford has been on a quest to kill one of every animal on earth.",
+        "title_suggest": {
+            "input": [
+                "Munch Rexford",
+                "Rexford"
+            ]
+        },
+        "published": 1765619439,
+        "title": "Munch Rexford",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AWlKh6kVHl5gR6828yqi",
+        "duration": 656.2556,
+        "episode_number": "8",
+        "collection_title": "Smalls",
+        "original_air_date": 1766380500,
+        "auth_launch_date": 1766380500,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1012132500074897",
+        "media_id": "f3270bd955d9dc5f70dffe8f8a2c120696b7693d",
+        "modified": 1765619439,
+        "slug": "munch-rexford",
+        "id": "AZsWrXm_Ni2EYjVB1WCJ",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1768193940,
+        "created": 1765612050,
+        "tms_id": "",
+        "title_id": "2573163",
+        "season_number": "7",
+        "tv_rating": "tv-ma-lv",
+        "description": "Chip is a go-getting woman with a range of eclectic goals and a penchant for extreme violence. She rides a motorcycle.",
+        "title_suggest": {
+            "input": [
+                "Chips"
+            ]
+        },
+        "published": 1765619723,
+        "title": "Chips",
+        "type": "episode",
+        "tags": [],
+        "collection_id": "AWlKh6kVHl5gR6828yqi",
+        "duration": 673.4061,
+        "episode_number": "7",
+        "collection_title": "Smalls",
+        "original_air_date": 1766379600,
+        "auth_launch_date": 1766379600,
+        "modified_by": "ODT Listener",
+        "airing_id": "RADS1012132500074898",
+        "media_id": "dde88715fc1821fddb3a26ea366003d6b2f30f3b",
+        "modified": 1765619723,
+        "slug": "chips",
+        "id": "AZsWrdlCNi2EYjVB1WCK",
+        "auth": true
     }
 ]
