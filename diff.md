@@ -2,237 +2,143 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: December 22, 2025 at 00:30:41 EST_
+_Last Update: December 23, 2025 at 00:00:42 EST_
 ## Video added
 ### Summary
-581006 American Dad: 11  
+581006 American Dad: 1  
 2003422 Bob's Burgers: 1  
-2326791 Smalls: 2  
-### 2342098
-**American Dad S17E14 - A League of His Own**  
-TV-14-DLSV 🔒 21:03  
-⌛ December 28, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/a-league-of-his-own  
-seriesid=`581006` titleid=`2342098` id=`AYX1Emqk4k01GlbfzrYO` mediaid=`e52887270c91693bf0a27446b7de5679102da926`  
-_Steve profiles Stan for an essay contest at school; Francine uses a porta john._  
-<a href="https://media.cdn.adultswim.com/uploads/20230215/thumbnails/2_232151548438-LeagueofHisOwntiny.png"><img src="https://media.cdn.adultswim.com/uploads/20230215/thumbnails/2_232151548438-LeagueofHisOwntiny.png" height="144px" /></a>
-### 2186650
-**American Dad S14E01 - Fantasy Baseball**  
-TV-14-DLSV 🔓 21:02  
-⌛ December 28, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/fantasy-baseball  
-seriesid=`581006` titleid=`2186650` id=`AWjyVXZRAScUIg8XxdOH` mediaid=`596ffacb60795401af5fffdf6d1a3213ee6bb519`  
-_A CIA agent will do anything to protect his homeland and family._  
-<a href="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541512565-americandad_1301_air_cid-3VJV7.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541512565-americandad_1301_air_cid-3VJV7.jpg" height="144px" /></a>
-### 2186651
-**American Dad S14E02 - I Am The Jeans: The Gina Lavetti Story**  
-TV-14-DLV 🔓 21:02  
-⌛ December 28, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/i-am-the-jeans-the-gina-lavetti-story  
-seriesid=`581006` titleid=`2186651` id=`AWjyUKXnHl5gR6828yeL` mediaid=`a295465726db5a96b4c3e6f3ce151fbf0a9539b1`  
-_A CIA agent will do anything to protect his homeland and family._  
-<a href="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541513204-americandad_1302_air_cid-3VW4F.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541513204-americandad_1302_air_cid-3VW4F.jpg" height="144px" /></a>
-### 2186654
-**American Dad S14E05 - Jeff and the Dank Ass Weed Factory**  
-TV-14-DLV 🔓 21:02  
-⌛ December 28, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/jeff-and-the-dank-ass-weed-factory  
-seriesid=`581006` titleid=`2186654` id=`AXHhHOCBC8QgH-t19Irb` mediaid=`022551a4b3c53d8870bea9672d2dbf06cb59f0c3`  
-_A CIA agent will do anything to protect his homeland and family._  
-<a href="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541514515-americandad_1305_air_cid-3W4MY.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541514515-americandad_1305_air_cid-3W4MY.jpg" height="144px" /></a>
-### 2186655
-**American Dad S14E06 - Lost Boys**  
-TV-14-DLSV 🔓 21:03  
-⌛ December 28, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/lost-boys  
-seriesid=`581006` titleid=`2186655` id=`AXHljrNBC8QgH-t19ItW` mediaid=`9ec06bb7e290f7458fd4d051664fa2ab4d4eeeca`  
-_Roger breaks up Steve's friendship with Snot, Barry & Toshi. Jeff realizes he has a flair for house flipping and gets Stan, Francine and Hayley involved._  
-<a href="https://media.cdn.adultswim.com/uploads/20200505/thumbnails/2_20551157419-americandad_1306_air_cid-3WG5F.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200505/thumbnails/2_20551157419-americandad_1306_air_cid-3WG5F.jpg" height="144px" /></a>
-### 2186653
-**American Dad S14E04 - Rabbit Ears**  
-TV-14-L 🔓 21:02  
-⌛ December 28, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/rabbit-ears  
-seriesid=`581006` titleid=`2186653` id=`AWlKnTxTHl5gR6828yqj` mediaid=`8c82fe0846f1bf0ef9182a0f0f16c9352bde8b8f`  
-_A CIA agent will do anything to protect his homeland and family._  
-<a href="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541514235-americandad_1304_air_cid-3W0VV.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541514235-americandad_1304_air_cid-3W0VV.jpg" height="144px" /></a>
-### 2186656
-**American Dad S14E07 - Shark?!**  
-TV-14-DLSV 🔓 21:02  
-⌛ December 28, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/shark  
-seriesid=`581006` titleid=`2186656` id=`AXJvyubqC8QgH-t19Jcm` mediaid=`b82b40cdacf62517a95ec85e2d2fd35f7526d809`  
-_Stan has Roger pretend to be a shark to help Steve overcome his fears. Hayley's friend Danuta becomes romantically interested in Klaus._  
-<a href="https://media.cdn.adultswim.com/uploads/20200720/thumbnails/2_207201324519-americandad_1307_air_cid-3WPDR.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200720/thumbnails/2_207201324519-americandad_1307_air_cid-3WPDR.jpg" height="144px" /></a>
-### 2186652
-**American Dad S14E03 - Stan & Francine & Connie & Ted**  
-TV-14-DLSV 🔓 21:02  
-⌛ December 28, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/stan-francine-connie-ted  
-seriesid=`581006` titleid=`2186652` id=`AWjyT5XbAScUIg8XxdOE` mediaid=`5fa6fc2b56f1f6cb2eaa2c01406cb0f8f8822215`  
-_A CIA agent will do anything to protect his homeland and family._  
-<a href="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541513557-americandad_1303_air_cid-3VY0N.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200504/thumbnails/2_20541513557-americandad_1303_air_cid-3VY0N.jpg" height="144px" /></a>
-### 2069575
-**American Dad S13E22 - The Future Is Borax**  
-TV-14-DLSV 🔓 21:03  
-⌛ December 28, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/the-future-is-borax  
-seriesid=`581006` titleid=`2069575` id=`AWqX3a3lCorLtcgflqRB` mediaid=`6e26c8daf7d49d29a673bfd4352ec91a7b6429b4`  
-_While trying to rekindle their marriage, Stan and Francine get trapped on a hot air balloon. The rest of the family wins a jingle writing contest._  
-<a href="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_207141510477-americandad_1222_air_cid-3VF64.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_207141510477-americandad_1222_air_cid-3VF64.jpg" height="144px" /></a>
-### 2186658
-**American Dad S14E09 - The Hall Monitor and the Lunch Lady**  
-TV-14-DLV 🔓 21:03  
-⌛ December 28, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/the-hall-monitor-and-the-lunch-lady  
-seriesid=`581006` titleid=`2186658` id=`AXJvzECkRs3h4hI_X383` mediaid=`6490a2bd27fa15fc083144e6e78af56d354415a2`  
-_Steve goes undercover as a school hall monitor. Roger and Stan go catatonic after witnessing a grisly escalator accident._  
-<a href="https://media.cdn.adultswim.com/uploads/20200707/thumbnails/2_20771216588-americandad_1309_air_cid-3WXYC.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200707/thumbnails/2_20771216588-americandad_1309_air_cid-3WXYC.jpg" height="144px" /></a>
-### 2186657
-**American Dad S14E08 - The Long March**  
-TV-14-DLV 🔓 21:01  
-⌛ December 28, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/the-long-march  
-seriesid=`581006` titleid=`2186657` id=`AXJvy6jiC8QgH-t19Jcn` mediaid=`58d5ae9982255d867f617bec19a6affe31c888db`  
-_Hayley and Jeff move into a van and start living life on the open road. Francine and Steve are haunted by a rideshare driver that they rated poorly._  
-<a href="https://media.cdn.adultswim.com/uploads/20200720/thumbnails/2_207201325408-americandad_1308_air_cid-3X0D3.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200720/thumbnails/2_207201325408-americandad_1308_air_cid-3X0D3.jpg" height="144px" /></a>
-### 2438926
-**Bob's Burgers S09E10 - Better Off Sled**  
- 🔒 21:21  
-⌛ January 4, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/better-off-sled  
-seriesid=`2003422` titleid=`2438926` id=`AYsU4CVun_kciGPPrC3i` mediaid=`ccfe608cf8f1b0d4b30716a5a4c5d726eaeb30a9`  
-_It's all fun and games until the Belchers lose their sledding turf._  
-<a href="https://media.cdn.adultswim.com/uploads/20231211/thumbnails/2_2312111353481-Screenshot2023-12-11at1.49.00PM.png"><img src="https://media.cdn.adultswim.com/uploads/20231211/thumbnails/2_2312111353481-Screenshot2023-12-11at1.49.00PM.png" height="144px" /></a>
-### 2573163
-**Smalls S07E07 - Chips**  
-TV-MA-LV 🔒 11:13  
-⌛ January 11, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/smalls/chips  
-seriesid=`2326791` titleid=`2573163` id=`AZsWrdlCNi2EYjVB1WCK` mediaid=`dde88715fc1821fddb3a26ea366003d6b2f30f3b`  
-_Chip is a go-getting woman with a range of eclectic goals and a penchant for extreme violence. She rides a motorcycle._  
-### 2573164
-**Smalls S07E08 - Munch Rexford**  
-TV-MA-V 🔒 10:56  
-⌛ January 12, 2026 at 00:14:00 EST  
-https://www.adultswim.com/videos/smalls/munch-rexford  
-seriesid=`2326791` titleid=`2573164` id=`AZsWrXm_Ni2EYjVB1WCJ` mediaid=`f3270bd955d9dc5f70dffe8f8a2c120696b7693d`  
-_Ever since a childhood dog-bite, Munch Rexford has been on a quest to kill one of every animal on earth._  
+### 2342104
+**American Dad S17E15 - You Are Here**  
+TV-14-DLS 🔒 21:06  
+⌛ December 29, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/you-are-here  
+seriesid=`581006` titleid=`2342104` id=`AYX1FDz74k01GlbfzrYP` mediaid=`9f772d3f63109d62598eafc832aa05530ddce264`  
+_Roger and Steve try to save a dying mall._  
+<a href="https://media.cdn.adultswim.com/uploads/20230216/thumbnails/2_23216105923-YouAreHere.png"><img src="https://media.cdn.adultswim.com/uploads/20230216/thumbnails/2_23216105923-YouAreHere.png" height="144px" /></a>
+### 2438948
+**Bob's Burgers S10E10 - Have Yourself a Maily Linda Christmas**  
+TV-PG-L 🔒 21:29  
+⌛ January 5, 2026 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/have-yourself-a-maily-linda-christmas  
+seriesid=`2003422` titleid=`2438948` id=`AYxrl8zCn_kciGPPrDye` mediaid=`628abc68ac7157096c1c0beade4f4e482a68409c`  
+_Linda saves Christmas._  
+<a href="https://media.cdn.adultswim.com/uploads/20231218/thumbnails/2_231218115408-Untitled.png"><img src="https://media.cdn.adultswim.com/uploads/20231218/thumbnails/2_231218115408-Untitled.png" height="144px" /></a>
 ## Video removed
 ### Summary
 2003422 Bob's Burgers: 1  
-2566519 Dragon Ball DAIMA: 1  
-581006 American Dad: 11  
-608007 One Piece: 1  
-### 2569636
-**Bob's Burgers S15E17 - Wild Steal-Ions**  
-TV-PG-L 🔓 00:00  
-⌛ December 21, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/wild-steal-ions  
-seriesid=`2003422` titleid=`2569636` id=`AZmW47AkyEF1_1NDe6m9` mediaid=`33769d911467eb6bed2c4a844f24469eaa0cedbb`  
-_Tina's lost book of semi-erotic Horse-torical Fiction lands in the hands of a mysterious stranger with nefarious intentions._  
-<a href="https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_25929151237-BobsBurgers_1517.jpg"><img src="https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_25929151237-BobsBurgers_1517.jpg" height="144px" /></a>
-### 2566536
-**Dragon Ball DAIMA S01E17 - Gomah**  
-TV-Y7-FV 🔓 22:26  
-⌛ December 21, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/dragon-ball-daima/gomah  
-seriesid=`2566519` titleid=`2566536` id=`AZgJ9e3vITxXrw59dM27` mediaid=`f4ef4d98287874d09b882c2d65bb9ca169675811`  
-_Goku's battle takes a sudden turn as a transformed King Gomah emerges, threatening both sides._  
-<a href="https://media.cdn.adultswim.com/uploads/20250714/thumbnails/2_257141322405-DBDaima_S1_17.png"><img src="https://media.cdn.adultswim.com/uploads/20250714/thumbnails/2_257141322405-DBDaima_S1_17.png" height="144px" /></a>
-### 2069567
-**American Dad S13E14 - One-Woman Swole**  
-TV-14-DLSV 🔓 21:13  
-⌛ December 21, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/one-woman-swole  
-seriesid=`581006` titleid=`2069567` id=`AWT2gyOXTdxzjxdCnOX6` mediaid=`9c370cdb6f87dad064899b75c01cbcd11c84b6e0`  
-_After her family accuses her of being a quitter, Francine becomes a bodybuilder. Klaus claims to have invented the high five._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15501614167832.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15501614167832.jpg" height="144px" /></a>
-### 2069569
-**American Dad S13E16 - Persona Assistant**  
-TV-14-DLSV 🔓 21:03  
-⌛ December 21, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/persona-assistant  
-seriesid=`581006` titleid=`2069569` id=`AWUlXVF1h5enQuYyHJfG` mediaid=`4681e6e9336fa9788c2fdd25d3ee1177feb90f48`  
-_In American Dad's 250th episode, Roger has a medical emergency and Stan has to take over his personas._  
-<a href="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_20714151340-americandad_1216_air_cid-3TFTJ.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_20714151340-americandad_1216_air_cid-3TFTJ.jpg" height="144px" /></a>
-### 2069570
-**American Dad S13E17 - The Legend of Old Ulysses**  
-TV-14-DLV 🔓 21:03  
-⌛ December 21, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/the-legend-of-old-ulysses  
-seriesid=`581006` titleid=`2069570` id=`AWVZA5A9h5enQuYyHe9E` mediaid=`1848c91f3c31c2e5cd68c3e7db4029e0b65a6b88`  
-_The family visits Possum Lake. Roger learns to ride a bike._  
-<a href="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_20714150345-americandad_1217_air_cid-3TPTW.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_20714150345-americandad_1217_air_cid-3TPTW.jpg" height="144px" /></a>
-### 2069568
-**American Dad S13E15 - Flavortown**  
-TV-14-DLS 🔓 21:14  
-⌛ December 21, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/flavortown  
-seriesid=`581006` titleid=`2069568` id=`AWVZA_KPh5enQuYyHe9I` mediaid=`ceb984b8952cb51ed21899f512ff35923dcb7790`  
-_While in search of an identity, Jeff starts hanging out with Stan's favorite celebrity chef. Klaus gets an exciting new outfit._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15508508195033.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15508508195033.jpg" height="144px" /></a>
-### 2069573
-**American Dad S13E20 - Funnyish Games**  
-TV-14-DLV 🔓 21:03  
-⌛ December 21, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/funnyish-games  
-seriesid=`581006` titleid=`2069573` id=`AWW0uqDNh5enQuYyIFVG` mediaid=`c81520ce79be1171f04e86b25d87dc708fe1e67c`  
-_Francine becomes obsessed with home security after a break in. Steve tries Hayley's laidback approach to school work._  
-<a href="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_20714154368-americandad_1220_air_cid-3V3MX.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_20714154368-americandad_1220_air_cid-3V3MX.jpg" height="144px" /></a>
-### 2069572
-**American Dad S13E19 - Top of the Steve**  
-TV-14-DL 🔓 21:03  
-⌛ December 21, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/top-of-the-steve  
-seriesid=`581006` titleid=`2069572` id=`AWW0uwTNh5enQuYyIFVK` mediaid=`81ba54082b451dc30127c3861f95bebc4f8cc42b`  
-_Steve goes to boarding school not realizing it's an all-girls school and a parade of sitcom characters arrive to take his place at home._  
-<a href="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_207141457360-americandad_1219_air_cid-3TVTG.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_207141457360-americandad_1219_air_cid-3TVTG.jpg" height="144px" /></a>
-### 2069574
-**American Dad S13E21 - Fleabiscuit**  
-TV-14-DLSV 🔓 21:03  
-⌛ December 21, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/fleabiscuit  
-seriesid=`581006` titleid=`2069574` id=`AWW1ThNNh5enQuYyIFlW` mediaid=`c5d34624f38a11eeefa5b0cf1657725cca48fe85`  
-_Hayley feels left behind after Jeff becomes a star dog racing coach. Steve takes advantage of an empty house._  
-<a href="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_207141510121-americandad_1221_air_cid-3V79V.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_207141510121-americandad_1221_air_cid-3V79V.jpg" height="144px" /></a>
-### 2069571
-**American Dad S13E18 - Twinanigans**  
-TV-14-DLSV 🔓 21:03  
-⌛ December 21, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/twinanigans  
-seriesid=`581006` titleid=`2069571` id=`AWWGtzvUh5enQuYyHyPD` mediaid=`fd9e9b5cd7d6f83d6238f55caefaf33d7a92148c`  
-_Steve and Roger restart their career as a twin brother acting duo. The family becomes addicted to a novelty gift shop._  
-<a href="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_207141459105-americandad_1218_air_cid-3TRJY.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_207141459105-americandad_1218_air_cid-3TRJY.jpg" height="144px" /></a>
-### 2069565
-**American Dad S13E12 - OreTron Trail**  
-TV-14-DLV 🔓 21:03  
-⌛ December 21, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/ore-tron-trail  
-seriesid=`581006` titleid=`2069565` id=`AWqxHynKCorLtcgflqW9` mediaid=`8de704e6174b2e88144012149e47b35af5df0c05`  
-_Roger becomes worried about outliving the family. Klaus opens a convenience store in the attic._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155836385145518.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155836385145518.jpg" height="144px" /></a>
-### 2069566
-**American Dad S13E13 - Mean Francine**  
-TV-14-DLV 🔓 21:03  
-⌛ December 21, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/mean-francine  
-seriesid=`581006` titleid=`2069566` id=`AWrGc2RCCorLtcgflqgM` mediaid=`1be2e6cab939c9cadb8a0eeaaae7dc84e7a83f99`  
-_Francine falls in with a group of tough girls after becoming the new school guidance counselor. Jeff panics when he loses his hat._  
-<a href="https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_207171727483-americandad_1213_air_cid-3G163.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200717/thumbnails/2_207171727483-americandad_1213_air_cid-3G163.jpg" height="144px" /></a>
-### 2342088
-**American Dad S17E02 - Dressed Down**  
-TV-14-DLSV 🔓 21:03  
-⌛ December 21, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/dressed-down  
-seriesid=`581006` titleid=`2342088` id=`AYXAUs-64k01GlbfzrYA` mediaid=`9e096cdbe89ed9e0b0c2eb5f78cfa1bf7f1e7179`  
-_When Stan doesn't feel confident in anything but his suits, Roger assumes a fashion designer persona to craft him a life-changing new wardrobe. Hayley and Jeff raise chickens in the back yard._  
-<a href="https://media.cdn.adultswim.com/uploads/20230119/thumbnails/2_23119115725-DressedDowntiny.png"><img src="https://media.cdn.adultswim.com/uploads/20230119/thumbnails/2_23119115725-DressedDowntiny.png" height="144px" /></a>
-### 2550996
-**One Piece S18E02 - An Underground Maze! Luffy vs. the Tram Human!**  
-TV-PG-LV 🔓 21:30  
-⌛ December 21, 2025 at 23:59:00 EST  
-https://www.adultswim.com/videos/one-piece/an-underground-maze-luffy-vs-the-tram-human  
-seriesid=`608007` titleid=`2550996` id=`AZnOYzJ9s_ErlMTJpQqT` mediaid=`1bdc87d10721f61e3ec9f2c90b7937fd86bb2436`  
-_Luffy and crew fall into a pit, uncovering a sinister secret beneath the city's surface._  
-<a href="https://media.cdn.adultswim.com/uploads/20251010/thumbnails/2_2510101434106-OP748_S18ep2.jpg"><img src="https://media.cdn.adultswim.com/uploads/20251010/thumbnails/2_2510101434106-OP748_S18ep2.jpg" height="144px" /></a>
+2022095 Black Jesus: 1  
+581006 American Dad: 1  
+608360 Robot Chicken: 10  
+680051 Delocated: 1  
+### 2569575
+**Bob's Burgers S13E10 - The Plight Before Christmas**  
+TV-PG-L 🔒 00:00  
+⌛ December 22, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/the-plight-before-christmas  
+seriesid=`2003422` titleid=`2569575` id=`AZldgnKes_ErlMTJpQnq` mediaid=`8b4c6a538b7ec5376d1f178af1c3343dbe60e110`  
+_Bob and Linda try to attend all three kids' holiday performances at the same time._  
+<a href="https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181145515-BobsBurgers_1310.jpg"><img src="https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181145515-BobsBurgers_1310.jpg" height="144px" /></a>
+### 2031274
+**Black Jesus S01E10 - WTFWBJD**  
+TV-MA-L 🔒 21:32  
+⌛ December 22, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/black-jesus/wtfwbjd  
+seriesid=`2022095` titleid=`2031274` id=`uUrsuzhuTYGKtEqRJKt37g` mediaid=`4bc743d251b84a1aedcdede1c3242fcc9a02940a`  
+_While Jesus is on the run, our gang is left to ponder what would Black Jesus do in their shoes._  
+<a href="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226179544-blackjesus_010_dup-20140822.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200226/thumbnails/2_20226179544-blackjesus_010_dup-20140822.jpg" height="144px" /></a>
+### 2342089
+**American Dad S17E03 - The Book of Fischer**  
+TV-14-DLSV 🔒 21:03  
+⌛ December 22, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/the-book-of-fischer  
+seriesid=`581006` titleid=`2342089` id=`AYXAVFU9uLQD-MTtYfm-` mediaid=`1bab21bb73c36a629ee2366d46ab3cc2a6ff7a93`  
+_Stan takes Steve to his favorite barbershop to hang with his crew; Jeff starts journaling to help with his bad memory._  
+<a href="https://media.cdn.adultswim.com/uploads/20230119/thumbnails/2_231191156354-BookOfFischertiny.png"><img src="https://media.cdn.adultswim.com/uploads/20230119/thumbnails/2_231191156354-BookOfFischertiny.png" height="144px" /></a>
+### 678390
+**Robot Chicken S99E?? - Robot Chicken's Half- Assed Christmas Special**  
+TV-MA 🔓 11:39  
+⌛ December 22, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/robot-chicken/robot-chickens-half-assed-christmas-special  
+seriesid=`608360` titleid=`678390` id=`1T43Z9mcQj-Q8hO1k-fjvw` mediaid=`7c1c9f78cc589aa118f7995907da589c0269bd10`  
+_...Christmas Special: Hermey the Elf sucks at being a dentist. All Sally wants is a love note, but for Linus it's Misery. A nerd is stuffed into a locker and into the magical and confusing land of Narnia._  
+<a href="https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411234236-robotchicken_050.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200401/thumbnails/2_20411234236-robotchicken_050.jpg" height="144px" /></a>
+### 826672
+**Robot Chicken S99E?? - Robot Chicken's DP Christmas Special**  
+TV-MA 🔓 11:29  
+⌛ December 22, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/robot-chicken/robot-chickens-dp-christmas-special  
+seriesid=`608360` titleid=`826672` id=`KdQgjK2zRx-hxa7oKKCkog` mediaid=`52a5a78f535dbd1dc526dd1901de1449d4cc264c`  
+_Come celebrate the holidays with Robot Chicken and see what the very first Christmas was like! Find out what the creators imagine Batman and Robin think about their Christmas jingle - hint: don't sing it if you value your life. And the age-old question is finally answered...who's faster: Superman or Santa Claus._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461148192-robotchicken_086_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461148192-robotchicken_086_BIM.jpg" height="144px" /></a>
+### 2020467
+**Robot Chicken S07E12 - Noidstrom Rack**  
+TV-MA 🔓 11:16  
+⌛ December 22, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/robot-chicken/noidstrom-rack  
+seriesid=`608360` titleid=`2020467` id=`O8edldILRwuJxYY4gNHoGg` mediaid=`f23bd25a2c7f0767e55bd695eb342e7580f86c0b`  
+_Man-E-Faces gets a shot at stardom from the minds behind Robot Chicken, the Starcom boys show NASA how it's done, we get a look at what goes on behind the scenes of Medieval Times when the costumes come off, and the consequences of wishing on a Zoltar machine._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046126407-robotchicken_132_dup-20140617.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046126407-robotchicken_132_dup-20140617.jpg" height="144px" /></a>
+### 2072671
+**Robot Chicken S08E04 - Cheese Puff Mountain**  
+TV-MA 🔒 11:12  
+⌛ December 22, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/robot-chicken/cheese-puff-mountain  
+seriesid=`608360` titleid=`2072671` id=`QYMWkljoS7WfxN3LGxUPnA` mediaid=`5de611dbaec00996122a422c796dc86e6fcb5581`  
+_The Robot Chicken writers - and the Gargoyles - meet their ultimate foe: Pigeons. Naked Captain Picard wins it all! Can the Paw Patrol rescue themselves from the ultimate terror? The Animaniacs get sex-educational._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461249211-robotchicken_804_dup-20151112.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461249211-robotchicken_804_dup-20151112.jpg" height="144px" /></a>
+### 2020475
+**Robot Chicken S99E?? - The Robot Chicken Lots of Holidays But Don't Worry Christmas is Still in There Too So Pull the Stick Out of Your Ass Fox News Special**  
+TV-MA 🔓 11:19  
+⌛ December 22, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/robot-chicken/the-robot-chicken-lots-of-holidays-but-dont-worry-christmas-is-still-in-there-too-so-pull-the-stick-out-of-your-ass-fox-news-special  
+seriesid=`608360` titleid=`2020475` id=`UuO_8Ka5Q4KAEH_6tvoyyQ` mediaid=`f2d2c0059df42af2c7212379fa22b010690b21f3`  
+_The wacky Robot Chicken writers take on every holiday that ever existed in this holiday special! We see what Mother's Day is like for the Disney characters, a talented Jewish boy raps about gelt, a young Pilgrim man has a special surprise for his family on the first Thanksgiving, and Santa has a little trouble with his neighbor up at the North Pole._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461212401-robotchicken_717_holidays_dup-20141023.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461212401-robotchicken_717_holidays_dup-20141023.jpg" height="144px" /></a>
+### 2072670
+**Robot Chicken S08E03 - Zeb and Kevin Erotic Hot Tub Canvas**  
+TV-14-DLSV 🔒 11:09  
+⌛ December 22, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/robot-chicken/zeb-and-kevin-erotic-hot-tub-canvas  
+seriesid=`608360` titleid=`2072670` id=`Uv595fPsTb-L80VDyc0NSQ` mediaid=`ba77bd62d2bd814b39a29def01e8b97f8a33d408`  
+_How far will Pluto go to get away from his Dwarf Planet friends? There isn't an American Girl doll for everybody. Just like the creators of Robot Chicken have done in the past, The Wild Thornberrys have to get extremely wild to stay on the air._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461248576-robotchicken_803_dup-20151103.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461248576-robotchicken_803_dup-20151103.jpg" height="144px" /></a>
+### 2072672
+**Robot Chicken S08E05 - Cake Pillow**  
+TV-MA 🔒 11:14  
+⌛ December 22, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/robot-chicken/cake-pillow  
+seriesid=`608360` titleid=`2072672` id=`gTPiROD9R8K9cSxeFkazIA` mediaid=`cfd42430690aa19d301c68af8a5a8508362dc312`  
+_Take a trip with the Robot Chicken team when the Magic School Bus goes on its final adventure! The circle of life sends the Wonder Pets through a loop! Teenage Archie Andrews finally picks a girlfriend…to smash._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461249522-robotchicken_805_dup-20151117.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461249522-robotchicken_805_dup-20151117.jpg" height="144px" /></a>
+### 631470
+**Robot Chicken S99E?? - Robot Chicken Christmas**  
+TV-MA 🔓 11:02  
+⌛ December 22, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/robot-chicken/robot-chicken-christmas  
+seriesid=`608360` titleid=`631470` id=`llEiMb8oSIKuiyRukQcn8g` mediaid=`e27abdc6b719cf181684ba5c9abc6f2fde59491a`  
+_This logline, much like us, is on vacation.  Have a happy holiday!_  
+<a href="https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_203241013368-robotchicken_xmas2005.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200324/thumbnails/2_203241013368-robotchicken_xmas2005.jpg" height="144px" /></a>
+### 2072673
+**Robot Chicken S08E06 - Zero Vegetables**  
+TV-MA 🔒 11:15  
+⌛ December 22, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/robot-chicken/zero-vegetables  
+seriesid=`608360` titleid=`2072673` id=`m76LgIg8QSKf2xkn7PqQaw` mediaid=`7fdc23f460fc9f00359e89e0c67aad8a0ef4a9a9`  
+_The RC writers wonder whose job was it to walk King Kong. Michael Bay reveals the secrets to Transformers 5. Uncle Pennybags has a monopoly on S&M. Bitch Pudding improves a classic._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461250284-robotchicken_806_dup-20151201.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461250284-robotchicken_806_dup-20151201.jpg" height="144px" /></a>
+### 2072669
+**Robot Chicken S08E02 - Ants on a Hamburger**  
+TV-14-DLSV 🔒 11:04  
+⌛ December 22, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/robot-chicken/ants-on-a-hamburger  
+seriesid=`608360` titleid=`2072669` id=`mOPbpU8MSRiHPdV3kc_QwA` mediaid=`32ad759941af065687d4fbde8265adbb6010fd07`  
+_The Robot Chicken writers find out what happens when the girl from "The Ring" realizes videotape is a dead technology. Fonzie's coolness goes too far on an un-happy day.  The Robot Chicken Nerd gets lost in The CW._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461248214-robotchicken_802_dup-20151027.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461248214-robotchicken_802_dup-20151027.jpg" height="144px" /></a>
+### 878910
+**Delocated S03E03 - Midnight Munchingtons**  
+TV-14-DLS 🔒 21:57  
+⌛ December 22, 2025 at 23:59:00 EST  
+https://www.adultswim.com/videos/delocated/midnight-munchingtons  
+seriesid=`680051` titleid=`878910` id=`oUQJ0IioR6-WHYWgwdM3QA` mediaid=`44d2abf55eef0d8d66b5f3eae3d5281c0d036384`  
+_"Jon" discovers he has an amazing talent. The Wang Cho's press "Jon" for more money._  
+<a href="https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331446592-delocated_303.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_20331446592-delocated_303.jpg" height="144px" /></a>

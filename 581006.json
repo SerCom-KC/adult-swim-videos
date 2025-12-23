@@ -680,6 +680,52 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1767070740,
+        "tms_id": "EP007164450428",
+        "description": "Roger and Steve try to save a dying mall.",
+        "title_suggest": {
+            "input": [
+                "You Are Here",
+                "Are Here",
+                "Here"
+            ]
+        },
+        "title": "You Are Here",
+        "type": "episode",
+        "expiration_date": 1760932740,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1266.3651,
+        "episode_number": "15",
+        "original_air_date": 1667791800,
+        "auth_launch_date": 1766466000,
+        "clip_order": null,
+        "airing_id": "RADS1012132500074911",
+        "media_id": "9f772d3f63109d62598eafc832aa05530ddce264",
+        "modified": 1766213605,
+        "slug": "you-are-here",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230216/thumbnails/1_23216105923-YouAreHere.png",
+        "created": 1674854022,
+        "title_id": "2342104",
+        "season_number": "17",
+        "tv_rating": "tv-14-dls",
+        "published": 1766213605,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1760328000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230216/thumbnails/2_23216105923-YouAreHere.png",
+        "id": "AYX1FDz74k01GlbfzrYP",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1766811540,
         "tms_id": "EP007164450425",
         "description": "Francine's newfound friendship with a frog brings excitement to the whole Smith household. Unfortunately, it drives their neighbor, Greg, crazy.",
@@ -770,53 +816,6 @@
         "launch_date": 1760328000,
         "poster": "https://media.cdn.adultswim.com/uploads/20230215/thumbnails/2_232151549538-Smooshedtiny.png",
         "id": "AYX1Hhvo4k01GlbfzrYT",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1766465940,
-        "tms_id": "EP007164450413",
-        "description": "Stan takes Steve to his favorite barbershop to hang with his crew; Jeff starts journaling to help with his bad memory.",
-        "title_suggest": {
-            "input": [
-                "The Book of Fischer",
-                "Book of Fischer",
-                "of Fischer",
-                "Fischer"
-            ]
-        },
-        "title": "The Book of Fischer",
-        "type": "episode",
-        "expiration_date": 1760327940,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1263.162,
-        "episode_number": "3",
-        "original_air_date": 1644809400,
-        "auth_launch_date": 1765861200,
-        "clip_order": null,
-        "airing_id": "RADS1012092500073684",
-        "media_id": "1bab21bb73c36a629ee2366d46ab3cc2a6ff7a93",
-        "modified": 1765637747,
-        "slug": "the-book-of-fischer",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230119/thumbnails/1_231191156354-BookOfFischertiny.png",
-        "created": 1673969030,
-        "title_id": "2342089",
-        "season_number": "17",
-        "tv_rating": "tv-14-dlsv",
-        "published": 1765637747,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1759723200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20230119/thumbnails/2_231191156354-BookOfFischertiny.png",
-        "id": "AYXAVFU9uLQD-MTtYfm-",
         "auth": true
     },
     {
