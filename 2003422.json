@@ -342,6 +342,52 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1767848340,
+        "tms_id": "",
+        "description": "The kids have a Christmas mission.",
+        "title_suggest": {
+            "input": [
+                "Gene's Christmas Break",
+                "Christmas Break",
+                "Break"
+            ]
+        },
+        "title": "Gene's Christmas Break",
+        "type": "episode",
+        "expiration_date": 1748231940,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1291.8572,
+        "episode_number": "10",
+        "original_air_date": 1701140400,
+        "auth_launch_date": 1766638800,
+        "clip_order": null,
+        "airing_id": "RADS1012132500075061",
+        "media_id": "df9ccbd8ce61ba2d7c6f7ca6ddf57bbaa55d806e",
+        "modified": 1766386450,
+        "slug": "genes-christmas-break",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231218/thumbnails/1_2312181152390-Screenshot2023-12-18at11.52.07AM.png",
+        "created": 1702612205,
+        "title_id": "2438992",
+        "season_number": "12",
+        "tv_rating": "tv-pg-l",
+        "published": 1766386450,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1747627200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20231218/thumbnails/2_2312181152390-Screenshot2023-12-18at11.52.07AM.png",
+        "id": "AYxrmH9an_kciGPPrDyg",
+        "auth": true
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1767070740,
@@ -388,56 +434,5 @@
         "launch_date": 1675054800,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/nice-capades/bobsburgers_518_air_cid-2X5HJ.jpg",
         "cma_id": "1432573"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1766638740,
-        "tms_id": "EP012792980032",
-        "description": "Bob inherits a storage unit, and the whole family imagines it's filled with treasures. Instead, they find a man named Chet living inside. Linda, feeling the holiday spirit, persuades Bob to invite Chet to stay at the restaurant. It's discovered that this stranger, who claims he was once a mannequin, has a gift for intricate and living window displays. With the restaurant decked out in holiday cheer, the Christmas spirit is in the air.",
-        "title_suggest": {
-            "input": [
-                "Bob Rest Ye Merry Gentle-Mannequins",
-                "Rest Ye Merry Gentle-Mannequins",
-                "Ye Merry Gentle-Mannequins",
-                "Merry Gentle-Mannequins",
-                "Gentle-Mannequins"
-            ]
-        },
-        "expiration_date": 1662955140,
-        "title": "Bob Rest Ye Merry Gentle-Mannequins",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1294.1929,
-        "episode_number": "9",
-        "original_air_date": 1387769400,
-        "clip_order": null,
-        "auth_launch_date": 1765429200,
-        "modified": 1764969559,
-        "media_id": "d3579fc685c542e82e663103bcf38e4ad403df3e",
-        "airing_id": "RADS1012052500073098",
-        "id": "rb0V_DCfQ56EGAfl6B9Fkg",
-        "slug": "bob-rest-ye-merry-gentle-mannequins",
-        "views": 2,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152277436340319.jpg",
-        "created": 1403210511,
-        "season_number": "3",
-        "title_id": "2003520",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1764969559,
-        "first_published": 1413170426,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1662350400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152277436340319.jpg",
-        "cma_id": "1451853"
     }
 ]
