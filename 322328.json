@@ -1503,7 +1503,7 @@
         "auth": true
     },
     {
-        "auth_expiration_date": null,
+        "auth_expiration_date": 1767761940,
         "tms_id": "EP001022180096",
         "description": "Space Ghost is the target of a lawsuit filed against him by former co-stars Jan and Jace. The twins employ the services of the infamous Dr. Nightmare to represent their case. Space Ghost acquires attorney Greta Van Susteren.",
         "title_suggest": {
@@ -1524,11 +1524,11 @@
         "duration": 705.1378,
         "episode_number": "4",
         "original_air_date": "903756600",
-        "auth_launch_date": null,
+        "auth_launch_date": 1767157200,
         "clip_order": null,
-        "airing_id": "RADS1004302500033857",
+        "airing_id": "RADS1012272500076414",
         "media_id": "d7f0e678f8e4732dfacca8cc3110fbbe1fc34b07",
-        "modified": 1746036682,
+        "modified": 1766850294,
         "slug": "lawsuit",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_204201144245-sgc2c_9804_dst_cid-9139559.jpg",
@@ -1536,7 +1536,7 @@
         "season_number": "5",
         "title_id": "325268",
         "tv_rating": "tv-pg",
-        "published": 1746036682,
+        "published": 1766850294,
         "tags": [
             "sgc2c space ghost coast to coast episode 60 lawsuit jan jace lawyer dr nightmare great van susteren"
         ],
@@ -3307,7 +3307,7 @@
         },
         "type": "episode",
         "title": "Toast",
-        "expiration_date": 1766552340,
+        "expiration_date": 1814932740,
         "platforms": [
             "web",
             "mobile",
@@ -3319,8 +3319,8 @@
         "original_air_date": 903151800,
         "clip_order": null,
         "auth_launch_date": 1766552400,
-        "modified": 1766299206,
-        "airing_id": "RADS1001192500016655",
+        "modified": 1766850280,
+        "airing_id": "RADS1012272500076412",
         "media_id": "31be02e90c72f93f5e8616bb5ecf46e910d8ffc7",
         "id": "ldBInB7NQ9CVft_7AgsRpQ",
         "slug": "toast",
@@ -3333,7 +3333,7 @@
         "tv_rating": "tv-pg",
         "active": false,
         "ott_expiration_date": null,
-        "published": 1766299206,
+        "published": 1766850280,
         "tags": [
             "sgc2c space ghost coast to coast episode 59 toast merill markoe adam corolla"
         ],
@@ -3341,7 +3341,7 @@
         "collection_title": "Space Ghost Coast to Coast",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1737349200,
+        "launch_date": 1767157200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201143523-sgc2c_9803_air_cid-9129062.jpg",
         "cma_id": ""
     },
