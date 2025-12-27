@@ -1,49 +1,5 @@
 [
     {
-        "auth_expiration_date": 1766811540,
-        "tms_id": "",
-        "description": "The only thing scarier than a killer beast is having to admit Eric was right.",
-        "title_suggest": {
-            "input": [
-                "Chupacabra"
-            ]
-        },
-        "title": "Chupacabra",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AZBvkmVYSaru9Cdsy7Cx",
-        "duration": 660.4932,
-        "episode_number": "9",
-        "original_air_date": 1722830400,
-        "auth_launch_date": 1763787600,
-        "clip_order": null,
-        "airing_id": "RADS1011172500069555",
-        "media_id": "7584599bb1e9e9385231680ae09b466c05a9409d",
-        "modified": 1763565203,
-        "slug": "chupacabra",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240815/thumbnails/1_24815145488-PSICOPS_SEASON1_EP109_SHOWSTILLS_IMAGE4_LEFTTORIGHT_KYDDFELIXXCLOSET.jpg",
-        "created": 1722443244,
-        "title_id": "2530052",
-        "season_number": "1",
-        "tv_rating": "tv-ma-lv",
-        "published": 1763565203,
-        "tags": [],
-        "collection_title": "Psi-Cops",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240815/thumbnails/2_24815145488-PSICOPS_SEASON1_EP109_SHOWSTILLS_IMAGE4_LEFTTORIGHT_KYDDFELIXXCLOSET.jpg",
-        "id": "AZEJniIDg6zBH7G86tg3",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1767416340,
         "tms_id": "",
         "description": "Easiest way to get aliens to abduct you? Post an ad online!",
@@ -219,6 +175,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20240826/thumbnails/2_248261520391-PSICOPS_SEASON1_EP113_SHOWSTILLS_IMAGE1_LEFTTORIGHT_KYDDCLEMENTINEBEDROOMSMOKE.jpg",
         "id": "AZFTBIFKSaru9Cdsy7mU",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1769835540,
+        "tms_id": "",
+        "description": "Provoking a witch is usually a bad idea. Unless it means you get to wear crop tops.",
+        "title_suggest": {
+            "input": [
+                "Old Witchy Hag",
+                "Witchy Hag",
+                "Hag"
+            ]
+        },
+        "title": "Old Witchy Hag",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZBvkmVYSaru9Cdsy7Cx",
+        "duration": 660.4598,
+        "episode_number": "14",
+        "original_air_date": 1724042700,
+        "auth_launch_date": 1766811600,
+        "clip_order": null,
+        "airing_id": "RADS1012132500075194",
+        "media_id": "ba103910617099c0f7b0ecb4050f1d1e3c476e9e",
+        "modified": 1766560119,
+        "slug": "old-witchy-hag",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240826/thumbnails/1_248261521511-PSICOPS_SEASON1_EP114_SHOWSTILLS_IMAGE1_LEFTTORIGHT_KYDDPEPEFELIXXCARDEATH.jpg",
+        "created": 1723674699,
+        "title_id": "2530065",
+        "season_number": "1",
+        "tv_rating": "tv-ma-v",
+        "published": 1766560119,
+        "tags": [],
+        "collection_title": "Psi-Cops",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240826/thumbnails/2_248261521511-PSICOPS_SEASON1_EP114_SHOWSTILLS_IMAGE1_LEFTTORIGHT_KYDDPEPEFELIXXCARDEATH.jpg",
+        "id": "AZFTBKUeSaru9Cdsy7mV",
         "auth": true
     }
 ]
