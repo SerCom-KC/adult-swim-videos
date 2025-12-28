@@ -488,54 +488,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1766897940,
-        "tms_id": "EP007164450427",
-        "description": "Roger is forced to confront himself after a series of accidents. Klaus and Jeff bond.",
-        "title_suggest": {
-            "input": [
-                "The Fast and the Spurious",
-                "Fast and the Spurious",
-                "and the Spurious",
-                "the Spurious",
-                "Spurious"
-            ]
-        },
-        "title": "The Fast and the Spurious",
-        "type": "episode",
-        "expiration_date": 1760932740,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1263.5289,
-        "episode_number": "13",
-        "original_air_date": 1665369000,
-        "auth_launch_date": 1766293200,
-        "clip_order": null,
-        "airing_id": "RADS1012122500074696",
-        "media_id": "5a89bb6e53c8a5a9306da7495627d644d47e16e0",
-        "modified": 1766040814,
-        "slug": "the-fast-and-the-spurious",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230215/thumbnails/1_232151549111-FastandSpurioustiny.png",
-        "created": 1674853650,
-        "title_id": "2342102",
-        "season_number": "17",
-        "tv_rating": "tv-14-dlsv",
-        "published": 1766040814,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1760328000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20230215/thumbnails/2_232151549111-FastandSpurioustiny.png",
-        "id": "AYX1DpDauLQD-MTtYfyR",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1766984340,
         "tms_id": "EP007164450423",
         "description": "Steve profiles Stan for an essay contest at school; Francine uses a porta john.",
@@ -774,53 +726,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1766897940,
-        "tms_id": "EP007164450426",
-        "description": "Steve goes on a class trip to Philadelphia, where he hopes to fall in love.",
-        "title_suggest": {
-            "input": [
-                "Smooshed: A Love Story",
-                "A Love Story",
-                "Love Story",
-                "Story"
-            ]
-        },
-        "title": "Smooshed: A Love Story",
-        "type": "episode",
-        "expiration_date": 1760932740,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1263.0952,
-        "episode_number": "12",
-        "original_air_date": 1664764200,
-        "auth_launch_date": 1766293200,
-        "clip_order": null,
-        "airing_id": "RADS1012122500074698",
-        "media_id": "a04fc69fbaadcceaee8b7f6e5ae9ff895a821f0f",
-        "modified": 1766039047,
-        "slug": "smooshed-a-love-story",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230215/thumbnails/1_232151549538-Smooshedtiny.png",
-        "created": 1674854669,
-        "title_id": "2342100",
-        "season_number": "17",
-        "tv_rating": "tv-14-dlsv",
-        "published": 1766039047,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1760328000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20230215/thumbnails/2_232151549538-Smooshedtiny.png",
-        "id": "AYX1Hhvo4k01GlbfzrYT",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1767243540,
         "tms_id": "EP007164450432",
         "description": "When Francine successfully grows a garden, it reminds Roger he knows a recipe for truly authentic jambalaya.",
@@ -997,6 +902,99 @@
         "launch_date": 1760932800,
         "poster": "https://media.cdn.adultswim.com/uploads/20230206/thumbnails/2_2326132800-Grounchtiny.png",
         "id": "AYYY3l0DuLQD-MTtYf7U",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1767502740,
+        "tms_id": "EP007164450438",
+        "description": "Hayley tries to help Roger write a book.",
+        "title_suggest": {
+            "input": [
+                "The Professor and the Coach",
+                "Professor and the Coach",
+                "and the Coach",
+                "the Coach",
+                "Coach"
+            ]
+        },
+        "title": "The Professor and the Coach",
+        "expiration_date": 1761537540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1263.0618,
+        "episode_number": "2",
+        "original_air_date": "1689822000",
+        "auth_launch_date": 1766898000,
+        "clip_order": null,
+        "airing_id": "RADS1012132500075212",
+        "media_id": "abeff3305989b8175405e31b49c1992401f1bbb2",
+        "modified": 1766678911,
+        "slug": "the-professor-and-the-coach",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240122/thumbnails/1_24122113887-Screenshot2024-01-22at11.36.23AM.png",
+        "created": 1688573469,
+        "season_number": "18",
+        "title_id": "2392752",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1766678911,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1760932800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240122/thumbnails/2_24122113887-Screenshot2024-01-22at11.36.23AM.png",
+        "id": "AYkm0mIaOz5CkuTcnwIr",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1767502740,
+        "tms_id": "EP007164450441",
+        "description": "Steve and Principal Lewis get caught in a dangerous situation at the school; the rest of the family makes an adorable new friend.",
+        "title_suggest": {
+            "input": [
+                "Viced Principal",
+                "Principal"
+            ]
+        },
+        "title": "Viced Principal",
+        "expiration_date": 1761537540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1262.6948,
+        "episode_number": "3",
+        "original_air_date": "1690426800",
+        "auth_launch_date": 1766898000,
+        "clip_order": null,
+        "airing_id": "RADS1012132500075214",
+        "media_id": "53b844a64f99d951d6f23ad40df7dc7ab84ff6b8",
+        "modified": 1766651013,
+        "slug": "viced-principal",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240122/thumbnails/1_241221138236-Screenshot2024-01-22at11.36.07AM.png",
+        "created": 1688573916,
+        "season_number": "18",
+        "title_id": "2392754",
+        "tv_rating": "tv-14-dls",
+        "published": 1766651013,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1760932800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240122/thumbnails/2_241221138236-Screenshot2024-01-22at11.36.07AM.png",
+        "id": "AYkm2TT4Oz5CkuTcnwIv",
         "auth": true
     },
     {
