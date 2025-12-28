@@ -641,6 +641,50 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1733550240,
+        "tms_id": "",
+        "description": "The baristas of Caf\u00e9 Beans struggle with hellish customers and life in general.",
+        "title_suggest": {
+            "input": [
+                "Beantown"
+            ]
+        },
+        "title": "Beantown",
+        "expiration_date": 1798261140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWlKh6kVHl5gR6828yqi",
+        "duration": 674.8075,
+        "episode_number": "8",
+        "original_air_date": "1731735900",
+        "auth_launch_date": 1731735900,
+        "clip_order": null,
+        "airing_id": "RADS1012272500076348",
+        "media_id": "50837df7e0c3160ca73c1e3ba347f2a3d9918997",
+        "modified": 1766853504,
+        "slug": "beantown",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241112/thumbnails/1_2411122233515-AS_SMALLS_S6_BEANTOWN.png",
+        "created": 1731468843,
+        "season_number": "6",
+        "title_id": "2546921",
+        "tv_rating": "tv-ma-l",
+        "published": 1766853504,
+        "tags": [],
+        "collection_title": "Smalls",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1766898000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20241112/thumbnails/2_2411122233515-AS_SMALLS_S6_BEANTOWN.png",
+        "id": "AZMjldkfIFyXXN-f0M0Y",
+        "auth": false
+    },
+    {
         "auth_expiration_date": null,
         "tms_id": "",
         "description": "From awkward school situations in Mandal Takes an L to on-the-job accidents in Boom Dude, there's something here to embarrass everybody.",
