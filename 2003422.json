@@ -337,6 +337,53 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1768193940,
+        "tms_id": "",
+        "description": "The Belcher kids learn a secret about Zeke's past, while Bob rekindles his feud with Jimmy Pesto.",
+        "title_suggest": {
+            "input": [
+                "Bully-ieve It or Not",
+                "It or Not",
+                "or Not",
+                "Not"
+            ]
+        },
+        "title": "Bully-ieve It or Not",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "5",
+        "original_air_date": null,
+        "auth_launch_date": 1766984400,
+        "clip_order": null,
+        "airing_id": "RADS1012242500076203",
+        "media_id": "b0acd1981205fe0e66e75bec67677874855e43f7",
+        "modified": 1766617728,
+        "slug": "bully-ieve-it-or-not",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181447510-BobsBurgers_1405.jpg",
+        "created": 1758221276,
+        "season_number": "14",
+        "title_id": "2569592",
+        "tv_rating": "tv-pg-dl",
+        "published": 1766617728,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181447510-BobsBurgers_1405.jpg",
+        "id": "AZleJ5RGs_ErlMTJpQny",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1767934740,
         "tms_id": "",
         "description": "When the Belchers visit the local drive-in, Bob comes up with a plan to save the theater from closing.",
