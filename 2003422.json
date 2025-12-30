@@ -384,6 +384,53 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1768280340,
+        "tms_id": "",
+        "description": "Mr. Fischoeder enlists Bob to be his personal chef for a glamping trip.",
+        "title_suggest": {
+            "input": [
+                "Escape From Which Island?",
+                "From Which Island?",
+                "Which Island?",
+                "Island?"
+            ]
+        },
+        "title": "Escape From Which Island?",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "7",
+        "original_air_date": null,
+        "auth_launch_date": 1767070800,
+        "clip_order": null,
+        "airing_id": "RADS1012262500076263",
+        "media_id": "0d3c55a6c5bbe116ff0773dae4c2bf8b12349349",
+        "modified": 1766725813,
+        "slug": "escape-from-which-island",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181554316-BobsBurgers_1407.jpg",
+        "created": 1758226304,
+        "season_number": "14",
+        "title_id": "2569593",
+        "tv_rating": "tv-pg-l",
+        "published": 1766725813,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181554316-BobsBurgers_1407.jpg",
+        "id": "AZledE3ws_ErlMTJpQnz",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1767934740,
         "tms_id": "",
         "description": "When the Belchers visit the local drive-in, Bob comes up with a plan to save the theater from closing.",
@@ -428,53 +475,5 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/2_25922154765-BobsBurgers_1502.jpg",
         "id": "AZlzJI0TyEF1_1NDe6fd",
         "auth": true
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1767070740,
-        "tms_id": "EP012792980095",
-        "description": "When a mall Santa threatens the kids with the Naughty List, Gene, Tina and Louise decide to put on a musical performance, which highlights all of their good deeds in order to earn their spot on the Nice List.",
-        "title_suggest": {
-            "input": [
-                "Nice-Capades"
-            ]
-        },
-        "title": "Nice-Capades",
-        "type": "episode",
-        "expiration_date": 1675659540,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1282.0333667,
-        "episode_number": "5",
-        "original_air_date": 1485399600,
-        "clip_order": null,
-        "auth_launch_date": 1765861200,
-        "modified": 1765605927,
-        "media_id": "b01f7cd99a5bf1bc12f47f37b91cbe3e9974c4b8",
-        "airing_id": "RADS1012092500073685",
-        "id": "oaRxLGs_QGyPbnh9h2SL1A",
-        "slug": "nice-capades",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "",
-        "created": 1485065443,
-        "title_id": "2097193",
-        "tv_rating": "tv-14",
-        "season_number": "6",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1765605927,
-        "first_published": 1485065443,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "modified_by": "ODT Listener",
-        "launch_date": 1675054800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/nice-capades/bobsburgers_518_air_cid-2X5HJ.jpg",
-        "cma_id": "1432573"
     }
 ]
