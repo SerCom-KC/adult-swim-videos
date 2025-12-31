@@ -1546,7 +1546,7 @@
         "launch_date": 1746072000,
         "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201144245-sgc2c_9804_dst_cid-9139559.jpg",
         "id": "AYl0PWxwOz5CkuTcnwR_",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1751255940,
@@ -2878,59 +2878,6 @@
     },
     {
         "auth": false,
-        "ott_launch_date": 1448047020,
-        "auth_expiration_date": 1684900799,
-        "tms_id": "EP001022180032",
-        "rating": 7.3043475,
-        "description": "The rapport between Branford Marsalis and Space Ghost makes it look as though the then-band leader of \"The Tonight Show\"might be switching talk shows. Next, a child star from the same television era as Space Ghost, Danny Bonaduce, talks about his days with the Partridge family and his deep-seated hatred for Osmonds.",
-        "title_suggest": {
-            "input": [
-                "Gum, Disease",
-                "Disease"
-            ]
-        },
-        "type": "episode",
-        "title": "Gum, Disease",
-        "expiration_date": 1767157140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
-        "duration": 734.9676343,
-        "episode_number": "10",
-        "original_air_date": 903151800,
-        "clip_order": null,
-        "auth_launch_date": 1667970000,
-        "modified": 1739981154,
-        "airing_id": "RADS1002192500021949",
-        "media_id": "8695509a18e8760496676df43551d1150a6e8fac",
-        "id": "_E1IiElhT3yTkFA5M5_Osw",
-        "slug": "gum-disease",
-        "views": 38527,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/1_2041794964-sgc2c_9410_dst_cid-9105445.jpg",
-        "created": 1402945476,
-        "title_id": "322742",
-        "season_number": "1",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1739981154,
-        "tags": [
-            "space ghost coast to coast c2c gum disease episode 10"
-        ],
-        "rating_count": 276,
-        "collection_title": "Space Ghost Coast to Coast",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1740027600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_2041794964-sgc2c_9410_dst_cid-9105445.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
         "ott_launch_date": 1449257520,
         "auth_expiration_date": 1684900799,
         "tms_id": "EP001022180018",
@@ -3240,57 +3187,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1764824400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417947534-sgc2c_9407_dst_cid-9105443.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": false,
-        "ott_launch_date": 1448983980,
-        "auth_expiration_date": 1684900799,
-        "tms_id": "EP001022180061",
-        "rating": 7.3344593,
-        "description": "Feeling a little wired, Space Ghost asks professional wrestler Hulk Hogan to put him in a sleeper hold so that he can get some rest. Instead, Hogan recites an original haiku about Zorak. Slash from Guns 'N' Roses winds up the show with his usual gift for gab.",
-        "title_suggest": {
-            "input": [
-                "Sleeper"
-            ]
-        },
-        "type": "episode",
-        "title": "Sleeper",
-        "expiration_date": 1767157140,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
-        "duration": 763.6339673,
-        "episode_number": "6",
-        "original_air_date": 960177600,
-        "clip_order": null,
-        "auth_launch_date": 1667970000,
-        "modified": 1743005551,
-        "media_id": "bf5a9b464bb37ea916c16327d95ac1e53e54838c",
-        "airing_id": "RADS1003262500026665",
-        "id": "lUoraWEWRWONNkWl2uwFpA",
-        "slug": "sleeper",
-        "views": 57829,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/1_20417952206-sgc2c_9506_dst_cid-9112591_rev.jpg",
-        "created": 1402945476,
-        "title_id": "322752",
-        "season_number": "2",
-        "tv_rating": "tv-pg",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1743005551,
-        "tags": [],
-        "rating_count": 296,
-        "collection_title": "Space Ghost Coast to Coast",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1743048000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417952206-sgc2c_9506_dst_cid-9112591_rev.jpg",
         "cma_id": ""
     },
     {
