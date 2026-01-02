@@ -1,5 +1,54 @@
 [
     {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1767329940,
+        "tms_id": "EP012792980142",
+        "description": "After Linda's prized ornaments go missing during a holiday party at the restaurant, Linda suspects one of the attendees as the thief. However, the kids have their own theory: attributing the robbery to the anti-Santa - \"The Bleaken.\"",
+        "title_suggest": {
+            "input": [
+                "The Bleakening Part 2",
+                "Bleakening Part 2",
+                "Part 2",
+                "2"
+            ]
+        },
+        "title": "The Bleakening Part 2",
+        "expiration_date": 1691380740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 1297.2,
+        "episode_number": "7",
+        "original_air_date": 1545013800,
+        "auth_launch_date": 1766120400,
+        "clip_order": null,
+        "media_id": "63c5b8fc0b72c40c04f413bed73afb589e3a014a",
+        "modified": 1765866977,
+        "airing_id": "RADS1012122500074367",
+        "slug": "the-bleakening-part-2",
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15450597262919.jpg",
+        "created": 1543954675,
+        "season_number": "8",
+        "title_id": "2171438",
+        "tv_rating": "tv-pg-dl",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1765866977,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "modified_by": "ODT Listener",
+        "launch_date": 1690776000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15450597262919.jpg",
+        "id": "AWd63rgSqD68dq0Op5t4",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1767589140,
         "tms_id": "",
         "description": "It's all fun and games until the Belchers lose their sledding turf.",
@@ -372,53 +421,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/2_25922154765-BobsBurgers_1502.jpg",
         "id": "AZlzJI0TyEF1_1NDe6fd",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1768539540,
-        "tms_id": "",
-        "description": "The kids explore a marine scrapyard in search of adventure, but the trip takes a dangerous turn.",
-        "title_suggest": {
-            "input": [
-                "The Dead Bo-ats Society",
-                "Dead Bo-ats Society",
-                "Bo-ats Society",
-                "Society"
-            ]
-        },
-        "title": "The Dead Bo-ats Society",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "19",
-        "original_air_date": null,
-        "auth_launch_date": 1767330000,
-        "clip_order": null,
-        "airing_id": "RADS1012282500076542",
-        "media_id": "ac8d0ff3370e76cb38bc4d2cc15e347024ce0ece",
-        "modified": 1766947118,
-        "slug": "the-dead-bo-ats-society",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_259291515504-BobsBurgers_1519.jpg",
-        "created": 1759173356,
-        "season_number": "15",
-        "title_id": "2569638",
-        "tv_rating": "tv-pg-l",
-        "published": 1766947118,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291515504-BobsBurgers_1519.jpg",
-        "id": "AZmW5ysGs_ErlMTJpQoD",
         "auth": true
     },
     {
