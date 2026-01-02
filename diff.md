@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 1, 2026 at 05:30:38 EST_
+_Last Update: January 1, 2026 at 22:30:14 EST_
 ## Video added
 ### Summary
-2031611 Dragon Ball Z Kai: 1  
-### 2031616
-**Dragon Ball Z Kai S01E05 - Wilderness Survival! A Moonlit Night Awakens Gohan!**  
-TV-PG-LV 🔓 21:55  
-⌛ January 8, 2026 at 04:59:00 EST  
-https://www.adultswim.com/videos/dragon-ball-z-kai/wilderness-survival-a-moonlit-night-awakens-gohan  
-seriesid=`2031611` titleid=`2031616` id=`WEyvL6uOSDWSgB3hPHo2yA` mediaid=`acf9a5f704e6daed05d08cfacf50c38ca4cdfc22`  
-_Piccolo tries to toughen up Gohan with some wilderness survival training, but things get hairy when the young Saiyan sees his first full moon! Meanwhile, Yajirobe summons Earth's strongest fighters to Kami's Lookout._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684013420714.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684013420714.jpg" height="144px" /></a>
+608360 Robot Chicken: 1  
+### 2020474
+**Robot Chicken S07E16 - The Robot Chicken Bitch Pudding Special**  
+TV-MA-L 🔒 11:26  
+⌛ January 12, 2026 at 23:59:00 EST  
+https://www.adultswim.com/videos/robot-chicken/the-robot-chicken-bitch-pudding-special  
+seriesid=`608360` titleid=`2020474` id=`uxgy1PJeT2eIHmS4J8KLKw` mediaid=`57ad7cb2d9363e503515c4a3e9f756e8e892606a`  
+_Robot Chicken fan-favorite character Bitch Pudding gets her time to shine in a brand new solo special! When her fellow citizens in Pastryville get tired of suffering Bitch Pudding's abuse, they hatch a plot to eliminate her once and for all! Now Bitch Pudding will blaze a trail of raging revenge, and the world better learn how to duck and cover!_  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046129489-robotchicken_701_special_dup.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046129489-robotchicken_701_special_dup.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
