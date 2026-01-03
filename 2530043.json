@@ -1,49 +1,5 @@
 [
     {
-        "auth_expiration_date": 1767416340,
-        "tms_id": "",
-        "description": "Easiest way to get aliens to abduct you? Post an ad online!",
-        "title_suggest": {
-            "input": [
-                "Kyddnapped"
-            ]
-        },
-        "title": "Kyddnapped",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AZBvkmVYSaru9Cdsy7Cx",
-        "duration": 660.4598,
-        "episode_number": "10",
-        "original_air_date": 1722831300,
-        "auth_launch_date": 1764392400,
-        "clip_order": null,
-        "airing_id": "RADS1011242500071077",
-        "media_id": "af7692b5298e5417681a6c2ec0fd93f3cff635ea",
-        "modified": 1764140686,
-        "slug": "kyddnapped",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240815/thumbnails/1_2481514675-PSICOPS_SEASON1_EP110_SHOWSTILLS_IMAGE2_LEFTTORIGHT_FELIXXKYDDWHEELBARROW.jpg",
-        "created": 1722443593,
-        "title_id": "2530053",
-        "season_number": "1",
-        "tv_rating": "tv-ma-v",
-        "published": 1764140686,
-        "tags": [],
-        "collection_title": "Psi-Cops",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240815/thumbnails/2_2481514675-PSICOPS_SEASON1_EP110_SHOWSTILLS_IMAGE2_LEFTTORIGHT_FELIXXKYDDWHEELBARROW.jpg",
-        "id": "AZEJo3a3g6zBH7G86tg4",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1768625940,
         "tms_id": "",
         "description": "The Psi Cops team falls in love with an invisible person despite Eric's rude assertions that this person does not exist.",
@@ -221,6 +177,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20240826/thumbnails/2_248261521511-PSICOPS_SEASON1_EP114_SHOWSTILLS_IMAGE1_LEFTTORIGHT_KYDDPEPEFELIXXCARDEATH.jpg",
         "id": "AZFTBKUeSaru9Cdsy7mV",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1770440340,
+        "tms_id": "",
+        "description": "Monsters have nothing on Kydd and Felixx's vendetta against a step-mother.",
+        "title_suggest": {
+            "input": [
+                "Monster Under the Bed",
+                "Under the Bed",
+                "the Bed",
+                "Bed"
+            ]
+        },
+        "title": "Monster Under the Bed",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZBvkmVYSaru9Cdsy7Cx",
+        "duration": 660.4264,
+        "episode_number": "15",
+        "original_air_date": 1724646600,
+        "auth_launch_date": 1767416400,
+        "clip_order": null,
+        "airing_id": "RADS1012292500076604",
+        "media_id": "0aac480f317a577cd90ab984edaf1f3af6e1983f",
+        "modified": 1767096540,
+        "slug": "monster-under-the-bed",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240826/thumbnails/1_248261522444-PSICOPS_SEASON1_EP114_SHOWSTILLS_IMAGE4_KYDDFLYING.jpg",
+        "created": 1724202746,
+        "title_id": "2530066",
+        "season_number": "1",
+        "tv_rating": "tv-ma-lv",
+        "published": 1767096540,
+        "tags": [],
+        "collection_title": "Psi-Cops",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240826/thumbnails/2_248261522444-PSICOPS_SEASON1_EP114_SHOWSTILLS_IMAGE4_KYDDFLYING.jpg",
+        "id": "AZFyfgIJg6zBH7G86thH",
         "auth": true
     }
 ]

@@ -704,7 +704,7 @@
         "launch_date": 1764997200,
         "poster": "https://media.cdn.adultswim.com/uploads/20220802/thumbnails/2_2282124058-Primal_014_TheRedMist.png",
         "id": "AYJfbkyf3sQvipyea9rt",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1789790340,
@@ -750,7 +750,7 @@
         "launch_date": 1765602000,
         "poster": "https://media.cdn.adultswim.com/uploads/20220809/thumbnails/2_22891344488-Primal_015_ThePrimalTheory.png",
         "id": "AYJvpF1l3sQvipyea9tl",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": null,
@@ -977,7 +977,7 @@
         "launch_date": 1767416400,
         "poster": "https://media.cdn.adultswim.com/uploads/20220906/thumbnails/2_2296135895-Primal_019_ColossaeusPart3.png",
         "id": "AYMT8_-w3sQvipyea-H2",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1767416399,
@@ -1023,6 +1023,6 @@
         "launch_date": 1767416400,
         "poster": "https://media.cdn.adultswim.com/uploads/20220913/thumbnails/2_229131435535-Primal_020_EchoesOfEternity.png",
         "id": "AYMyYfcy3sQvipyea-OE",
-        "auth": true
+        "auth": false
     }
 ]
