@@ -2,25 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 4, 2026 at 05:00:41 EST_
+_Last Update: January 5, 2026 at 00:00:28 EST_
 ## Video added
 ### Summary
-2536171 Mashle: Magic and Muscles: 1  
-608007 One Piece: 1  
-### 2546946
-**Mashle: Magic and Muscles S02E08 - Mash Burnedead and the Tall Tower**  
-TV-14-LV 🔒 22:22  
-⌛ March 2, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/mashle-magic-and-muscles/mash-burnedead-and-the-tall-tower  
-seriesid=`2536171` titleid=`2546946` id=`AZtxIHahNi2EYjVB1WCN` mediaid=`5673396ecb77f2229910689cb1ab2a9cbe16036d`  
-_After Mash's win, Innocent Zero freezes time. Wahlberg confronts Innocent Zero, and Mash battles Cell War._  
-### 2573241
-**One Piece S18E12 - The King of the Day! Duke Dogstorm Appears!**  
-TV-14-V 🔒 21:30  
-⌛ March 15, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/one-piece/the-king-of-the-day-duke-dogstorm-appears  
-seriesid=`608007` titleid=`2573241` id=`AZtHklXKc6shItN4M7BS` mediaid=`e0b2fc21dbcc8a798f5b04b7716a42a683dcc7be`  
-_The Straw Hats meet the ruler of a strange land, uncovering its mysterious past and unique system._  
-<a href="https://media.cdn.adultswim.com/uploads/20251222/thumbnails/2_2512221438348-OnePiece758S18ep12.png"><img src="https://media.cdn.adultswim.com/uploads/20251222/thumbnails/2_2512221438348-OnePiece758S18ep12.png" height="144px" /></a>
+343621 Samurai Jack: 1  
+### 444723
+**Samurai Jack S04E09 - XLIX**  
+TV-Y7-FV 🔒 22:47  
+⌛ January 2, 2027 at 23:59:00 EST  
+https://www.adultswim.com/videos/samurai-jack/xlix  
+seriesid=`343621` titleid=`444723` id=`WrNsxK4-RnSVMBFfChZ5Jw` mediaid=`3b5c65ecabd053c41d4d21e2d40baaaafc1d811c`  
+_As Jack goes through fall, winter, spring and summer, he must battle the perils that each season brings._  
+<a href="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471426591-samjack_049.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471426591-samjack_049.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
