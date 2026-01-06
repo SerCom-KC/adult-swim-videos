@@ -1,5 +1,62 @@
 [
     {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1725053340,
+        "tms_id": "EP012647370007",
+        "description": "To prove himself worthy of King Kai's training, Goku must test his mettle against a fleet-footed monkey and a powerful cricket that's big on respect. Meanwhile, in the land of the living, Gohan takes a beating from his monstrous master!",
+        "title_suggest": {
+            "input": [
+                "The Battle with Ten-Times Gravity! Goku's Race Against the Clock!",
+                "Battle with Ten-Times Gravity! Goku's Race Against the Clock!",
+                "with Ten-Times Gravity! Goku's Race Against the Clock!",
+                "Ten-Times Gravity! Goku's Race Against the Clock!",
+                "Gravity! Goku's Race Against the Clock!",
+                "Goku's Race Against the Clock!",
+                "Race Against the Clock!",
+                "Against the Clock!",
+                "the Clock!",
+                "Clock!"
+            ]
+        },
+        "title": "The Battle with Ten-Times Gravity! Goku's Race Against the Clock!",
+        "type": "episode",
+        "expiration_date": 1768300140,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "duration": 1315.314,
+        "episode_number": "7",
+        "original_air_date": 1421557200,
+        "clip_order": null,
+        "auth_launch_date": 1717308000,
+        "modified": 1767332389,
+        "airing_id": "RADS1001022600077687",
+        "media_id": "0ae5c617567dcb0d43e2420626de85c8c21515f6",
+        "id": "12R9ekxqSfCPGqo0euhgCw",
+        "slug": "the-battle-with-ten-times-gravity-gokus-race-against-the-clock",
+        "views": 532,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15568401949121.jpg",
+        "created": 1421220106,
+        "title_id": "2031618",
+        "tv_rating": "tv-pg-lv",
+        "season_number": "1",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1767332389,
+        "first_published": 1421220106,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "modified_by": "ODT Listener",
+        "launch_date": 1767695400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568401949121.jpg",
+        "cma_id": "1047229"
+    },
+    {
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1771909140,
@@ -112,7 +169,7 @@
         "cma_id": "1046205"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1771909140,
         "tms_id": "EP012647370002",
