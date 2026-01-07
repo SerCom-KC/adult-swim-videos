@@ -283,7 +283,7 @@
         "cma_id": "1044737"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1771909140,
         "tms_id": "EP012647370003",
@@ -397,5 +397,60 @@
         "launch_date": 1767177000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684012071111.jpg",
         "cma_id": "1037455"
+    },
+    {
+        "auth": false,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1725055140,
+        "tms_id": "EP012647370008",
+        "description": "Goku's training under King Kai is finally complete, and he's eager to return to Earth. Master Roshi uses the Dragon Balls to summon Shenron, but will Goku make it back in time to stop the Saiyans?",
+        "title_suggest": {
+            "input": [
+                "Shenron Appears! The Saiyans Arrive Sooner than Expected!",
+                "Appears! The Saiyans Arrive Sooner than Expected!",
+                "The Saiyans Arrive Sooner than Expected!",
+                "Saiyans Arrive Sooner than Expected!",
+                "Arrive Sooner than Expected!",
+                "Sooner than Expected!",
+                "than Expected!",
+                "Expected!"
+            ]
+        },
+        "title": "Shenron Appears! The Saiyans Arrive Sooner than Expected!",
+        "type": "episode",
+        "expiration_date": 1768384740,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "duration": 1314.5466,
+        "episode_number": "8",
+        "original_air_date": 1422160200,
+        "clip_order": null,
+        "auth_launch_date": 1717912800,
+        "modified": 1767381872,
+        "airing_id": "RADS1001022600077760",
+        "media_id": "64206922577b1dc121f75713e9408aac355b2fc0",
+        "id": "xsLpmJxNSrGa2kxP3G1dhg",
+        "slug": "shenron-appears-the-saiyans-arrive-sooner-than-expected",
+        "views": 771,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15568402084023.jpg",
+        "created": 1421824824,
+        "title_id": "2031619",
+        "tv_rating": "tv-14-dlv",
+        "season_number": "1",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1767381872,
+        "first_published": 1421824824,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "modified_by": "ODT Listener",
+        "launch_date": 1767780000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568402084023.jpg",
+        "cma_id": "1050184"
     }
 ]
