@@ -1577,6 +1577,50 @@
         "auth": false
     },
     {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Hurts so good.",
+        "title_suggest": {
+            "input": [
+                "Cringe"
+            ]
+        },
+        "title": "Cringe",
+        "type": "episode",
+        "expiration_date": 1799211540,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "WPT7xiNzRnKsaB3z31P7IA",
+        "duration": 674.4404,
+        "episode_number": "1",
+        "original_air_date": 1734426000,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1001072600078756",
+        "media_id": "31f5ff522009454697700a1d215ac46bc35714cb",
+        "modified": 1767799471,
+        "slug": "cringe",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241217/thumbnails/1_241217114512-AS_OTA_1401_CRINGE.jpg",
+        "created": 1733967184,
+        "title_id": "2546951",
+        "season_number": "14",
+        "tv_rating": "tv-ma",
+        "published": 1767799471,
+        "tags": [],
+        "collection_title": "Off The Air",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1767848400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20241217/thumbnails/2_241217114512-AS_OTA_1401_CRINGE.jpg",
+        "id": "AZO4f4JJhkIHwKa-EByh",
+        "auth": false
+    },
+    {
         "auth_expiration_date": 1736241240,
         "tms_id": "",
         "description": "Our silent, screaming companions.",
