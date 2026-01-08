@@ -1,51 +1,5 @@
 [
     {
-        "auth_expiration_date": 1767848340,
-        "tms_id": "",
-        "description": "The kids have a Christmas mission.",
-        "title_suggest": {
-            "input": [
-                "Gene's Christmas Break",
-                "Christmas Break",
-                "Break"
-            ]
-        },
-        "title": "Gene's Christmas Break",
-        "type": "episode",
-        "expiration_date": 1748231940,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 1291.8572,
-        "episode_number": "10",
-        "original_air_date": 1701140400,
-        "auth_launch_date": 1766638800,
-        "clip_order": null,
-        "airing_id": "RADS1012132500075061",
-        "media_id": "df9ccbd8ce61ba2d7c6f7ca6ddf57bbaa55d806e",
-        "modified": 1766386450,
-        "slug": "genes-christmas-break",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20231218/thumbnails/1_2312181152390-Screenshot2023-12-18at11.52.07AM.png",
-        "created": 1702612205,
-        "title_id": "2438992",
-        "season_number": "12",
-        "tv_rating": "tv-pg-l",
-        "published": 1766386450,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1747627200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20231218/thumbnails/2_2312181152390-Screenshot2023-12-18at11.52.07AM.png",
-        "id": "AYxrmH9an_kciGPPrDyg",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1768193940,
         "tms_id": "",
         "description": "The Belcher kids learn a secret about Zeke's past, while Bob rekindles his feud with Jimmy Pesto.",
@@ -417,6 +371,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291515504-BobsBurgers_1519.jpg",
         "id": "AZmW5ysGs_ErlMTJpQoD",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1769057940,
+        "tms_id": "",
+        "description": "When Big Bob brings over a kite, Bob is determined to fly it with his kids. Meanwhile, Teddy seeks Linda's help in rehearsing for a play.",
+        "title_suggest": {
+            "input": [
+                "Dad-urday Kite Fever",
+                "Kite Fever",
+                "Fever"
+            ]
+        },
+        "title": "Dad-urday Kite Fever",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "20",
+        "original_air_date": null,
+        "auth_launch_date": 1767848400,
+        "clip_order": null,
+        "airing_id": "RADS1001032600077857",
+        "media_id": "dcaa9987f59596aefb34dfe734a22556fc22491a",
+        "modified": 1767479996,
+        "slug": "dad-urday-kite-fever",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_259291523457-BobsBurgers_1520.jpg",
+        "created": 1759173831,
+        "season_number": "15",
+        "title_id": "2569639",
+        "tv_rating": "tv-pg-l",
+        "published": 1767479996,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291523457-BobsBurgers_1520.jpg",
+        "id": "AZmW7mnhs_ErlMTJpQoE",
         "auth": true
     },
     {
