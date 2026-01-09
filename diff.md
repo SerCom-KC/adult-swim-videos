@@ -2,43 +2,60 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 9, 2026 at 00:00:28 EST_
+_Last Update: January 9, 2026 at 00:30:14 EST_
 ## Video added
 ### Summary
-439722 The Venture Bros.: 2  
-547867 Tom Goes To The Mayor: 1  
-### 2002551
-**The Venture Bros. S05E04 - SPHINX Rising**  
-TV-14-DLV 🔓 22:30  
-⌛ November 4, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-venture-bros/sphinx-rising  
-seriesid=`439722` titleid=`2002551` id=`Fspo8uKDQiGNIG5Z6UGqyw` mediaid=`55a34e31c1607492ecdcc17f316966e367a3671b`  
-_Henchman 21's command of Team SPHINX is starting to rub the O.S.I. the wrong way, and his new recruits are rubbing them even wronger. Meanwhile, The Monarch tries on a new face to ingratiate himself with Dr. Venture._  
-<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161411295-venture_502_dup_20130612.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161411295-venture_502_dup_20130612.jpg" height="144px" /></a>
-### 2002550
-**The Venture Bros. S05E03 - Venture Libre**  
-TV-14-LV 🔓 22:34  
-⌛ November 4, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-venture-bros/venture-libre  
-seriesid=`439722` titleid=`2002550` id=`jqPmorOGRqGtdZsDQ9XbXw` mediaid=`6456bccaeabb4bd08fe74795d6bd472ed6de8fb1`  
-_One of Dr. Venture's old inventions seems to have gotten a mind of its own, so General Manhowers sends him to Central America to fix it. The Ventures must all confront their own hearts of darkness if they're to survive what's waiting for them in the jungle._  
-<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161411127-venture_501_dup_20130508.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161411127-venture_501_dup_20130508.jpg" height="144px" /></a>
-### 615368
-**Tom Goes To The Mayor S01E13 - Pipe Camp**  
-TV-MA 🔓 11:46  
-⌛ March 19, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/tom-goes-to-the-mayor/pipe-camp  
-seriesid=`547867` titleid=`615368` id=`glpgSl8ZQ0-YJOhQsF1ihQ` mediaid=`6b5a3ab00801edbbcb117f7a678619a70bbc39b0`  
-_Tom's concerns for the health of Jefferton's children leads to a Pipe Camp._  
-<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117952499-tgttm_013.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117952499-tgttm_013.jpg" height="144px" /></a>
+581006 American Dad: 2  
+2003422 Bob's Burgers: 1  
+### 2392760
+**American Dad S18E22 - Into the Jingleverse**  
+TV-14-DL 🔒 21:03  
+⌛ January 15, 2026 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/into-the-jingleverse  
+seriesid=`581006` titleid=`2392760` id=`AYxpxPPTn_kciGPPrDyJ` mediaid=`5f129347abae349a9a7008b1a61e5769e01527e6`  
+_When Steve gives the family better Christmas gifts than Stan, Stan goes to great lengths to regain his title of "King of Presents."_  
+<a href="https://media.cdn.adultswim.com/uploads/20240205/thumbnails/2_24251048211-Screenshot2024-02-05at10.47.47AM.png"><img src="https://media.cdn.adultswim.com/uploads/20240205/thumbnails/2_24251048211-Screenshot2024-02-05at10.47.47AM.png" height="144px" /></a>
+### 2445744
+**American Dad S19E01 - The Grocery Store Bank**  
+TV-14-LV 🔒 00:00  
+⌛ January 15, 2026 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/the-grocery-store-bank  
+seriesid=`581006` titleid=`2445744` id=`AZL4cat8IFyXXN-f0MuU` mediaid=`508327a2e634b6d76cf102376ae2e4dfd45d759b`  
+_Stan, Francine and Roger concoct the perfect plan to rob a bank but agree never to do it. Peace reigns._  
+<a href="https://media.cdn.adultswim.com/uploads/20241104/thumbnails/2_241141330462-AmDad-S19E01-GROCERYSTOREBANK-1600x900.jpg"><img src="https://media.cdn.adultswim.com/uploads/20241104/thumbnails/2_241141330462-AmDad-S19E01-GROCERYSTOREBANK-1600x900.jpg" height="144px" /></a>
+### 2569640
+**Bob's Burgers S15E21 - Mr. Safebody**  
+TV-PG-L 🔒 00:00  
+⌛ January 22, 2026 at 23:59:00 EST  
+https://www.adultswim.com/videos/bobs-burgers/mr-safebody  
+seriesid=`2003422` titleid=`2569640` id=`AZmW736qs_ErlMTJpQoF` mediaid=`b3819aa66bd8be91ffa19652f4e52f0e30afea89`  
+_Louise's schoolmate, Arnold, enlists her to direct a promotional video for his new bodyguarding business._  
+<a href="https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291524288-BobsBurgers_1521.jpg"><img src="https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291524288-BobsBurgers_1521.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-547867 Tom Goes To The Mayor: 1  
-### 581466
-**Tom Goes To The Mayor S01E01 - Bear Trap Brothers**  
-TV-PG-V 🔓 11:41  
+2003422 Bob's Burgers: 1  
+581006 American Dad: 2  
+### 2569621
+**Bob's Burgers S15E02 - Saving Favorite Drive-In**  
+TV-PG-LV 🔓 00:00  
 ⌛ January 8, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/tom-goes-to-the-mayor/bear-trap-brothers  
-seriesid=`547867` titleid=`581466` id=`MrLKv1RYQhW0zTploTp5Gw` mediaid=`250c115ff68a2eec7825e5f144e89263b9e949a7`  
-_With the help of the Bear Trap Brothers, Tom and The Mayor teach Jefferton about the significance of bear traps in child safety.  Jack Black and Kyle Gass appear as the Bear Trap Brothers, two rival storekeepers who must help convince the City Council the plan is a good one._  
-<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117834325-tgttm_001.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117834325-tgttm_001.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/bobs-burgers/saving-favorite-drive-in  
+seriesid=`2003422` titleid=`2569621` id=`AZlzJI0TyEF1_1NDe6fd` mediaid=`0a34c7e89f330df9f028dcc6788a800a4269692d`  
+_When the Belchers visit the local drive-in, Bob comes up with a plan to save the theater from closing._  
+<a href="https://media.cdn.adultswim.com/uploads/20250922/thumbnails/2_25922154765-BobsBurgers_1502.jpg"><img src="https://media.cdn.adultswim.com/uploads/20250922/thumbnails/2_25922154765-BobsBurgers_1502.jpg" height="144px" /></a>
+### 2392763
+**American Dad S18E10 - Frantastic Voyage**  
+TV-14-DLSV 🔒 21:03  
+⌛ January 8, 2026 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/frantastic-voyage  
+seriesid=`581006` titleid=`2392763` id=`AY0ZeAOFn_kciGPPrESh` mediaid=`ec3d79aaf9b542d1e9907f1a115b5ed284af7517`  
+_When Stan goes too far to keep his work friend away from Francine, she is forced to save her new "little" friend._  
+<a href="https://media.cdn.adultswim.com/uploads/20240122/thumbnails/2_241221122529-Screenshot2024-01-22at11.20.54AM.png"><img src="https://media.cdn.adultswim.com/uploads/20240122/thumbnails/2_241221122529-Screenshot2024-01-22at11.20.54AM.png" height="144px" /></a>
+### 2392764
+**American Dad S18E11 - A Little Mystery**  
+TV-14-DLSV 🔒 21:03  
+⌛ January 8, 2026 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/a-little-mystery  
+seriesid=`581006` titleid=`2392764` id=`AY1BmXGz1E7YmWrdXLlu` mediaid=`4a2bb0d0132e493e2cd0612ca7478e437ca7b633`  
+_Hayley makes Jeff get a friend to add some mystery to their relationship but gets more mystery than she bargained for. Francine attempts to grow the world's longest fingernails._  
+<a href="https://media.cdn.adultswim.com/uploads/20240212/thumbnails/2_242121428330-Screenshot2024-02-12at2.28.06PM.png"><img src="https://media.cdn.adultswim.com/uploads/20240212/thumbnails/2_242121428330-Screenshot2024-02-12at2.28.06PM.png" height="144px" /></a>

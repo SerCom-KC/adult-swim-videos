@@ -281,52 +281,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1767934740,
-        "tms_id": "",
-        "description": "When the Belchers visit the local drive-in, Bob comes up with a plan to save the theater from closing.",
-        "title_suggest": {
-            "input": [
-                "Saving Favorite Drive-In",
-                "Favorite Drive-In",
-                "Drive-In"
-            ]
-        },
-        "title": "Saving Favorite Drive-In",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "2",
-        "original_air_date": null,
-        "auth_launch_date": 1766725200,
-        "clip_order": null,
-        "airing_id": "RADS1012132500075107",
-        "media_id": "0a34c7e89f330df9f028dcc6788a800a4269692d",
-        "modified": 1766472823,
-        "slug": "saving-favorite-drive-in",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/1_25922154765-BobsBurgers_1502.jpg",
-        "created": 1758573399,
-        "season_number": "15",
-        "title_id": "2569621",
-        "tv_rating": "tv-pg-lv",
-        "published": 1766472823,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/2_25922154765-BobsBurgers_1502.jpg",
-        "id": "AZlzJI0TyEF1_1NDe6fd",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1768539540,
         "tms_id": "",
         "description": "The kids explore a marine scrapyard in search of adventure, but the trip takes a dangerous turn.",
@@ -371,6 +325,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291515504-BobsBurgers_1519.jpg",
         "id": "AZmW5ysGs_ErlMTJpQoD",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1769144340,
+        "tms_id": "",
+        "description": "Louise's schoolmate, Arnold, enlists her to direct a promotional video for his new bodyguarding business.",
+        "title_suggest": {
+            "input": [
+                "Mr. Safebody",
+                "Safebody"
+            ]
+        },
+        "title": "Mr. Safebody",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "21",
+        "original_air_date": null,
+        "auth_launch_date": 1767934800,
+        "clip_order": null,
+        "airing_id": "RADS1001032600077913",
+        "media_id": "b3819aa66bd8be91ffa19652f4e52f0e30afea89",
+        "modified": 1767509665,
+        "slug": "mr-safebody",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_259291524288-BobsBurgers_1521.jpg",
+        "created": 1759173901,
+        "season_number": "15",
+        "title_id": "2569640",
+        "tv_rating": "tv-pg-l",
+        "published": 1767509665,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291524288-BobsBurgers_1521.jpg",
+        "id": "AZmW736qs_ErlMTJpQoF",
         "auth": true
     },
     {
