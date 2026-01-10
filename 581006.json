@@ -467,51 +467,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1768021140,
-        "tms_id": "EP007164450450",
-        "description": "Francine becomes an overnight sensation when a famous art dealer discovers her homemade pottery.",
-        "title_suggest": {
-            "input": [
-                "Productive Panic",
-                "Panic"
-            ]
-        },
-        "title": "Productive Panic",
-        "type": "episode",
-        "expiration_date": 1762145940,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1263.4955,
-        "episode_number": "13",
-        "original_air_date": 1696474800,
-        "auth_launch_date": 1767416400,
-        "clip_order": null,
-        "airing_id": "RADS1012292500076563",
-        "media_id": "714576f43a5ce79e037723129df512d847a6f6d5",
-        "modified": 1767090249,
-        "slug": "productive-panic",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240215/thumbnails/1_242151448591-Screenshot2024-02-15at2.47.35PM.png",
-        "created": 1706202147,
-        "title_id": "2397214",
-        "season_number": "18",
-        "tv_rating": "tv-14-dl",
-        "published": 1767090249,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1761537600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240215/thumbnails/2_242151448591-Screenshot2024-02-15at2.47.35PM.png",
-        "id": "AY1BkqvBn_kciGPPrEad",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1768193940,
         "tms_id": "EP007164450453",
         "description": "Klaus house sits for the Smiths while they are away on vacation; Roger investigates the origin of powerful winds plaguing the Eastern Seaboard.",
@@ -655,54 +610,6 @@
         "launch_date": 1762146000,
         "poster": "https://media.cdn.adultswim.com/uploads/20240220/thumbnails/2_24220221553-Screenshot2024-02-20at2.21.32AM.png",
         "id": "AY1BlXEFn_kciGPPrEai",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1768021140,
-        "tms_id": "EP007164450449",
-        "description": "The Smiths get new neighbors! Meanwhile, Roger dreads having to be a little boy's kite for a day.",
-        "title_suggest": {
-            "input": [
-                "Don't You Be My Neighbor",
-                "You Be My Neighbor",
-                "Be My Neighbor",
-                "My Neighbor",
-                "Neighbor"
-            ]
-        },
-        "title": "Don't You Be My Neighbor",
-        "type": "episode",
-        "expiration_date": 1762145940,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1263.6624,
-        "episode_number": "12",
-        "original_air_date": 1696213800,
-        "auth_launch_date": 1767416400,
-        "clip_order": null,
-        "airing_id": "RADS1012292500076565",
-        "media_id": "9c9fee7ab70d9f581f857ceb080990a54c0d86bb",
-        "modified": 1767090249,
-        "slug": "dont-you-be-my-neighbor",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240215/thumbnails/1_242151450270-Screenshot2024-02-15at2.49.58PM.png",
-        "created": 1706202623,
-        "title_id": "2397213",
-        "season_number": "18",
-        "tv_rating": "tv-14-dlv",
-        "published": 1767090249,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1761537600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240215/thumbnails/2_242151450270-Screenshot2024-02-15at2.49.58PM.png",
-        "id": "AY1Bme_Ln_kciGPPrEal",
         "auth": true
     },
     {
@@ -1035,6 +942,100 @@
         "launch_date": 1762146000,
         "poster": "https://media.cdn.adultswim.com/uploads/20241104/thumbnails/2_241141330462-AmDad-S19E01-GROCERYSTOREBANK-1600x900.jpg",
         "id": "AZL4cat8IFyXXN-f0MuU",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1768625940,
+        "tms_id": "",
+        "description": "Hayley and Jeff take a staycation at a nearby luxury resort, while the CIA is forced to rebrand.",
+        "title_suggest": {
+            "input": [
+                "Brown Lotus",
+                "Lotus"
+            ]
+        },
+        "title": "Brown Lotus",
+        "expiration_date": 1762750740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 0,
+        "episode_number": "2",
+        "original_air_date": "1731295800",
+        "auth_launch_date": 1768021200,
+        "clip_order": null,
+        "airing_id": "RADS1001042600078067",
+        "media_id": "ad242f3eccec66d91592d2ea5078bf873d8a0a5e",
+        "modified": 1767611374,
+        "slug": "brown-lotus",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241105/thumbnails/1_241151116314-AmDad-S19E02-BrownLotus-1920x1080.jpg",
+        "created": 1730823395,
+        "season_number": "19",
+        "title_id": "2445745",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1767611374,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1762146000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20241105/thumbnails/2_241151116314-AmDad-S19E02-BrownLotus-1920x1080.jpg",
+        "id": "AZL9HRc5J6hTPa_yiN9S",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1768625940,
+        "tms_id": "",
+        "description": "After a freak accident, Stan and Roger end up stuck together in the worst possible way. Klaus contends with an impostor.",
+        "title_suggest": {
+            "input": [
+                "I've Got a Friend in Me",
+                "Got a Friend in Me",
+                "a Friend in Me",
+                "Friend in Me",
+                "in Me",
+                "Me"
+            ]
+        },
+        "title": "I've Got a Friend in Me",
+        "expiration_date": 1762750740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 0,
+        "episode_number": "3",
+        "original_air_date": "1731900600",
+        "auth_launch_date": 1768021200,
+        "clip_order": null,
+        "airing_id": "RADS1001042600078065",
+        "media_id": "f6c1987c084b75ceb4403367fdfc9648862f12c1",
+        "modified": 1767611374,
+        "slug": "ive-got-a-friend-in-me",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241113/thumbnails/1_2411131120122-AmDad-S19E03-FriendInMe-1920x1080.jpg",
+        "created": 1731514816,
+        "season_number": "19",
+        "title_id": "2445746",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1767611374,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1762146000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20241113/thumbnails/2_2411131120122-AmDad-S19E03-FriendInMe-1920x1080.jpg",
+        "id": "AZMmU1gkJ6hTPa_yiN-Z",
         "auth": true
     }
 ]
