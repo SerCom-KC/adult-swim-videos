@@ -2,42 +2,68 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 11, 2026 at 00:00:13 EST_
+_Last Update: January 11, 2026 at 00:30:26 EST_
 ## Video added
 ### Summary
-581006 American Dad: 2  
-### 2445747
-**American Dad S19E04 - Touch the Sun: A Chimborazo Adventure**  
-TV-14-DLV 🔒 00:00  
-⌛ January 17, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/touch-the-sun-a-chimborazo-adventure  
-seriesid=`581006` titleid=`2445747` id=`AZNFDKk2J6hTPa_yiN_y` mediaid=`055953e6926d30f35dd9517f17a17bba81dda98b`  
-_The family's dream of climbing Mount Everest turns into a nightmare when Stan tries to save a buck and takes them to a different, cheaper mountain._  
-<a href="https://media.cdn.adultswim.com/uploads/20241119/thumbnails/2_2411191031140-AmDad-S19E03-TouchTheSun-1920x1080.jpg"><img src="https://media.cdn.adultswim.com/uploads/20241119/thumbnails/2_2411191031140-AmDad-S19E03-TouchTheSun-1920x1080.jpg" height="144px" /></a>
-### 2445748
-**American Dad S19E05 - Under (and over, and beside) the Boardwalk**  
-TV-14-DLSV 🔒 00:00  
-⌛ January 17, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/under-and-over-and-beside-the-boardwalk  
-seriesid=`581006` titleid=`2445748` id=`AZNpC6cZJ6hTPa_yiOA0` mediaid=`23c44805bd029b281f1fd4aaadc2588c882408ed`  
-_It's the grand reopening of the old Langley Falls boardwalk, and no one's more pumped than the Smiths._  
-<a href="https://media.cdn.adultswim.com/uploads/20241126/thumbnails/2_2411261016272-AmDad-S19E05-UnderTheBoardwalk-1920x1080.jpg"><img src="https://media.cdn.adultswim.com/uploads/20241126/thumbnails/2_2411261016272-AmDad-S19E05-UnderTheBoardwalk-1920x1080.jpg" height="144px" /></a>
+581268 Squidbillies: 4  
+895948 The Eric Andre Show: 1  
+### 798532
+**Squidbillies S05E10 - America: Why I Love Her**  
+TV-MA 🔓 22:14  
+⌛ September 25, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/squidbillies/america-why-i-love-her  
+seriesid=`581268` titleid=`798532` id=`n3STUqgfRN2KZIGCEHZoWw` mediaid=`99cb9751f58cad4cb02b737732a2a62a4f490266`  
+_Terror ensues after Early shoots a cow belonging to Al-Qaeda._  
+<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131320582-squidbillies_052_dst_cid-U8D5.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131320582-squidbillies_052_dst_cid-U8D5.jpg" height="144px" /></a>
+### 2092360
+**Squidbillies S10E03 - Trackwood Race-ist**  
+TV-14-DLSV 🔓 11:11  
+⌛ September 25, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/squidbillies/trackwood-race-ist  
+seriesid=`581268` titleid=`2092360` id=`KyPFrim7QGe3knskoiM-IA` mediaid=`16576ac7de63aaa1e8f21010b69720d78c3caa34`  
+_Early pulls from a bag of tricks to vanquish his grandson._  
+<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141129238-squidbillies_903_dup-20160721.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141129238-squidbillies_903_dup-20160721.jpg" height="144px" /></a>
+### 704390
+**Squidbillies S03E03 - Tween Steam**  
+TV-14-DL 🔓 11:14  
+⌛ October 19, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/squidbillies/tween-steam  
+seriesid=`581268` titleid=`704390` id=`tCANd52hRouoczYo0UcVug` mediaid=`5baa214feafa5a806fcf367b0da7c4e42a9b06c4`  
+_Perverts need love. Rusty delivers._  
+<a href="https://i.cdn.turner.com/adultswim/big/video/tween-steam/squids_ep023_004.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/tween-steam/squids_ep023_004.jpg" height="144px" /></a>
+### 2323128
+**Squidbillies S13E06 - Who-Gives-A-Flip?**  
+TV-14-DLSV 🔓 11:10  
+⌛ January 8, 2027 at 23:59:00 EST  
+https://www.adultswim.com/videos/squidbillies/who-gives-a-flip  
+seriesid=`581268` titleid=`2323128` id=`AX05Eu-d4Xbjep71f6Hh` mediaid=`50db4d9c0ba7141556364b11e13a7462ec0c832b`  
+_Sheriff does._  
+<a href="https://media.cdn.adultswim.com/uploads/20211119/thumbnails/2_211119114173-Squidbillies_1104_WhoGivesAFlip.png"><img src="https://media.cdn.adultswim.com/uploads/20211119/thumbnails/2_211119114173-Squidbillies_1104_WhoGivesAFlip.png" height="144px" /></a>
+### 2088423
+**The Eric Andre Show S04E07 - Raymond Cruz; Amber Rose**  
+TV-MA-LS 🔓 10:51  
+⌛ February 14, 2026 at 23:59:00 EST  
+https://www.adultswim.com/videos/the-eric-andre-show/raymond-cruz-amber-rose  
+seriesid=`895948` titleid=`2088423` id=`B4JH6hHIRYqEOgKMzvinRg` mediaid=`9f4d23ba34aa19e1cfd52200281d7d8e3d4ffceb`  
+_Interviews with Raymond Cruz and Amber Rose; Musical guest Thundercat_  
+<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341620526-ericandre_407_dup-20160525.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341620526-ericandre_407_dup-20160525.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-581006 American Dad: 2  
-### 2392758
-**American Dad S18E15 - Z.O.I.N.C.S.**  
-TV-14-DLSV 🔒 21:03  
+343621 Samurai Jack: 1  
+895948 The Eric Andre Show: 1  
+### 444724
+**Samurai Jack S04E10 - L**  
+TV-Y7-FV 🔒 21:36  
 ⌛ January 10, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/z-o-i-n-c-s  
-seriesid=`581006` titleid=`2392758` id=`AY1BlNa9n_kciGPPrEah` mediaid=`67b7d80df9e151c8ed044c1551b20f32b15b5c11`  
-_It's Halloween night and Stan is missing, so the Smith gang heads to the spooky, abandoned CIA headquarters to investigate._  
-<a href="https://media.cdn.adultswim.com/uploads/20240212/thumbnails/2_242121427198-Screenshot2024-02-12at2.25.46PM.png"><img src="https://media.cdn.adultswim.com/uploads/20240212/thumbnails/2_242121427198-Screenshot2024-02-12at2.25.46PM.png" height="144px" /></a>
-### 2397215
-**American Dad S18E14 - Multiverse of American Dadness**  
-TV-14-DLSV 🔒 21:03  
+https://www.adultswim.com/videos/samurai-jack/l  
+seriesid=`343621` titleid=`444724` id=`e-pP4qdATra5OAX1aIFlpA` mediaid=`c4fb502c14acb5ef05e026c8c7a56c8f9932b22b`  
+_Aku forces an old, ace robot assassin out of retirement to eliminate the ultimate mark - Jack._  
+<a href="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471427215-samjack_050.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471427215-samjack_050.jpg" height="144px" /></a>
+### 2032603
+**The Eric Andre Show S03E07 - Naturi Naughton; Ryan Phillippe**  
+TV-MA-L 🔒 11:02  
 ⌛ January 10, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/multiverse-of-american-dadness  
-seriesid=`581006` titleid=`2397215` id=`AY1Bopri1E7YmWrdXLlw` mediaid=`8a4b97dc374419ec45efa92fdaa9c7072efb333e`  
-_Hayley searches for a runaway Steve so they can go to a Shaggy concert._  
-<a href="https://media.cdn.adultswim.com/uploads/20240215/thumbnails/2_242151451485-Screenshot2024-02-15at2.51.00PM.png"><img src="https://media.cdn.adultswim.com/uploads/20240215/thumbnails/2_242151451485-Screenshot2024-02-15at2.51.00PM.png" height="144px" /></a>
+https://www.adultswim.com/videos/the-eric-andre-show/naturi-naughton-ryan-phillippe  
+seriesid=`895948` titleid=`2032603` id=`u8UTHGNETfaPYUdeOsZ9sg` mediaid=`233d29f02119f01236a41146383c608cf280d991`  
+_Interviews with Naturi Naughton and Ryan Phillippe; Musical guest Trash Talk._  
+<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341617101-ericandre_027_dup-20141204.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341617101-ericandre_027_dup-20141204.jpg" height="144px" /></a>
