@@ -2,17 +2,16 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 11, 2026 at 04:00:41 EST_
+_Last Update: January 11, 2026 at 05:00:13 EST_
 ## Video added
 ### Summary
-2012528 Blue Exorcist: 1  
-### 2573173
-**Blue Exorcist S03E21 - Congratulations**  
-TV-14 🔒 21:49  
+2536171 Mashle: Magic and Muscles: 1  
+### 2546947
+**Mashle: Magic and Muscles S02E09 - Wahlberg Baigan and the Magic of Darkness**  
+TV-14-LV 🔒 22:22  
 ⌛ March 2, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/blue-exorcist/congratulations  
-seriesid=`2012528` titleid=`2573173` id=`AZo7l95ks_ErlMTJpQqZ` mediaid=`aba005866cf6f48e5ee58b85ef8334d4d2f56327`  
-_Rin and the others attend a wedding. Yukio acts normally, but Rin senses something is wrong._  
-<a href="https://media.cdn.adultswim.com/uploads/20251031/thumbnails/2_2510311446241-AS_BlueExorcist_BeyondTheSnowSaga_Ep21.png"><img src="https://media.cdn.adultswim.com/uploads/20251031/thumbnails/2_2510311446241-AS_BlueExorcist_BeyondTheSnowSaga_Ep21.png" height="144px" /></a>
+https://www.adultswim.com/videos/mashle-magic-and-muscles/wahlberg-baigan-and-the-magic-of-darkness  
+seriesid=`2536171` titleid=`2546947` id=`AZuRjVpTNi2EYjVB1WCS` mediaid=`bdf5b949b3151fadcdaa31f3cf3c7a480b68c05e`  
+_Sitter Baby turns Lance and Dot into babies. Innocent Zero resurrects Adam Jobs, who battles Wahlberg._  
 ## Video removed
 No videos were removed.  
