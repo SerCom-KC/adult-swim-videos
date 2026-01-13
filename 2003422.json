@@ -48,53 +48,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1768280340,
-        "tms_id": "",
-        "description": "Mr. Fischoeder enlists Bob to be his personal chef for a glamping trip.",
-        "title_suggest": {
-            "input": [
-                "Escape From Which Island?",
-                "From Which Island?",
-                "Which Island?",
-                "Island?"
-            ]
-        },
-        "title": "Escape From Which Island?",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "7",
-        "original_air_date": null,
-        "auth_launch_date": 1767070800,
-        "clip_order": null,
-        "airing_id": "RADS1012262500076263",
-        "media_id": "0d3c55a6c5bbe116ff0773dae4c2bf8b12349349",
-        "modified": 1766725813,
-        "slug": "escape-from-which-island",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181554316-BobsBurgers_1407.jpg",
-        "created": 1758226304,
-        "season_number": "14",
-        "title_id": "2569593",
-        "tv_rating": "tv-pg-l",
-        "published": 1766725813,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181554316-BobsBurgers_1407.jpg",
-        "id": "AZledE3ws_ErlMTJpQnz",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1768798740,
         "tms_id": "",
         "description": "During their special day at the wharf with Big Bob, the kids get into trouble with the Wharf's newest fortune-telling giant clam.",
@@ -278,6 +231,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181626465-BobsBurgers_1412.jpg",
         "id": "AZlehT2eyEF1_1NDe6bP",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1769489940,
+        "tms_id": "",
+        "description": "Tina is determined to get some upper butt action at Chelsea's party.",
+        "title_suggest": {
+            "input": [
+                "Butt Sweat and Fears",
+                "Sweat and Fears",
+                "and Fears",
+                "Fears"
+            ]
+        },
+        "title": "Butt Sweat and Fears",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "13",
+        "original_air_date": null,
+        "auth_launch_date": 1768280400,
+        "clip_order": null,
+        "airing_id": "RADS1001082600078907",
+        "media_id": "6eb758672d1142a6c599e973f6b011108baa4b6b",
+        "modified": 1767893984,
+        "slug": "butt-sweat-and-fears",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181630469-BobsBurgers_1413.jpg",
+        "created": 1758227454,
+        "season_number": "14",
+        "title_id": "2569600",
+        "tv_rating": "tv-pg-l",
+        "published": 1767893984,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181630469-BobsBurgers_1413.jpg",
+        "id": "AZlehdk1yEF1_1NDe6bQ",
         "auth": true
     },
     {
