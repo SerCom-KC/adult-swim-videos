@@ -553,55 +553,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1768280340,
-        "tms_id": "EP007164450454",
-        "description": "Social Services threatens to take Steve away from the family when someone files a complaint about Steve's chaotic home life.",
-        "title_suggest": {
-            "input": [
-                "Between a Ring and a Hardass",
-                "a Ring and a Hardass",
-                "Ring and a Hardass",
-                "and a Hardass",
-                "a Hardass",
-                "Hardass"
-            ]
-        },
-        "title": "Between a Ring and a Hardass",
-        "type": "episode",
-        "expiration_date": 1762750740,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1263.0952,
-        "episode_number": "17",
-        "original_air_date": 1700712000,
-        "auth_launch_date": 1767675600,
-        "clip_order": null,
-        "airing_id": "RADS1001012600077622",
-        "media_id": "2cb976f895f00dd5c4bcb20fbcaa2df55f2b4b0e",
-        "modified": 1767380102,
-        "slug": "between-a-ring-and-a-hardass",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240212/thumbnails/1_24212167191-Screenshot2024-02-12at4.06.44PM.png",
-        "created": 1706203166,
-        "title_id": "2399409",
-        "season_number": "18",
-        "tv_rating": "tv-14-dlsv",
-        "published": 1767380102,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1762146000,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240212/thumbnails/2_24212167191-Screenshot2024-02-12at4.06.44PM.png",
-        "id": "AY1Boje-1E7YmWrdXLlv",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1768366740,
         "tms_id": "EP007164450456",
         "description": "In order to have a chance with a girl, Steve and Snot must track down a keg of 4Loko.",
@@ -1032,6 +983,52 @@
         "launch_date": 1762750800,
         "poster": "https://media.cdn.adultswim.com/uploads/20241126/thumbnails/2_2411261016536-AmDad-S19E06-ViolenceOfTheClams-1920x1080.jpg",
         "id": "AZNpDA0gIFyXXN-f0M-i",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1768885140,
+        "tms_id": "",
+        "description": "After Hayley is deemed a \"big child\" by The Lady from The Hamster Rescue Society, she gets involved with two Roger personas.",
+        "title_suggest": {
+            "input": [
+                "An Adult Woman",
+                "Adult Woman",
+                "Woman"
+            ]
+        },
+        "title": "An Adult Woman",
+        "expiration_date": 1763355540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 0,
+        "episode_number": "7",
+        "original_air_date": "1734319800",
+        "auth_launch_date": 1768280400,
+        "clip_order": null,
+        "airing_id": "RADS1001082600078875",
+        "media_id": "535b34000b82ea5511810b2692e3d95a9fc5ad0d",
+        "modified": 1767902065,
+        "slug": "an-adult-woman",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241126/thumbnails/1_2411261017178-AmDad-S19E07-AnAdultWoman-1920x1080.jpg",
+        "created": 1732634242,
+        "season_number": "19",
+        "title_id": "2445750",
+        "tv_rating": "tv-14-dlv",
+        "published": 1767902065,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1762750800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20241126/thumbnails/2_2411261017178-AmDad-S19E07-AnAdultWoman-1920x1080.jpg",
+        "id": "AZNpDGy8IFyXXN-f0M-j",
         "auth": true
     }
 ]
