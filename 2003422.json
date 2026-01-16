@@ -279,6 +279,56 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1769749140,
+        "tms_id": "",
+        "description": "Tina attempts to save her school news segment by interviewing Mr. Frond about his revolutionary new computer game.",
+        "title_suggest": {
+            "input": [
+                "The Tina Table: The Tables Have Tina-ed",
+                "Tina Table: The Tables Have Tina-ed",
+                "Table: The Tables Have Tina-ed",
+                "The Tables Have Tina-ed",
+                "Tables Have Tina-ed",
+                "Have Tina-ed",
+                "Tina-ed"
+            ]
+        },
+        "title": "The Tina Table: The Tables Have Tina-ed",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "1",
+        "original_air_date": null,
+        "auth_launch_date": 1768539600,
+        "clip_order": null,
+        "airing_id": "RADS1001122600079508",
+        "media_id": "8656ec71a86b76a94521b7c79fd294b290ac25e6",
+        "modified": 1768187393,
+        "slug": "the-tina-table-the-tables-have-tina-ed",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/1_259221530313-BobsBurgers_1501.jpg",
+        "created": 1758570216,
+        "season_number": "15",
+        "title_id": "2569620",
+        "tv_rating": "tv-pg-l",
+        "published": 1768187393,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/2_259221530313-BobsBurgers_1501.jpg",
+        "id": "AZly8_tos_ErlMTJpQn3",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1769662740,
         "tms_id": "",
         "description": "Insomnia sends Bob on a creative spree in the kitchen, but at what cost?",
@@ -320,53 +370,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291511170-BobsBurgers_1516.jpg",
         "id": "AZmW4v6Xs_ErlMTJpQoB",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1768539540,
-        "tms_id": "",
-        "description": "The kids explore a marine scrapyard in search of adventure, but the trip takes a dangerous turn.",
-        "title_suggest": {
-            "input": [
-                "The Dead Bo-ats Society",
-                "Dead Bo-ats Society",
-                "Bo-ats Society",
-                "Society"
-            ]
-        },
-        "title": "The Dead Bo-ats Society",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "19",
-        "original_air_date": null,
-        "auth_launch_date": 1767330000,
-        "clip_order": null,
-        "airing_id": "RADS1012282500076542",
-        "media_id": "ac8d0ff3370e76cb38bc4d2cc15e347024ce0ece",
-        "modified": 1766947118,
-        "slug": "the-dead-bo-ats-society",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_259291515504-BobsBurgers_1519.jpg",
-        "created": 1759173356,
-        "season_number": "15",
-        "title_id": "2569638",
-        "tv_rating": "tv-pg-l",
-        "published": 1766947118,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291515504-BobsBurgers_1519.jpg",
-        "id": "AZmW5ysGs_ErlMTJpQoD",
         "auth": true
     },
     {
