@@ -1,50 +1,5 @@
 [
     {
-        "auth_expiration_date": 1768625940,
-        "tms_id": "",
-        "description": "The Psi Cops team falls in love with an invisible person despite Eric's rude assertions that this person does not exist.",
-        "title_suggest": {
-            "input": [
-                "Invisible Man",
-                "Man"
-            ]
-        },
-        "title": "Invisible Man",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AZBvkmVYSaru9Cdsy7Cx",
-        "duration": 660.4264,
-        "episode_number": "12",
-        "original_air_date": 1723436100,
-        "auth_launch_date": 1765602000,
-        "clip_order": null,
-        "airing_id": "RADS1012072500073495",
-        "media_id": "c0efa2a91fc87414bd92dd6d418d8e355905698c",
-        "modified": 1765346395,
-        "slug": "invisible-man",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240815/thumbnails/1_24815147173-PSICOPS_SEASON1_EP112_SHOWSTILLS_IMAGE3_LEFTTORIGHT_KYDDCHIEFBEEFFELIXXOFFICEHUG.jpg",
-        "created": 1722978132,
-        "title_id": "2530055",
-        "season_number": "1",
-        "tv_rating": "tv-ma-v",
-        "published": 1765346395,
-        "tags": [],
-        "collection_title": "Psi-Cops",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240815/thumbnails/2_24815147173-PSICOPS_SEASON1_EP112_SHOWSTILLS_IMAGE3_LEFTTORIGHT_KYDDCHIEFBEEFFELIXXOFFICEHUG.jpg",
-        "id": "AZEpf-Nbg6zBH7G86tg8",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1769230740,
         "tms_id": "",
         "description": "Kydd and Felixx will do anything to avoid doing their paperwork, even if it means refusing to witness the alien attack happening right in front of them.",
@@ -226,6 +181,50 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20240826/thumbnails/2_248261522444-PSICOPS_SEASON1_EP114_SHOWSTILLS_IMAGE4_KYDDFLYING.jpg",
         "id": "AZFyfgIJg6zBH7G86thH",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1771649940,
+        "tms_id": "",
+        "description": "How do wealthy immortal beings stay enthused? Boobs.",
+        "title_suggest": {
+            "input": [
+                "Illuminaughty"
+            ]
+        },
+        "title": "Illuminaughty",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZBvkmVYSaru9Cdsy7Cx",
+        "duration": 660.4264,
+        "episode_number": "17",
+        "original_air_date": 1725251400,
+        "auth_launch_date": 1768626000,
+        "clip_order": null,
+        "airing_id": "RADS1001122600079582",
+        "media_id": "31fe0cae0f3007630217cd920bda3874daada660",
+        "modified": 1768200004,
+        "slug": "illuminaughty",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241016/thumbnails/1_241016119255-PSICOPS_SEASON1_EP117_SHOWSTILLS_IMAGE3_LEFTTORIGHT_KYDDFELIXXSCIENTISTDEADSCIENTIST.jpg",
+        "created": 1724814673,
+        "title_id": "2530063",
+        "season_number": "1",
+        "tv_rating": "tv-ma-sv",
+        "published": 1768200004,
+        "tags": [],
+        "collection_title": "Psi-Cops",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20241016/thumbnails/2_241016119255-PSICOPS_SEASON1_EP117_SHOWSTILLS_IMAGE3_LEFTTORIGHT_KYDDFELIXXSCIENTISTDEADSCIENTIST.jpg",
+        "id": "AZGW90THg6zBH7G86thK",
         "auth": true
     }
 ]
