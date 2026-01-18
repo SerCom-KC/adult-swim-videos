@@ -1,66 +1,6 @@
 {
-    "updated": 1768730532,
-    "added": [],
-    "removed": [
-        {
-            "auth": true,
-            "ott_launch_date": null,
-            "auth_expiration_date": 1770112740,
-            "tms_id": "EP012647370026",
-            "description": "Vegeta lays it on the line in a daring attempt to steal the Dragon Balls right out from under Frieza's nose. Krillin's riding high on a Namekian power surge, but he's about to wander into a dogfight he can't survive!",
-            "title_suggest": {
-                "input": [
-                    "The Scheme is Shattered! Vegeta Strikes Back at Zarbon!",
-                    "Scheme is Shattered! Vegeta Strikes Back at Zarbon!",
-                    "is Shattered! Vegeta Strikes Back at Zarbon!",
-                    "Shattered! Vegeta Strikes Back at Zarbon!",
-                    "Vegeta Strikes Back at Zarbon!",
-                    "Strikes Back at Zarbon!",
-                    "Back at Zarbon!",
-                    "at Zarbon!",
-                    "Zarbon!"
-                ]
-            },
-            "expiration_date": 1731108540,
-            "title": "The Scheme is Shattered! Vegeta Strikes Back at Zarbon!",
-            "type": "episode",
-            "platforms": [
-                "web",
-                "mobile"
-            ],
-            "duration": 1315.314,
-            "collection_id": "duzujScQQRKOubvQENdNag",
-            "episode_number": "26",
-            "original_air_date": 1433044800,
-            "clip_order": null,
-            "auth_launch_date": 1768730400,
-            "modified": 1768304359,
-            "airing_id": "RADS1001122600079859",
-            "media_id": "4564bcdb90324b96288fe9964ce9fe4da59219a8",
-            "id": "2LXn-QyYS0Swg3-Of36KhQ",
-            "slug": "the-scheme-is-shattered-vegeta-strikes-back-at-zarbon",
-            "views": 957,
-            "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155684065349417.jpg",
-            "created": 1430772950,
-            "season_number": "1",
-            "title_id": "2031637",
-            "tv_rating": "tv-pg-lv",
-            "active": false,
-            "blacklist": [],
-            "ott_expiration_date": null,
-            "published": 1768304359,
-            "first_published": 1432747252,
-            "tags": [],
-            "collection_title": "Dragon Ball Z Kai",
-            "modified_by": "ODT Listener",
-            "launch_date": 1730696400,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684065349417.jpg",
-            "cma_id": "1082540",
-            "collection_slug": "dragon-ball-z-kai",
-            "collection_title_id": "2031611",
-            "online_exclusives": false
-        },
+    "updated": 1768730650,
+    "added": [
         {
             "auth": true,
             "ott_launch_date": null,
@@ -121,6 +61,65 @@
             "online_exclusives": false
         },
         {
+            "auth": true,
+            "ott_launch_date": null,
+            "auth_expiration_date": 1770112740,
+            "tms_id": "EP012647370026",
+            "description": "Vegeta lays it on the line in a daring attempt to steal the Dragon Balls right out from under Frieza's nose. Krillin's riding high on a Namekian power surge, but he's about to wander into a dogfight he can't survive!",
+            "title_suggest": {
+                "input": [
+                    "The Scheme is Shattered! Vegeta Strikes Back at Zarbon!",
+                    "Scheme is Shattered! Vegeta Strikes Back at Zarbon!",
+                    "is Shattered! Vegeta Strikes Back at Zarbon!",
+                    "Shattered! Vegeta Strikes Back at Zarbon!",
+                    "Vegeta Strikes Back at Zarbon!",
+                    "Strikes Back at Zarbon!",
+                    "Back at Zarbon!",
+                    "at Zarbon!",
+                    "Zarbon!"
+                ]
+            },
+            "expiration_date": 1731108540,
+            "title": "The Scheme is Shattered! Vegeta Strikes Back at Zarbon!",
+            "type": "episode",
+            "platforms": [
+                "web",
+                "mobile"
+            ],
+            "duration": 1315.314,
+            "collection_id": "duzujScQQRKOubvQENdNag",
+            "episode_number": "26",
+            "original_air_date": 1433044800,
+            "clip_order": null,
+            "auth_launch_date": 1768730400,
+            "modified": 1768304359,
+            "airing_id": "RADS1001122600079859",
+            "media_id": "4564bcdb90324b96288fe9964ce9fe4da59219a8",
+            "id": "2LXn-QyYS0Swg3-Of36KhQ",
+            "slug": "the-scheme-is-shattered-vegeta-strikes-back-at-zarbon",
+            "views": 957,
+            "exclude_from_search": false,
+            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155684065349417.jpg",
+            "created": 1430772950,
+            "season_number": "1",
+            "title_id": "2031637",
+            "tv_rating": "tv-pg-lv",
+            "active": false,
+            "blacklist": [],
+            "ott_expiration_date": null,
+            "published": 1768304359,
+            "first_published": 1432747252,
+            "tags": [],
+            "collection_title": "Dragon Ball Z Kai",
+            "modified_by": "ODT Listener",
+            "launch_date": 1730696400,
+            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684065349417.jpg",
+            "cma_id": "1082540",
+            "collection_slug": "dragon-ball-z-kai",
+            "collection_title_id": "2031611",
+            "online_exclusives": false
+        },
+        {
             "auth_expiration_date": 1772513940,
             "created": 1768394057,
             "tms_id": "",
@@ -159,5 +158,6 @@
             "collection_title_id": "2536171",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
