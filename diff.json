@@ -1,65 +1,7 @@
 {
-    "updated": 1768730439,
-    "added": [
-        {
-            "auth": true,
-            "ott_launch_date": null,
-            "auth_expiration_date": 1770114540,
-            "tms_id": "EP012647370027",
-            "description": "Intimidated by Vegeta's superior strength, Krillin reluctantly surrenders his precious Dragon Ball.  A glimmer of hope remains after Gohan secures a ball of his own - but the young warrior is headed for a beat-down courtesy of Vegeta!",
-            "title_suggest": {
-                "input": [
-                    "A Touch-and-Go Situation! Gohan, Protect the Four Star Ball!",
-                    "Touch-and-Go Situation! Gohan, Protect the Four Star Ball!",
-                    "Situation! Gohan, Protect the Four Star Ball!",
-                    "Gohan, Protect the Four Star Ball!",
-                    "Protect the Four Star Ball!",
-                    "the Four Star Ball!",
-                    "Four Star Ball!",
-                    "Star Ball!",
-                    "Ball!"
-                ]
-            },
-            "expiration_date": 1731713340,
-            "title": "A Touch-and-Go Situation! Gohan, Protect the Four Star Ball!",
-            "type": "episode",
-            "platforms": [
-                "web",
-                "mobile"
-            ],
-            "duration": 1315.3474,
-            "collection_id": "duzujScQQRKOubvQENdNag",
-            "episode_number": "27",
-            "original_air_date": 1433649600,
-            "clip_order": null,
-            "auth_launch_date": 1768730400,
-            "modified": 1768304359,
-            "airing_id": "RADS1001122600079857",
-            "media_id": "e8dd2100be27ea6a318d275eeb6a89efed565176",
-            "id": "54TiuzP6RJi0ZKtS0Kelkg",
-            "slug": "a-touch-and-go-situation-gohan-protect-the-four-star-ball",
-            "views": 826,
-            "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15568406975037.jpg",
-            "created": 1430772993,
-            "season_number": "1",
-            "title_id": "2031638",
-            "tv_rating": "tv-pg-lv",
-            "active": false,
-            "blacklist": [],
-            "ott_expiration_date": null,
-            "published": 1768304359,
-            "first_published": 1433514022,
-            "tags": [],
-            "collection_title": "Dragon Ball Z Kai",
-            "modified_by": "ODT Listener",
-            "launch_date": 1731387600,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568406975037.jpg",
-            "cma_id": "1084614",
-            "collection_slug": "dragon-ball-z-kai",
-            "collection_title_id": "2031611",
-            "online_exclusives": false
-        },
+    "updated": 1768730532,
+    "added": [],
+    "removed": [
         {
             "auth": true,
             "ott_launch_date": null,
@@ -120,6 +62,65 @@
             "online_exclusives": false
         },
         {
+            "auth": true,
+            "ott_launch_date": null,
+            "auth_expiration_date": 1770114540,
+            "tms_id": "EP012647370027",
+            "description": "Intimidated by Vegeta's superior strength, Krillin reluctantly surrenders his precious Dragon Ball.  A glimmer of hope remains after Gohan secures a ball of his own - but the young warrior is headed for a beat-down courtesy of Vegeta!",
+            "title_suggest": {
+                "input": [
+                    "A Touch-and-Go Situation! Gohan, Protect the Four Star Ball!",
+                    "Touch-and-Go Situation! Gohan, Protect the Four Star Ball!",
+                    "Situation! Gohan, Protect the Four Star Ball!",
+                    "Gohan, Protect the Four Star Ball!",
+                    "Protect the Four Star Ball!",
+                    "the Four Star Ball!",
+                    "Four Star Ball!",
+                    "Star Ball!",
+                    "Ball!"
+                ]
+            },
+            "expiration_date": 1731713340,
+            "title": "A Touch-and-Go Situation! Gohan, Protect the Four Star Ball!",
+            "type": "episode",
+            "platforms": [
+                "web",
+                "mobile"
+            ],
+            "duration": 1315.3474,
+            "collection_id": "duzujScQQRKOubvQENdNag",
+            "episode_number": "27",
+            "original_air_date": 1433649600,
+            "clip_order": null,
+            "auth_launch_date": 1768730400,
+            "modified": 1768304359,
+            "airing_id": "RADS1001122600079857",
+            "media_id": "e8dd2100be27ea6a318d275eeb6a89efed565176",
+            "id": "54TiuzP6RJi0ZKtS0Kelkg",
+            "slug": "a-touch-and-go-situation-gohan-protect-the-four-star-ball",
+            "views": 826,
+            "exclude_from_search": false,
+            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15568406975037.jpg",
+            "created": 1430772993,
+            "season_number": "1",
+            "title_id": "2031638",
+            "tv_rating": "tv-pg-lv",
+            "active": false,
+            "blacklist": [],
+            "ott_expiration_date": null,
+            "published": 1768304359,
+            "first_published": 1433514022,
+            "tags": [],
+            "collection_title": "Dragon Ball Z Kai",
+            "modified_by": "ODT Listener",
+            "launch_date": 1731387600,
+            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568406975037.jpg",
+            "cma_id": "1084614",
+            "collection_slug": "dragon-ball-z-kai",
+            "collection_title_id": "2031611",
+            "online_exclusives": false
+        },
+        {
             "auth_expiration_date": 1772513940,
             "created": 1768394057,
             "tms_id": "",
@@ -158,6 +159,5 @@
             "collection_title_id": "2536171",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
