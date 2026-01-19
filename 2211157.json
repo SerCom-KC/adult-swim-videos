@@ -1070,5 +1070,51 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20260105/thumbnails/2_26152214453-AS_Primal_S3_01_21_VengeanceOfDeath_PlatformPreferred.png",
         "id": "AZuRTP8cc6shItN4M7NF",
         "auth": false
+    },
+    {
+        "auth_expiration_date": 1770611340,
+        "tms_id": "",
+        "description": "A zombified Spear wanders aimlessly with no purpose until a distant sound awakens something deep inside and calls to him like a beacon from the past.",
+        "title_suggest": {
+            "input": [
+                "Kingdom of Sorrow",
+                "of Sorrow",
+                "Sorrow"
+            ]
+        },
+        "title": "Kingdom of Sorrow",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWzZcF8hCorLtcgfluAN",
+        "duration": 1359.4581,
+        "episode_number": "2",
+        "original_air_date": "1768797000",
+        "auth_launch_date": 1768797000,
+        "clip_order": null,
+        "airing_id": "RADS1001132600080481",
+        "media_id": "7a469094e6459a6c9e30b0cd7b665186ba999797",
+        "modified": 1768346682,
+        "slug": "kingdom-of-sorrow",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20260105/thumbnails/1_26152215387-AS_Primal_S3_02_22_KingdomOfSorrow_PlatformPreferred.png",
+        "created": 1767669354,
+        "season_number": "3",
+        "title_id": "2449468",
+        "tv_rating": "tv-ma-v",
+        "published": 1768346682,
+        "tags": [],
+        "collection_title": "Primal",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20260105/thumbnails/2_26152215387-AS_Primal_S3_02_22_KingdomOfSorrow_PlatformPreferred.png",
+        "id": "AZuRTdF1c6shItN4M7NG",
+        "auth": true
     }
 ]
