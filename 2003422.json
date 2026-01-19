@@ -1,5 +1,51 @@
 [
     {
+        "auth_expiration_date": 1768798740,
+        "tms_id": "",
+        "description": "During their special day at the wharf with Big Bob, the kids get into trouble with the Wharf's newest fortune-telling giant clam.",
+        "title_suggest": {
+            "input": [
+                "Wharf, Me Worry?",
+                "Me Worry?",
+                "Worry?"
+            ]
+        },
+        "title": "Wharf, Me Worry?",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "8",
+        "original_air_date": null,
+        "auth_launch_date": 1767589200,
+        "clip_order": null,
+        "airing_id": "RADS1001012600077619",
+        "media_id": "de9ba123f404daa0b5b72eef218a7570bca557ed",
+        "modified": 1767317089,
+        "slug": "wharf-me-worry",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181613248-BobsBurgers_1408.jpg",
+        "created": 1758226411,
+        "season_number": "14",
+        "title_id": "2569595",
+        "tv_rating": "tv-pg-l",
+        "published": 1767317089,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181613248-BobsBurgers_1408.jpg",
+        "id": "AZledfCss_ErlMTJpQn0",
+        "auth": false
+    },
+    {
         "auth_expiration_date": 1768885140,
         "tms_id": "",
         "description": "A documentary film profiling world-class archer Louise Belcher is interrupted by unexpected visitors.",
@@ -137,53 +183,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181626465-BobsBurgers_1412.jpg",
         "id": "AZlehT2eyEF1_1NDe6bP",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1770008340,
-        "tms_id": "",
-        "description": "Gayle tells the family she's sending in an audition tape to be on Tough Stuff Island.",
-        "title_suggest": {
-            "input": [
-                "The Right Tough Stuff",
-                "Right Tough Stuff",
-                "Tough Stuff",
-                "Stuff"
-            ]
-        },
-        "title": "The Right Tough Stuff",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "15",
-        "original_air_date": null,
-        "auth_launch_date": 1768798800,
-        "clip_order": null,
-        "airing_id": "RADS1001152600080648",
-        "media_id": "03b3f70118f696999292da35d2abd4b6938e3a0b",
-        "modified": 1768565437,
-        "slug": "the-right-tough-stuff",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181633100-BobsBurgers_1415.jpg",
-        "created": 1758227594,
-        "season_number": "14",
-        "title_id": "2569602",
-        "tv_rating": "tv-pg-l",
-        "published": 1768565437,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181633100-BobsBurgers_1415.jpg",
-        "id": "AZleh_tes_ErlMTJpQn2",
         "auth": true
     },
     {
