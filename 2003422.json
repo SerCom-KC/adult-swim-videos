@@ -1,53 +1,5 @@
 [
     {
-        "auth_expiration_date": 1768885140,
-        "tms_id": "",
-        "description": "A documentary film profiling world-class archer Louise Belcher is interrupted by unexpected visitors.",
-        "title_suggest": {
-            "input": [
-                "Fraud of the Dead: Zombie-docu-pocalypse",
-                "of the Dead: Zombie-docu-pocalypse",
-                "the Dead: Zombie-docu-pocalypse",
-                "Dead: Zombie-docu-pocalypse",
-                "Zombie-docu-pocalypse"
-            ]
-        },
-        "title": "Fraud of the Dead: Zombie-docu-pocalypse",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "9",
-        "original_air_date": null,
-        "auth_launch_date": 1767675600,
-        "clip_order": null,
-        "airing_id": "RADS1001022600077650",
-        "media_id": "687c85a29e0a52241f7c38d5c4daf074d79f2576",
-        "modified": 1767334183,
-        "slug": "fraud-of-the-dead-zombie-docu-pocalypse",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181615578-BobsBurgers_1409.jpg",
-        "created": 1758226562,
-        "season_number": "14",
-        "title_id": "2569596",
-        "tv_rating": "tv-pg-l",
-        "published": 1767334183,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181615578-BobsBurgers_1409.jpg",
-        "id": "AZleeDysyEF1_1NDe6bH",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1768971540,
         "tms_id": "",
         "description": "Teddy gets stuck in an underground survival bunker, and he calls on Bob to find him and get him out.",
@@ -277,6 +229,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181631201-BobsBurgers_1414.jpg",
         "id": "AZlehkwUs_ErlMTJpQn1",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1770094740,
+        "tms_id": "",
+        "description": "Bosco goes to Bob needing to learn how to make a burger for an undercover mission.",
+        "title_suggest": {
+            "input": [
+                "To Catch a Beef",
+                "Catch a Beef",
+                "a Beef",
+                "Beef"
+            ]
+        },
+        "title": "To Catch a Beef",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "16",
+        "original_air_date": null,
+        "auth_launch_date": 1768885200,
+        "clip_order": null,
+        "airing_id": "RADS1001152600080705",
+        "media_id": "eb66556313a6cbc1667d93dfc33164ffe5e0dc7f",
+        "modified": 1768565439,
+        "slug": "to-catch-a-beef",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181633518-BobsBurgers_1416.jpg",
+        "created": 1758227641,
+        "season_number": "14",
+        "title_id": "2569603",
+        "tv_rating": "tv-pg-l",
+        "published": 1768565439,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181633518-BobsBurgers_1416.jpg",
+        "id": "AZleiLUyyEF1_1NDe6bR",
         "auth": true
     },
     {
