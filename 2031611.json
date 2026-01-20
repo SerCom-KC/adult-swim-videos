@@ -115,6 +115,59 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1770717540,
+        "tms_id": "EP012647370031",
+        "description": "At long last, Goku finally completes his journey from Earth and arrives on planet Namek. His friends are gravely injured, but the mighty Saiyan warrior has a bag full of magic beans and a powerful secret!",
+        "title_suggest": {
+            "input": [
+                "Goku Arrives at Last! Take Down the Ginyu Force!",
+                "Arrives at Last! Take Down the Ginyu Force!",
+                "at Last! Take Down the Ginyu Force!",
+                "Last! Take Down the Ginyu Force!",
+                "Take Down the Ginyu Force!",
+                "Down the Ginyu Force!",
+                "the Ginyu Force!",
+                "Ginyu Force!",
+                "Force!"
+            ]
+        },
+        "expiration_date": 1733524140,
+        "title": "Goku Arrives at Last! Take Down the Ginyu Force!",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1295.011,
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "episode_number": "31",
+        "original_air_date": 1436673600,
+        "clip_order": null,
+        "auth_launch_date": 1768903200,
+        "modified": 1768565436,
+        "airing_id": "RADS1001152600080721",
+        "media_id": "2dcc59b54276c24e92abce411ad667c26e85528c",
+        "id": "4Q35fMabRGCKnCcvC4DQ5A",
+        "slug": "goku-arrives-at-last-take-down-the-ginyu-force",
+        "views": 4660,
+        "created": 1430773082,
+        "season_number": "1",
+        "title_id": "2031642",
+        "tv_rating": "tv-pg-lv",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1768565436,
+        "first_published": 1436494819,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "modified_by": "ODT Listener",
+        "launch_date": 1731108600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/goku-arrives-at-last-take-down-the-ginyu-force/dragonballzkai_cc_031_pt1.jpg",
+        "cma_id": "1094212"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1770114540,
         "tms_id": "EP012647370027",
         "description": "Intimidated by Vegeta's superior strength, Krillin reluctantly surrenders his precious Dragon Ball.  A glimmer of hope remains after Gohan secures a ball of his own - but the young warrior is headed for a beat-down courtesy of Vegeta!",
@@ -444,7 +497,7 @@
         "cma_id": "1073380"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1771909140,
         "tms_id": "EP012647370011",
@@ -611,7 +664,7 @@
         "cma_id": "1052851"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1768903140,
         "tms_id": "EP012647370016",
@@ -723,7 +776,7 @@
         "cma_id": "1046205"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1768904940,
         "tms_id": "EP012647370017",
@@ -1448,6 +1501,61 @@
         "launch_date": 1768471200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684033994216.jpg",
         "cma_id": "1062202"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1770285540,
+        "tms_id": "EP012647370030",
+        "description": "Vegeta ramps his battle power up to impressive levels, but he's still no match for the Ginyu goons. To escape death, he'll need help from some heroic former enemies. Meanwhile, Frieza tries to unlock the magic of the Dragon Balls!",
+        "title_suggest": {
+            "input": [
+                "The Nightmare Recoome! Come Out and Play, Vegeta!",
+                "Nightmare Recoome! Come Out and Play, Vegeta!",
+                "Recoome! Come Out and Play, Vegeta!",
+                "Come Out and Play, Vegeta!",
+                "Out and Play, Vegeta!",
+                "and Play, Vegeta!",
+                "Play, Vegeta!",
+                "Vegeta!"
+            ]
+        },
+        "expiration_date": 1733641140,
+        "title": "The Nightmare Recoome! Come Out and Play, Vegeta!",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1297.023,
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "episode_number": "30",
+        "original_air_date": 1435464000,
+        "clip_order": null,
+        "auth_launch_date": 1768903200,
+        "modified": 1768565449,
+        "airing_id": "RADS1001152600080723",
+        "media_id": "812af5b4d4aca9cae05a4305114b0a1d1f0e58dd",
+        "id": "tOnSnuADRWeLdmWDCCznsA",
+        "slug": "the-nightmare-recoome-come-out-and-play-vegeta",
+        "views": 6534,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155684080324217.jpg",
+        "created": 1430773060,
+        "season_number": "1",
+        "title_id": "2031641",
+        "tv_rating": "tv-pg-lv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1768565449,
+        "first_published": 1435321235,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "modified_by": "ODT Listener",
+        "launch_date": 1729405260,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684080324217.jpg",
+        "cma_id": "1090642"
     },
     {
         "auth": false,
