@@ -469,52 +469,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1768885140,
-        "tms_id": "",
-        "description": "After Hayley is deemed a \"big child\" by The Lady from The Hamster Rescue Society, she gets involved with two Roger personas.",
-        "title_suggest": {
-            "input": [
-                "An Adult Woman",
-                "Adult Woman",
-                "Woman"
-            ]
-        },
-        "title": "An Adult Woman",
-        "expiration_date": 1763355540,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 0,
-        "episode_number": "7",
-        "original_air_date": "1734319800",
-        "auth_launch_date": 1768280400,
-        "clip_order": null,
-        "airing_id": "RADS1001082600078875",
-        "media_id": "535b34000b82ea5511810b2692e3d95a9fc5ad0d",
-        "modified": 1767902065,
-        "slug": "an-adult-woman",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241126/thumbnails/1_2411261017178-AmDad-S19E07-AnAdultWoman-1920x1080.jpg",
-        "created": 1732634242,
-        "season_number": "19",
-        "title_id": "2445750",
-        "tv_rating": "tv-14-dlv",
-        "published": 1767902065,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1762750800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20241126/thumbnails/2_2411261017178-AmDad-S19E07-AnAdultWoman-1920x1080.jpg",
-        "id": "AZNpDGy8IFyXXN-f0M-j",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1768971540,
         "tms_id": "",
         "description": "After a nearly fatal interaction with one of Roger's personas, Steve and Stan work together to uncover the persona's mysterious past.",
@@ -1034,6 +988,51 @@
         "launch_date": 1763355600,
         "poster": "https://media.cdn.adultswim.com/uploads/20250221/thumbnails/2_25221138284-AmDad-S19E19-OhBrothelWhereArtThou-1920x1080.jpg",
         "id": "AZUpsmO44ijrGBacAUzN",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1769489940,
+        "tms_id": "",
+        "description": "When Rogu comes down with a mysterious illness, the Smiths struggle to find a cure.",
+        "title_suggest": {
+            "input": [
+                "The Sickness",
+                "Sickness"
+            ]
+        },
+        "title": "The Sickness",
+        "expiration_date": 1763960340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 0,
+        "episode_number": "19",
+        "original_air_date": "1741057200",
+        "auth_launch_date": 1768885200,
+        "clip_order": null,
+        "airing_id": "RADS1001152600080653",
+        "media_id": "f71ee07d38edce3df4b56148628cc97f8053e5f9",
+        "modified": 1768565436,
+        "slug": "the-sickness",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250221/thumbnails/1_25221138486-AmDad-S19E18-TheSickness-1920x1080.jpg",
+        "created": 1740161332,
+        "season_number": "19",
+        "title_id": "2445764",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1768565436,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1763355600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250221/thumbnails/2_25221138486-AmDad-S19E18-TheSickness-1920x1080.jpg",
+        "id": "AZUpsrPOem4-xVQSK9S4",
         "auth": true
     }
 ]
