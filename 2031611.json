@@ -878,6 +878,55 @@
         "cma_id": "1046205"
     },
     {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1770890340,
+        "tms_id": "EP012647370035",
+        "description": "Goku and his body are reunited, but the noble Saiyan is severely injured and unable to fight. A Namekian messenger rushes to assist Gohan and Krillin in summoning Shenron, but there's no guarantee he'll arrive before Frieza.",
+        "title_suggest": {
+            "input": [
+                "Goku's Comeback! Call Forth Porunga!",
+                "Comeback! Call Forth Porunga!",
+                "Call Forth Porunga!",
+                "Forth Porunga!",
+                "Porunga!"
+            ]
+        },
+        "expiration_date": 1734731940,
+        "title": "Goku's Comeback! Call Forth Porunga!",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1296.005,
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "episode_number": "35",
+        "original_air_date": 1439092800,
+        "clip_order": null,
+        "auth_launch_date": 1769076000,
+        "modified": 1768662651,
+        "airing_id": "RADS1001162600081526",
+        "media_id": "f535c48d67f80f6f8aa902fa0f1ad87c8c73411d",
+        "id": "SS_vQ_kKR26Gv5xBss8YYw",
+        "slug": "gokus-comeback-call-forth-porunga",
+        "views": 3096,
+        "created": 1430773166,
+        "season_number": "1",
+        "title_id": "2031646",
+        "tv_rating": "tv-pg-lv",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1768662651,
+        "first_published": 1438755627,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "modified_by": "ODT Listener",
+        "launch_date": 1733527800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/gokus-comeback-call-forth-porunga/dragonballzkai_cc_035_pt1.jpg",
+        "cma_id": "1103306"
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1768904940,
@@ -1327,6 +1376,58 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1770805740,
+        "tms_id": "EP012647370034",
+        "description": "Gohan and Krillin unearth the Dragon Balls, but their attempts to summon Shenron fail miserably. Later, Captain Ginyu's devious strategy forces Earth's warriors to do the unthinkable: attack Goku's flesh and bones with chilling ferocity!",
+        "title_suggest": {
+            "input": [
+                "Surprise! Goku is Ginyu and Ginyu is Goku?!",
+                "Goku is Ginyu and Ginyu is Goku?!",
+                "is Ginyu and Ginyu is Goku?!",
+                "Ginyu and Ginyu is Goku?!",
+                "and Ginyu is Goku?!",
+                "Ginyu is Goku?!",
+                "is Goku?!",
+                "Goku?!"
+            ]
+        },
+        "expiration_date": 1734132540,
+        "title": "Surprise! Goku is Ginyu and Ginyu is Goku?!",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1295.015,
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "episode_number": "34",
+        "original_air_date": 1438488000,
+        "clip_order": null,
+        "auth_launch_date": 1769076000,
+        "modified": 1768659034,
+        "airing_id": "RADS1001162600081524",
+        "media_id": "558809a81357c5f4753a618878283938da3cf817",
+        "id": "jq9o8EgHRbKMXKZe0o3JbQ",
+        "slug": "surprise-goku-is-ginyu-and-ginyu-is-goku",
+        "views": 2871,
+        "created": 1430773151,
+        "season_number": "1",
+        "title_id": "2031645",
+        "tv_rating": "tv-pg-lv",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1768659034,
+        "first_published": 1438154421,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "modified_by": "ODT Listener",
+        "launch_date": 1732923000,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/surprise-goku-is-ginyu-and-ginyu-is-goku/dragonballzkai_cc_034_pt1_1.jpg",
+        "cma_id": "1100716"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1771909140,
         "tms_id": "EP012647370009",
         "description": "The Saiyans have arrived, Goku isn't even on the planet, and the over-matched Z-Fighters represent Earth's last line of defense. When Vegeta and Nappa unleash the gruesome Saibamen, Yamcha picks a fight that could be his last!",
@@ -1547,7 +1648,7 @@
         "cma_id": "1088597"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1771909140,
         "tms_id": "EP012647370015",
