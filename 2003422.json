@@ -379,6 +379,55 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1770353940,
+        "tms_id": "",
+        "description": "Linda forces everyone to go on a family walk, and the kids stumble onto a bizarre conspiracy theory.",
+        "title_suggest": {
+            "input": [
+                "Like a Candle in the Gym",
+                "a Candle in the Gym",
+                "Candle in the Gym",
+                "in the Gym",
+                "the Gym",
+                "Gym"
+            ]
+        },
+        "title": "Like a Candle in the Gym",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "12",
+        "original_air_date": null,
+        "auth_launch_date": 1769144400,
+        "clip_order": null,
+        "airing_id": "RADS1001162600081563",
+        "media_id": "8601d16056d228a0f9e241a3e6d68b6e96f83e7c",
+        "modified": 1768720260,
+        "slug": "like-a-candle-in-the-gym",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_259291456475-BobsBurgers_1512.jpg",
+        "created": 1759172213,
+        "season_number": "15",
+        "title_id": "2569631",
+        "tv_rating": "tv-pg-l",
+        "published": 1768720260,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291456475-BobsBurgers_1512.jpg",
+        "id": "AZmW1blts_ErlMTJpQn_",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1769662740,
         "tms_id": "",
         "description": "Insomnia sends Bob on a creative spree in the kitchen, but at what cost?",
@@ -420,51 +469,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291511170-BobsBurgers_1516.jpg",
         "id": "AZmW4v6Xs_ErlMTJpQoB",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1769144340,
-        "tms_id": "",
-        "description": "Louise's schoolmate, Arnold, enlists her to direct a promotional video for his new bodyguarding business.",
-        "title_suggest": {
-            "input": [
-                "Mr. Safebody",
-                "Safebody"
-            ]
-        },
-        "title": "Mr. Safebody",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "21",
-        "original_air_date": null,
-        "auth_launch_date": 1767934800,
-        "clip_order": null,
-        "airing_id": "RADS1001032600077913",
-        "media_id": "b3819aa66bd8be91ffa19652f4e52f0e30afea89",
-        "modified": 1767509665,
-        "slug": "mr-safebody",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_259291524288-BobsBurgers_1521.jpg",
-        "created": 1759173901,
-        "season_number": "15",
-        "title_id": "2569640",
-        "tv_rating": "tv-pg-l",
-        "published": 1767509665,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291524288-BobsBurgers_1521.jpg",
-        "id": "AZmW736qs_ErlMTJpQoF",
         "auth": true
     }
 ]
