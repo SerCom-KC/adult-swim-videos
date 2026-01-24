@@ -1,49 +1,5 @@
 [
     {
-        "auth_expiration_date": 1769230740,
-        "tms_id": "",
-        "description": "Kydd and Felixx will do anything to avoid doing their paperwork, even if it means refusing to witness the alien attack happening right in front of them.",
-        "title_suggest": {
-            "input": [
-                "Paperwork"
-            ]
-        },
-        "title": "Paperwork",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AZBvkmVYSaru9Cdsy7Cx",
-        "duration": 660.4598,
-        "episode_number": "13",
-        "original_air_date": 1724041800,
-        "auth_launch_date": 1766206800,
-        "clip_order": null,
-        "airing_id": "RADS1012122500074682",
-        "media_id": "30e5237a40ae8ca3d1b834b29c1d77cd4934a228",
-        "modified": 1765955362,
-        "slug": "paperwork",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240826/thumbnails/1_248261520391-PSICOPS_SEASON1_EP113_SHOWSTILLS_IMAGE1_LEFTTORIGHT_KYDDCLEMENTINEBEDROOMSMOKE.jpg",
-        "created": 1723674689,
-        "title_id": "2530067",
-        "season_number": "1",
-        "tv_rating": "tv-ma-v",
-        "published": 1765955362,
-        "tags": [],
-        "collection_title": "Psi-Cops",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240826/thumbnails/2_248261520391-PSICOPS_SEASON1_EP113_SHOWSTILLS_IMAGE1_LEFTTORIGHT_KYDDCLEMENTINEBEDROOMSMOKE.jpg",
-        "id": "AZFTBIFKSaru9Cdsy7mU",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1769835540,
         "tms_id": "",
         "description": "Provoking a witch is usually a bad idea. Unless it means you get to wear crop tops.",
@@ -181,6 +137,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20240826/thumbnails/2_248261522444-PSICOPS_SEASON1_EP114_SHOWSTILLS_IMAGE4_KYDDFLYING.jpg",
         "id": "AZFyfgIJg6zBH7G86thH",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1772254740,
+        "tms_id": "",
+        "description": "Best way to catch a Vampire? Stake Out!",
+        "title_suggest": {
+            "input": [
+                "Stake Out",
+                "Out"
+            ]
+        },
+        "title": "Stake Out",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZBvkmVYSaru9Cdsy7Cx",
+        "duration": 660.4598,
+        "episode_number": "18",
+        "original_air_date": 1725252300,
+        "auth_launch_date": 1769230800,
+        "clip_order": null,
+        "airing_id": "RADS1001182600081703",
+        "media_id": "6aa52ba3abf5cfdc16c5e1daa114dbe836f2b1bb",
+        "modified": 1768808469,
+        "slug": "stake-out",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241016/thumbnails/1_241016119366-PSICOPS_SEASON1_EP118_SHOWSTILLS_IMAGE2_LEFTTORIGHT_KYDDBITSIEFELIXXBLOODYFACEINCAR.jpg",
+        "created": 1724814850,
+        "title_id": "2530062",
+        "season_number": "1",
+        "tv_rating": "tv-ma-sv",
+        "published": 1768808469,
+        "tags": [],
+        "collection_title": "Psi-Cops",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20241016/thumbnails/2_241016119366-PSICOPS_SEASON1_EP118_SHOWSTILLS_IMAGE2_LEFTTORIGHT_KYDDBITSIEFELIXXBLOODYFACEINCAR.jpg",
+        "id": "AZGW-fm6g6zBH7G86thL",
         "auth": true
     },
     {
