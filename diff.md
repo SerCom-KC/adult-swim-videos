@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 27, 2026 at 05:30:14 EST_
+_Last Update: January 27, 2026 at 06:00:23 EST_
 ## Video added
 ### Summary
 2031611 Dragon Ball Z Kai: 1  
-### 2031652
-**Dragon Ball Z Kai S01E41 - The Moment of Truth Approaches! Goku Back in Action!**  
-TV-PG-LV 🔒 21:08  
+### 2031653
+**Dragon Ball Z Kai S01E42 - Defeat Frieza, Goku! The Tears of the Proud Saiyan Prince!**  
+TV-PG-LV 🔒 22:02  
 ⌛ February 23, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/dragon-ball-z-kai/the-moment-of-truth-approaches-goku-back-in-action  
-seriesid=`2031611` titleid=`2031652` id=`XtGr-Z8OQs-cwO9zTeNgNQ` mediaid=`60e89cd3c49c1cc8055936beb601e6a99b55630e`  
-_Vegeta gives his increased power and speed a test run by launching a violent attack on Frieza, but no matter how furiously he fights, the Saiyan is unable to penetrate his enemy's defenses!_  
-<a href="https://i.cdn.turner.com/adultswim/big/video/the-moment-of-truth-approaches-goku-back-in-action/dragonballzkai_041_air_cid-2KN84_2.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-moment-of-truth-approaches-goku-back-in-action/dragonballzkai_041_air_cid-2KN84_2.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/dragon-ball-z-kai/defeat-frieza-goku-the-tears-of-the-proud-saiyan-prince  
+seriesid=`2031611` titleid=`2031653` id=`2SIn9g-HTCaGVn3eh6BSew` mediaid=`4a70424252ed341becb0fe88a7d9c69f74953395`  
+_Goku arrives at the battle scene only to find Vegeta battered and badly beaten. With his dying breath, the Saiyan prince reveals the truth about Frieza's roll in the death of Goku's father, prompting a fierce outburst of Saiyan pride!_  
+<a href="https://i.cdn.turner.com/adultswim/big/video/defeat-frieza-goku-the-tears-of-the-proud-saiyan-prince/dragonballzkai_042_air_cid-2KNT5.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/defeat-frieza-goku-the-tears-of-the-proud-saiyan-prince/dragonballzkai_042_air_cid-2KNT5.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
