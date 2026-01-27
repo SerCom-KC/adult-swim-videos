@@ -564,6 +564,51 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1769489940,
+        "tms_id": "",
+        "description": "When Rogu comes down with a mysterious illness, the Smiths struggle to find a cure.",
+        "title_suggest": {
+            "input": [
+                "The Sickness",
+                "Sickness"
+            ]
+        },
+        "title": "The Sickness",
+        "expiration_date": 1763960340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 0,
+        "episode_number": "19",
+        "original_air_date": "1741057200",
+        "auth_launch_date": 1768885200,
+        "clip_order": null,
+        "airing_id": "RADS1001152600080653",
+        "media_id": "f71ee07d38edce3df4b56148628cc97f8053e5f9",
+        "modified": 1768565436,
+        "slug": "the-sickness",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250221/thumbnails/1_25221138486-AmDad-S19E18-TheSickness-1920x1080.jpg",
+        "created": 1740161332,
+        "season_number": "19",
+        "title_id": "2445764",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1768565436,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1763355600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250221/thumbnails/2_25221138486-AmDad-S19E18-TheSickness-1920x1080.jpg",
+        "id": "AZUpsrPOem4-xVQSK9S4",
+        "auth": false
+    },
+    {
         "auth_expiration_date": 1769576340,
         "tms_id": "",
         "description": "Steve spends his summer working on an app with some unlikely friends, while the rest of the family become cord-cutters.",
@@ -697,54 +742,6 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20250310/thumbnails/2_25310162643-AmDad-S19E22-Guardian-1920x1080.jpg",
         "id": "AZWBvHcM4ijrGBacAU8D",
         "auth": true
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1770094740,
-        "tms_id": "EP007164450100",
-        "description": "When Hayley and her old boyfriend, Jeff, elope, Stan freaks out and offers a reward to anyone who can stop them, sparking a wild goose chase throughout town.",
-        "title_suggest": {
-            "input": [
-                "100 A.D.",
-                "A.D."
-            ]
-        },
-        "title": "100 A.D.",
-        "type": "episode",
-        "expiration_date": 1650254340,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1307.5062,
-        "episode_number": "1",
-        "original_air_date": 1287201600,
-        "auth_launch_date": 1769490000,
-        "clip_order": null,
-        "modified": 1769102732,
-        "media_id": "4947bca08f41009118b17ccaa16c30e4fca4bb76",
-        "airing_id": "RADS1001222600081951",
-        "id": "D2diUmZ4SQCQm3lQPfcAGg",
-        "slug": "100-a-d",
-        "views": 2846,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15289902355402.jpg",
-        "created": 1445574046,
-        "title_id": "748140",
-        "tv_rating": "tv-14",
-        "season_number": "6",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1769102732,
-        "first_published": 1445574046,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1649649600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15289902355402.jpg",
-        "cma_id": "1459744"
     },
     {
         "auth": true,
