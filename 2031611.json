@@ -822,7 +822,7 @@
         "cma_id": "1052851"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1771909140,
         "tms_id": "EP012647370016",
@@ -1367,6 +1367,63 @@
         "launch_date": 1767175200,
         "poster": "https://media.cdn.adultswim.com/uploads/20240311/thumbnails/2_243111226375-Screenshot2024-03-11at12.25.59PM.png",
         "cma_id": "1034392"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1771909140,
+        "tms_id": "EP012647370041",
+        "description": "Vegeta gives his increased power and speed a test run by launching a violent attack on Frieza, but no matter how furiously he fights, the Saiyan is unable to penetrate his enemy's defenses!",
+        "title_suggest": {
+            "input": [
+                "The Moment of Truth Approaches! Goku Back in Action!",
+                "Moment of Truth Approaches! Goku Back in Action!",
+                "of Truth Approaches! Goku Back in Action!",
+                "Truth Approaches! Goku Back in Action!",
+                "Approaches! Goku Back in Action!",
+                "Goku Back in Action!",
+                "Back in Action!",
+                "in Action!",
+                "Action!"
+            ]
+        },
+        "expiration_date": 1735340340,
+        "title": "The Moment of Truth Approaches! Goku Back in Action!",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1268,
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "episode_number": "41",
+        "original_air_date": 1443326400,
+        "clip_order": null,
+        "auth_launch_date": 1769508000,
+        "modified": 1769145980,
+        "airing_id": "RADS1001232600082063",
+        "media_id": "60e89cd3c49c1cc8055936beb601e6a99b55630e",
+        "id": "XtGr-Z8OQs-cwO9zTeNgNQ",
+        "slug": "the-moment-of-truth-approaches-goku-back-in-action",
+        "views": 3037,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1430773315,
+        "season_number": "1",
+        "title_id": "2031652",
+        "tv_rating": "tv-pg-lv",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1769145980,
+        "first_published": 1442992819,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1734733800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-moment-of-truth-approaches-goku-back-in-action/dragonballzkai_041_air_cid-2KN84_2.jpg",
+        "cma_id": "1119355"
     },
     {
         "auth": true,
