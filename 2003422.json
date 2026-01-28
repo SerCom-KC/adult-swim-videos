@@ -96,6 +96,52 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1770785940,
+        "tms_id": "",
+        "description": "A school assignment about careers sends Louise spiraling, trying to imagine what her future might hold.",
+        "title_suggest": {
+            "input": [
+                "What About Job?",
+                "About Job?",
+                "Job?"
+            ]
+        },
+        "title": "What About Job?",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "3",
+        "original_air_date": null,
+        "auth_launch_date": 1769576400,
+        "clip_order": null,
+        "airing_id": "RADS1001232600082070",
+        "media_id": "49bfb9fb52a9297860e0795c48b7f51d309323d0",
+        "modified": 1769173818,
+        "slug": "what-about-job",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181027498-BobsBurgers_1303.jpg",
+        "created": 1758205673,
+        "season_number": "13",
+        "title_id": "2569569",
+        "tv_rating": "tv-pg-lv",
+        "published": 1769173818,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181027498-BobsBurgers_1303.jpg",
+        "id": "AZldOYD1s_ErlMTJpQnn",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1770008340,
         "tms_id": "",
         "description": "Gayle tells the family she's sending in an audition tape to be on Tough Stuff Island.",
@@ -140,52 +186,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181633100-BobsBurgers_1415.jpg",
         "id": "AZleh_tes_ErlMTJpQn2",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1769576340,
-        "tms_id": "",
-        "description": "The family gets invited to Rudy's father's birthday party.",
-        "title_suggest": {
-            "input": [
-                "The Big Stieblitzki",
-                "Big Stieblitzki",
-                "Stieblitzki"
-            ]
-        },
-        "title": "The Big Stieblitzki",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "14",
-        "original_air_date": null,
-        "auth_launch_date": 1768366800,
-        "clip_order": null,
-        "airing_id": "RADS1001092600079024",
-        "media_id": "21b55f12edb0329243534d0fcd4e5bbe73928a6f",
-        "modified": 1767980376,
-        "slug": "the-big-stieblitzki",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181631201-BobsBurgers_1414.jpg",
-        "created": 1758227483,
-        "season_number": "14",
-        "title_id": "2569601",
-        "tv_rating": "tv-pg-l",
-        "published": 1767980376,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181631201-BobsBurgers_1414.jpg",
-        "id": "AZlehkwUs_ErlMTJpQn1",
         "auth": true
     },
     {

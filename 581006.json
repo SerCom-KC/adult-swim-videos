@@ -564,51 +564,6 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1769576340,
-        "tms_id": "",
-        "description": "Steve spends his summer working on an app with some unlikely friends, while the rest of the family become cord-cutters.",
-        "title_suggest": {
-            "input": [
-                "Silicon Steve",
-                "Steve"
-            ]
-        },
-        "title": "Silicon Steve",
-        "expiration_date": 1763960340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 0,
-        "episode_number": "20",
-        "original_air_date": "1742173200",
-        "auth_launch_date": 1768971600,
-        "clip_order": null,
-        "airing_id": "RADS1001162600080965",
-        "media_id": "c2ff25bcde82f6503fe8fbecd7de9bf523adac7a",
-        "modified": 1768593333,
-        "slug": "silicon-steve",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250310/thumbnails/1_253101033282-AmDad-S19E20-SiliconSteve-1920x1080.jpg",
-        "created": 1741617211,
-        "season_number": "19",
-        "title_id": "2445763",
-        "tv_rating": "tv-14-dl",
-        "published": 1768593333,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1763355600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250310/thumbnails/2_253101033282-AmDad-S19E20-SiliconSteve-1920x1080.jpg",
-        "id": "AZWAeagFem4-xVQSK9Zf",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1769662740,
         "tms_id": "",
         "description": "An aspiring inventor leaves the Farm to make a go of it in The Big City.",
@@ -652,50 +607,6 @@
         "launch_date": 1763355600,
         "poster": "https://media.cdn.adultswim.com/uploads/20250310/thumbnails/2_253101033478-AmDad-S19E21-WhatGreatAdvancements-1920x1080.jpg",
         "id": "AZWAefN04ijrGBacAU8A",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1769576340,
-        "tms_id": "",
-        "description": "Stan uses a mothballed military computer to do Steve's math homework, starting the clock toward nuclear annihilation.",
-        "title_suggest": {
-            "input": [
-                "Guardian"
-            ]
-        },
-        "title": "Guardian",
-        "expiration_date": 1763960340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 0,
-        "episode_number": "21",
-        "original_air_date": "1744938000",
-        "auth_launch_date": 1768971600,
-        "clip_order": null,
-        "airing_id": "RADS1001162600080967",
-        "media_id": "8e10c8f3b63a816dc4747394ccfee08792a17a9d",
-        "modified": 1768572683,
-        "slug": "guardian",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250310/thumbnails/1_25310162643-AmDad-S19E22-Guardian-1920x1080.jpg",
-        "created": 1741638366,
-        "season_number": "19",
-        "title_id": "2445765",
-        "tv_rating": "tv-14-dlsv",
-        "published": 1768572683,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1763355600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250310/thumbnails/2_25310162643-AmDad-S19E22-Guardian-1920x1080.jpg",
-        "id": "AZWBvHcM4ijrGBacAU8D",
         "auth": true
     },
     {
@@ -953,6 +864,58 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1770181140,
+        "tms_id": "EP007164450102",
+        "description": "After hosting the scariest haunted house in the neighborhood for years, Stan is threatened by a competitive neighbor.",
+        "title_suggest": {
+            "input": [
+                "Best Little Horror House in Langley Falls",
+                "Little Horror House in Langley Falls",
+                "Horror House in Langley Falls",
+                "House in Langley Falls",
+                "in Langley Falls",
+                "Langley Falls",
+                "Falls"
+            ]
+        },
+        "title": "Best Little Horror House in Langley Falls",
+        "type": "episode",
+        "expiration_date": 1650254340,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1307.4729,
+        "episode_number": "3",
+        "original_air_date": 1290229200,
+        "auth_launch_date": 1769576400,
+        "clip_order": null,
+        "modified": 1769154069,
+        "media_id": "547e2e764ee5331028cbc20ff23c8d964cbf82be",
+        "airing_id": "RADS1001232600082069",
+        "id": "h9iwNwUDRQ6Sa7MwiFV0eg",
+        "slug": "best-little-horror-house-in-langley-falls",
+        "views": 1327,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152002043995718.jpg",
+        "created": 1477458643,
+        "title_id": "822206",
+        "tv_rating": "tv-14",
+        "season_number": "6",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1769154069,
+        "first_published": 1477458643,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1649649600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002043995718.jpg",
+        "cma_id": "822206"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1769835540,
         "tms_id": "EP007164450091",
         "description": "Stan is appalled to discover that Roger - a \"Miracle On Ice\" hockey team member - used steroids; Hayley finds herself falling for Reginald.",
@@ -1053,5 +1016,54 @@
         "launch_date": null,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15283829436196.jpg",
         "cma_id": "1456435"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1770181140,
+        "tms_id": "EP007164450101",
+        "description": "After Stan creates a clone of Steve, Francine and Stan compete with each other to determine who has better parenting skills. Meanwhile, Roger tracks down the AWOL bride and groom in Thailand.",
+        "title_suggest": {
+            "input": [
+                "Son of Stan",
+                "of Stan",
+                "Stan"
+            ]
+        },
+        "title": "Son of Stan",
+        "type": "episode",
+        "expiration_date": 1650254340,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1307.1058,
+        "episode_number": "2",
+        "original_air_date": 1287806400,
+        "auth_launch_date": 1769576400,
+        "clip_order": null,
+        "modified": 1769154065,
+        "media_id": "f2056eb2ad57ca7adad9be52f812a029a11a454e",
+        "airing_id": "RADS1001232600082067",
+        "id": "vMuDr63sSa2FG3wyg6TMJg",
+        "slug": "son-of-stan",
+        "views": 3024,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15289902715049.jpg",
+        "created": 1424236823,
+        "title_id": "748143",
+        "tv_rating": "tv-14",
+        "season_number": "6",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1769154065,
+        "first_published": 1424236823,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1649649600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15289902715049.jpg",
+        "cma_id": "1460911"
     }
 ]
