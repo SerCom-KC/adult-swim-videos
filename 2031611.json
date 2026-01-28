@@ -1857,7 +1857,7 @@
         "cma_id": "1037455"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1769594340,
         "tms_id": "EP012647370023",
@@ -2185,7 +2185,7 @@
         "cma_id": "1055926"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1771909140,
         "tms_id": "EP012647370018",
@@ -2296,56 +2296,5 @@
         "launch_date": 1767780000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568402084023.jpg",
         "cma_id": "1050184"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1771909140,
-        "tms_id": "EP012647370043",
-        "description": "Goku and Frieza go head to head in a vicious slugfest that threatens to destroy the planet of Namek. Krillin and Gohan are amazed by the brutality of the battle, but Piccolo believes two warriors are just warming up!",
-        "title_suggest": {
-            "input": [
-                "Goku vs. Frieza! The Super Showdown Begins!",
-                "vs. Frieza! The Super Showdown Begins!",
-                "Frieza! The Super Showdown Begins!",
-                "The Super Showdown Begins!",
-                "Super Showdown Begins!",
-                "Showdown Begins!",
-                "Begins!"
-            ]
-        },
-        "expiration_date": 1744531140,
-        "title": "Goku vs. Frieza! The Super Showdown Begins!",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 1329.83,
-        "collection_id": "duzujScQQRKOubvQENdNag",
-        "episode_number": "43",
-        "original_air_date": 1444536000,
-        "clip_order": null,
-        "auth_launch_date": 1769594400,
-        "modified": 1769167575,
-        "airing_id": "RADS1001232600082143",
-        "media_id": "54c144eace96b5f7735a4dedaec01ecbc6a40422",
-        "id": "znsKsAi9QFSeE-iHuLT1BQ",
-        "slug": "goku-vs-frieza-the-super-showdown-begins",
-        "views": 3270,
-        "created": 1430773350,
-        "season_number": "1",
-        "title_id": "2031654",
-        "tv_rating": "tv-pg-lv",
-        "active": false,
-        "ott_expiration_date": null,
-        "published": 1769167575,
-        "first_published": 1444242091,
-        "tags": [],
-        "collection_title": "Dragon Ball Z Kai",
-        "modified_by": "ODT Listener",
-        "launch_date": 1741572000,
-        "poster": "https://i.cdn.turner.com/adultswim/big/video/goku-vs-frieza-the-super-showdown-begins/dragonballzkai_043_air_cid-2KW70.jpg",
-        "cma_id": "1123734"
     }
 ]
