@@ -1483,7 +1483,7 @@
         "cma_id": "1119355"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1769596140,
         "tms_id": "EP012647370024",
@@ -1538,6 +1538,61 @@
         "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1771909140,
+        "tms_id": "EP012647370044",
+        "description": "The bruises are multiplying as Goku and Frieza continue to pummel each other mercilessly! Meanwhile, Bulma's encounter with an unusual frog leads to an out-of-body experience!",
+        "title_suggest": {
+            "input": [
+                "A Boundary-Pushing Brawl! Goku, Frieza, and Ginyu Again?!",
+                "Boundary-Pushing Brawl! Goku, Frieza, and Ginyu Again?!",
+                "Brawl! Goku, Frieza, and Ginyu Again?!",
+                "Goku, Frieza, and Ginyu Again?!",
+                "Frieza, and Ginyu Again?!",
+                "and Ginyu Again?!",
+                "Ginyu Again?!",
+                "Again?!"
+            ]
+        },
+        "expiration_date": 1745132340,
+        "title": "A Boundary-Pushing Brawl! Goku, Frieza, and Ginyu Again?!",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1267,
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "episode_number": "44",
+        "original_air_date": 1445140800,
+        "clip_order": null,
+        "auth_launch_date": 1769596200,
+        "modified": 1769169328,
+        "airing_id": "RADS1001232600082145",
+        "media_id": "71b69c8ac0f5e2d8d863634a4f76efb7ffa790b7",
+        "id": "_UOiPyw3SBqDCEiwoPQ1YQ",
+        "slug": "a-boundary-pushing-brawl-goku-frieza-and-ginyu-again",
+        "views": 2744,
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1430773367,
+        "season_number": "1",
+        "title_id": "2031655",
+        "tv_rating": "tv-pg-lv",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1769169328,
+        "first_published": 1444807218,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1742191200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/a-boundary-pushing-brawl-goku-frieza-and-ginyu-again/dragonballzkai_044_air_cid-2M4FM.jpg",
+        "cma_id": "1126394"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1771909140,
         "tms_id": "EP012647370039",
         "description": "Piccolo joins the battle in progress and quickly attacks Frieza with the strength of two Namekian warriors. The powerful villain is caught off guard, but a second transformation gives him the strength to finish the fight once and for all!",
         "title_suggest": {
@@ -1584,7 +1639,7 @@
         "cma_id": "1114711"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1771909140,
         "tms_id": "EP012647370019",
