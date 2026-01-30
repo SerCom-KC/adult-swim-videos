@@ -188,6 +188,55 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1770958740,
+        "tms_id": "",
+        "description": "The Belchers are out to a ball game.",
+        "title_suggest": {
+            "input": [
+                "So You Stink You Can Dance",
+                "You Stink You Can Dance",
+                "Stink You Can Dance",
+                "You Can Dance",
+                "Can Dance",
+                "Dance"
+            ]
+        },
+        "title": "So You Stink You Can Dance",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "5",
+        "original_air_date": null,
+        "auth_launch_date": 1769749200,
+        "clip_order": null,
+        "airing_id": "RADS1001262600082572",
+        "media_id": "220ef21b4d6d951b6c02b04adaf548c12b6416ba",
+        "modified": 1769393465,
+        "slug": "so-you-stink-you-can-dance",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_25918112346-BobsBurgers_1305.jpg",
+        "created": 1758207761,
+        "season_number": "13",
+        "title_id": "2569571",
+        "tv_rating": "tv-pg-dl",
+        "published": 1769393465,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_25918112346-BobsBurgers_1305.jpg",
+        "id": "AZldWVq_yEF1_1NDe6aS",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1770008340,
         "tms_id": "",
         "description": "Gayle tells the family she's sending in an audition tape to be on Tough Stuff Island.",
@@ -279,56 +328,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181633518-BobsBurgers_1416.jpg",
         "id": "AZleiLUyyEF1_1NDe6bR",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1769749140,
-        "tms_id": "",
-        "description": "Tina attempts to save her school news segment by interviewing Mr. Frond about his revolutionary new computer game.",
-        "title_suggest": {
-            "input": [
-                "The Tina Table: The Tables Have Tina-ed",
-                "Tina Table: The Tables Have Tina-ed",
-                "Table: The Tables Have Tina-ed",
-                "The Tables Have Tina-ed",
-                "Tables Have Tina-ed",
-                "Have Tina-ed",
-                "Tina-ed"
-            ]
-        },
-        "title": "The Tina Table: The Tables Have Tina-ed",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "1",
-        "original_air_date": null,
-        "auth_launch_date": 1768539600,
-        "clip_order": null,
-        "airing_id": "RADS1001122600079508",
-        "media_id": "8656ec71a86b76a94521b7c79fd294b290ac25e6",
-        "modified": 1768187393,
-        "slug": "the-tina-table-the-tables-have-tina-ed",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/1_259221530313-BobsBurgers_1501.jpg",
-        "created": 1758570216,
-        "season_number": "15",
-        "title_id": "2569620",
-        "tv_rating": "tv-pg-l",
-        "published": 1768187393,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/2_259221530313-BobsBurgers_1501.jpg",
-        "id": "AZly8_tos_ErlMTJpQn3",
         "auth": true
     },
     {
