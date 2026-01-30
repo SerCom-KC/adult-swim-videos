@@ -2,60 +2,43 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: January 30, 2026 at 00:00:22 EST_
+_Last Update: January 30, 2026 at 00:30:14 EST_
 ## Video added
 ### Summary
-581006 American Dad: 2  
-2003422 Bob's Burgers: 1  
-### 822209
-**American Dad S06E06 - The People Vs. Martin Sugar**  
-TV-14 🔒 21:47  
-⌛ February 5, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/the-people-vs-martin-sugar  
-seriesid=`581006` titleid=`822209` id=`Ug7GhGosSgi2s18Wa63WwQ` mediaid=`138d29d5aa19afacba6c24428488bfc70c1da6f8`  
-_Stan serves as jury foreman for the trial of one of Roger's personae, and he is hell-bent on making sure the jury finds him guilty._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15299517583488.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15299517583488.jpg" height="144px" /></a>
-### 822208
-**American Dad S06E18 - There Will Be Bad Blood**  
-TV-14 🔒 21:40  
-⌛ February 5, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/there-will-be-bad-blood  
-seriesid=`581006` titleid=`822208` id=`-n7pptEaSK-nCb751T7B4w` mediaid=`1901effee4b06f454a712c0f86a9fd188da9a7e2`  
-_The Smiths prepare for the arrival of Stan's half-brother's family for Thanksgiving._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154335655553018.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154335655553018.jpg" height="144px" /></a>
-### 2569571
-**Bob's Burgers S13E05 - So You Stink You Can Dance**  
-TV-PG-DL 🔒 00:00  
-⌛ February 12, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/so-you-stink-you-can-dance  
-seriesid=`2003422` titleid=`2569571` id=`AZldWVq_yEF1_1NDe6aS` mediaid=`220ef21b4d6d951b6c02b04adaf548c12b6416ba`  
-_The Belchers are out to a ball game._  
-<a href="https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_25918112346-BobsBurgers_1305.jpg"><img src="https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_25918112346-BobsBurgers_1305.jpg" height="144px" /></a>
+2388924 Royal Crackers: 1  
+439722 The Venture Bros.: 2  
+### 2424749
+**Royal Crackers S02E09 - Prison**  
+TV-14-DLSV 🔓 21:33  
+⌛ March 5, 2026 at 23:59:00 EST  
+https://www.adultswim.com/videos/royal-crackers/prison  
+seriesid=`2388924` titleid=`2424749` id=`AY73fIDr5I1d0UhX5iFr` mediaid=`ff5b9e4a1bdcf9c1389be4da63d455d52a08f99a`  
+_Stebe gets sent to white collar prison, where he quickly becomes one of the most popular inmates. However, when Theo gets locked up too, Stebe's position as the 'cool guy' comes under threat._  
+<a href="https://media.cdn.adultswim.com/uploads/20240426/thumbnails/2_244261522373-Screenshot2024-04-26at3.21.50PM.png"><img src="https://media.cdn.adultswim.com/uploads/20240426/thumbnails/2_244261522373-Screenshot2024-04-26at3.21.50PM.png" height="144px" /></a>
+### 2024900
+**The Venture Bros. S06E01 - All This and Gargantua-2**  
+TV-14-DLSV 🔓 47:06  
+⌛ November 25, 2026 at 23:59:00 EST  
+https://www.adultswim.com/videos/the-venture-bros/all-this-and-gargantua-2  
+seriesid=`439722` titleid=`2024900` id=`xVXDCQf_QyaSYnWy9Kc0Wg` mediaid=`b5cccbe9b7107fc3e47ff92a278755a19318fe2f`  
+_Join the Ventures--and pretty much everyone they've ever crossed paths with--as they rocket to the Gargantua-2 space station for an epic, hour-long adventure that will change the Ventureverse as we know it forever._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161414120-venture_601_602_dup_20150108.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161414120-venture_601_602_dup_20150108.jpg" height="144px" /></a>
+### 2002556
+**The Venture Bros. S05E09 - The Devil's Grip**  
+TV-14-DLSV 🔓 22:31  
+⌛ November 25, 2026 at 23:59:00 EST  
+https://www.adultswim.com/videos/the-venture-bros/the-devils-grip  
+seriesid=`439722` titleid=`2002556` id=`_BVqJNyNTvq_qlsBZLqqVw` mediaid=`f6d4f5e44bee7e33f9c1dcd62bfcb520421ec710`  
+_Dr. Venture is missing... presumed dead. Sgt. Hatred sends Hank and Dean to live with their godfathers to keep them out of harm's way while he forges an unlikely alliance with Henchman 21 to wreak vengeance._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161412476-venture_506_dup_20130710.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161412476-venture_506_dup_20130710.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 1  
-581006 American Dad: 2  
-### 2569620
-**Bob's Burgers S15E01 - The Tina Table: The Tables Have Tina-ed**  
-TV-PG-L 🔒 00:00  
+547867 Tom Goes To The Mayor: 1  
+### 607110
+**Tom Goes To The Mayor S01E05 - Toodle Day**  
+TV-PG-S 🔓 11:37  
 ⌛ January 29, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/the-tina-table-the-tables-have-tina-ed  
-seriesid=`2003422` titleid=`2569620` id=`AZly8_tos_ErlMTJpQn3` mediaid=`8656ec71a86b76a94521b7c79fd294b290ac25e6`  
-_Tina attempts to save her school news segment by interviewing Mr. Frond about his revolutionary new computer game._  
-<a href="https://media.cdn.adultswim.com/uploads/20250922/thumbnails/2_259221530313-BobsBurgers_1501.jpg"><img src="https://media.cdn.adultswim.com/uploads/20250922/thumbnails/2_259221530313-BobsBurgers_1501.jpg" height="144px" /></a>
-### 748130
-**American Dad S05E02 - A Jones for a Smith**  
-TV-14 🔒 21:46  
-⌛ January 29, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/a-jones-for-a-smith  
-seriesid=`581006` titleid=`748130` id=`WtdAfSJiQh-buf7iWEfFyA` mediaid=`ddcb701ea9fdebf9e53ac6924de6f3423e2ff74c`  
-_Stan puts down liberal social programs because he thinks they're a waste of money and gives Francine a hard time for lending a helping hand at the local homeless shelter._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199410990182.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199410990182.jpg" height="144px" /></a>
-### 748135
-**American Dad S05E03 - May the Best Stan Win**  
-TV-14-DLS 🔒 21:47  
-⌛ January 29, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/may-the-best-stan-win  
-seriesid=`581006` titleid=`748135` id=`XUK828lPT2K7glAihZ5Jzw` mediaid=`49a98110eba5b813954d40b446145a1e98460781`  
-_As Valentine's Day approaches...a cyborg version of Stan attempts to steal Francine away from Stan; Roger directs a shot-for-shot remake of the movie "The Goonies."_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152847347075519.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152847347075519.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/tom-goes-to-the-mayor/toodle-day  
+seriesid=`547867` titleid=`607110` id=`CcgkwbHOTTmWaIb3Pjdj7A` mediaid=`36151c8460cbcfdc7da7d9b7e0aee503a3f5183b`  
+_At the request of the Mayor, Tom marries all the dogs in Jefferton. Jeff Goldblum guest stars as a pet store owner._  
+<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117835486-tgttm_005.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117835486-tgttm_005.jpg" height="144px" /></a>
