@@ -1,51 +1,5 @@
 [
     {
-        "auth_expiration_date": 1769835540,
-        "tms_id": "",
-        "description": "Provoking a witch is usually a bad idea. Unless it means you get to wear crop tops.",
-        "title_suggest": {
-            "input": [
-                "Old Witchy Hag",
-                "Witchy Hag",
-                "Hag"
-            ]
-        },
-        "title": "Old Witchy Hag",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AZBvkmVYSaru9Cdsy7Cx",
-        "duration": 660.4598,
-        "episode_number": "14",
-        "original_air_date": 1724042700,
-        "auth_launch_date": 1766811600,
-        "clip_order": null,
-        "airing_id": "RADS1012132500075194",
-        "media_id": "ba103910617099c0f7b0ecb4050f1d1e3c476e9e",
-        "modified": 1766560119,
-        "slug": "old-witchy-hag",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240826/thumbnails/1_248261521511-PSICOPS_SEASON1_EP114_SHOWSTILLS_IMAGE1_LEFTTORIGHT_KYDDPEPEFELIXXCARDEATH.jpg",
-        "created": 1723674699,
-        "title_id": "2530065",
-        "season_number": "1",
-        "tv_rating": "tv-ma-v",
-        "published": 1766560119,
-        "tags": [],
-        "collection_title": "Psi-Cops",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240826/thumbnails/2_248261521511-PSICOPS_SEASON1_EP114_SHOWSTILLS_IMAGE1_LEFTTORIGHT_KYDDPEPEFELIXXCARDEATH.jpg",
-        "id": "AZFTBKUeSaru9Cdsy7mV",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1771045140,
         "tms_id": "",
         "description": "Juggling guns, flying planes and driving backwards- just a few of the things that you should do to avoid being killed by the Shadows of Death.",
@@ -137,6 +91,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20240826/thumbnails/2_248261522444-PSICOPS_SEASON1_EP114_SHOWSTILLS_IMAGE4_KYDDFLYING.jpg",
         "id": "AZFyfgIJg6zBH7G86thH",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1772859540,
+        "tms_id": "",
+        "description": "Stone enlists Kydd and Felixx on their most dangerous mission yet\u2026 breaking a cute magical monkey out of the evidence room.",
+        "title_suggest": {
+            "input": [
+                "The Djinn",
+                "Djinn"
+            ]
+        },
+        "title": "The Djinn",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZBvkmVYSaru9Cdsy7Cx",
+        "duration": 660.4598,
+        "episode_number": "19",
+        "original_air_date": 1725856200,
+        "auth_launch_date": 1769835600,
+        "clip_order": null,
+        "airing_id": "RADS1001262600082656",
+        "media_id": "36fc881e73da4b99fd712f1bb7f999bf8f161c5b",
+        "modified": 1769409665,
+        "slug": "the-djinn",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241016/thumbnails/1_2410161110182-PSICOPS_SEASON1_EP119_SHOWSTILLS_IMAGE3_PARTYDISGUISESWIDE.jpg",
+        "created": 1725479248,
+        "title_id": "2530061",
+        "season_number": "1",
+        "tv_rating": "tv-ma-v",
+        "published": 1769409665,
+        "tags": [],
+        "collection_title": "Psi-Cops",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20241016/thumbnails/2_2410161110182-PSICOPS_SEASON1_EP119_SHOWSTILLS_IMAGE3_PARTYDISGUISESWIDE.jpg",
+        "id": "AZG-k-Gcg6zBH7G86thO",
         "auth": true
     },
     {
