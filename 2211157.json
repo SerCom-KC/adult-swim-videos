@@ -1026,6 +1026,53 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1771820940,
+        "tms_id": "",
+        "description": "A caveman at the dawn of evolution and a dinosaur on the brink of extinction are bonded by tragedy. This unlikely friendship becomes the only hope of survival in a violent, primordial world.",
+        "title_suggest": {
+            "input": [
+                "Prey for the Wicked",
+                "for the Wicked",
+                "the Wicked",
+                "Wicked"
+            ]
+        },
+        "title": "Prey for the Wicked",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWzZcF8hCorLtcgfluAN",
+        "duration": 1358.8575,
+        "episode_number": "4",
+        "original_air_date": null,
+        "auth_launch_date": 1770006600,
+        "clip_order": null,
+        "airing_id": "RADS1001262600082800",
+        "media_id": "3b001f05eac21c0dfd016e3c5c2a4da50c8eb228",
+        "modified": 1769532941,
+        "slug": "prey-for-the-wicked",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20260105/thumbnails/1_26152217546-AS_Primal_S3_04_24_PreyForTheWicked_PlatformPreferred.png",
+        "created": 1767669488,
+        "season_number": "3",
+        "title_id": "2449470",
+        "tv_rating": "tv-ma-v",
+        "published": 1769532941,
+        "tags": [],
+        "collection_title": "Primal",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20260105/thumbnails/2_26152217546-AS_Primal_S3_04_24_PreyForTheWicked_PlatformPreferred.png",
+        "id": "AZuRT9rkNi2EYjVB1WCO",
+        "auth": true
+    },
+    {
         "auth_expiration_date": null,
         "tms_id": "",
         "description": "Spear's lifeless body is reanimated to enact brutal vengeance.",

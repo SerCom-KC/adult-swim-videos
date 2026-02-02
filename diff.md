@@ -2,16 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 1, 2026 at 06:00:41 EST_
+_Last Update: February 1, 2026 at 23:30:40 EST_
 ## Video added
 ### Summary
-608007 One Piece: 1  
-### 2573245
-**One Piece S18E?? - The Delinquent Comes Home! Emperor Big Mom's Assassins!**  
-TV-14-LV 🔒 21:30  
-⌛ April 12, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/one-piece/the-delinquent-comes-home-emperor-big-moms-assassins  
-seriesid=`608007` titleid=`2573245` id=`AZv8iYs9Ni2EYjVB1WCX` mediaid=`7b51ac680e596fb00e97506946e13d4cf2956559`  
-_While Zou's secrets unravel, a shadow looms over Sanji's fate._  
+2211157 Primal: 1  
+### 2449470
+**Primal S03E04 - Prey for the Wicked**  
+TV-MA-V 🔒 22:38  
+⌛ February 22, 2026 at 23:29:00 EST  
+https://www.adultswim.com/videos/primal/prey-for-the-wicked  
+seriesid=`2211157` titleid=`2449470` id=`AZuRT9rkNi2EYjVB1WCO` mediaid=`3b001f05eac21c0dfd016e3c5c2a4da50c8eb228`  
+_A caveman at the dawn of evolution and a dinosaur on the brink of extinction are bonded by tragedy. This unlikely friendship becomes the only hope of survival in a violent, primordial world._  
+<a href="https://media.cdn.adultswim.com/uploads/20260105/thumbnails/2_26152217546-AS_Primal_S3_04_24_PreyForTheWicked_PlatformPreferred.png"><img src="https://media.cdn.adultswim.com/uploads/20260105/thumbnails/2_26152217546-AS_Primal_S3_04_24_PreyForTheWicked_PlatformPreferred.png" height="144px" /></a>
 ## Video removed
 No videos were removed.  
