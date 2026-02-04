@@ -550,7 +550,7 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151974648293117.jpg"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1522074660,
         "auth_expiration_date": 1770181140,
         "tms_id": "EP018514630032",
@@ -598,7 +598,7 @@
     },
     {
         "ott_launch_date": 1522074660,
-        "auth": false,
+        "auth": true,
         "auth_expiration_date": 1770785940,
         "tms_id": "EP018514630033",
         "description": "Grandpa's path to moving out and starting a new life away from Mr. Pickles leads him down dangerous roads.",
