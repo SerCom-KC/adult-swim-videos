@@ -2,95 +2,93 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 6, 2026 at 00:30:27 EST_
+_Last Update: February 7, 2026 at 00:30:39 EST_
 ## Video added
 ### Summary
 581006 American Dad: 2  
-2003422 Bob's Burgers: 1  
-439722 The Venture Bros.: 2  
-547867 Tom Goes To The Mayor: 1  
-### 748159
-**American Dad S06E18 - Flirting With Disaster**  
+2530043 Psi-Cops: 1  
+### 748171
+**American Dad S07E01 - Hot Water**  
+TV-14-DLSV 🔒 21:47  
+⌛ February 13, 2026 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/hot-water  
+seriesid=`581006` titleid=`748171` id=`A1V1PZvHS4OXqQOQznUoZw` mediaid=`3a9c1f53b5c37b42e208111387291329be33ddaa`  
+_Stan battles an evil hot tub bent on killing his family._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151994107786310.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151994107786310.jpg" height="144px" /></a>
+### 748160
+**American Dad S07E02 - Hurricane**  
 TV-14 🔒 21:47  
-⌛ February 12, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/flirting-with-disaster  
-seriesid=`581006` titleid=`748159` id=`fefThwQBQgii_EzbWwUeKQ` mediaid=`94117714540ec06bc58baad4557de083d13383c1`  
-_Francine gets a job at Stan's office, which cramps Stan's style and his ability to flirt with co-workers. When Francine retaliates with a little flirting of her own, war breaks out at work._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153002619056617.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153002619056617.jpg" height="144px" /></a>
-### 748163
-**American Dad S06E19 - Gorillas in the Mist**  
-TV-14 🔒 21:47  
-⌛ February 12, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/gorillas-in-the-mist  
-seriesid=`581006` titleid=`748163` id=`SpKY05_QS_a8wZkZQtAl9A` mediaid=`01f8999b06c60cc3e23ff941ccf811541fe78f5f`  
-_Stan spends some quality father-son time with Steve at the local zoo, but things go wrong when Steve slips into a gorilla exhibit._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153010781436415.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153010781436415.jpg" height="144px" /></a>
-### 2569575
-**Bob's Burgers S13E10 - The Plight Before Christmas**  
-TV-PG-L 🔒 00:00  
-⌛ February 19, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/the-plight-before-christmas  
-seriesid=`2003422` titleid=`2569575` id=`AZldgnKes_ErlMTJpQnq` mediaid=`e3ba2f1b0d2ba47e717dc60ef5f3fd3f9989794a`  
-_Bob and Linda try to attend all three kids' holiday performances at the same time._  
-<a href="https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181145515-BobsBurgers_1310.jpg"><img src="https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181145515-BobsBurgers_1310.jpg" height="144px" /></a>
-### 2024901
-**The Venture Bros. S06E02 - Hostile Makeover**  
-TV-14-DLV 🔓 23:05  
-⌛ December 2, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-venture-bros/hostile-makeover  
-seriesid=`439722` titleid=`2024901` id=`HViKUpuYSkSbCiaC2rZFEg` mediaid=`bfef2000f20f0edad4fc64b7cbd442d062279a54`  
-_The Ventures are back! And they’re movin’ on up to a deluxe apartment in the sky. But will mo’ money bring mo’ problems? And can The Monarch handle the commute?_  
-<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161414449-venture_603_dup_20151208.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161414449-venture_603_dup_20151208.jpg" height="144px" /></a>
-### 2024902
-**The Venture Bros. S06E03 - Maybe No Go**  
-TV-14-DLV 🔓 22:33  
-⌛ December 2, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/the-venture-bros/maybe-no-go  
-seriesid=`439722` titleid=`2024902` id=`QpmKcwyqSgmzgZTk2EuZzA` mediaid=`553f44e139dad779500d10f2ad81c4673f7f1c32`  
-_As White & Billy grapple with their arch enemy back in the old ‘hood, Doc realizes he can’t face his new responsibilities alone when a whale of an enemy shows him how they arch uptown._  
-<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161414319-venture_604_dup_20151123.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161414319-venture_604_dup_20151123.jpg" height="144px" /></a>
-### 639406
-**Tom Goes To The Mayor S02E10 - My Big Cups**  
-TV-PG-L 🔓 11:12  
-⌛ April 16, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/tom-goes-to-the-mayor/my-big-cups  
-seriesid=`547867` titleid=`639406` id=`59TV43eaTUqnZu-N1sHVGg` mediaid=`6d21b0c541fb5121847f4c96db1dcc3605008a16`  
-_Tom tries to sell novelty beverage cups at the Mall while the Mayor celebrates Jefferton's 30th anniversary by looking for the perfect painting._  
-<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117956400-tgttm_023.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117956400-tgttm_023.jpg" height="144px" /></a>
+⌛ February 13, 2026 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/hurricane  
+seriesid=`581006` titleid=`748160` id=`2gmRoTtyRGCQHA7zZCE0BQ` mediaid=`f52323839790401eae9989ddc5e47635b32dea7d`  
+_Stan attempts to save his family after a hurricane floods Lower Langley--despite Fran's warnings that Stan is a bad decision-maker during a crisis._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15301994091132.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15301994091132.jpg" height="144px" /></a>
+### 2530060
+**Psi-Cops S01E20 - Poppet**  
+TV-MA-V 🔒 11:00  
+⌛ March 13, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/psi-cops/poppet  
+seriesid=`2530043` titleid=`2530060` id=`AZG-lDF-g6zBH7G86thP` mediaid=`039b3340342b9d39707bca0522eb5f4c841c5ffb`  
+_Kydd and Felixx wrestle with a local detective, voodoo dolls, and the ever-important debate of Hamburgers vs Tacos._  
+<a href="https://media.cdn.adultswim.com/uploads/20241016/thumbnails/2_241016111101-PSICOPS_SEASON1_EP120_SHOWSTILLS_IMAGE3_VAMPIREATWINDOW.jpg"><img src="https://media.cdn.adultswim.com/uploads/20241016/thumbnails/2_241016111101-PSICOPS_SEASON1_EP120_SHOWSTILLS_IMAGE3_VAMPIREATWINDOW.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 1  
-547867 Tom Goes To The Mayor: 1  
+2530043 Psi-Cops: 1  
 581006 American Dad: 2  
-### 2569631
-**Bob's Burgers S15E12 - Like a Candle in the Gym**  
-TV-PG-L 🔒 00:00  
-⌛ February 5, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/bobs-burgers/like-a-candle-in-the-gym  
-seriesid=`2003422` titleid=`2569631` id=`AZmW1blts_ErlMTJpQn_` mediaid=`8601d16056d228a0f9e241a3e6d68b6e96f83e7c`  
-_Linda forces everyone to go on a family walk, and the kids stumble onto a bizarre conspiracy theory._  
-<a href="https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291456475-BobsBurgers_1512.jpg"><img src="https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291456475-BobsBurgers_1512.jpg" height="144px" /></a>
-### 607109
-**Tom Goes To The Mayor S01E04 - Rats Off To Ya**  
-TV-PG 🔓 11:40  
-⌛ February 5, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/tom-goes-to-the-mayor/rats-off-to-ya  
-seriesid=`547867` titleid=`607109` id=`ls1SsyXOSXOf3Jp2Uvqgyg` mediaid=`2995848883f99b05173ce71cb26f881bf53d7d8c`  
-_Tom creates a T-shirt that reads "Rats Off to Ya" for Christmas. It becomes a local phenomenon, but the idea is quickly stolen from Tom by a local novelty store.  Jeff Garlin appears as Pat Croece, the novelty store owner._  
-<a href="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117835245-tgttm_004.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117835245-tgttm_004.jpg" height="144px" /></a>
-### 822208
-**American Dad S06E18 - There Will Be Bad Blood**  
-TV-14 🔒 21:40  
-⌛ February 5, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/there-will-be-bad-blood  
-seriesid=`581006` titleid=`822208` id=`-n7pptEaSK-nCb751T7B4w` mediaid=`1901effee4b06f454a712c0f86a9fd188da9a7e2`  
-_The Smiths prepare for the arrival of Stan's half-brother's family for Thanksgiving._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154335655553018.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154335655553018.jpg" height="144px" /></a>
-### 822209
-**American Dad S06E06 - The People Vs. Martin Sugar**  
+581268 Squidbillies: 4  
+### 2530066
+**Psi-Cops S01E15 - Monster Under the Bed**  
+TV-MA-LV 🔒 11:00  
+⌛ February 6, 2026 at 23:59:00 EST  
+https://www.adultswim.com/videos/psi-cops/monster-under-the-bed  
+seriesid=`2530043` titleid=`2530066` id=`AZFyfgIJg6zBH7G86thH` mediaid=`0aac480f317a577cd90ab984edaf1f3af6e1983f`  
+_Monsters have nothing on Kydd and Felixx's vendetta against a step-mother._  
+<a href="https://media.cdn.adultswim.com/uploads/20240826/thumbnails/2_248261522444-PSICOPS_SEASON1_EP114_SHOWSTILLS_IMAGE4_KYDDFLYING.jpg"><img src="https://media.cdn.adultswim.com/uploads/20240826/thumbnails/2_248261522444-PSICOPS_SEASON1_EP114_SHOWSTILLS_IMAGE4_KYDDFLYING.jpg" height="144px" /></a>
+### 822210
+**American Dad S06E08 - For Whom The Sleigh Bell Tolls**  
+TV-14-DLSV 🔒 21:47  
+⌛ February 6, 2026 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/for-whom-the-sleigh-bell-tolls  
+seriesid=`581006` titleid=`822210` id=`LOh0dl-4Qr-3BCv_yUA-dQ` mediaid=`b3275b1ecf2000f2ba2f648be1e46bff9a2d512a`  
+_Stan decides to finally give Steve a gun for Christmas and is horrified when Steve accidentally shoots a Mall Santa._  
+<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920e5857a1010e585b61da0001/thumbnail_1517246614667395631.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920e5857a1010e585b61da0001/thumbnail_1517246614667395631.jpg" height="144px" /></a>
+### 822211
+**American Dad S06E09 - Fartbreak Hotel**  
 TV-14 🔒 21:47  
-⌛ February 5, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/the-people-vs-martin-sugar  
-seriesid=`581006` titleid=`822209` id=`Ug7GhGosSgi2s18Wa63WwQ` mediaid=`138d29d5aa19afacba6c24428488bfc70c1da6f8`  
-_Stan serves as jury foreman for the trial of one of Roger's personae, and he is hell-bent on making sure the jury finds him guilty._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15299517583488.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15299517583488.jpg" height="144px" /></a>
+⌛ February 6, 2026 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/fartbreak-hotel  
+seriesid=`581006` titleid=`822211` id=`LeYJBjZiTAG-DniHWsx1TA` mediaid=`5655178c8ae88f45cf628c343d530e3a58cdfc14`  
+_When Roger releases lethal gas into the Smith residence, the family moves into a hotel while the fumes clear._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15295036837442.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15295036837442.jpg" height="144px" /></a>
+### 706642
+**Squidbillies S03E07 - The Good One**  
+TV-MA 🔓 11:09  
+⌛ February 6, 2026 at 23:59:00 EST  
+https://www.adultswim.com/videos/squidbillies/the-good-one  
+seriesid=`581268` titleid=`706642` id=`3EuToyv0SeGT45t_OYzJnQ` mediaid=`b54650312001046610b914f68ccc05268504c903`  
+_Lil's disregard for birth control provides a lifelong friend for Early._  
+<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131132495-squidbillies_027_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131132495-squidbillies_027_bim.jpg" height="144px" /></a>
+### 655943
+**Squidbillies S02E11 - Terminus Trouble**  
+TV-14-DLV 🔓 11:07  
+⌛ February 6, 2026 at 23:59:00 EST  
+https://www.adultswim.com/videos/squidbillies/terminus-trouble  
+seriesid=`581268` titleid=`655943` id=`O77O19BmTImD3Y_32OVrow` mediaid=`954739fe88f0e1d84a16f4686cb4b927d6a1eccd`  
+_Atlanta, home of several location shots used in Six Pack, starring Kenny Rogers._  
+<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131116446-squidbillies_017.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131116446-squidbillies_017.jpg" height="144px" /></a>
+### 859424
+**Squidbillies S06E04 - The Big E**  
+TV-14-DLV 🔓 11:25  
+⌛ February 6, 2026 at 23:59:00 EST  
+https://www.adultswim.com/videos/squidbillies/the-big-e  
+seriesid=`581268` titleid=`859424` id=`ZoBoo4GbQaaiYtVgISkrjg` mediaid=`17a3fdef98c45287b2826a21c685a1291b8876da`  
+_Early brings his message to the people whether they want it or not._  
+<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131322433-squidbillies_505_dup-20110930.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131322433-squidbillies_505_dup-20110930.jpg" height="144px" /></a>
+### 2092363
+**Squidbillies S10E07 - Greener Pastor**  
+TV-14-DLV 🔓 11:08  
+⌛ February 6, 2026 at 23:59:00 EST  
+https://www.adultswim.com/videos/squidbillies/greener-pastor  
+seriesid=`581268` titleid=`2092363` id=`l82-E1BDSnqnnrdlvOV61Q` mediaid=`fb413ba6455eca7814626d78e04b2c1de91fa396`  
+_Rest in Peace, Scott Hilley._  
+<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141149527-squidbillies_907_dup-20160819.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141149527-squidbillies_907_dup-20160819.jpg" height="144px" /></a>

@@ -47,53 +47,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1770440340,
-        "tms_id": "",
-        "description": "Monsters have nothing on Kydd and Felixx's vendetta against a step-mother.",
-        "title_suggest": {
-            "input": [
-                "Monster Under the Bed",
-                "Under the Bed",
-                "the Bed",
-                "Bed"
-            ]
-        },
-        "title": "Monster Under the Bed",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AZBvkmVYSaru9Cdsy7Cx",
-        "duration": 660.4264,
-        "episode_number": "15",
-        "original_air_date": 1724646600,
-        "auth_launch_date": 1767416400,
-        "clip_order": null,
-        "airing_id": "RADS1012292500076604",
-        "media_id": "0aac480f317a577cd90ab984edaf1f3af6e1983f",
-        "modified": 1767096540,
-        "slug": "monster-under-the-bed",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240826/thumbnails/1_248261522444-PSICOPS_SEASON1_EP114_SHOWSTILLS_IMAGE4_KYDDFLYING.jpg",
-        "created": 1724202746,
-        "title_id": "2530066",
-        "season_number": "1",
-        "tv_rating": "tv-ma-lv",
-        "published": 1767096540,
-        "tags": [],
-        "collection_title": "Psi-Cops",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240826/thumbnails/2_248261522444-PSICOPS_SEASON1_EP114_SHOWSTILLS_IMAGE4_KYDDFLYING.jpg",
-        "id": "AZFyfgIJg6zBH7G86thH",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1772859540,
         "tms_id": "",
         "description": "Stone enlists Kydd and Felixx on their most dangerous mission yet\u2026 breaking a cute magical monkey out of the evidence room.",
@@ -136,6 +89,50 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20241016/thumbnails/2_2410161110182-PSICOPS_SEASON1_EP119_SHOWSTILLS_IMAGE3_PARTYDISGUISESWIDE.jpg",
         "id": "AZG-k-Gcg6zBH7G86thO",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1773460740,
+        "tms_id": "",
+        "description": "Kydd and Felixx wrestle with a local detective, voodoo dolls, and the ever-important debate of Hamburgers vs Tacos.",
+        "title_suggest": {
+            "input": [
+                "Poppet"
+            ]
+        },
+        "title": "Poppet",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZBvkmVYSaru9Cdsy7Cx",
+        "duration": 660.4598,
+        "episode_number": "20",
+        "original_air_date": 1725857100,
+        "auth_launch_date": 1770440400,
+        "clip_order": null,
+        "airing_id": "RADS1002012600084323",
+        "media_id": "039b3340342b9d39707bca0522eb5f4c841c5ffb",
+        "modified": 1770016264,
+        "slug": "poppet",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241016/thumbnails/1_241016111101-PSICOPS_SEASON1_EP120_SHOWSTILLS_IMAGE3_VAMPIREATWINDOW.jpg",
+        "created": 1725479268,
+        "title_id": "2530060",
+        "season_number": "1",
+        "tv_rating": "tv-ma-v",
+        "published": 1770016264,
+        "tags": [],
+        "collection_title": "Psi-Cops",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20241016/thumbnails/2_241016111101-PSICOPS_SEASON1_EP120_SHOWSTILLS_IMAGE3_VAMPIREATWINDOW.jpg",
+        "id": "AZG-lDF-g6zBH7G86thP",
         "auth": true
     },
     {
