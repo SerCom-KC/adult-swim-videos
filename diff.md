@@ -2,93 +2,69 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 7, 2026 at 00:30:39 EST_
+_Last Update: February 8, 2026 at 00:00:39 EST_
 ## Video added
 ### Summary
 581006 American Dad: 2  
-2530043 Psi-Cops: 1  
-### 748171
-**American Dad S07E01 - Hot Water**  
-TV-14-DLSV 🔒 21:47  
-⌛ February 13, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/hot-water  
-seriesid=`581006` titleid=`748171` id=`A1V1PZvHS4OXqQOQznUoZw` mediaid=`3a9c1f53b5c37b42e208111387291329be33ddaa`  
-_Stan battles an evil hot tub bent on killing his family._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151994107786310.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151994107786310.jpg" height="144px" /></a>
-### 748160
-**American Dad S07E02 - Hurricane**  
+895948 The Eric Andre Show: 1  
+### 748154
+**American Dad S07E03 - A Ward Show**  
+TV-14-DLSV 🔒 21:46  
+⌛ February 14, 2026 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/a-ward-show  
+seriesid=`581006` titleid=`748154` id=`aajGKfacRUOpnrGFoACTfg` mediaid=`4e29d2fdc17e3f6bff35545973536027b8ec1973`  
+_After he's appointed Steve's legal guardian, Roger has Principal Lewis fired for letting Steve break the school's rules; Stan and Fran vacation at a waterpark._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153019937465319.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153019937465319.jpg" height="144px" /></a>
+### 748164
+**American Dad S07E04 - The Worst Stan**  
 TV-14 🔒 21:47  
-⌛ February 13, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/hurricane  
-seriesid=`581006` titleid=`748160` id=`2gmRoTtyRGCQHA7zZCE0BQ` mediaid=`f52323839790401eae9989ddc5e47635b32dea7d`  
-_Stan attempts to save his family after a hurricane floods Lower Langley--despite Fran's warnings that Stan is a bad decision-maker during a crisis._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15301994091132.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15301994091132.jpg" height="144px" /></a>
-### 2530060
-**Psi-Cops S01E20 - Poppet**  
-TV-MA-V 🔒 11:00  
-⌛ March 13, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/psi-cops/poppet  
-seriesid=`2530043` titleid=`2530060` id=`AZG-lDF-g6zBH7G86thP` mediaid=`039b3340342b9d39707bca0522eb5f4c841c5ffb`  
-_Kydd and Felixx wrestle with a local detective, voodoo dolls, and the ever-important debate of Hamburgers vs Tacos._  
-<a href="https://media.cdn.adultswim.com/uploads/20241016/thumbnails/2_241016111101-PSICOPS_SEASON1_EP120_SHOWSTILLS_IMAGE3_VAMPIREATWINDOW.jpg"><img src="https://media.cdn.adultswim.com/uploads/20241016/thumbnails/2_241016111101-PSICOPS_SEASON1_EP120_SHOWSTILLS_IMAGE3_VAMPIREATWINDOW.jpg" height="144px" /></a>
+⌛ February 14, 2026 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/the-worst-stan  
+seriesid=`581006` titleid=`748164` id=`a5hUhELjQ56mIxtNiJ6QVg` mediaid=`731837fe8699566fc65b2b16360eca75fb5facdb`  
+_Stan arranges for Principal Lewis to marry Superintendent Riggs so he can finally be a best man at a wedding; Roger's new shorts attract the interest of Ricky Martin._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153028410951220.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153028410951220.jpg" height="144px" /></a>
+### 2230780
+**The Eric Andre Show S05E01 - A King Is Born**  
+TV-MA-LV 🔓 11:14  
+⌛ March 14, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-eric-andre-show/a-king-is-born  
+seriesid=`895948` titleid=`2230780` id=`AXSYwnpvLyLQBOXK_PN8` mediaid=`a994a03f9ab4017b638d036a3eec0ea4415bf116`  
+_Eric & Hannibal are back! Eric welcomes Judy Greer and Adam Rippon, and befriends a lost rat on the subway, trying to find its original owner. Also - beer chugging musical guest Anderson Six .Paak!_  
+<a href="https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161711506-ericandre_501_dup-20200812.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161711506-ericandre_501_dup-20200812.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2530043 Psi-Cops: 1  
+343621 Samurai Jack: 1  
 581006 American Dad: 2  
-581268 Squidbillies: 4  
-### 2530066
-**Psi-Cops S01E15 - Monster Under the Bed**  
-TV-MA-LV 🔒 11:00  
-⌛ February 6, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/psi-cops/monster-under-the-bed  
-seriesid=`2530043` titleid=`2530066` id=`AZFyfgIJg6zBH7G86thH` mediaid=`0aac480f317a577cd90ab984edaf1f3af6e1983f`  
-_Monsters have nothing on Kydd and Felixx's vendetta against a step-mother._  
-<a href="https://media.cdn.adultswim.com/uploads/20240826/thumbnails/2_248261522444-PSICOPS_SEASON1_EP114_SHOWSTILLS_IMAGE4_KYDDFLYING.jpg"><img src="https://media.cdn.adultswim.com/uploads/20240826/thumbnails/2_248261522444-PSICOPS_SEASON1_EP114_SHOWSTILLS_IMAGE4_KYDDFLYING.jpg" height="144px" /></a>
-### 822210
-**American Dad S06E08 - For Whom The Sleigh Bell Tolls**  
-TV-14-DLSV 🔒 21:47  
-⌛ February 6, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/for-whom-the-sleigh-bell-tolls  
-seriesid=`581006` titleid=`822210` id=`LOh0dl-4Qr-3BCv_yUA-dQ` mediaid=`b3275b1ecf2000f2ba2f648be1e46bff9a2d512a`  
-_Stan decides to finally give Steve a gun for Christmas and is horrified when Steve accidentally shoots a Mall Santa._  
-<a href="https://i.cdn.turner.com/asfix/repository//8a25c3920e5857a1010e585b61da0001/thumbnail_1517246614667395631.jpg"><img src="https://i.cdn.turner.com/asfix/repository//8a25c3920e5857a1010e585b61da0001/thumbnail_1517246614667395631.jpg" height="144px" /></a>
-### 822211
-**American Dad S06E09 - Fartbreak Hotel**  
+895948 The Eric Andre Show: 1  
+### 343631
+**Samurai Jack S01E02 - II**  
+TV-Y7-FV 🔒 23:40  
+⌛ February 7, 2026 at 23:59:00 EST  
+https://www.adultswim.com/videos/samurai-jack/ii  
+seriesid=`343621` titleid=`343631` id=`UPe22r3XRJCT5ECsgJlEMA` mediaid=`e698cbcdbfc962a4d3690d9aa592417b523bd718`  
+_The Samurai lands in the future and is named Jack. He is enlisted by a race of dogs to destroy Aku._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461325197-samjack_002.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461325197-samjack_002.jpg" height="144px" /></a>
+### 748139
+**American Dad S06E10 - Stanny-Boy and Frantastic**  
+TV-14-DLV 🔒 21:47  
+⌛ February 7, 2026 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/stanny-boy-and-frantastic  
+seriesid=`581006` titleid=`748139` id=`8ovtW6t7QnW_msWMKv1GVw` mediaid=`4c00286b767d4bbe79ba1e3568d394656b726717`  
+_Stan and Francine, on the hunt for new friends, hit it off with a younger married couple, Tom and Cami._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15295036053142.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15295036053142.jpg" height="144px" /></a>
+### 822213
+**American Dad S06E11 - A Pinata Named Desire**  
 TV-14 🔒 21:47  
-⌛ February 6, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/american-dad/fartbreak-hotel  
-seriesid=`581006` titleid=`822211` id=`LeYJBjZiTAG-DniHWsx1TA` mediaid=`5655178c8ae88f45cf628c343d530e3a58cdfc14`  
-_When Roger releases lethal gas into the Smith residence, the family moves into a hotel while the fumes clear._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15295036837442.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15295036837442.jpg" height="144px" /></a>
-### 706642
-**Squidbillies S03E07 - The Good One**  
-TV-MA 🔓 11:09  
-⌛ February 6, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/the-good-one  
-seriesid=`581268` titleid=`706642` id=`3EuToyv0SeGT45t_OYzJnQ` mediaid=`b54650312001046610b914f68ccc05268504c903`  
-_Lil's disregard for birth control provides a lifelong friend for Early._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131132495-squidbillies_027_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131132495-squidbillies_027_bim.jpg" height="144px" /></a>
-### 655943
-**Squidbillies S02E11 - Terminus Trouble**  
-TV-14-DLV 🔓 11:07  
-⌛ February 6, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/terminus-trouble  
-seriesid=`581268` titleid=`655943` id=`O77O19BmTImD3Y_32OVrow` mediaid=`954739fe88f0e1d84a16f4686cb4b927d6a1eccd`  
-_Atlanta, home of several location shots used in Six Pack, starring Kenny Rogers._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131116446-squidbillies_017.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131116446-squidbillies_017.jpg" height="144px" /></a>
-### 859424
-**Squidbillies S06E04 - The Big E**  
-TV-14-DLV 🔓 11:25  
-⌛ February 6, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/the-big-e  
-seriesid=`581268` titleid=`859424` id=`ZoBoo4GbQaaiYtVgISkrjg` mediaid=`17a3fdef98c45287b2826a21c685a1291b8876da`  
-_Early brings his message to the people whether they want it or not._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131322433-squidbillies_505_dup-20110930.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131322433-squidbillies_505_dup-20110930.jpg" height="144px" /></a>
-### 2092363
-**Squidbillies S10E07 - Greener Pastor**  
-TV-14-DLV 🔓 11:08  
-⌛ February 6, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/greener-pastor  
-seriesid=`581268` titleid=`2092363` id=`l82-E1BDSnqnnrdlvOV61Q` mediaid=`fb413ba6455eca7814626d78e04b2c1de91fa396`  
-_Rest in Peace, Scott Hilley._  
-<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141149527-squidbillies_907_dup-20160819.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141149527-squidbillies_907_dup-20160819.jpg" height="144px" /></a>
+⌛ February 7, 2026 at 23:59:00 EST  
+https://www.adultswim.com/videos/american-dad/a-pinata-named-desire  
+seriesid=`581006` titleid=`822213` id=`JNUk6MECTBG_MW43CqUrpQ` mediaid=`8f9fdaebfbaea33492a5a205ae2fec36637bb66b`  
+_Stan takes an acting class taught by Roger after he blows an undercover assignment.  Stan then uses his newfound acting skills to steal a part in a local play from Roger.  Roger, down but not out, takes out the play's female lead and gets her part.  Now it's opening night and Stan and Roger take to the stage to see who is the better actor.  Meanwhile, Steve and his friends plan a sleepover._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199409228114.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199409228114.jpg" height="144px" /></a>
+### 2088417
+**The Eric Andre Show S04E01 - T.I.; Abbey Lee Miller**  
+TV-MA-LS 🔒 10:55  
+⌛ February 7, 2026 at 23:59:00 EST  
+https://www.adultswim.com/videos/the-eric-andre-show/t-i-abbey-lee-miller  
+seriesid=`895948` titleid=`2088417` id=`v7dRVnV8SU2DkCDTH3ohkA` mediaid=`390da678289427c7b2099fb47685f5b7285fefaf`  
+_Interviews with T.I. and Abbey Lee Miller; Musical guest American Authors_  
+<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341618432-ericandre_401_dup-20160926.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341618432-ericandre_401_dup-20160926.jpg" height="144px" /></a>
