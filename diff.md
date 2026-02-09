@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 8, 2026 at 06:00:13 EST_
+_Last Update: February 8, 2026 at 23:30:28 EST_
 ## Video added
 ### Summary
-608007 One Piece: 1  
-### 2573246
-**One Piece S18E17 - The Truth Behind the Disappearance! Sanji Gets a Startling Invitation!**  
-TV-14-LV 🔒 21:30  
-⌛ April 19, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/one-piece/the-truth-behind-the-disappearance-sanji-gets-a-startling-invitation  
-seriesid=`608007` titleid=`2573246` id=`AZwbAN0TNi2EYjVB1WCY` mediaid=`7893ed20e812057b87438fa89c3a1cd4489ea509`  
-_Luffy uncovers Sanji's disappearance, but Big Mom's lackeys arrive with an invitation he can't ignore._  
-<a href="https://media.cdn.adultswim.com/uploads/20260202/thumbnails/2_26221414393-OnePiece763_S18ep17.png"><img src="https://media.cdn.adultswim.com/uploads/20260202/thumbnails/2_26221414393-OnePiece763_S18ep17.png" height="144px" /></a>
+2211157 Primal: 1  
+### 2449471
+**Primal S03E05 - The Dead Cast No Shadow**  
+TV-MA-V 🔒 21:54  
+⌛ March 1, 2026 at 23:29:00 EST  
+https://www.adultswim.com/videos/primal/the-dead-cast-no-shadow  
+seriesid=`2211157` titleid=`2449471` id=`AZuRUUuVc6shItN4M7NI` mediaid=`7cd82ce91bb7c511831f0e650de1bcdb99d5be5e`  
+_A caveman at the dawn of evolution and a dinosaur on the brink of extinction are bonded by tragedy. This unlikely friendship becomes the only hope of survival in a violent, primordial world._  
+<a href="https://media.cdn.adultswim.com/uploads/20260105/thumbnails/2_26152219325-AS_Primal_S3_05_25_TheDeadCastNoShadow_PlatformPreferred.png"><img src="https://media.cdn.adultswim.com/uploads/20260105/thumbnails/2_26152219325-AS_Primal_S3_05_25_TheDeadCastNoShadow_PlatformPreferred.png" height="144px" /></a>
 ## Video removed
 No videos were removed.  
