@@ -1,54 +1,5 @@
 [
     {
-        "auth_expiration_date": 1770613140,
-        "tms_id": "",
-        "description": "Bob, Linda and the kids help Mr. Fischoeder put on a play to get his brother Felix to confess to a theft. Louise is jealous of Tina's hands.",
-        "title_suggest": {
-            "input": [
-                "To Bob, or Not to Bob",
-                "Bob, or Not to Bob",
-                "or Not to Bob",
-                "Not to Bob",
-                "to Bob",
-                "Bob"
-            ]
-        },
-        "title": "To Bob, or Not to Bob",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "1",
-        "original_air_date": null,
-        "auth_launch_date": 1769403600,
-        "clip_order": null,
-        "airing_id": "RADS1001222600081931",
-        "media_id": "4dd15d656786d4e858f441fcdfdfec0d505b9182",
-        "modified": 1769100947,
-        "slug": "to-bob-or-not-to-bob",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181024134-BobsBurgers_1301.jpg",
-        "created": 1758205579,
-        "season_number": "13",
-        "title_id": "2569567",
-        "tv_rating": "tv-pg-lv",
-        "published": 1769100947,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181024134-BobsBurgers_1301.jpg",
-        "id": "AZldOA8eyEF1_1NDe6aH",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1770699540,
         "tms_id": "",
         "description": "The family's Labor Day lake trip takes a turn when the Belchers find themselves trapped in their cabin, hiding from what lurks outside.",
@@ -467,6 +418,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181145515-BobsBurgers_1310.jpg",
         "id": "AZldgnKes_ErlMTJpQnq",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1771822740,
+        "tms_id": "",
+        "description": "After a student accuses her of cheating, Tina needs to get back to school to clear her name.",
+        "title_suggest": {
+            "input": [
+                "Cheaty Cheaty Bang Bang",
+                "Cheaty Bang Bang",
+                "Bang Bang",
+                "Bang"
+            ]
+        },
+        "title": "Cheaty Cheaty Bang Bang",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "11",
+        "original_air_date": null,
+        "auth_launch_date": 1770613200,
+        "clip_order": null,
+        "airing_id": "RADS1002052600084589",
+        "media_id": "0c6f51e2fbf54db98a16e3f40ec0def9afb172d0",
+        "modified": 1770260121,
+        "slug": "cheaty-cheaty-bang-bang",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181149276-BobsBurgers_1311.jpg",
+        "created": 1758210738,
+        "season_number": "13",
+        "title_id": "2569576",
+        "tv_rating": "tv-pg-l",
+        "published": 1770260121,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181149276-BobsBurgers_1311.jpg",
+        "id": "AZldhsdfs_ErlMTJpQnr",
         "auth": true
     }
 ]
