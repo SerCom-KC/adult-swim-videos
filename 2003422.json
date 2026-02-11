@@ -1,51 +1,5 @@
 [
     {
-        "auth_expiration_date": 1770785940,
-        "tms_id": "",
-        "description": "A school assignment about careers sends Louise spiraling, trying to imagine what her future might hold.",
-        "title_suggest": {
-            "input": [
-                "What About Job?",
-                "About Job?",
-                "Job?"
-            ]
-        },
-        "title": "What About Job?",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "3",
-        "original_air_date": null,
-        "auth_launch_date": 1769576400,
-        "clip_order": null,
-        "airing_id": "RADS1001232600082070",
-        "media_id": "49bfb9fb52a9297860e0795c48b7f51d309323d0",
-        "modified": 1769173818,
-        "slug": "what-about-job",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181027498-BobsBurgers_1303.jpg",
-        "created": 1758205673,
-        "season_number": "13",
-        "title_id": "2569569",
-        "tv_rating": "tv-pg-lv",
-        "published": 1769173818,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181027498-BobsBurgers_1303.jpg",
-        "id": "AZldOYD1s_ErlMTJpQnn",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1770872340,
         "tms_id": "",
         "description": "At a comet watch party, Bob tries to keep Teddy from going off the deep end looking for signs from the universe.",
@@ -465,6 +419,55 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181149276-BobsBurgers_1311.jpg",
         "id": "AZldhsdfs_ErlMTJpQnr",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1771995540,
+        "tms_id": "",
+        "description": "When Louise is accused of a theft at school, Linda uses her position as school office volunteer to try and solve the case from the inside.",
+        "title_suggest": {
+            "input": [
+                "Stop! Or My Mom Will Sleuth!",
+                "Or My Mom Will Sleuth!",
+                "My Mom Will Sleuth!",
+                "Mom Will Sleuth!",
+                "Will Sleuth!",
+                "Sleuth!"
+            ]
+        },
+        "title": "Stop! Or My Mom Will Sleuth!",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "13",
+        "original_air_date": null,
+        "auth_launch_date": 1770786000,
+        "clip_order": null,
+        "airing_id": "RADS1002052600084762",
+        "media_id": "1ac10213c118351cf4bad4aecb626ec9255b6f0e",
+        "modified": 1770360949,
+        "slug": "stop-or-my-mom-will-sleuth",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181153364-BobsBurgers_1313.jpg",
+        "created": 1758210825,
+        "season_number": "13",
+        "title_id": "2569578",
+        "tv_rating": "tv-pg-l",
+        "published": 1770360949,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181153364-BobsBurgers_1313.jpg",
+        "id": "AZldiBy0yEF1_1NDe6ac",
         "auth": true
     }
 ]
