@@ -1,51 +1,5 @@
 [
     {
-        "auth_expiration_date": 1770872340,
-        "tms_id": "",
-        "description": "At a comet watch party, Bob tries to keep Teddy from going off the deep end looking for signs from the universe.",
-        "title_suggest": {
-            "input": [
-                "Comet-Y of Errors",
-                "of Errors",
-                "Errors"
-            ]
-        },
-        "title": "Comet-Y of Errors",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "4",
-        "original_air_date": null,
-        "auth_launch_date": 1769662800,
-        "clip_order": null,
-        "airing_id": "RADS1001232600082380",
-        "media_id": "8c53581f4de7935dc0b9e7b29bfbdf87bdf132f7",
-        "modified": 1769239551,
-        "slug": "comet-y-of-errors",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181038334-BobsBurgers_1304.jpg",
-        "created": 1758206473,
-        "season_number": "13",
-        "title_id": "2569570",
-        "tv_rating": "tv-pg-l",
-        "published": 1769239551,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181038334-BobsBurgers_1304.jpg",
-        "id": "AZldRbWoyEF1_1NDe6aL",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1770958740,
         "tms_id": "",
         "description": "The Belchers are out to a ball game.",
@@ -468,6 +422,55 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181153364-BobsBurgers_1313.jpg",
         "id": "AZldiBy0yEF1_1NDe6ac",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1772081940,
+        "tms_id": "",
+        "description": "When the cool teens start coming into the restaurant, Tina decides she needs to be just like them.",
+        "title_suggest": {
+            "input": [
+                "These Boots Are Made for Stalking",
+                "Boots Are Made for Stalking",
+                "Are Made for Stalking",
+                "Made for Stalking",
+                "for Stalking",
+                "Stalking"
+            ]
+        },
+        "title": "These Boots Are Made for Stalking",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "14",
+        "original_air_date": null,
+        "auth_launch_date": 1770872400,
+        "clip_order": null,
+        "airing_id": "RADS1002052600085164",
+        "media_id": "83381fd1a84788fb8f599ec76a26d657f6474408",
+        "modified": 1770481564,
+        "slug": "these-boots-are-made-for-stalking",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181154194-BobsBurgers_1314.jpg",
+        "created": 1758210880,
+        "season_number": "13",
+        "title_id": "2569579",
+        "tv_rating": "tv-pg-l",
+        "published": 1770481564,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181154194-BobsBurgers_1314.jpg",
+        "id": "AZldiPTKs_ErlMTJpQnt",
         "auth": true
     }
 ]
