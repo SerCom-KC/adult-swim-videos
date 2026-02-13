@@ -1,54 +1,5 @@
 [
     {
-        "auth_expiration_date": 1770958740,
-        "tms_id": "",
-        "description": "The Belchers are out to a ball game.",
-        "title_suggest": {
-            "input": [
-                "So You Stink You Can Dance",
-                "You Stink You Can Dance",
-                "Stink You Can Dance",
-                "You Can Dance",
-                "Can Dance",
-                "Dance"
-            ]
-        },
-        "title": "So You Stink You Can Dance",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "5",
-        "original_air_date": null,
-        "auth_launch_date": 1769749200,
-        "clip_order": null,
-        "airing_id": "RADS1001262600082572",
-        "media_id": "220ef21b4d6d951b6c02b04adaf548c12b6416ba",
-        "modified": 1769393465,
-        "slug": "so-you-stink-you-can-dance",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_25918112346-BobsBurgers_1305.jpg",
-        "created": 1758207761,
-        "season_number": "13",
-        "title_id": "2569571",
-        "tv_rating": "tv-pg-dl",
-        "published": 1769393465,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_25918112346-BobsBurgers_1305.jpg",
-        "id": "AZldWVq_yEF1_1NDe6aS",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1771217940,
         "tms_id": "",
         "description": "Louise suspects there's something sinister afoot during a Halloween field trip to an apple orchard.",
@@ -471,6 +422,56 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181154194-BobsBurgers_1314.jpg",
         "id": "AZldiPTKs_ErlMTJpQnt",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1772168340,
+        "tms_id": "",
+        "description": "Louise brings Tina along on a mission to find the perfect item for her last-ever Show and Tell.",
+        "title_suggest": {
+            "input": [
+                "The Show (And Tell) Must Go On",
+                "Show (And Tell) Must Go On",
+                "(And Tell) Must Go On",
+                "Tell) Must Go On",
+                "Must Go On",
+                "Go On",
+                "On"
+            ]
+        },
+        "title": "The Show (And Tell) Must Go On",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "15",
+        "original_air_date": null,
+        "auth_launch_date": 1770958800,
+        "clip_order": null,
+        "airing_id": "RADS1002092600085568",
+        "media_id": "ba850f81d7ccf27f951d75b10e7ac087984ecf33",
+        "modified": 1770658032,
+        "slug": "the-show-and-tell-must-go-on",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_2591812167-BobsBurgers_1315.jpg",
+        "created": 1758211272,
+        "season_number": "13",
+        "title_id": "2569580",
+        "tv_rating": "tv-pg-l",
+        "published": 1770658032,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_2591812167-BobsBurgers_1315.jpg",
+        "id": "AZldju9KyEF1_1NDe6ah",
         "auth": true
     }
 ]
