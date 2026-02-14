@@ -1,52 +1,5 @@
 [
     {
-        "auth_expiration_date": 1771045140,
-        "tms_id": "",
-        "description": "Juggling guns, flying planes and driving backwards- just a few of the things that you should do to avoid being killed by the Shadows of Death.",
-        "title_suggest": {
-            "input": [
-                "The Shadows of Death",
-                "Shadows of Death",
-                "of Death",
-                "Death"
-            ]
-        },
-        "title": "The Shadows of Death",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AZBvkmVYSaru9Cdsy7Cx",
-        "duration": 660.4598,
-        "episode_number": "16",
-        "original_air_date": 1724647500,
-        "auth_launch_date": 1768021200,
-        "clip_order": null,
-        "airing_id": "RADS1001042600078102",
-        "media_id": "a2832cb0141a61d63331fd56694ceb977d89b622",
-        "modified": 1767594306,
-        "slug": "the-shadows-of-death",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240826/thumbnails/1_248261523254-PSICOPS_SEASON1_EP116_SHOWSTILLS_IMAGE2_LEFTTORIGHT_FELIXXKYDDPOLICEWOMANJAKESFOOTBALLMANWEIRDEQUIPMENT.jpg",
-        "created": 1724202838,
-        "title_id": "2530064",
-        "season_number": "1",
-        "tv_rating": "tv-ma-lv",
-        "published": 1767594306,
-        "tags": [],
-        "collection_title": "Psi-Cops",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20240826/thumbnails/2_248261523254-PSICOPS_SEASON1_EP116_SHOWSTILLS_IMAGE2_LEFTTORIGHT_FELIXXKYDDPOLICEWOMANJAKESFOOTBALLMANWEIRDEQUIPMENT.jpg",
-        "id": "AZFyf2lgg6zBH7G86thI",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1772859540,
         "tms_id": "",
         "description": "Stone enlists Kydd and Felixx on their most dangerous mission yet\u2026 breaking a cute magical monkey out of the evidence room.",
@@ -222,6 +175,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20241016/thumbnails/2_241016119255-PSICOPS_SEASON1_EP117_SHOWSTILLS_IMAGE3_LEFTTORIGHT_KYDDFELIXXSCIENTISTDEADSCIENTIST.jpg",
         "id": "AZGW90THg6zBH7G86thK",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1774065540,
+        "tms_id": "",
+        "description": "What's the best way to determine whether a house is to blame for all the murders that took place there? Fill it with serial killers, obviously.",
+        "title_suggest": {
+            "input": [
+                "Murder House",
+                "House"
+            ]
+        },
+        "title": "Murder House",
+        "type": "episode",
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZBvkmVYSaru9Cdsy7Cx",
+        "duration": 660.4932,
+        "episode_number": "21",
+        "original_air_date": 1726461000,
+        "auth_launch_date": 1771045200,
+        "clip_order": null,
+        "airing_id": "RADS1002092600085645",
+        "media_id": "bc8e8ad421a3b36723a76fe41f26fed0e4af3232",
+        "modified": 1770665225,
+        "slug": "murder-house",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241016/thumbnails/1_2410161111481-PSICOPS_SEASON1_EP121_SHOWSTILLS_IMAGE3_CHIEFBEEFBLINDS.jpg",
+        "created": 1726022974,
+        "title_id": "2530059",
+        "season_number": "1",
+        "tv_rating": "tv-ma-v",
+        "published": 1770665225,
+        "tags": [],
+        "collection_title": "Psi-Cops",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20241016/thumbnails/2_2410161111481-PSICOPS_SEASON1_EP121_SHOWSTILLS_IMAGE3_CHIEFBEEFBLINDS.jpg",
+        "id": "AZHe_H4Jg6zBH7G86thS",
         "auth": true
     }
 ]
