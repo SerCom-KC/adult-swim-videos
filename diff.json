@@ -1,7 +1,6 @@
 {
-    "updated": 1771117662,
-    "added": [],
-    "removed": [
+    "updated": 1771119701,
+    "added": [
         {
             "auth_expiration_date": 1605934740,
             "tms_id": "",
@@ -30,7 +29,7 @@
             "clip_order": null,
             "airing_id": "RADS1002162500021691",
             "media_id": "f91000a4a4fde447c3eb12e0b10e6037989272a2",
-            "modified": 1739734324,
+            "modified": 1771119617,
             "slug": "jack-staubers-opal",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20201030/thumbnails/1_201030113497-ASSmalls_2020_DAI_JackStauber_OPAL_dup-20201028.jpg",
@@ -38,7 +37,7 @@
             "season_number": "3",
             "title_id": "2240588",
             "tv_rating": "",
-            "published": 1739734324,
+            "published": 1771119617,
             "tags": [],
             "collection_title": "Smalls",
             "disable_ads": false,
@@ -51,5 +50,6 @@
             "collection_title_id": "2326791",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
