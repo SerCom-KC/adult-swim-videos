@@ -322,6 +322,51 @@
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15187304540037.jpg"
     },
     {
+        "auth_expiration_date": 1740286740,
+        "tms_id": "",
+        "description": "After only one and a half episodes, Hannibal quits the show and is poorly cloned into a giant mutant version of himself named Blannibal.",
+        "title_suggest": {
+            "input": [
+                "Hannibal Quits",
+                "Quits"
+            ]
+        },
+        "title": "Hannibal Quits",
+        "expiration_date": 1774151940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+        "duration": 674.0734,
+        "episode_number": "2",
+        "original_air_date": null,
+        "auth_launch_date": 1737262800,
+        "clip_order": null,
+        "airing_id": "RADS1002092600085773",
+        "media_id": "738990f5b3458234de1f741e63a193407bdbea32",
+        "modified": 1770706522,
+        "slug": "hannibal-quits",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/1_209161712495-ericandre_502_dup-20200812.jpg",
+        "created": 1600290772,
+        "season_number": "5",
+        "title_id": "2230781",
+        "tv_rating": "tv-ma-l",
+        "published": 1770706522,
+        "tags": [],
+        "collection_title": "The Eric Andre Show",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1771131600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161712495-ericandre_502_dup-20200812.jpg",
+        "id": "AXSYw1UXSeFB2d0c3877",
+        "auth": false
+    },
+    {
         "auth_expiration_date": 1739681940,
         "tms_id": "",
         "description": "Eric & Hannibal are back! Eric welcomes Judy Greer and Adam Rippon, and befriends a lost rat on the subway, trying to find its original owner. Also - beer chugging musical guest Anderson Six .Paak!",
@@ -369,7 +414,7 @@
         "auth": false
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1474718400,
         "auth_expiration_date": 1774151940,
         "tms_id": "EP015632430038",
@@ -932,59 +977,6 @@
         "launch_date": 1598414427,
         "poster": "http://i.cdn.turner.com/adultswim/big/video/eric-andre-interviews-the-hot-babes-of-instagram-ana-montana/ericandre_HGOI_102_AnaMontana.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1471091460,
-        "auth_expiration_date": 1771131540,
-        "tms_id": "EP015632430033",
-        "description": "Interviews with Stacey Dash and Jack McBrayer; Musical guest A$AP Rocky, Danny Brown, Go Dreamer.",
-        "title_suggest": {
-            "input": [
-                "Stacey Dash; Jack McBrayer",
-                "Dash; Jack McBrayer",
-                "Jack McBrayer",
-                "McBrayer"
-            ]
-        },
-        "title": "Stacey Dash; Jack McBrayer",
-        "type": "episode",
-        "expiration_date": 1768107540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-        "duration": 679.73,
-        "episode_number": "2",
-        "original_air_date": 1471060800,
-        "clip_order": null,
-        "auth_launch_date": 1768107600,
-        "modified": 1767687098,
-        "media_id": "fe468f23ff9ccd05d062a8a3e763efebd3bf2e2f",
-        "airing_id": "RADS1012022500072293",
-        "id": "wjd9pAoaS2WR7cFtE_AroQ",
-        "slug": "stacey-dash-jack-mc-brayer",
-        "views": 1,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_2034161942-ericandre_402_dup-20160419.jpg",
-        "created": 1470726638,
-        "title_id": "2088418",
-        "tv_rating": "tv-ma-lsv",
-        "season_number": "4",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1767687098,
-        "first_published": 1470726638,
-        "tags": [],
-        "collection_title": "The Eric Andre Show",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1765083600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034161942-ericandre_402_dup-20160419.jpg",
-        "cma_id": "1369025"
     },
     {
         "auth": false,
