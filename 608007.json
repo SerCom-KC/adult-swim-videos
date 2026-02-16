@@ -419,11 +419,7 @@
     },
     {
         "auth_expiration_date": 1777262340,
-        "created": 1770679405,
         "tms_id": "",
-        "title_id": "2573247",
-        "season_number": "18",
-        "tv_rating": "tv-14-lv",
         "description": "Luffy faces a tough choice as Sanji decides to leave the crew to confront Big Mom's threats alone.",
         "title_suggest": {
             "input": [
@@ -435,21 +431,38 @@
                 "Note!"
             ]
         },
-        "published": 1770687629,
         "title": "To My Buds! Sanji's Farewell Note!",
         "type": "episode",
-        "tags": [],
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
         "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
         "duration": 1290.6894,
-        "episode_number": "",
-        "collection_title": "One Piece",
+        "episode_number": "18",
         "original_air_date": 1771138800,
         "auth_launch_date": 1771151400,
-        "modified_by": "ODT Listener",
+        "clip_order": null,
         "airing_id": "RADS1002092600085858",
         "media_id": "8230fd5dc4fb3b90e1efda880cef8d1f2b9f433d",
-        "modified": 1770687629,
+        "modified": 1771263046,
         "slug": "to-my-buds-sanjis-farewell-note",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20260216/thumbnails/1_262161230302-OnePiece764_S18ep18.png",
+        "created": 1770679405,
+        "title_id": "2573247",
+        "season_number": "18",
+        "tv_rating": "tv-14-lv",
+        "published": 1771263046,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "undefined undefined",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20260216/thumbnails/2_262161230302-OnePiece764_S18ep18.png",
         "id": "AZxEt40oNi2EYjVB1WCo",
         "auth": true
     }
