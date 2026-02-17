@@ -53,7 +53,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1446844800,
         "auth_expiration_date": 1792468740,
         "tms_id": "EP004625750035",
@@ -470,54 +470,7 @@
         "launch_date": 1771304400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210713/thumbnails/2_217131046223-hbag.jpeg",
         "id": "AXqgPkjBBH5Z6gH5aWX7",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1771304340,
-        "tms_id": "",
-        "description": "It's up to Harvey Birdman to find a way to remove President Phil Ken Sebben from office before everyone starts to worry it's more than the ridiculous plot to an animated show.",
-        "title_suggest": {
-            "input": [
-                "Harvey Birdman: Attorney General",
-                "Birdman: Attorney General",
-                "Attorney General",
-                "General"
-            ]
-        },
-        "title": "Harvey Birdman: Attorney General",
-        "expiration_date": 1750132740,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "E6RZbJoRQliL44vITSybtA",
-        "duration": 1352.1174,
-        "episode_number": "8",
-        "original_air_date": 1539576000,
-        "auth_launch_date": 1756785600,
-        "clip_order": null,
-        "airing_id": "RADS1009012500055847",
-        "media_id": "899e7435482246c253c731d7f1a285512bd14868",
-        "modified": 1770883837,
-        "slug": "harvey-birdman-attorney-general",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210713/thumbnails/1_21713104430-hbag.jpeg",
-        "created": 1626187509,
-        "season_number": "4",
-        "title_id": "2227980",
-        "tv_rating": "tv-14-dlv",
-        "published": 1770883837,
-        "tags": [],
-        "collection_title": "Harvey Birdman, Attorney at Law",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1747108800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210713/thumbnails/2_21713104430-hbag.jpeg",
-        "id": "AXqgVC-fDmGy9WFjRr1A",
-        "auth": true
+        "auth": false
     },
     {
         "auth": false,

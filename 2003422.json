@@ -1,51 +1,5 @@
 [
     {
-        "auth_expiration_date": 1771304340,
-        "tms_id": "",
-        "description": "A VR arcade opens next door, and Gene spends all his money.",
-        "title_suggest": {
-            "input": [
-                "Ready Player Gene",
-                "Player Gene",
-                "Gene"
-            ]
-        },
-        "title": "Ready Player Gene",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "7",
-        "original_air_date": null,
-        "auth_launch_date": 1770094800,
-        "clip_order": null,
-        "airing_id": "RADS1001292600083404",
-        "media_id": "69af5f2f5b4ffe5476895e028a83f657a339e748",
-        "modified": 1769671554,
-        "slug": "ready-player-gene",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181137218-BobsBurgers_1307.jpg",
-        "created": 1758209896,
-        "season_number": "13",
-        "title_id": "2569588",
-        "tv_rating": "tv-pg-dl",
-        "published": 1769671554,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181137218-BobsBurgers_1307.jpg",
-        "id": "AZldefCXs_ErlMTJpQno",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1771390740,
         "tms_id": "",
         "description": "The Belchers go to a mini golf course on Thanksgiving morning.",
@@ -424,6 +378,54 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_2591812167-BobsBurgers_1315.jpg",
         "id": "AZldju9KyEF1_1NDe6ah",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1772513940,
+        "tms_id": "",
+        "description": "Mr. Fischoeder challenges Bob to successfully prank him on April Fool's Day or lose his lease.",
+        "title_suggest": {
+            "input": [
+                "What a (April) Fool Believes",
+                "a (April) Fool Believes",
+                "(April) Fool Believes",
+                "Fool Believes",
+                "Believes"
+            ]
+        },
+        "title": "What a (April) Fool Believes",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "17",
+        "original_air_date": null,
+        "auth_launch_date": 1771304400,
+        "clip_order": null,
+        "airing_id": "RADS1002112600086374",
+        "media_id": "8aa9641166f783ec07fb113dd5967447ec9825ac",
+        "modified": 1770882073,
+        "slug": "what-a-april-fool-believes",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_25918125570-BobsBurgers_1317.jpg",
+        "created": 1758211562,
+        "season_number": "13",
+        "title_id": "2569581",
+        "tv_rating": "tv-pg-l",
+        "published": 1770882073,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_25918125570-BobsBurgers_1317.jpg",
+        "id": "AZldk1s3yEF1_1NDe6ak",
         "auth": true
     },
     {
