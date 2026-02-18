@@ -301,7 +301,7 @@
         "launch_date": 1771390800,
         "poster": "https://media.cdn.adultswim.com/uploads/20191024/thumbnails/2_1910241144587-mrpickles_401_dup-20190507.jpg",
         "id": "AW3-cW8x1YiBSfg0KX-J",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": 1520263860,
@@ -941,7 +941,7 @@
         "cma_id": "2085304"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447173420,
         "auth_expiration_date": 1771995540,
         "tms_id": "EP018514630003",
