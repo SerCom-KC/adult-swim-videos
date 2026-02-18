@@ -2,10 +2,8 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: February 18, 2026 at 10:30:41 EST_
+_Last Update: February 18, 2026 at 11:00:42 EST_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
 439722 The Venture Bros.: 2  
 ### 2024906
@@ -24,3 +22,5 @@ https://www.adultswim.com/videos/the-venture-bros/tanks-for-nuthin
 seriesid=`439722` titleid=`2024907` id=`vjZCWxc6Saewgzm31CK-Ig` mediaid=`50a1721bf10b2c82d58794de2b52f2f6e65e6bb1`  
 _A revenge-seeking super-widow makes Dr. Mrs. The Monarch’s job miserable, while a criminal genius has his mastermind set on arching Dr. Venture._  
 <a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161415287-venture_609_dup_20160127.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161415287-venture_609_dup_20160127.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  

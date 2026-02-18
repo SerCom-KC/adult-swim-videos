@@ -1,7 +1,6 @@
 {
-    "updated": 1771428641,
-    "added": [],
-    "removed": [
+    "updated": 1771430442,
+    "added": [
         {
             "auth": false,
             "ott_launch_date": 1457362500,
@@ -30,7 +29,7 @@
             "original_air_date": 1457326800,
             "clip_order": null,
             "auth_launch_date": 1721880000,
-            "modified": 1746114942,
+            "modified": 1771430159,
             "media_id": "f71a274607a9c20e702c52124583fec056b24514",
             "airing_id": "RADS1005012500034162",
             "id": "DXydoItlQ1W1pf43RV3g0A",
@@ -45,7 +44,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1746114942,
+            "published": 1771430159,
             "first_published": 1457014218,
             "tags": [],
             "collection_title": "The Venture Bros.",
@@ -85,7 +84,7 @@
             "original_air_date": 1456722000,
             "clip_order": null,
             "auth_launch_date": 1721275200,
-            "modified": 1746114945,
+            "modified": 1771430157,
             "media_id": "50a1721bf10b2c82d58794de2b52f2f6e65e6bb1",
             "airing_id": "RADS1005012500034161",
             "id": "vjZCWxc6Saewgzm31CK-Ig",
@@ -100,7 +99,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1746114945,
+            "published": 1771430157,
             "first_published": 1456391421,
             "tags": [],
             "collection_title": "The Venture Bros.",
@@ -113,5 +112,6 @@
             "collection_title_id": "439722",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
