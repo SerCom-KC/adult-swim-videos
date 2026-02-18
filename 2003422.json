@@ -1,49 +1,5 @@
 [
     {
-        "auth_expiration_date": 1771390740,
-        "tms_id": "",
-        "description": "The Belchers go to a mini golf course on Thanksgiving morning.",
-        "title_suggest": {
-            "input": [
-                "Putts-giving"
-            ]
-        },
-        "title": "Putts-giving",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "8",
-        "original_air_date": null,
-        "auth_launch_date": 1770181200,
-        "clip_order": null,
-        "airing_id": "RADS1001292600083517",
-        "media_id": "cb3d6ac4b0274a8994b5067e55e0f825a9c209dc",
-        "modified": 1769758032,
-        "slug": "putts-giving",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_25918113981-BobsBurgers_1308.jpg",
-        "created": 1758209951,
-        "season_number": "13",
-        "title_id": "2569573",
-        "tv_rating": "tv-pg-l",
-        "published": 1769758032,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_25918113981-BobsBurgers_1308.jpg",
-        "id": "AZldesjIs_ErlMTJpQnp",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1771477140,
         "tms_id": "",
         "description": "Bob takes Linda and the kids to visit his mother's grave, but finding the headstone is harder than he expected.",
@@ -475,6 +431,54 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_25918125178-BobsBurgers_1316.jpg",
         "id": "AZldkr8XyEF1_1NDe6ai",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1772600340,
+        "tms_id": "",
+        "description": "When a customer leaves a $100 gift card as a tip, Bob, Linda, and the kids go on a shopping spree.",
+        "title_suggest": {
+            "input": [
+                "Gift Card or Buy Trying",
+                "Card or Buy Trying",
+                "or Buy Trying",
+                "Buy Trying",
+                "Trying"
+            ]
+        },
+        "title": "Gift Card or Buy Trying",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "18",
+        "original_air_date": null,
+        "auth_launch_date": 1771390800,
+        "clip_order": null,
+        "airing_id": "RADS1002122600086471",
+        "media_id": "02de6008fea1c6fd235d87f6f1dc58b64efafe7b",
+        "modified": 1770971155,
+        "slug": "gift-card-or-buy-trying",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_25918126528-BobsBurgers_1318.jpg",
+        "created": 1758211634,
+        "season_number": "13",
+        "title_id": "2569583",
+        "tv_rating": "tv-pg-l",
+        "published": 1770971155,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_25918126528-BobsBurgers_1318.jpg",
+        "id": "AZldlHXIs_ErlMTJpQnu",
         "auth": true
     }
 ]
