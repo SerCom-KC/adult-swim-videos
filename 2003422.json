@@ -1,52 +1,5 @@
 [
     {
-        "auth_expiration_date": 1771563540,
-        "tms_id": "",
-        "description": "Bob and Linda try to attend all three kids' holiday performances at the same time.",
-        "title_suggest": {
-            "input": [
-                "The Plight Before Christmas",
-                "Plight Before Christmas",
-                "Before Christmas",
-                "Christmas"
-            ]
-        },
-        "title": "The Plight Before Christmas",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "10",
-        "original_air_date": null,
-        "auth_launch_date": 1770354000,
-        "clip_order": null,
-        "airing_id": "RADS1001302600084163",
-        "media_id": "e3ba2f1b0d2ba47e717dc60ef5f3fd3f9989794a",
-        "modified": 1769928033,
-        "slug": "the-plight-before-christmas",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181145515-BobsBurgers_1310.jpg",
-        "created": 1758210454,
-        "season_number": "13",
-        "title_id": "2569575",
-        "tv_rating": "tv-pg-l",
-        "published": 1769928033,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181145515-BobsBurgers_1310.jpg",
-        "id": "AZldgnKes_ErlMTJpQnq",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1771909140,
         "tms_id": "",
         "description": "A man trying to row from New Zealand to Nova Scotia visits the restaurant to have a burger, and it changes everything.",
@@ -476,6 +429,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_2591812840-BobsBurgers_1319.jpg",
         "id": "AZldlUjfyEF1_1NDe6am",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1772773140,
+        "tms_id": "",
+        "description": "Bob tells Linda and the kids the story behind an old, broken radio.",
+        "title_suggest": {
+            "input": [
+                "Radio No You Didn't",
+                "No You Didn't",
+                "You Didn't",
+                "Didn't"
+            ]
+        },
+        "title": "Radio No You Didn't",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "20",
+        "original_air_date": null,
+        "auth_launch_date": 1771563600,
+        "clip_order": null,
+        "airing_id": "RADS1002152600086891",
+        "media_id": "04ff2c0b58960b3e9f7db47c197600e1cfb0923d",
+        "modified": 1771139447,
+        "slug": "radio-no-you-didnt",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_25918121070-BobsBurgers_1320.jpg",
+        "created": 1758211811,
+        "season_number": "13",
+        "title_id": "2569585",
+        "tv_rating": "tv-pg-l",
+        "published": 1771139447,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_25918121070-BobsBurgers_1320.jpg",
+        "id": "AZldlygHs_ErlMTJpQnv",
         "auth": true
     }
 ]
