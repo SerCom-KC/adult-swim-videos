@@ -1,7 +1,6 @@
 {
-    "updated": 1772116958,
-    "added": [],
-    "removed": [
+    "updated": 1772118879,
+    "added": [
         {
             "auth_expiration_date": 1698119940,
             "tms_id": "EP027786570036",
@@ -28,7 +27,7 @@
             "clip_order": null,
             "airing_id": "RADS1003012500023564",
             "media_id": "a5e97097d2dea427e68afc2d277b6c362c7759bf",
-            "modified": 1740870399,
+            "modified": 1772118746,
             "slug": "piggy",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20200428/thumbnails/1_204281238546-infomercials_Piggy_dup-20200408.jpg",
@@ -36,7 +35,7 @@
             "season_number": "10",
             "title_id": "2222970",
             "tv_rating": "tv-ma-l",
-            "published": 1740870399,
+            "published": 1772118746,
             "tags": [],
             "collection_title": "Infomercials",
             "disable_ads": false,
@@ -49,5 +48,6 @@
             "collection_title_id": "2007823",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
