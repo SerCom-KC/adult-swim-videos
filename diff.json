@@ -1,6 +1,121 @@
 {
-    "updated": 1772467212,
+    "updated": 1772469013,
     "added": [
+        {
+            "ott_launch_date": null,
+            "auth_expiration_date": 1772513940,
+            "tms_id": "",
+            "description": "The Scooby Gang saves Velma's from getting cancer. We see what really happened on board Noah's ark. The Robot Chicken Writers wonder what happens to all the toys that have ever been recalled.",
+            "title_suggest": {
+                "input": [
+                    "Snoopy Camino Lindo in: Quick and Dirty Squirrel Shot",
+                    "Camino Lindo in: Quick and Dirty Squirrel Shot",
+                    "Lindo in: Quick and Dirty Squirrel Shot",
+                    "in: Quick and Dirty Squirrel Shot",
+                    "Quick and Dirty Squirrel Shot",
+                    "and Dirty Squirrel Shot",
+                    "Dirty Squirrel Shot",
+                    "Squirrel Shot",
+                    "Shot"
+                ]
+            },
+            "title": "Snoopy Camino Lindo in: Quick and Dirty Squirrel Shot",
+            "expiration_date": 1743479940,
+            "type": "episode",
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
+            "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+            "duration": 673,
+            "episode_number": "7",
+            "original_air_date": 1571630400,
+            "auth_launch_date": 1743480000,
+            "clip_order": null,
+            "media_id": "d72bd6558f89f1baf641facb818cd6d065b28d3b",
+            "modified": 1772467970,
+            "airing_id": "RADS1003262500026793",
+            "slug": "snoopy-camino-lindo-in-quick-and-dirty-squirrel-shot",
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20191015/thumbnails/1_191015112466-robotchicken_1007_dup-20190712.jpg",
+            "created": 1569882870,
+            "season_number": "10",
+            "title_id": "2201003",
+            "tv_rating": "tv-14-dlsv",
+            "blacklist": [],
+            "ott_expiration_date": null,
+            "published": 1772467970,
+            "tags": [],
+            "collection_title": "Robot Chicken",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1742875200,
+            "poster": "https://media.cdn.adultswim.com/uploads/20191015/thumbnails/2_191015112466-robotchicken_1007_dup-20190712.jpg",
+            "id": "AW2ET5J_adNs2hMNfuIn",
+            "auth": true,
+            "collection_slug": "robot-chicken",
+            "collection_title_id": "608360",
+            "online_exclusives": false
+        }
+    ],
+    "removed": [
+        {
+            "ott_launch_date": null,
+            "auth_expiration_date": 1772513940,
+            "tms_id": "",
+            "description": "Betty Spaghetty tries her best to save an elevator full of people. RC finds out what goes on behind Bert and Ernie's closed bedroom doors. Godzilla: The Musical comes to a Broadway theatre and brings the house down.",
+            "title_suggest": {
+                "input": [
+                    "Molly Lucero in: Your Friend's Boob",
+                    "Lucero in: Your Friend's Boob",
+                    "in: Your Friend's Boob",
+                    "Your Friend's Boob",
+                    "Friend's Boob",
+                    "Boob"
+                ]
+            },
+            "title": "Molly Lucero in: Your Friend's Boob",
+            "expiration_date": 1743479940,
+            "type": "episode",
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
+            "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+            "duration": 675.9,
+            "episode_number": "8",
+            "original_air_date": 1571631300,
+            "auth_launch_date": 1743480000,
+            "clip_order": null,
+            "media_id": "257563cb226ddc224e97327f4d4cb231a9310f2d",
+            "modified": 1772465260,
+            "airing_id": "RADS1003262500026791",
+            "slug": "molly-lucero-in-your-friends-boob",
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20191015/thumbnails/1_1910151124273-robotchicken_1008_dup-20190730.jpg",
+            "created": 1569882901,
+            "season_number": "10",
+            "title_id": "2201004",
+            "tv_rating": "tv-14-dlsv",
+            "blacklist": [],
+            "ott_expiration_date": null,
+            "published": 1772465260,
+            "tags": [],
+            "collection_title": "Robot Chicken",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1742875200,
+            "poster": "https://media.cdn.adultswim.com/uploads/20191015/thumbnails/2_1910151124273-robotchicken_1008_dup-20190730.jpg",
+            "id": "AW2EUAs81YiBSfg0KXXA",
+            "auth": true,
+            "collection_slug": "robot-chicken",
+            "collection_title_id": "608360",
+            "online_exclusives": false
+        },
         {
             "ott_launch_date": null,
             "auth_expiration_date": 1772513940,
@@ -54,6 +169,5 @@
             "collection_title_id": "608360",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
