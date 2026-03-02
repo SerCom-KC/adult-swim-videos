@@ -141,55 +141,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1772427540,
-        "tms_id": "",
-        "description": "Tina drags Bob along on a desperate quest to earn her bird-watching badge for ThunderGirls.",
-        "title_suggest": {
-            "input": [
-                "Crows Encounters of the Bird Kind",
-                "Encounters of the Bird Kind",
-                "of the Bird Kind",
-                "the Bird Kind",
-                "Bird Kind",
-                "Kind"
-            ]
-        },
-        "title": "Crows Encounters of the Bird Kind",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "16",
-        "original_air_date": null,
-        "auth_launch_date": 1771218000,
-        "clip_order": null,
-        "airing_id": "RADS1002102600086019",
-        "media_id": "e6a3f46cba5d7fa253cfa5231923a463b368a6a5",
-        "modified": 1770793832,
-        "slug": "crows-encounters-of-the-bird-kind",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_25918125178-BobsBurgers_1316.jpg",
-        "created": 1758211522,
-        "season_number": "13",
-        "title_id": "2569582",
-        "tv_rating": "tv-pg-l",
-        "published": 1770793832,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_25918125178-BobsBurgers_1316.jpg",
-        "id": "AZldkr8XyEF1_1NDe6ai",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1772600340,
         "tms_id": "",
         "description": "When a customer leaves a $100 gift card as a tip, Bob, Linda, and the kids go on a shopping spree.",
@@ -465,6 +416,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181438170-BobsBurgers_1403.jpg",
         "id": "AZleH3KByEF1_1NDe6az",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1773633540,
+        "tms_id": "",
+        "description": "Gene tries to learn how to lucid dream in order to recover the world's most perfect song that he wrote while asleep.",
+        "title_suggest": {
+            "input": [
+                "Running Down a Gene",
+                "Down a Gene",
+                "a Gene",
+                "Gene"
+            ]
+        },
+        "title": "Running Down a Gene",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "4",
+        "original_air_date": null,
+        "auth_launch_date": 1772427600,
+        "clip_order": null,
+        "airing_id": "RADS1002252600088171",
+        "media_id": "8e9e35951d372c918ca9ba778fcc4db3ab44c2f0",
+        "modified": 1772044055,
+        "slug": "running-down-a-gene",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181445565-BobsBurgers_1404.jpg",
+        "created": 1758221176,
+        "season_number": "14",
+        "title_id": "2569591",
+        "tv_rating": "tv-pg-l",
+        "published": 1772044055,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181445565-BobsBurgers_1404.jpg",
+        "id": "AZleJgzlyEF1_1NDe6a1",
         "auth": true
     }
 ]
