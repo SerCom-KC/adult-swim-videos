@@ -1211,6 +1211,53 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1774236540,
+        "tms_id": "",
+        "description": "A caveman at the dawn of evolution and a dinosaur on the brink of extinction are bonded by tragedy. This unlikely friendship becomes the only hope of survival in a violent, primordial world.",
+        "title_suggest": {
+            "input": [
+                "The River of Life",
+                "River of Life",
+                "of Life",
+                "Life"
+            ]
+        },
+        "title": "The River of Life",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWzZcF8hCorLtcgfluAN",
+        "duration": 1341.0731,
+        "episode_number": "8",
+        "original_air_date": null,
+        "auth_launch_date": 1772425800,
+        "clip_order": null,
+        "airing_id": "RADS1002232600088033",
+        "media_id": "ae88b14c03d6341ae91ae64f9193d0f315172357",
+        "modified": 1772000889,
+        "slug": "the-river-of-life",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20260105/thumbnails/1_26152222127-AS_Primal_S3_08_28_TheRiverOfLife_PlatformPreferred.png",
+        "created": 1767669749,
+        "season_number": "3",
+        "title_id": "2449474",
+        "tv_rating": "tv-ma-v",
+        "published": 1772000889,
+        "tags": [],
+        "collection_title": "Primal",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20260105/thumbnails/2_26152222127-AS_Primal_S3_08_28_TheRiverOfLife_PlatformPreferred.png",
+        "id": "AZuRU9UWc6shItN4M7NJ",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1772425740,
         "tms_id": "",
         "description": "A caveman at the dawn of evolution and a dinosaur on the brink of extinction are bonded by tragedy. This unlikely friendship becomes the only hope of survival in a violent, primordial world.",
@@ -1256,7 +1303,7 @@
         "launch_date": 1772425800,
         "poster": "https://media.cdn.adultswim.com/uploads/20260105/thumbnails/2_26152219325-AS_Primal_S3_05_25_TheDeadCastNoShadow_PlatformPreferred.png",
         "id": "AZuRUUuVc6shItN4M7NI",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1773026940,
