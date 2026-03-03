@@ -93,54 +93,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1772513940,
-        "tms_id": "",
-        "description": "Mr. Fischoeder challenges Bob to successfully prank him on April Fool's Day or lose his lease.",
-        "title_suggest": {
-            "input": [
-                "What a (April) Fool Believes",
-                "a (April) Fool Believes",
-                "(April) Fool Believes",
-                "Fool Believes",
-                "Believes"
-            ]
-        },
-        "title": "What a (April) Fool Believes",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "17",
-        "original_air_date": null,
-        "auth_launch_date": 1771304400,
-        "clip_order": null,
-        "airing_id": "RADS1002112600086374",
-        "media_id": "8aa9641166f783ec07fb113dd5967447ec9825ac",
-        "modified": 1770882073,
-        "slug": "what-a-april-fool-believes",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_25918125570-BobsBurgers_1317.jpg",
-        "created": 1758211562,
-        "season_number": "13",
-        "title_id": "2569581",
-        "tv_rating": "tv-pg-l",
-        "published": 1770882073,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_25918125570-BobsBurgers_1317.jpg",
-        "id": "AZldk1s3yEF1_1NDe6ak",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1772600340,
         "tms_id": "",
         "description": "When a customer leaves a $100 gift card as a tip, Bob, Linda, and the kids go on a shopping spree.",
@@ -416,6 +368,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181438170-BobsBurgers_1403.jpg",
         "id": "AZleH3KByEF1_1NDe6az",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1773719940,
+        "tms_id": "",
+        "description": "The Belcher kids learn a secret about Zeke's past, while Bob rekindles his feud with Jimmy Pesto.",
+        "title_suggest": {
+            "input": [
+                "Bully-ieve It or Not",
+                "It or Not",
+                "or Not",
+                "Not"
+            ]
+        },
+        "title": "Bully-ieve It or Not",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "5",
+        "original_air_date": null,
+        "auth_launch_date": 1772514000,
+        "clip_order": null,
+        "airing_id": "RADS1002252600088186",
+        "media_id": "49f817fa71be71228dee4f32185689200bc2d281",
+        "modified": 1772089968,
+        "slug": "bully-ieve-it-or-not",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181447510-BobsBurgers_1405.jpg",
+        "created": 1758221276,
+        "season_number": "14",
+        "title_id": "2569592",
+        "tv_rating": "tv-pg-dl",
+        "published": 1772089968,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181447510-BobsBurgers_1405.jpg",
+        "id": "AZleJ5RGs_ErlMTJpQny",
         "auth": true
     },
     {
