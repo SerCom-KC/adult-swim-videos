@@ -93,51 +93,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1772686740,
-        "tms_id": "",
-        "description": "The kids become a part of a crustacean-themed wrestling show. Meanwhile, Linda tries to form a 21-day habit.",
-        "title_suggest": {
-            "input": [
-                "Crab-solutely Fabulous",
-                "Fabulous"
-            ]
-        },
-        "title": "Crab-solutely Fabulous",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "19",
-        "original_air_date": null,
-        "auth_launch_date": 1771477200,
-        "clip_order": null,
-        "airing_id": "RADS1002132600086558",
-        "media_id": "907a50dde7d3cce7c1b5ce430b47d71d6e19896d",
-        "modified": 1771077361,
-        "slug": "crab-solutely-fabulous",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_2591812840-BobsBurgers_1319.jpg",
-        "created": 1758211688,
-        "season_number": "13",
-        "title_id": "2569584",
-        "tv_rating": "tv-pg-l",
-        "published": 1771077361,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_2591812840-BobsBurgers_1319.jpg",
-        "id": "AZldlUjfyEF1_1NDe6am",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1772773140,
         "tms_id": "",
         "description": "Bob tells Linda and the kids the story behind an old, broken radio.",
@@ -462,6 +417,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181450433-BobsBurgers_1406.jpg",
         "id": "AZleKjpXyEF1_1NDe6a2",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1773892740,
+        "tms_id": "",
+        "description": "Mr. Fischoeder enlists Bob to be his personal chef for a glamping trip.",
+        "title_suggest": {
+            "input": [
+                "Escape From Which Island?",
+                "From Which Island?",
+                "Which Island?",
+                "Island?"
+            ]
+        },
+        "title": "Escape From Which Island?",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "7",
+        "original_air_date": null,
+        "auth_launch_date": 1772686800,
+        "clip_order": null,
+        "airing_id": "RADS1002262600088772",
+        "media_id": "0916e6dc397a4ac8d5e0c1fcd960dbb11281e990",
+        "modified": 1772271751,
+        "slug": "escape-from-which-island",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181554316-BobsBurgers_1407.jpg",
+        "created": 1758226304,
+        "season_number": "14",
+        "title_id": "2569593",
+        "tv_rating": "tv-pg-l",
+        "published": 1772271751,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181554316-BobsBurgers_1407.jpg",
+        "id": "AZledE3ws_ErlMTJpQnz",
         "auth": true
     }
 ]
