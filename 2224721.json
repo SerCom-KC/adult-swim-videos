@@ -44,6 +44,53 @@
         "launch_date": 1771131600,
         "poster": "https://media.cdn.adultswim.com/uploads/20220107/thumbnails/2_22171728396-SMILINGFRIENDS.png",
         "id": "AX42l8zl_0O4w1rD3RRZ",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1772859599,
+        "tms_id": "EP034814950004",
+        "description": "Pim ventures into the forest across the road to fetch firewood for the office Halloween party.",
+        "title_suggest": {
+            "input": [
+                "A Silly Halloween Special",
+                "Silly Halloween Special",
+                "Halloween Special",
+                "Special"
+            ]
+        },
+        "title": "A Silly Halloween Special",
+        "type": "episode",
+        "expiration_date": 1773547140,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXFAgKw8Rs3h4hI_X2xz",
+        "duration": 647.4134,
+        "episode_number": "4",
+        "original_air_date": 1642395600,
+        "auth_launch_date": 1761969600,
+        "clip_order": null,
+        "airing_id": "RADS1010282500065245",
+        "media_id": "b62330ba2815e7fc823f967b2aee59c448f56e9d",
+        "modified": 1772833606,
+        "slug": "a-silly-halloween-special",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220110/thumbnails/1_221101236131-SmilingFriends_104_ASillyHalloweenSpecial.png",
+        "created": 1641595035,
+        "title_id": "2322679",
+        "season_number": "1",
+        "tv_rating": "tv-14-lv",
+        "published": 1772833606,
+        "tags": [],
+        "collection_title": "Smiling Friends",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1772946000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220110/thumbnails/2_221101236131-SmilingFriends_104_ASillyHalloweenSpecial.png",
+        "id": "AX42sF3D208s7zyYUL9f",
         "auth": false
     },
     {
@@ -93,7 +140,7 @@
         "launch_date": 1772946000,
         "poster": "https://media.cdn.adultswim.com/uploads/20220110/thumbnails/2_22110123719-SmilingFriends_105_WhoViolentlyMurderedSimonSSalty.png",
         "id": "AX42sIs6_0O4w1rD3RRf",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1772945999,
@@ -138,7 +185,7 @@
         "launch_date": 1772946000,
         "poster": "https://media.cdn.adultswim.com/uploads/20220110/thumbnails/2_221101237496-SmilingFriends_106_EnchantedForest.png",
         "id": "AX42sMm3208s7zyYUL9g",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1772945999,
@@ -183,7 +230,7 @@
         "launch_date": 1772946000,
         "poster": "https://media.cdn.adultswim.com/uploads/20220110/thumbnails/2_221101238285-SmilingFriends_107_FrowningFriends.png",
         "id": "AX42sTZm208s7zyYUL9h",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1772945999,
@@ -232,7 +279,7 @@
         "launch_date": 1772946000,
         "poster": "https://media.cdn.adultswim.com/uploads/20220110/thumbnails/2_221101239112-SmilingFriends_108_CharlieDiesAndDoesntComeBack.png",
         "id": "AX42sZA8_0O4w1rD3RRg",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1775966340,
@@ -277,7 +324,7 @@
         "launch_date": 1772341200,
         "poster": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_22161629135-SmilingFriends_103_ShrimpsOdyssey.png",
         "id": "AX4xS-db208s7zyYUL9Y",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1775361540,
@@ -322,7 +369,7 @@
         "launch_date": 1771736400,
         "poster": "https://media.cdn.adultswim.com/uploads/20220106/thumbnails/2_22161628168-SmilingFriends_102_MrFrog.png",
         "id": "AX4xSwxM_0O4w1rD3RQh",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1773460740,
@@ -943,7 +990,7 @@
         "launch_date": 1769922000,
         "poster": "https://media.cdn.adultswim.com/uploads/20251105/thumbnails/2_251151853315-AS_SmilingFriends_07_307_Shmaloogles-PlatformPreferred.png",
         "id": "AZpWcV7Ns_ErlMTJpQqb",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1775361540,
@@ -989,6 +1036,6 @@
         "launch_date": 1770526800,
         "poster": "https://media.cdn.adultswim.com/uploads/20251121/thumbnails/2_2511211956256-AS_SmilingFriends_08_308_GlepEp-PlatfromPreferred.png",
         "id": "AZqpEJ_zs_ErlMTJpQqf",
-        "auth": false
+        "auth": true
     }
 ]
