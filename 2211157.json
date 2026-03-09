@@ -1162,7 +1162,7 @@
         "launch_date": 1770611400,
         "poster": "https://media.cdn.adultswim.com/uploads/20260105/thumbnails/2_26152215387-AS_Primal_S3_02_22_KingdomOfSorrow_PlatformPreferred.png",
         "id": "AZuRTdF1c6shItN4M7NG",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1771216140,
@@ -1396,6 +1396,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20260105/thumbnails/2_26152221288-AS_Primal_S3_07_27_HeartOfTheUndead_PlatformPreferred.png",
         "id": "AZuRUxtgNi2EYjVB1WCQ",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1774841340,
+        "tms_id": "",
+        "description": "A caveman at the dawn of evolution and a dinosaur on the brink of extinction are bonded by tragedy. This unlikely friendship becomes the only hope of survival in a violent, primordial world.",
+        "title_suggest": {
+            "input": [
+                "The Hollow Crown",
+                "Hollow Crown",
+                "Crown"
+            ]
+        },
+        "title": "The Hollow Crown",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AWzZcF8hCorLtcgfluAN",
+        "duration": 1307.94,
+        "episode_number": "9",
+        "original_air_date": null,
+        "auth_launch_date": 1773027000,
+        "clip_order": null,
+        "airing_id": "RADS1003022600089318",
+        "media_id": "bc23398c9037051069fd614bb78732a7d09b6ec6",
+        "modified": 1772600256,
+        "slug": "the-hollow-crown",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20260105/thumbnails/1_2615222328-AS_Primal_S3_09_29_TheHollowCrown_PlatformPreferred.png",
+        "created": 1767669792,
+        "season_number": "3",
+        "title_id": "2449475",
+        "tv_rating": "tv-ma-v",
+        "published": 1772600256,
+        "tags": [],
+        "collection_title": "Primal",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20260105/thumbnails/2_2615222328-AS_Primal_S3_09_29_TheHollowCrown_PlatformPreferred.png",
+        "id": "AZuRVH3QNi2EYjVB1WCR",
         "auth": true
     }
 ]
