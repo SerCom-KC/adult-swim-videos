@@ -99,53 +99,6 @@
         "cma_id": "1402685"
     },
     {
-        "ott_launch_date": null,
-        "auth": true,
-        "auth_expiration_date": 1773115140,
-        "tms_id": "EP007164450166",
-        "description": "Stan's plan for a perfect Thanksgiving watching football in his underwear is thwarted when Francine invites her parents to join them. Francine's mom encourages Hayley to get back on the dating scene and invites an eligible bachelor over.",
-        "title_suggest": {
-            "input": [
-                "Kung Pao Turkey",
-                "Pao Turkey",
-                "Turkey"
-            ]
-        },
-        "expiration_date": 1657511940,
-        "type": "episode",
-        "title": "Kung Pao Turkey",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1280.8462,
-        "episode_number": "5",
-        "original_air_date": 1386300600,
-        "auth_launch_date": 1772514000,
-        "clip_order": null,
-        "media_id": "5fe37e7111fe0e96edc326bdc3d0a010f241e38c",
-        "modified": 1772089971,
-        "airing_id": "RADS1002252600088185",
-        "id": "AWHoN9My0KIGIdXCKz4t",
-        "slug": "kung-pao-turkey",
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152001942405820.jpg",
-        "created": 1520019428,
-        "season_number": "9",
-        "title_id": "2007878",
-        "tv_rating": "tv-14-dlsv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1772089971,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1656907200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001942405820.jpg"
-    },
-    {
         "auth_expiration_date": 1768539540,
         "tms_id": "",
         "description": "Stan, Francine and Roger concoct the perfect plan to rob a bank but agree never to do it. Peace reigns.",
@@ -663,6 +616,55 @@
         "launch_date": 1656907200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15450619121245.jpg",
         "cma_id": "1402618"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1773719940,
+        "tms_id": "EP007164450180",
+        "description": "Stan is laid off from work and has to search for a job for the first time in over twenty years.  When he applies for jobs, Stan learns that his permanent record has been wiped clean of his C.I.A. experience and no one wants to hire him.",
+        "title_suggest": {
+            "input": [
+                "Permanent Record Wrecker",
+                "Record Wrecker",
+                "Wrecker"
+            ]
+        },
+        "title": "Permanent Record Wrecker",
+        "type": "episode",
+        "expiration_date": 1658721540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1290.8562,
+        "episode_number": "18",
+        "original_air_date": 1399950000,
+        "clip_order": null,
+        "auth_launch_date": 1773115200,
+        "modified": 1772759564,
+        "media_id": "853f038edb307e51730762405e96cb0adaaccb2d",
+        "airing_id": "RADS1003052600089889",
+        "id": "TCbEfgMTQRqz5bL-fnTinw",
+        "slug": "permanent-record-wrecker",
+        "views": 1808,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15192398355963.jpg",
+        "created": 1411570536,
+        "season_number": "9",
+        "title_id": "2012719",
+        "tv_rating": "tv-14",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1772759564,
+        "first_published": 1411570536,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1658116800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15192398355963.jpg",
+        "cma_id": "1407771"
     },
     {
         "auth": true,
