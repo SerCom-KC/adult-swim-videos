@@ -2,8 +2,10 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 11, 2026 at 13:00:26 EDT_
+_Last Update: March 11, 2026 at 14:00:39 EDT_
 ## Video added
+No videos were added.  
+## Video removed
 ### Summary
 439722 The Venture Bros.: 1  
 ### 2165019
@@ -14,5 +16,3 @@ https://www.adultswim.com/videos/the-venture-bros/arrears-in-science
 seriesid=`439722` titleid=`2165019` id=`AWU_I9AVh5enQuYyHUKA` mediaid=`4be1a5a026823960b7b9f8acb1edb1c441e4e8a4`  
 _The Morphic Trilogy reaches its stunning conclusion in a decades-spanning tale of friendship, betrayal, and mass murder that overwrites Venture history._  
 <a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153454945685718.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153454945685718.jpg" height="144px" /></a>
-## Video removed
-No videos were removed.  
