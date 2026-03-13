@@ -1,50 +1,5 @@
 [
     {
-        "auth_expiration_date": 1773374340,
-        "tms_id": "",
-        "description": "Bob and Linda help Gretchen throw her sister's bachelorette party.",
-        "title_suggest": {
-            "input": [
-                "The Pickleorette",
-                "Pickleorette"
-            ]
-        },
-        "title": "The Pickleorette",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "3",
-        "original_air_date": null,
-        "auth_launch_date": 1772168400,
-        "clip_order": null,
-        "airing_id": "RADS1002202600087783",
-        "media_id": "f84f893e03dc815957d0719a070b1dc71b4f05e9",
-        "modified": 1771745255,
-        "slug": "the-pickleorette",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181438170-BobsBurgers_1403.jpg",
-        "created": 1758220743,
-        "season_number": "14",
-        "title_id": "2569590",
-        "tv_rating": "tv-pg-l",
-        "published": 1771745255,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181438170-BobsBurgers_1403.jpg",
-        "id": "AZleH3KByEF1_1NDe6az",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1773719940,
         "tms_id": "",
         "description": "The Belcher kids learn a secret about Zeke's past, while Bob rekindles his feud with Jimmy Pesto.",
@@ -466,6 +421,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181626465-BobsBurgers_1412.jpg",
         "id": "AZlehT2eyEF1_1NDe6bP",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1774583940,
+        "tms_id": "",
+        "description": "Tina is determined to get some upper butt action at Chelsea's party.",
+        "title_suggest": {
+            "input": [
+                "Butt Sweat and Fears",
+                "Sweat and Fears",
+                "and Fears",
+                "Fears"
+            ]
+        },
+        "title": "Butt Sweat and Fears",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "13",
+        "original_air_date": null,
+        "auth_launch_date": 1773374400,
+        "clip_order": null,
+        "airing_id": "RADS1003092600090750",
+        "media_id": "79802d17c6a3815460418a67b96c55845ed748d4",
+        "modified": 1773069200,
+        "slug": "butt-sweat-and-fears",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181630469-BobsBurgers_1413.jpg",
+        "created": 1758227454,
+        "season_number": "14",
+        "title_id": "2569600",
+        "tv_rating": "tv-pg-l",
+        "published": 1773069200,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181630469-BobsBurgers_1413.jpg",
+        "id": "AZlehdk1yEF1_1NDe6bQ",
         "auth": true
     }
 ]
