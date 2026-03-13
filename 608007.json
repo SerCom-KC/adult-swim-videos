@@ -466,7 +466,11 @@
     },
     {
         "auth_expiration_date": 1779076740,
+        "created": 1772478903,
         "tms_id": "",
+        "title_id": "2573250",
+        "season_number": "18",
+        "tv_rating": "tv-14-lv",
         "description": "Tensions rise as samurai arrive in Zou, sparking a clash between Cat Viper and Dogstorm. The Straw Hats step in.",
         "title_suggest": {
             "input": [
@@ -483,38 +487,21 @@
                 "Samurai!"
             ]
         },
+        "published": 1772490455,
         "title": "A Volatile Situation! The Dog and the Cat and the Samurai!",
         "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
+        "tags": [],
         "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
         "duration": 1290.3891,
-        "episode_number": "21",
+        "episode_number": "",
+        "collection_title": "One Piece",
         "original_air_date": 1772953200,
         "auth_launch_date": 1772965800,
-        "clip_order": null,
+        "modified_by": "ODT Listener",
         "airing_id": "RADS1003022600089314",
         "media_id": "12ad8b023e2bad787366f797aed052399f131f06",
-        "modified": 1773419750,
+        "modified": 1772490455,
         "slug": "a-volatile-situation-the-dog-and-the-cat-and-the-samurai",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20260313/thumbnails/1_263131233241-OnePiece767_S18ep21.png",
-        "created": 1772478903,
-        "title_id": "2573250",
-        "season_number": "18",
-        "tv_rating": "tv-14-lv",
-        "published": 1773419750,
-        "tags": [],
-        "collection_title": "One Piece",
-        "disable_ads": false,
-        "modified_by": "undefined undefined",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20260313/thumbnails/2_263131233241-OnePiece767_S18ep21.png",
         "id": "AZyv-bZEc6shItN4M77S",
         "auth": true
     }
