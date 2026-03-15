@@ -1,17 +1,16 @@
 {
-    "updated": 1773563440,
+    "updated": 1773565239,
     "added": [
         {
             "auth_expiration_date": 1787630399,
             "tms_id": "",
-            "description": "The next match is against Team W, led by the Wanima twins. Their eye contact and impeccable combinations are hard to beat.",
+            "description": "Takemichi returns to the present to talk to Osanai, the leader of Moebius, to find out what really happened that day.",
             "title_suggest": {
                 "input": [
-                    "I'm Sorry",
-                    "Sorry"
+                    "Regret"
                 ]
             },
-            "title": "I'm Sorry",
+            "title": "Regret",
             "expiration_date": null,
             "type": "episode",
             "platforms": [
@@ -20,78 +19,35 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "AZw05SoBc6shItN4M7ll",
-            "duration": 1291.6904,
+            "collection_id": "AZw00-2MNi2EYjVB1WCZ",
+            "duration": 1368.9676,
             "episode_number": "6",
             "original_air_date": null,
-            "auth_launch_date": 1773563400,
+            "auth_launch_date": 1773565200,
             "clip_order": null,
-            "airing_id": "RADS1003092600090966",
-            "media_id": "467691ebcae5c82526a6bfe4e336b200f6fcd2bc",
-            "modified": 1773136726,
-            "slug": "im-sorry",
+            "airing_id": "RADS1003092600090968",
+            "media_id": "62ad8018b5fdf7e8d11220e490ae335614554f11",
+            "modified": 1773139408,
+            "slug": "regret",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20260209/thumbnails/1_2629140246-BlueLock-S01E06.png",
-            "created": 1770663663,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20260302/thumbnails/1_2632103871-TokyoRevengers_S01_E06_Still.png",
+            "created": 1772465964,
             "season_number": "1",
-            "title_id": "2584189",
-            "tv_rating": "",
-            "published": 1773136726,
+            "title_id": "2584165",
+            "tv_rating": "tv-ma-lv",
+            "published": 1773139408,
             "tags": [],
-            "collection_title": "Blue Lock",
+            "collection_title": "Tokyo Revengers",
             "disable_ads": false,
             "modified_by": "ODT Listener",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20260209/thumbnails/2_2629140246-BlueLock-S01E06.png",
-            "id": "AZxDx1dMc6shItN4M7nY",
+            "poster": "https://media.cdn.adultswim.com/uploads/20260302/thumbnails/2_2632103871-TokyoRevengers_S01_E06_Still.png",
+            "id": "AZyvNEUoc6shItN4M76t",
             "auth": true,
-            "collection_slug": "blue-lock",
-            "collection_title_id": "2584090",
+            "collection_slug": "tokyo-revengers",
+            "collection_title_id": "2586423",
             "online_exclusives": false
         }
     ],
-    "removed": [
-        {
-            "created": 1766610434,
-            "tms_id": "",
-            "title_id": "2573233",
-            "season_number": "2",
-            "tv_rating": "tv-ma",
-            "description": "Okarun and Jiji find Naki and the Kito family are waiting for them. Momo is attacked at the onsen.",
-            "title_suggest": {
-                "input": [
-                    "Like, This Is the Legend of the Giant Snake",
-                    "This Is the Legend of the Giant Snake",
-                    "Is the Legend of the Giant Snake",
-                    "the Legend of the Giant Snake",
-                    "Legend of the Giant Snake",
-                    "of the Giant Snake",
-                    "the Giant Snake",
-                    "Giant Snake",
-                    "Snake"
-                ]
-            },
-            "published": 1766618639,
-            "title": "Like, This Is the Legend of the Giant Snake",
-            "type": "episode",
-            "expiration_date": 1773561540,
-            "tags": [],
-            "collection_id": "AZhC4WShITxXrw59dM9q",
-            "duration": 1440.5058,
-            "episode_number": "1",
-            "collection_title": "DAN DA DAN",
-            "original_air_date": 1766898000,
-            "modified_by": "ODT Listener",
-            "airing_id": "RADS1012242500076235",
-            "media_id": "444c219b1177e269a754b1de6877e71eec2ceb3d",
-            "modified": 1766618639,
-            "launch_date": 1766910660,
-            "slug": "like-this-is-the-legend-of-the-giant-snake",
-            "id": "AZtSL_tMc6shItN4M7DM",
-            "auth": false,
-            "collection_slug": "dan-da-dan",
-            "collection_title_id": "2568743",
-            "online_exclusives": false
-        }
-    ]
+    "removed": []
 }
