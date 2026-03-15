@@ -2,42 +2,53 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 15, 2026 at 00:00:29 EDT_
+_Last Update: March 15, 2026 at 00:30:39 EDT_
 ## Video added
 ### Summary
-581006 American Dad: 2  
-### 2019423
-**American Dad S10E09 - Dreaming of a White Porsche Christmas**  
-TV-14 🔒 21:03  
+2568729 Rooster Fighter: 1  
+2224721 Smiling Friends: 1  
+895948 The Eric Andre Show: 1  
+### 2568730
+**Rooster Fighter S01E01 - A Rooster Among Cranes**  
+TV-MA-SV 🔒 23:31  
+⌛ June 29, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/rooster-fighter/a-rooster-among-cranes  
+seriesid=`2568729` titleid=`2568730` id=`AZzoQmQ54fEFRoGAPbXL` mediaid=`cbfe5f3364177057af7a5ff935f8ab726426e142`  
+_Keiji, the wandering rooster, lands in a new city, but a Demon suddenly appears!_  
+<a href="https://media.cdn.adultswim.com/uploads/20260313/thumbnails/2_263131949589-RoosterFighter_01.png"><img src="https://media.cdn.adultswim.com/uploads/20260313/thumbnails/2_263131949589-RoosterFighter_01.png" height="144px" /></a>
+### 2424768
+**Smiling Friends S02E04 - Erm, the Boss Finds Love?**  
+TV-14-DLSV 🔓 10:56  
 ⌛ March 21, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/dreaming-of-a-white-porsche-christmas  
-seriesid=`581006` titleid=`2019423` id=`_tsLt6bwRmCcPuXFZqhIRA` mediaid=`cb7d7aa4862a732810b2e3ad1b67805b4b0940db`  
-_When Stan wishes he could have Principal Lewis' carefree, single life, his wish comes true! Meanwhile, in his wish world, Principal Lewis has Stan's family._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153417477876913.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153417477876913.jpg" height="144px" /></a>
-### 2019421
-**American Dad S10E05 - Now and Gwen**  
-TV-14 🔒 21:03  
-⌛ March 21, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/now-and-gwen  
-seriesid=`581006` titleid=`2019421` id=`yl36vIIkSmiG-pCULIEgOw` mediaid=`86d98209d9093ad062a3f4431f15a527db1fa3be`  
-_When Francine's sister Gwen comes to town, Hayley suspects she is up to no good. Meanwhile, Stan teaches Steve the art of hugging Aunt Gwen and Klaus shadows Roger's dramatic comments._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002057523219.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002057523219.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/smiling-friends/erm-the-boss-finds-love  
+seriesid=`2224721` titleid=`2424768` id=`AY-lwBIjC2cKYm1ap_0q` mediaid=`7eebc3ff7817d7e11b8888ea478371aeb594fb0b`  
+_DISCLAIMER: Just a heads up, this is the scariest episode of any cartoon that's ever been created._  
+<a href="https://media.cdn.adultswim.com/uploads/20240527/thumbnails/2_245271514478-Screenshot2024-05-27at3.14.23PM.png"><img src="https://media.cdn.adultswim.com/uploads/20240527/thumbnails/2_245271514478-Screenshot2024-05-27at3.14.23PM.png" height="144px" /></a>
+### 2230785
+**The Eric Andre Show S05E06 - Blannibal Quits**  
+TV-MA-LS 🔓 11:24  
+⌛ April 18, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-eric-andre-show/blannibal-quits  
+seriesid=`895948` titleid=`2230785` id=`AXSYxlIJLyLQBOXK_POA` mediaid=`00bbbafd3e8d7f44bde4314b6fa823c99773a16b`  
+_Blannibal has had enough of the show and quits, too. Eric gets into a dangerous situation with an organized crime associate. Eric and co-host Lakeith Stanfield welcome Tiffany Pollard and Naya Rivera with musical guest Big Freedia._  
+<a href="https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161719212-ericandre_505_dup-20200824.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161719212-ericandre_505_dup-20200824.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-581006 American Dad: 2  
-### 2007885
-**American Dad S09E14 - Stan Goes On The Pill**  
-TV-14 🔒 21:30  
+343621 Samurai Jack: 1  
+895948 The Eric Andre Show: 1  
+### 343634
+**Samurai Jack S01E07 - VII**  
+TV-Y7-FV 🔒 23:54  
 ⌛ March 14, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/stan-goes-on-the-pill  
-seriesid=`581006` titleid=`2007885` id=`3QaLLUeAQY6UuvWpbOp4VA` mediaid=`a2329f53c7e5eb4dbe041d5c2d0fa4fc125b4a24`  
-_Francine is frustrated that Stan only pretends to pay attention when she talks.  Stan takes a pill engineered by the C.I.A. to help male agents listen to females.  Stan takes too much and the pill physically transforms him into a woman._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151923975279413.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151923975279413.jpg" height="144px" /></a>
-### 2007877
-**American Dad S09E16 - She Swill Survive**  
-TV-14 🔒 21:30  
+https://www.adultswim.com/videos/samurai-jack/vii  
+seriesid=`343621` titleid=`343634` id=`9NB4fpTrTsGvyJLl6rnfgw` mediaid=`8aa47e892bbd7d5f94222a8e786dd85cb3b48279`  
+_Jack must get past three blind archers to reach an all-powerful wishing well._  
+<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461330452-samjack_007.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461330452-samjack_007.jpg" height="144px" /></a>
+### 2088422
+**The Eric Andre Show S04E06 - Warren G; Kelly Osbourne**  
+TV-MA-LSV 🔒 10:48  
 ⌛ March 14, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/she-swill-survive  
-seriesid=`581006` titleid=`2007877` id=`UlB2vXL0QLyg3zz190qkzw` mediaid=`6e607391f85b88ba0ad7860548420dab64b9fbde`  
-_Stan is tired of Hayley being lazy and unemployed so he forces her to take a job in Roger's Bar.  Deputy Director Bullock is a regular at the bar and confesses to Hayley his secrets.  Stan takes advantage of Bullock's_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15192397882788.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15192397882788.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/the-eric-andre-show/warren-g-kelly-osbourne  
+seriesid=`895948` titleid=`2088422` id=`9o9ivuSSSEilvQX2-ptu0Q` mediaid=`d1a94b146c70aeb26e1076e2912d098c8fc35ab1`  
+_Interviews with Warren G and Kelly Osbourne; Special finale guest Jim Norton. Special appearance by Tony Hawk._  
+<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341620296-ericandre_406_dup-20160801.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341620296-ericandre_406_dup-20160801.jpg" height="144px" /></a>
