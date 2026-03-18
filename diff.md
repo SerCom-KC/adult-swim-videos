@@ -2,26 +2,25 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 18, 2026 at 00:30:42 EDT_
+_Last Update: March 18, 2026 at 10:00:13 EDT_
 ## Video added
-### Summary
-322328 Space Ghost Coast to Coast: 1  
-### 322776
-**Space Ghost Coast to Coast S03E09 - Surprise**  
-TV-PG 🔓 14:30  
-⌛ December 22, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/space-ghost-coast-to-coast/surprise  
-seriesid=`322328` titleid=`322776` id=`Zlq_nCM9QKOcT4qszG0C8w` mediaid=`c9ef8dd12c8ec84fe6f011e535ff395f4e28073f`  
-_After Moltar sends Space Ghost away to "pick up an important package in the mailroom," Zorak takes a seat behind the desk. What happens next is television history as Zorak cackles through a rapid-fire series of "interviews" with everyone from actress Cameron Diaz to TV's Jimmie "Good Times" Walker._  
-<a href="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417958557-sgc2c_9609_dst_cid-9122060.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417958557-sgc2c_9609_dst_cid-9122060.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 ### Summary
-322328 Space Ghost Coast to Coast: 1  
-### 322638
-**Space Ghost Coast to Coast S03E04 - Transcript**  
-TV-PG 🔓 12:26  
-⌛ March 17, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/space-ghost-coast-to-coast/transcript  
-seriesid=`322328` titleid=`322638` id=`ETDNFLr_ShSwzsoddr50bA` mediaid=`588e6ed8dfef497d91aa2ceed6cd5a164a8fe106`  
-_Musician Jonathan Richman, who first climbed to fame fronting The Modern Lovers, favors Space Ghost with a couple of charming songs during a meandering conversation._  
-<a href="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417955498-sgc2c_9604_dst_cid-9105590.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417955498-sgc2c_9604_dst_cid-9105590.jpg" height="144px" /></a>
+439722 The Venture Bros.: 2  
+### 2165022
+**The Venture Bros. S07E06 - The Bellicose Proxy**  
+TV-14-DLSV 🔓 22:02  
+⌛ March 18, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/the-bellicose-proxy  
+seriesid=`439722` titleid=`2165022` id=`AWPLR6gnqBveI_0AhKZN` mediaid=`337606a673193e8d66d7a94900dc9d1514b8bfc1`  
+_The Monarch and 21 play a deadly game of tutoring an inexperienced villain. A hot plate of danger is served up with a side of hilarity._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153627015015616.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153627015015616.jpg" height="144px" /></a>
+### 2165021
+**The Venture Bros. S07E05 - The Inamorata Consequence**  
+TV-14-DLSV 🔓 22:34  
+⌛ March 18, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/the-inamorata-consequence  
+seriesid=`439722` titleid=`2165021` id=`AWPLRfSoqBveI_0AhKZM` mediaid=`195e321d8742ed5076fc0d65394c67af8ac4f0d3`  
+_The Venture family returns to their old compound where intrigue, danger, jackets, and diplomacy await._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153555263164312.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153555263164312.jpg" height="144px" /></a>
