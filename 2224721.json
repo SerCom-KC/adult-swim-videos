@@ -417,7 +417,7 @@
         "launch_date": 1773547200,
         "poster": "https://media.cdn.adultswim.com/uploads/20240527/thumbnails/2_245271514478-Screenshot2024-05-27at3.14.23PM.png",
         "id": "AY-lwBIjC2cKYm1ap_0q",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1777175940,
@@ -463,7 +463,7 @@
         "launch_date": 1773547200,
         "poster": "https://media.cdn.adultswim.com/uploads/20240520/thumbnails/2_24520137185-Screenshot2024-05-20at1.36.51AM.png",
         "id": "AY95BMcCC2cKYm1ap_uZ",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1777175940,
@@ -508,7 +508,7 @@
         "launch_date": 1773547200,
         "poster": "https://media.cdn.adultswim.com/uploads/20240513/thumbnails/2_245131137523-Screenshot2024-05-13at11.37.28AM.png",
         "id": "AY9Z5CJfC2cKYm1ap_nk",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1777175940,
@@ -562,7 +562,7 @@
         "launch_date": 1773547200,
         "poster": "https://media.cdn.adultswim.com/uploads/20240513/thumbnails/2_245131139274-Screenshot2024-05-13at11.38.55AM.png",
         "id": "AY9pSygWC2cKYm1ap_rE",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1777175940,
@@ -611,6 +611,51 @@
         "launch_date": 1773547200,
         "poster": "https://media.cdn.adultswim.com/uploads/20220802/thumbnails/2_22821241277-SmilingFriends_109_TheSmilingFriendsGoToBrazil.png",
         "id": "AYJfbyjN3sQvipyea9ru",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1774065540,
+        "tms_id": "",
+        "description": "After some of the Boss's usual tomfoolery, Pim and Charlie are tasked with helping a mad scientist with an \"egg dilemma\".",
+        "title_suggest": {
+            "input": [
+                "Brother's Egg",
+                "Egg"
+            ]
+        },
+        "title": "Brother's Egg",
+        "type": "episode",
+        "expiration_date": 1774756740,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXFAgKw8Rs3h4hI_X2xz",
+        "duration": 675.3747,
+        "episode_number": "5",
+        "original_air_date": 1717387200,
+        "auth_launch_date": 1762578000,
+        "clip_order": null,
+        "airing_id": "RADS1011032500066658",
+        "media_id": "05d827ebe31caf08e4d9047428e480b0741f2eb7",
+        "modified": 1773856927,
+        "slug": "brothers-egg",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240603/thumbnails/1_2463131773-Screenshot2024-06-03at1.16.28PM.png",
+        "created": 1717094456,
+        "title_id": "2424769",
+        "season_number": "2",
+        "tv_rating": "tv-14-dlv",
+        "published": 1773856927,
+        "tags": [],
+        "collection_title": "Smiling Friends",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1774152000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240603/thumbnails/2_2463131773-Screenshot2024-06-03at1.16.28PM.png",
+        "id": "AY_KzhzOC2cKYm1ap_5u",
         "auth": false
     },
     {
@@ -661,7 +706,7 @@
         "launch_date": 1774152000,
         "poster": "https://media.cdn.adultswim.com/uploads/20240610/thumbnails/2_246101349129-Screenshot2024-06-10at1.48.40PM.png",
         "id": "AY_pf-uGFCWdTNspj0vD",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1775275140,
@@ -712,7 +757,7 @@
         "launch_date": 1774152000,
         "poster": "https://media.cdn.adultswim.com/uploads/20240617/thumbnails/2_2461772603-Screenshot2024-06-17at7.25.09AM.png",
         "id": "AZANWyLFSaru9Cdsy6x0",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1775879940,
@@ -759,7 +804,7 @@
         "launch_date": 1774152000,
         "poster": "https://media.cdn.adultswim.com/uploads/20240624/thumbnails/2_2462425912-Screenshot2024-06-24at2.57.58AM.png",
         "id": "AZAzcbq1Saru9Cdsy64A",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1781409540,
@@ -804,7 +849,7 @@
         "launch_date": 1774152000,
         "poster": "https://media.cdn.adultswim.com/uploads/20251013/thumbnails/2_2510131739583-AS_SmilingFriends_01_301_SillySam.png",
         "id": "AZmXYN2RyEF1_1NDe6nR",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1782014340,
