@@ -1,7 +1,6 @@
 {
-    "updated": 1774276213,
-    "added": [],
-    "removed": [
+    "updated": 1774279828,
+    "added": [
         {
             "auth_expiration_date": 1774324740,
             "tms_id": "EP007259620219",
@@ -29,14 +28,14 @@
                 "fire-tv"
             ],
             "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
-            "duration": 656.1555,
+            "duration": 656.1221,
             "episode_number": "19",
             "original_air_date": "1595822400",
             "auth_launch_date": 1745294400,
             "clip_order": null,
-            "airing_id": "RADS1004092500030191",
+            "airing_id": "RADS1004162500031109",
             "media_id": "2c8a6085f02f804774074b4357ffa49146f1fffc",
-            "modified": 1744948743,
+            "modified": 1774278863,
             "slug": "babe-hollytree-in-i-wish-one-person-had-died",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20200722/thumbnails/1_20722950450-robotchicken_1019_dup-20200121.jpg",
@@ -44,7 +43,7 @@
             "season_number": "10",
             "title_id": "2213492",
             "tv_rating": "tv-ma",
-            "published": 1744948743,
+            "published": 1774278863,
             "tags": [],
             "collection_title": "Robot Chicken",
             "disable_ads": false,
@@ -52,56 +51,6 @@
             "launch_date": 1744689600,
             "poster": "https://media.cdn.adultswim.com/uploads/20200722/thumbnails/2_20722950450-robotchicken_1019_dup-20200121.jpg",
             "id": "AXN2yoH5C8QgH-t19KEA",
-            "auth": true,
-            "collection_slug": "robot-chicken",
-            "collection_title_id": "608360",
-            "online_exclusives": false
-        },
-        {
-            "auth_expiration_date": 1774324740,
-            "tms_id": "EP007259620223",
-            "description": "The Gargoyles get as hard as stone, if you know what Robot Chicken means; Solid Snake must master the walk of shame; The Avengers learn to curb their enthusiasm.",
-            "title_suggest": {
-                "input": [
-                    "May Cause Light Cannibalism",
-                    "Cause Light Cannibalism",
-                    "Light Cannibalism",
-                    "Cannibalism"
-                ]
-            },
-            "title": "May Cause Light Cannibalism",
-            "expiration_date": 1745294340,
-            "type": "episode",
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
-            "duration": 678.0107,
-            "episode_number": "3",
-            "original_air_date": "1631073600",
-            "auth_launch_date": 1745294400,
-            "clip_order": null,
-            "airing_id": "RADS1004162500031101",
-            "media_id": "7f6ddddf1b48c1ce1962a5f69b23a0265916096e",
-            "modified": 1744941766,
-            "slug": "may-cause-light-cannibalism",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/1_21921514583-RobotChicken_1102_MayCauseLightCannabalism.png",
-            "created": 1630610109,
-            "season_number": "11",
-            "title_id": "2270589",
-            "tv_rating": "tv-ma-sv",
-            "published": 1744941766,
-            "tags": [],
-            "collection_title": "Robot Chicken",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1744689600,
-            "poster": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_21921514583-RobotChicken_1102_MayCauseLightCannabalism.png",
-            "id": "AXun77T84Xbjep71f6Gv",
             "auth": true,
             "collection_slug": "robot-chicken",
             "collection_title_id": "608360",
@@ -131,14 +80,14 @@
                 "fire-tv"
             ],
             "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
-            "duration": 673.8398,
+            "duration": 673.8065,
             "episode_number": "2",
             "original_air_date": "1630987200",
             "auth_launch_date": 1745294400,
             "clip_order": null,
             "airing_id": "RADS1004162500031103",
             "media_id": "5c6a09467d4bb58d700195bc24442478ec66df2a",
-            "modified": 1744879319,
+            "modified": 1774278880,
             "slug": "may-cause-a-whole-lotta-scabs",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20210902/thumbnails/1_21921513482-RobotChicken_1101_MayCauseAWholeLottaScabs.png",
@@ -146,7 +95,7 @@
             "season_number": "11",
             "title_id": "2270588",
             "tv_rating": "tv-ma-l",
-            "published": 1744879319,
+            "published": 1774278880,
             "tags": [],
             "collection_title": "Robot Chicken",
             "disable_ads": false,
@@ -159,5 +108,6 @@
             "collection_title_id": "608360",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
