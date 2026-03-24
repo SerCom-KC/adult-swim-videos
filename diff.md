@@ -2,121 +2,66 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 24, 2026 at 00:30:39 EDT_
+_Last Update: March 24, 2026 at 08:30:38 EDT_
 ## Video added
-### Summary
-581006 American Dad: 1  
-2003422 Bob's Burgers: 1  
-608360 Robot Chicken: 1  
-343621 Samurai Jack: 1  
-581268 Squidbillies: 3  
-### 2041478
-**American Dad S11E05 - Stan Smith as Keanu Reeves as Stanny Utah in Point Breakers**  
-TV-14-DL 🔒 21:13  
-⌛ March 30, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/stan-smith-as-keanu-reeves-as-stanny-utah-in-point-breakers  
-seriesid=`581006` titleid=`2041478` id=`lhPueYEFSTGBnbn2xsc9Mg` mediaid=`4cde6df2cf3a0feeeb011c1a3f37bd5b11265a73`  
-_Stan goes undercover as a surfer a la Point Break. Steve befriends a drifter, Hayley might be pregnant and Roger wants the World Cup to be held in their backyard._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001895083113.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001895083113.jpg" height="144px" /></a>
-### 2569624
-**Bob's Burgers S15E04 - Don't Stop Be-Cheesin'**  
-TV-PG-L 🔒 00:00  
-⌛ April 6, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/dont-stop-be-cheesin  
-seriesid=`2003422` titleid=`2569624` id=`AZlzWUeEyEF1_1NDe6fi` mediaid=`ca497c1b148654ae19886c12c162214ee076a2cf`  
-_Louise trains Tina to be the last student standing during a cheese throwing battle._  
-<a href="https://media.cdn.adultswim.com/uploads/20250922/thumbnails/2_259221733580-BobsBurgers_1504.jpg"><img src="https://media.cdn.adultswim.com/uploads/20250922/thumbnails/2_259221733580-BobsBurgers_1504.jpg" height="144px" /></a>
-### 2270589
-**Robot Chicken S11E03 - May Cause Light Cannibalism**  
-TV-MA-SV 🔒 11:17  
-⌛ March 30, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/robot-chicken/may-cause-light-cannibalism  
-seriesid=`608360` titleid=`2270589` id=`AXun77T84Xbjep71f6Gv` mediaid=`7f6ddddf1b48c1ce1962a5f69b23a0265916096e`  
-_The Gargoyles get as hard as stone, if you know what Robot Chicken means; Solid Snake must master the walk of shame; The Avengers learn to curb their enthusiasm._  
-<a href="https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_21921514583-RobotChicken_1102_MayCauseLightCannabalism.png"><img src="https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_21921514583-RobotChicken_1102_MayCauseLightCannabalism.png" height="144px" /></a>
-### 343637
-**Samurai Jack S01E08 - VIII**  
-TV-Y7-FV 🔒 21:58  
-⌛ May 26, 2026 at 23:59:59 EDT  
-https://www.adultswim.com/videos/samurai-jack/viii  
-seriesid=`343621` titleid=`343637` id=`ka9FY42AQam-MTmbBFuWqw` mediaid=`78822c09e59de6f89baa89fecd18c1f060ce1c88`  
-_Jack meets up with Mad Jack and must battle his darker self._  
-<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461332209-samjack_008.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461332209-samjack_008.jpg" height="144px" /></a>
-### 714674
-**Squidbillies S03E13 - Armageddon It On!**  
-TV-14-DLV 🔓 11:17  
-⌛ December 28, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/armageddon-it-on  
-seriesid=`581268` titleid=`714674` id=`cmnxjk8jTlCKp3eYWrzHOQ` mediaid=`2734c0b197cd87005ef66f94748a271c5a99966f`  
-_The greatest story ever told. About cartoon squids._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131135230-squidbillies_033_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131135230-squidbillies_033_bim.jpg" height="144px" /></a>
-### 2108964
-**Squidbillies S11E04 - The Knights of the Noble Order of the Mystic Turquoise Goblet**  
-TV-14-DLS 🔓 11:12  
-⌛ December 4, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/the-knights-of-the-noble-order-of-the-mystic-turquoise-goblet  
-seriesid=`581268` titleid=`2108964` id=`AV9eWXAbSPzxOkLuqdkZ` mediaid=`26ff1c11a6021b95d08bc89e2d0f6cce072318ed`  
-_Early's most confusing conspiracy theory turns out to be false._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-150999394764418.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-150999394764418.jpg" height="144px" /></a>
-### 859429
-**Squidbillies S06E10 - Trucked Up!**  
-TV-14-LV 🔓 11:29  
-⌛ December 4, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/trucked-up  
-seriesid=`581268` titleid=`859429` id=`TcVCxW7tR1-y0foBaHZbwA` mediaid=`2ccd45f3598b88796c82bf9e513db9fb9af95a3a`  
-_On a transatlantic trucker challenge, The Scrambler and The Mummy get in high gear and hot water!_  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131325196-squidbillies_510_dup-20111111.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131325196-squidbillies_510_dup-20111111.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 1  
-340539 Harvey Birdman, Attorney at Law: 1  
-581006 American Dad: 1  
-608360 Robot Chicken: 3  
-### 2569597
-**Bob's Burgers S14E10 - The Nightmare 2 Days Before Christmas**  
-TV-PG-L 🔓 00:00  
-⌛ March 23, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/the-nightmare-2-days-before-christmas  
-seriesid=`2003422` titleid=`2569597` id=`AZlegMluyEF1_1NDe6bN` mediaid=`52ffa74f6a954db9d002e3b9d25e3b298246f257`  
-_The Belchers must spend Christmas at Mr. Fischoeder's family's old hunting lodge._  
-<a href="https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181625174-BobsBurgers_1410.jpg"><img src="https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181625174-BobsBurgers_1410.jpg" height="144px" /></a>
-### 2227980
-**Harvey Birdman, Attorney at Law S04E08 - Harvey Birdman: Attorney General**  
-TV-14-DLV 🔓 22:32  
-⌛ March 23, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/harvey-birdman-attorney-at-law/harvey-birdman-attorney-general  
-seriesid=`340539` titleid=`2227980` id=`AXqgVC-fDmGy9WFjRr1A` mediaid=`899e7435482246c253c731d7f1a285512bd14868`  
-_It's up to Harvey Birdman to find a way to remove President Phil Ken Sebben from office before everyone starts to worry it's more than the ridiculous plot to an animated show._  
-<a href="https://media.cdn.adultswim.com/uploads/20210713/thumbnails/2_21713104430-hbag.jpeg"><img src="https://media.cdn.adultswim.com/uploads/20210713/thumbnails/2_21713104430-hbag.jpeg" height="144px" /></a>
-### 2019422
-**American Dad S10E07 - Morning Mimosa**  
-TV-14 🔒 21:03  
-⌛ March 23, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/morning-mimosa  
-seriesid=`581006` titleid=`2019422` id=`e3fwDpONRtKjWqvJf0cx1A` mediaid=`23784f9756253ed17b94e163d92d5281afb0d589`  
-_When Steve insults Francine, she refuses to cook for him and he becomes a successful internet chef, appearing on a popular morning show. Meanwhile, Stan thinks he can make people invisible by snapping his fingers._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152028735803714.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152028735803714.jpg" height="144px" /></a>
-### 2213492
-**Robot Chicken S10E19 - Babe Hollytree in: I Wish One Person Had Died**  
-TV-MA 🔓 10:56  
-⌛ March 23, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/robot-chicken/babe-hollytree-in-i-wish-one-person-had-died  
-seriesid=`608360` titleid=`2213492` id=`AXN2yoH5C8QgH-t19KEA` mediaid=`2c8a6085f02f804774074b4357ffa49146f1fffc`  
-_The Pomsie's have come to take over our world! The kids at Hogwarts get to see each others' true fears. The RC gang puts a new twist on Old Yeller. We learn that Alexa never stops listening and that can only lead to one thing..._  
-<a href="https://media.cdn.adultswim.com/uploads/20200722/thumbnails/2_20722950450-robotchicken_1019_dup-20200121.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200722/thumbnails/2_20722950450-robotchicken_1019_dup-20200121.jpg" height="144px" /></a>
-### 2265021
-**Robot Chicken S99E?? - The Bleepin' Robot Chicken Archie Comics Special**  
-TV-MA-LSV 🔓 22:30  
-⌛ March 23, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/robot-chicken/the-bleepin-robot-chicken-archie-comics-special  
-seriesid=`608360` titleid=`2265021` id=`AXg7-6bVDmGy9WFjRqoJ` mediaid=`693bf44125fed411e49efaa0365c1d6ae028062c`  
-_Rapid-fire channel flips propel viewers through Robot Chicken's twisted takes on pop culture. The quarter-hour Adult Swim entry brings action figures to life in three-dimensional worlds through the old-school magic of stop-motion animation._  
-<a href="https://media.cdn.adultswim.com/uploads/20210316/thumbnails/2_21316130427-RobotChicken_1023_dup-20210310.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210316/thumbnails/2_21316130427-RobotChicken_1023_dup-20210310.jpg" height="144px" /></a>
-### 2270588
-**Robot Chicken S11E02 - May Cause a Whole Lotta Scabs**  
-TV-MA-L 🔓 11:13  
-⌛ March 23, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/robot-chicken/may-cause-a-whole-lotta-scabs  
-seriesid=`608360` titleid=`2270588` id=`AXun7qH9UQa40cfnRR4o` mediaid=`5c6a09467d4bb58d700195bc24442478ec66df2a`  
-_Robot Chicken takes Inside Out's Riley further insde and even more out; The Red Skull battles his ultimate nemesis loneliness; Rey gets more than she bargained for at the Skywalker homestead._  
-<a href="https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_21921513482-RobotChicken_1101_MayCauseAWholeLottaScabs.png"><img src="https://media.cdn.adultswim.com/uploads/20210902/thumbnails/2_21921513482-RobotChicken_1101_MayCauseAWholeLottaScabs.png" height="144px" /></a>
+322328 Space Ghost Coast to Coast: 2  
+340537 Aqua Teen Hunger Force: 5  
+### 322642
+**Space Ghost Coast to Coast S03E05 - Sharrock**  
+TV-PG 🔓 11:34  
+⌛ March 24, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/space-ghost-coast-to-coast/sharrock  
+seriesid=`322328` titleid=`322642` id=`7OEF6XgaQuOtY5cpPIm1KA` mediaid=`f010866884eef307c897c96b23f4c5533fb2cd4e`  
+_Sonic Youth's Thurston Moore stars as Fred Cracklin in a 15-minute showcase for late musician Sonny Sharrock. Sharrock was the man behind the "Space Ghost Coast to Coast" theme music._  
+<a href="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417956280-sgc2c_9605_dst_cid-9105378.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417956280-sgc2c_9605_dst_cid-9105378.jpg" height="144px" /></a>
+### 322339
+**Space Ghost Coast to Coast S03E11 - Jacksonville**  
+TV-PG 🔓 13:12  
+⌛ March 24, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/space-ghost-coast-to-coast/jacksonville  
+seriesid=`322328` titleid=`322339` id=`AYl0MM-x2rZC6NyF61-H` mediaid=`4943ae0ff4bc91be2f6e1aff7a58242d2b5d385f`  
+_With Moltar on the run, Space Ghost is forced to recruit Tansut as his fill-in director, who causes problems before bringing out guests Kirk Hammett and James Hetfield of Metallica._  
+<a href="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417959444-sgc2c_9611_dst_cid-9115506.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417959444-sgc2c_9611_dst_cid-9115506.jpg" height="144px" /></a>
+### 448353
+**Aqua Teen Hunger Force S02E18 - The Cubing**  
+TV-14 🔒 11:08  
+⌛ March 24, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/aqua-teen-hunger-force/the-cubing  
+seriesid=`340537` titleid=`448353` id=`62B_eOApRPijyU2dUGU_yA` mediaid=`db5806e5f482e86594645105d3e443ea82eb4aed`  
+_The Wisdom Cube claims to hold all the wisdom in the universe, but it seems that it actually only possesses a knack for tiresome anecdotes._  
+<a href="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_20224154705-athf_036_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_20224154705-athf_036_BIM.jpg" height="144px" /></a>
+### 447819
+**Aqua Teen Hunger Force S02E19 - Frat Aliens**  
+TV-14-DL 🔒 11:26  
+⌛ March 24, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/aqua-teen-hunger-force/frat-aliens  
+seriesid=`340537` titleid=`447819` id=`A0Sgx06vRe2lOsm9-H4TOQ` mediaid=`71cfdf78973c934e88bff28b01b705c4a30bccfd`  
+_DP and Skeeter, Fraternity brothers from outer space, visit the Aqua Teens looking to party._  
+<a href="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241541464-athf_033_dst_cid-9272726.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241541464-athf_033_dst_cid-9272726.jpg" height="144px" /></a>
+### 447821
+**Aqua Teen Hunger Force S02E17 - Kidney Car**  
+TV-PG-DL 🔒 11:08  
+⌛ March 24, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/aqua-teen-hunger-force/kidney-car  
+seriesid=`340537` titleid=`447821` id=`ONUx8yfORwqm1cBwWwMRvw` mediaid=`1b63ce0d7073337492923428e7f612abefaf3c8a`  
+_His prized auto destroyed, Carl has no choice but to donate it to the Kidney Foundation.  In a cosmic twist of fate, the Kidney Foundation donates the wrecked car to Meatwad._  
+<a href="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241542359-athf_035_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241542359-athf_035_BIM.jpg" height="144px" /></a>
+### 449393
+**Aqua Teen Hunger Force S02E21 - The Dressing**  
+TV-14-LV 🔒 11:03  
+⌛ March 24, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/aqua-teen-hunger-force/the-dressing  
+seriesid=`340537` titleid=`449393` id=`W6uJJSUdTXqVTWPc1m19ig` mediaid=`ce7ceb31c3342beca0d95e7f0c82aac91b3f1aec`  
+_It's the week after Thanksgiving, and the Aqua Teens are visited by a robotic turkey._  
+<a href="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241549181-athf_039_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241549181-athf_039_BIM.jpg" height="144px" /></a>
+### 449392
+**Aqua Teen Hunger Force S02E20 - The Clowning**  
+TV-14-DL 🔒 10:59  
+⌛ March 24, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/aqua-teen-hunger-force/the-clowning  
+seriesid=`340537` titleid=`449392` id=`kEmiko34R4qSkabGYXEqzA` mediaid=`f0bf006cd9dd238f3fe275d067fac6b711b61776`  
+_Carl gets a wig that begins to affect him strangely._  
+<a href="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241548478-athf_038_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241548478-athf_038_BIM.jpg" height="144px" /></a>
