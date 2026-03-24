@@ -2,17 +2,25 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 24, 2026 at 10:00:14 EDT_
+_Last Update: March 24, 2026 at 10:30:13 EDT_
 ## Video added
-### Summary
-322328 Space Ghost Coast to Coast: 1  
-### 322339
-**Space Ghost Coast to Coast S03E11 - Jacksonville**  
-TV-PG 🔓 13:12  
-⌛ March 24, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/space-ghost-coast-to-coast/jacksonville  
-seriesid=`322328` titleid=`322339` id=`AYl0MM-x2rZC6NyF61-H` mediaid=`4943ae0ff4bc91be2f6e1aff7a58242d2b5d385f`  
-_With Moltar on the run, Space Ghost is forced to recruit Tansut as his fill-in director, who causes problems before bringing out guests Kirk Hammett and James Hetfield of Metallica._  
-<a href="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417959444-sgc2c_9611_dst_cid-9115506.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417959444-sgc2c_9611_dst_cid-9115506.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+340537 Aqua Teen Hunger Force: 2  
+### 447819
+**Aqua Teen Hunger Force S02E19 - Frat Aliens**  
+TV-14-DL 🔒 11:26  
+⌛ March 24, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/aqua-teen-hunger-force/frat-aliens  
+seriesid=`340537` titleid=`447819` id=`A0Sgx06vRe2lOsm9-H4TOQ` mediaid=`71cfdf78973c934e88bff28b01b705c4a30bccfd`  
+_DP and Skeeter, Fraternity brothers from outer space, visit the Aqua Teens looking to party._  
+<a href="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241541464-athf_033_dst_cid-9272726.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241541464-athf_033_dst_cid-9272726.jpg" height="144px" /></a>
+### 449392
+**Aqua Teen Hunger Force S02E20 - The Clowning**  
+TV-14-DL 🔒 10:59  
+⌛ March 24, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/aqua-teen-hunger-force/the-clowning  
+seriesid=`340537` titleid=`449392` id=`kEmiko34R4qSkabGYXEqzA` mediaid=`f0bf006cd9dd238f3fe275d067fac6b711b61776`  
+_Carl gets a wig that begins to affect him strangely._  
+<a href="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241548478-athf_038_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241548478-athf_038_BIM.jpg" height="144px" /></a>
