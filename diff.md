@@ -2,10 +2,8 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: March 25, 2026 at 10:30:13 EDT_
+_Last Update: March 25, 2026 at 13:00:40 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
 439722 The Venture Bros.: 2  
 ### 2165024
@@ -24,3 +22,5 @@ https://www.adultswim.com/videos/the-venture-bros/the-unicorn-in-captivity
 seriesid=`439722` titleid=`2165023` id=`AWW0xUrhh5enQuYyIFWU` mediaid=`d22a1c5257f206d5e2cfe151f536da1bbb54c1e6`  
 _Dr. Venture's latest invention is a real game-changer. And the new game is deadly!_  
 <a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154222215524813.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-154222215524813.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
