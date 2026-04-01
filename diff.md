@@ -2,17 +2,25 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 1, 2026 at 00:30:13 EDT_
+_Last Update: April 1, 2026 at 11:00:28 EDT_
 ## Video added
-### Summary
-322328 Space Ghost Coast to Coast: 1  
-### 322643
-**Space Ghost Coast to Coast S03E06 - Boo!**  
-TV-PG 🔓 10:48  
-⌛ December 1, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/space-ghost-coast-to-coast/boo  
-seriesid=`322328` titleid=`322643` id=`AYl0LttSOz5CkuTcnwR2` mediaid=`894344cfdec5faaa403a3b6de8d3a6e9a375a690`  
-_Space Ghost turns to experts for advice on supernatural phenomena such as the disappearance of his phantom cruiser keys. Michael Norman, ghost expert and author of Historic Haunted America, and Bill Nye are all too happy to help him out._  
-<a href="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_2041795727-sgc2c_9606_dst_cid-9105379.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_2041795727-sgc2c_9606_dst_cid-9105379.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+439722 The Venture Bros.: 2  
+### 2165025
+**The Venture Bros. S07E09 - The Forecast Manufacturer**  
+TV-14-DLSV 🔓 22:33  
+⌛ April 1, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/the-forecast-manufacturer  
+seriesid=`439722` titleid=`2165025` id=`AWPahfntTdxzjxdCmTf5` mediaid=`c1de70c130b903e819bff075913b91c0052155c4`  
+_The city is hit with a mysterious blizzard that launches Team Venture into action. The Monarch and 21 are sent on a deadly mission to a secret island fortress._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15433569776002.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15433569776002.jpg" height="144px" /></a>
+### 2165026
+**The Venture Bros. S07E10 - The Saphrax Protocol**  
+TV-14-DLV 🔓 22:35  
+⌛ April 1, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/the-saphrax-protocol  
+seriesid=`439722` titleid=`2165026` id=`AWRsVD1sqBveI_0AhKz5` mediaid=`80e1416e2c505b0a6b5bb8778e279a16865af66a`  
+_Deep inside Guild Headquarters, The Monarch and 21 face their ultimate ordeal. Meanwhile, the Venture Brothers face one of their own._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15385949318523.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15385949318523.jpg" height="144px" /></a>
