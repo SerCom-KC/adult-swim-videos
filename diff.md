@@ -2,10 +2,8 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 1, 2026 at 11:00:28 EDT_
+_Last Update: April 1, 2026 at 12:00:14 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
 439722 The Venture Bros.: 2  
 ### 2165025
@@ -24,3 +22,5 @@ https://www.adultswim.com/videos/the-venture-bros/the-saphrax-protocol
 seriesid=`439722` titleid=`2165026` id=`AWRsVD1sqBveI_0AhKz5` mediaid=`80e1416e2c505b0a6b5bb8778e279a16865af66a`  
 _Deep inside Guild Headquarters, The Monarch and 21 face their ultimate ordeal. Meanwhile, the Venture Brothers face one of their own._  
 <a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15385949318523.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15385949318523.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
