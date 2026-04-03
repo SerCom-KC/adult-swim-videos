@@ -1,7 +1,6 @@
 {
-    "updated": 1775224826,
-    "added": [],
-    "removed": [
+    "updated": 1775228427,
+    "added": [
         {
             "auth": false,
             "ott_launch_date": 1447445760,
@@ -30,7 +29,7 @@
             "original_air_date": 1343621700,
             "clip_order": null,
             "auth_launch_date": 1724472000,
-            "modified": 1752948631,
+            "modified": 1775226593,
             "media_id": "37885c22d40f6cb706ce246d4344d2a55c1abede",
             "airing_id": "RADS1007192500047260",
             "id": "-YCort8STyytk7gvYAvC6w",
@@ -45,7 +44,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1752948631,
+            "published": 1775226593,
             "tags": [],
             "rating_count": 277,
             "collection_title": "Squidbillies",
@@ -57,119 +56,7 @@
             "collection_slug": "squidbillies",
             "collection_title_id": "581268",
             "online_exclusives": false
-        },
-        {
-            "ott_launch_date": 1511191740,
-            "auth": false,
-            "auth_expiration_date": 1720843140,
-            "tms_id": "EP007008180112",
-            "description": "Early exploits himself for attention.",
-            "title_suggest": {
-                "input": [
-                    "Debased Ball",
-                    "Ball"
-                ]
-            },
-            "expiration_date": 1775275140,
-            "type": "episode",
-            "title": "Debased Ball",
-            "platforms": [
-                "android",
-                "fire-tv",
-                "ios",
-                "ott",
-                "roku"
-            ],
-            "collection_id": "7RvtaeAjRF6oihhda48FjQ",
-            "duration": 672.08,
-            "episode_number": "6",
-            "original_air_date": 1511154000,
-            "auth_launch_date": 1720238400,
-            "clip_order": null,
-            "media_id": "789c4194ff73b15c00e007875919d527ee2c1a90",
-            "modified": 1752948959,
-            "airing_id": "RADS1007192500047261",
-            "id": "AV_Kk5-NZ-onAnjDLtHk",
-            "slug": "debased-ball",
-            "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151094958540114.jpg",
-            "created": 1510932193,
-            "season_number": "11",
-            "title_id": "2108970",
-            "tv_rating": "tv-14-dlsv",
-            "blacklist": [],
-            "ott_expiration_date": null,
-            "published": 1752948959,
-            "tags": [],
-            "collection_title": "Squidbillies",
-            "modified_by": "ODT Listener",
-            "launch_date": 1752984000,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151094958540114.jpg",
-            "collection_slug": "squidbillies",
-            "collection_title_id": "581268",
-            "online_exclusives": false
-        },
-        {
-            "auth": false,
-            "ott_launch_date": 1447443720,
-            "auth_expiration_date": 1693540740,
-            "tms_id": "EP007008180035",
-            "rating": 8.572516,
-            "description": "The Squids stalk Georgia's rarest bird because the TV box told them to.",
-            "title_suggest": {
-                "input": [
-                    "Flight of the Deep Fried Pine Booby",
-                    "of the Deep Fried Pine Booby",
-                    "the Deep Fried Pine Booby",
-                    "Deep Fried Pine Booby",
-                    "Fried Pine Booby",
-                    "Pine Booby",
-                    "Booby"
-                ]
-            },
-            "type": "episode",
-            "title": "Flight of the Deep Fried Pine Booby",
-            "expiration_date": 1775275140,
-            "platforms": [
-                "web",
-                "mobile",
-                "ott"
-            ],
-            "collection_id": "7RvtaeAjRF6oihhda48FjQ",
-            "duration": 699.7674341,
-            "episode_number": "15",
-            "original_air_date": 1209960900,
-            "clip_order": null,
-            "auth_launch_date": 1680321600,
-            "modified": 1752948355,
-            "media_id": "260c261a29d48d5eff4e0903a17cc19a00ef592c",
-            "airing_id": "RADS1007192500047259",
-            "id": "gEatqjKlT8mpiI4bAOVSoQ",
-            "slug": "flight-of-the-deep-fried-pine-booby",
-            "views": 657715,
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/1_204131136129-squidbillies_035_bim.jpg",
-            "created": 1402945477,
-            "title_id": "714676",
-            "season_number": "3",
-            "tv_rating": "tv-14-dlv",
-            "active": false,
-            "ott_expiration_date": null,
-            "blacklist": [],
-            "published": 1752948355,
-            "tags": [
-                "squidbillies episode 35 flight of the deep fried pine booby bird hair hunt"
-            ],
-            "rating_count": 2379,
-            "collection_title": "Squidbillies",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1752984000,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131136129-squidbillies_035_bim.jpg",
-            "cma_id": "1457782",
-            "collection_slug": "squidbillies",
-            "collection_title_id": "581268",
-            "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
