@@ -1,5 +1,51 @@
 [
     {
+        "auth_expiration_date": 1775188740,
+        "tms_id": "",
+        "description": "When the Belchers visit the local drive-in, Bob comes up with a plan to save the theater from closing.",
+        "title_suggest": {
+            "input": [
+                "Saving Favorite Drive-In",
+                "Favorite Drive-In",
+                "Drive-In"
+            ]
+        },
+        "title": "Saving Favorite Drive-In",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "2",
+        "original_air_date": null,
+        "auth_launch_date": 1773979200,
+        "clip_order": null,
+        "airing_id": "RADS1003132600091883",
+        "media_id": "a385b2af4e40af6167ab730f239cc075e303c554",
+        "modified": 1773553464,
+        "slug": "saving-favorite-drive-in",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/1_25922154765-BobsBurgers_1502.jpg",
+        "created": 1758573399,
+        "season_number": "15",
+        "title_id": "2569621",
+        "tv_rating": "tv-pg-lv",
+        "published": 1773553464,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/2_25922154765-BobsBurgers_1502.jpg",
+        "id": "AZlzJI0TyEF1_1NDe6fd",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1775447940,
         "tms_id": "",
         "description": "Linda agrees to drive Teddy to pick up Kathleen from her colonoscopy after he accidentally injures himself.",
@@ -370,55 +416,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291455540-BobsBurgers_1511.jpg",
         "id": "AZmW1PukyEF1_1NDe6m4",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1776398340,
-        "tms_id": "",
-        "description": "Linda forces everyone to go on a family walk, and the kids stumble onto a bizarre conspiracy theory.",
-        "title_suggest": {
-            "input": [
-                "Like a Candle in the Gym",
-                "a Candle in the Gym",
-                "Candle in the Gym",
-                "in the Gym",
-                "the Gym",
-                "Gym"
-            ]
-        },
-        "title": "Like a Candle in the Gym",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "12",
-        "original_air_date": null,
-        "auth_launch_date": 1775188800,
-        "clip_order": null,
-        "airing_id": "RADS1003272600094129",
-        "media_id": "41777cbd840bc753918d7a141750175239d41dd7",
-        "modified": 1774763093,
-        "slug": "like-a-candle-in-the-gym",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_259291456475-BobsBurgers_1512.jpg",
-        "created": 1759172213,
-        "season_number": "15",
-        "title_id": "2569631",
-        "tv_rating": "tv-pg-l",
-        "published": 1774763093,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291456475-BobsBurgers_1512.jpg",
-        "id": "AZmW1blts_ErlMTJpQn_",
         "auth": true
     },
     {
