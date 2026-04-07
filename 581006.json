@@ -443,6 +443,50 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1776139140,
+        "tms_id": "EP007164450279",
+        "description": "Stan has Roger pretend to be a shark to help Steve overcome his fears. Hayley's friend Danuta becomes romantically interested in Klaus.",
+        "title_suggest": {
+            "input": [
+                "Shark?!"
+            ]
+        },
+        "title": "Shark?!",
+        "expiration_date": 1766984340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1262.9951,
+        "episode_number": "7",
+        "original_air_date": "1559527200",
+        "auth_launch_date": 1775534400,
+        "clip_order": null,
+        "airing_id": "RADS1004012600094679",
+        "media_id": "b82b40cdacf62517a95ec85e2d2fd35f7526d809",
+        "modified": 1775141074,
+        "slug": "shark",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200720/thumbnails/1_207201324519-americandad_1307_air_cid-3WPDR.jpg",
+        "created": 1591013467,
+        "season_number": "14",
+        "title_id": "2186656",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1775141074,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1766379600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200720/thumbnails/2_207201324519-americandad_1307_air_cid-3WPDR.jpg",
+        "id": "AXJvyubqC8QgH-t19Jcm",
+        "auth": true
+    },
+    {
         "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1761883140,
@@ -740,60 +784,6 @@
         "launch_date": 1775448000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407732527.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1775534340,
-        "tms_id": "EP007164450219",
-        "description": "When Roger breaks his ankle, Francine convinces Stan to let him play in his basketball league. Meanwhile, Steve sings a song that parodies R. Kelley's \"Trapped in the Closet.\"",
-        "title_suggest": {
-            "input": [
-                "Criss-Cross Applesauce: The Ballad of Billy Jesusworth",
-                "Applesauce: The Ballad of Billy Jesusworth",
-                "The Ballad of Billy Jesusworth",
-                "Ballad of Billy Jesusworth",
-                "of Billy Jesusworth",
-                "Billy Jesusworth",
-                "Jesusworth"
-            ]
-        },
-        "expiration_date": 1714967940,
-        "title": "Criss-Cross Applesauce: The Ballad of Billy Jesusworth",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 1273.7,
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "episode_number": "17",
-        "original_air_date": 1464661800,
-        "clip_order": null,
-        "auth_launch_date": 1774929600,
-        "modified": 1774567790,
-        "media_id": "1bbe5af02cf7f1f6492134efd9cf47446e20c8c4",
-        "airing_id": "RADS1003262600093254",
-        "id": "W3K_g_63TnWUsXFUZ6YMbA",
-        "slug": "criss-cross-applesauce-the-ballad-of-billy-jesusworth",
-        "views": 1692,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-152001919490614.jpg",
-        "created": 1462302500,
-        "season_number": "11",
-        "title_id": "2046301",
-        "tv_rating": "tv-14-dlv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1774567790,
-        "first_published": 1472789432,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1714363200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001919490614.jpg",
-        "cma_id": "1417554"
     },
     {
         "auth": true,
