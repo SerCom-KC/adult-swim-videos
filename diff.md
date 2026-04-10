@@ -2,26 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 10, 2026 at 13:00:14 EDT_
+_Last Update: April 10, 2026 at 18:30:41 EDT_
 ## Video added
-### Summary
-581268 Squidbillies: 1  
-### 2108971
-**Squidbillies S11E07 - Tortuga de Mentiras**  
-TV-14-DLV 🔓 11:17  
-⌛ April 10, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/tortuga-de-mentiras  
-seriesid=`581268` titleid=`2108971` id=`AV_uQ6mowdpKFAKSbh1U` mediaid=`9128debc734b5f6b717c7c9af0cc04c0aa3c7e43`  
-_Everyone lies and all the houses burn._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15118054331064.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15118054331064.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 ### Summary
-581268 Squidbillies: 1  
-### 961483
-**Squidbillies S07E03 - Squidbilly Manfishing**  
-TV-14-L 🔓 11:20  
-⌛ April 10, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/squidbilly-manfishing  
-seriesid=`581268` titleid=`961483` id=`UGShq0UuT4-Gw2zmx8BgAg` mediaid=`eda1bd1d286af5a1731844a733650efb3f187f71`  
-_Sheriff and Rusty go on a manhunt for Early at Lake Okaleechee._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131326305-squidbillies_604_dup-20120731.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131326305-squidbillies_604_dup-20120731.jpg" height="144px" /></a>
+2161118 Joe Pera Talks With You: 1  
+### 2106836
+**Joe Pera Talks With You S99E?? - Joe Pera Helps You Find The Perfect Christmas Tree**  
+TV-PG-D 🔓 22:34  
+⌛ April 16, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/joe-pera-talks-with-you/joe-pera-helps-you-find-the-perfect-christmas-tree  
+seriesid=`2161118` titleid=`2106836` id=`AWNB0laKHAeP4-pUPfHY` mediaid=`399d20bb261c5ee2140ba89679e89fe1589a0a8e`  
+_Joe Pera provides the information necessary to choose the perfect Christmas Tree for you. Species covered will include the Fraser Fir, Balsam Fir, Douglas Fir, White Spruce, Blue Spruce, Grand Fir, Noble Fir, Scotch Pine, and the Concolor Fir._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15258176632836.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15258176632836.jpg" height="144px" /></a>
