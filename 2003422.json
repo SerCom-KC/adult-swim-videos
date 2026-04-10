@@ -1,52 +1,5 @@
 [
     {
-        "auth_expiration_date": 1775793540,
-        "tms_id": "",
-        "description": "The kids want to host an open mic night at the restaurant, but the hidden costs keep mounting, and Bob worries that this night will ruin them.",
-        "title_suggest": {
-            "input": [
-                "Hope N' Mic Night",
-                "N' Mic Night",
-                "Mic Night",
-                "Night"
-            ]
-        },
-        "title": "Hope N' Mic Night",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "7",
-        "original_air_date": null,
-        "auth_launch_date": 1774584000,
-        "clip_order": null,
-        "airing_id": "RADS1003232600092816",
-        "media_id": "bfefff7ad66e263aae6104a0ad647dc0983f3751",
-        "modified": 1774286067,
-        "slug": "hope-n-mic-night",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_259291449150-BobsBurgers_1507.jpg",
-        "created": 1759171838,
-        "season_number": "15",
-        "title_id": "2569625",
-        "tv_rating": "tv-pg-l",
-        "published": 1774286067,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291449150-BobsBurgers_1507.jpg",
-        "id": "AZmW0ACLs_ErlMTJpQn8",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1776052740,
         "tms_id": "",
         "description": "When Louise signs up for a father-daughter boogie board contest, Bob's past comes back to haunt him.",
@@ -371,6 +324,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_25929155380-BobsBurgers_1514.jpg",
         "id": "AZmW3cwVs_ErlMTJpQoA",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1777003140,
+        "tms_id": "",
+        "description": "Tina's lost book of semi-erotic Horse-torical Fiction lands in the hands of a mysterious stranger with nefarious intentions.",
+        "title_suggest": {
+            "input": [
+                "Wild Steal-Ions",
+                "Steal-Ions"
+            ]
+        },
+        "title": "Wild Steal-Ions",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "17",
+        "original_air_date": null,
+        "auth_launch_date": 1775793600,
+        "clip_order": null,
+        "airing_id": "RADS1004032600094903",
+        "media_id": "aa41399fdf028e9434fdba105862f246cc220f1f",
+        "modified": 1775367881,
+        "slug": "wild-steal-ions",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_25929151237-BobsBurgers_1517.jpg",
+        "created": 1759173128,
+        "season_number": "15",
+        "title_id": "2569636",
+        "tv_rating": "tv-pg-l",
+        "published": 1775367881,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_25929151237-BobsBurgers_1517.jpg",
+        "id": "AZmW47AkyEF1_1NDe6m9",
         "auth": true
     },
     {
