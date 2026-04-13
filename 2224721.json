@@ -664,6 +664,52 @@
         "auth": true
     },
     {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "[LOGLINE REDACTED FOR VIOLATING TERMS AND SERVICES]",
+        "title_suggest": {
+            "input": [
+                "Friend-Bot (Version 12589218731809213528796879521)",
+                "(Version 12589218731809213528796879521)",
+                "12589218731809213528796879521)"
+            ]
+        },
+        "title": "Friend-Bot (Version 12589218731809213528796879521)",
+        "expiration_date": 1782619199,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AXFAgKw8Rs3h4hI_X2xz",
+        "duration": 672.9389,
+        "episode_number": "9",
+        "original_air_date": null,
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1004082600096066",
+        "media_id": "8ebe92b9ee265b26615baca1fb0c8cac8a78af47",
+        "modified": 1775665788,
+        "slug": "friend-bot-version-12589218731809213528796879521",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20260406/thumbnails/1_26461929133-AS_SmilingFriends_09_309_FriendBot-PlatformPreferred.png",
+        "created": 1775518167,
+        "season_number": "3",
+        "title_id": "2548206",
+        "tv_rating": "tv-ma",
+        "published": 1775665788,
+        "tags": [],
+        "collection_title": "Smiling Friends",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1776049200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20260406/thumbnails/2_26461929133-AS_SmilingFriends_09_309_FriendBot-PlatformPreferred.png",
+        "id": "AZ1lITGZ4fEFRoGAPbn-",
+        "auth": false
+    },
+    {
         "auth_expiration_date": 1778385540,
         "tms_id": "",
         "description": "The Boss and Pim fight for their lives in a mysterious world called Spamtopia. Meanwhile, Charlie confronts Allan over something serious.",
