@@ -1,63 +1,6 @@
 {
-    "updated": 1776277946,
-    "added": [],
-    "removed": [
-        {
-            "auth": false,
-            "ott_launch_date": 1447779000,
-            "auth_expiration_date": 1751255940,
-            "tms_id": "EP005604540006",
-            "rating": 8.415971,
-            "description": "To protect the Venture compound while Brock is on his yearly mountain survival sabbatical, Dr. Venture builds a panic room and a robotic bodyguard--which are soon put to the test when both the Monarch's and Baron Underbheit's henchmen choose the same night to launch attacks.",
-            "title_suggest": {
-                "input": [
-                    "Home Insecurity",
-                    "Insecurity"
-                ]
-            },
-            "type": "episode",
-            "title": "Home Insecurity",
-            "expiration_date": 1776311940,
-            "platforms": [
-                "web",
-                "mobile",
-                "ott"
-            ],
-            "collection_id": "5eGyvTZzRlKfGdLztNAwkQ",
-            "duration": 1340.14,
-            "episode_number": "3",
-            "original_air_date": 1093143600,
-            "clip_order": null,
-            "auth_launch_date": 1750305600,
-            "modified": 1751005651,
-            "airing_id": "RADS1005252500038959",
-            "media_id": "4a05bf412ed98d2172c37bb896b242061a4c5b38",
-            "id": "grU0kecFR5uzRm9lzpEfmQ",
-            "slug": "home-insecurity",
-            "views": 1099576,
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/1_21161322456-venture_103.jpg",
-            "created": 1402945481,
-            "title_id": "543792",
-            "season_number": "1",
-            "tv_rating": "tv-pg-dlv",
-            "active": false,
-            "ott_expiration_date": null,
-            "published": 1751005651,
-            "tags": [
-                "venture brothers bros episode 7 home insecurity brock camping bigfoot sasquatch six million dollars man"
-            ],
-            "rating_count": 2041,
-            "collection_title": "The Venture Bros.",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1751256000,
-            "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161322456-venture_103.jpg",
-            "cma_id": "980931",
-            "collection_slug": "the-venture-bros",
-            "collection_title_id": "439722",
-            "online_exclusives": false
-        },
+    "updated": 1776279643,
+    "added": [
         {
             "auth": false,
             "ott_launch_date": 1447778580,
@@ -86,7 +29,7 @@
             "original_air_date": 1092538800,
             "clip_order": null,
             "auth_launch_date": 1750305600,
-            "modified": 1751006077,
+            "modified": 1776279595,
             "airing_id": "RADS1006272500043598",
             "media_id": "b74f78cc33c365328f3ce636d4577dfccd4edd6c",
             "id": "skkB61LjRfKCO86Fds3N0Q",
@@ -100,7 +43,7 @@
             "tv_rating": "tv-ma",
             "active": false,
             "ott_expiration_date": null,
-            "published": 1751006077,
+            "published": 1776279595,
             "tags": [
                 "venture bros brothers episode 2 careers in science space station father daddy brock sex bud manstrong"
             ],
@@ -115,5 +58,6 @@
             "collection_title_id": "439722",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
