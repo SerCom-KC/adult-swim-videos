@@ -44,52 +44,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1776311940,
-        "tms_id": "",
-        "description": "Mr. Fischoeder gets the chance to conduct his favorite symphony.",
-        "title_suggest": {
-            "input": [
-                "Mr. Fischoeder's Opus",
-                "Fischoeder's Opus",
-                "Opus"
-            ]
-        },
-        "title": "Mr. Fischoeder's Opus",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "11",
-        "original_air_date": null,
-        "auth_launch_date": 1775102400,
-        "clip_order": null,
-        "airing_id": "RADS1003272600093904",
-        "media_id": "f1b2098f7d10291356c4e7b0794ed11362180300",
-        "modified": 1774679394,
-        "slug": "mr-fischoeders-opus",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_259291455540-BobsBurgers_1511.jpg",
-        "created": 1759172164,
-        "season_number": "15",
-        "title_id": "2569630",
-        "tv_rating": "tv-pg-l",
-        "published": 1774679394,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291455540-BobsBurgers_1511.jpg",
-        "id": "AZmW1PukyEF1_1NDe6m4",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1776398340,
         "tms_id": "",
         "description": "Linda forces everyone to go on a family walk, and the kids stumble onto a bizarre conspiracy theory.",
@@ -414,6 +368,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291515504-BobsBurgers_1519.jpg",
         "id": "AZmW5ysGs_ErlMTJpQoD",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1777521540,
+        "tms_id": "",
+        "description": "Louise's schoolmate, Arnold, enlists her to direct a promotional video for his new bodyguarding business.",
+        "title_suggest": {
+            "input": [
+                "Mr. Safebody",
+                "Safebody"
+            ]
+        },
+        "title": "Mr. Safebody",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "21",
+        "original_air_date": null,
+        "auth_launch_date": 1776312000,
+        "clip_order": null,
+        "airing_id": "RADS1004102600096448",
+        "media_id": "8c1094c09e2401b9fd4822ec5a466e38c208b9cc",
+        "modified": 1775887176,
+        "slug": "mr-safebody",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_259291524288-BobsBurgers_1521.jpg",
+        "created": 1759173901,
+        "season_number": "15",
+        "title_id": "2569640",
+        "tv_rating": "tv-pg-l",
+        "published": 1775887176,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291524288-BobsBurgers_1521.jpg",
+        "id": "AZmW736qs_ErlMTJpQoF",
         "auth": true
     },
     {
