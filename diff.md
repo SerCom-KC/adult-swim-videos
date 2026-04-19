@@ -2,85 +2,86 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 18, 2026 at 00:30:13 EDT_
+_Last Update: April 19, 2026 at 00:30:26 EDT_
 ## Video added
 ### Summary
 581006 American Dad: 2  
-2530043 Psi-Cops: 1  
-### 2197408
-**American Dad S15E05 - Into the Woods**  
+2568729 Rooster Fighter: 1  
+895948 The Eric Andre Show: 1  
+### 2197411
+**American Dad S15E07 - Exquisite Corpses**  
  🔒 21:03  
-⌛ April 24, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/into-the-woods  
-seriesid=`581006` titleid=`2197408` id=`AXb4GvJ1QJ_4Uej5kTlI` mediaid=`2fa7384d95353d80de36b0b302296e36edbb6fdf`  
-_When Stan sees a middle-school classmate, he feels compelled to right an old wrong; Roger feels a cold coming on._  
-<a href="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_21112143813-americandad_1404_air_cid-C5RFW-IntoTheWoods.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_21112143813-americandad_1404_air_cid-C5RFW-IntoTheWoods.jpg" height="144px" /></a>
-### 2197410
-**American Dad S15E06 - One Fish, Two Fish**  
+⌛ April 25, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/exquisite-corpses  
+seriesid=`581006` titleid=`2197411` id=`AXb4G8ksQJ_4Uej5kTlK` mediaid=`df16e75f57b20352153efac4211689cb62969606`  
+_Jeff, Francine and Roger decide to team up and start their own bus tour business, with murderous results!_  
+<a href="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121438558-americandad_1407_air_cid-C5RN3-ExquisiteCorpses.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121438558-americandad_1407_air_cid-C5RN3-ExquisiteCorpses.jpg" height="144px" /></a>
+### 2197414
+**American Dad S15E08 - Trophy Wife, Trophy Life**  
  🔒 21:03  
-⌛ April 24, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/one-fish-two-fish  
-seriesid=`581006` titleid=`2197410` id=`AXb4G3loQJ_4Uej5kTlJ` mediaid=`a851332072a0fe37b685886374ecd869b7f926e9`  
-_Hayley takes extreme measures to help Klaus from being deported while the rest of the family tries to open a coconut._  
-<a href="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121438357-americandad_1406_air_cid-C5RMX-OneFishTwoFish.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121438357-americandad_1406_air_cid-C5RMX-OneFishTwoFish.jpg" height="144px" /></a>
-### 2530049
-**Psi-Cops S01E06 - Faith Healer**  
-TV-MA-V 🔒 11:00  
-⌛ May 22, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/psi-cops/faith-healer  
-seriesid=`2530043` titleid=`2530049` id=`AZDCmRVeSaru9Cdsy7Ph` mediaid=`b514899aadae79c4417125ed1378a575bfb0e0ef`  
-_Faith heals all. Well, faith and money._  
-<a href="https://media.cdn.adultswim.com/uploads/20240722/thumbnails/2_24722935560-PSICOPS_SEASON1_EP106_SHOWSTILLS_IMAGE1_PEACESIGNMAN.jpg"><img src="https://media.cdn.adultswim.com/uploads/20240722/thumbnails/2_24722935560-PSICOPS_SEASON1_EP106_SHOWSTILLS_IMAGE1_PEACESIGNMAN.jpg" height="144px" /></a>
+⌛ April 25, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/trophy-wife-trophy-life  
+seriesid=`581006` titleid=`2197414` id=`AXb4HCXgQJ_4Uej5kTlL` mediaid=`d020fd4b8196e8298003d2096ca06d537ae32d74`  
+_After Stan is injured, Francine nurses him back to health and he becomes dependent to her. The family discovers Tuttle is a Korean reality show star._  
+<a href="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121439185-americandad_1410_air_cid-C5RRP-TrophyWifeTrophyLife.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121439185-americandad_1410_air_cid-C5RRP-TrophyWifeTrophyLife.jpg" height="144px" /></a>
+### 2568735
+**Rooster Fighter S01E06 - Built Like a Brick Coop**  
+ 🔒 22:33  
+⌛ June 29, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/rooster-fighter/built-like-a-brick-coop  
+seriesid=`2568729` titleid=`2568735` id=`AZzql1vX5hm4q6q--tfN` mediaid=`22f0288b7ba3cd6bbdd0f3b8e4324042bfcc4801`  
+_When Morio's efforts fail, the flood approaches! Will Keiji and his flock be able to save the city?_  
+<a href="https://media.cdn.adultswim.com/uploads/20260314/thumbnails/2_2631402578-RoosterFighter_06.png"><img src="https://media.cdn.adultswim.com/uploads/20260314/thumbnails/2_2631402578-RoosterFighter_06.png" height="144px" /></a>
+### 2240454
+**The Eric Andre Show S05E?? - The Eric Andre Show: The Making of Season Five**  
+TV-MA-LS 🔓 11:15  
+⌛ May 23, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-eric-andre-show/the-eric-andre-show-the-making-of-season-five  
+seriesid=`895948` titleid=`2240454` id=`AXWPF5rqbxpjZvbXYlbm` mediaid=`824bdc8a2cdbee1a85dcb297b4a47e45d0665173`  
+_The making of The Eric Andre Show has forever been shrouded in mystery... but now you can finally see the blood, sweat, and ranch that goes into it._  
+<a href="https://media.cdn.adultswim.com/uploads/20201103/thumbnails/2_201131211270-ericandre_511_S5_BTS_CENSORED_dup-20201019.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201103/thumbnails/2_201131211270-ericandre_511_S5_BTS_CENSORED_dup-20201019.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2530043 Psi-Cops: 1  
+2224721 Smiling Friends: 2  
 581006 American Dad: 2  
-581268 Squidbillies: 3  
-### 2530044
-**Psi-Cops S01E01 - The Facility**  
-TV-MA-V 🔒 11:00  
-⌛ April 17, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/psi-cops/the-facility  
-seriesid=`2530043` titleid=`2530044` id=`AZB6KFFoSaru9Cdsy7Dv` mediaid=`091d43382dcedbea0702bdd66988743f5afec88c`  
-_An experimental facility hidden in a frozen wasteland houses dark secrets, scientists with hidden agendas, genetically altered monkeys and well… bananas._  
-<a href="https://media.cdn.adultswim.com/uploads/20240708/thumbnails/2_2478103531-PSICOPS_SEASON1_EP101_SHOWSTILLS_IMAGE4_CROWDAROUNDTRAILER.jpg"><img src="https://media.cdn.adultswim.com/uploads/20240708/thumbnails/2_2478103531-PSICOPS_SEASON1_EP101_SHOWSTILLS_IMAGE4_CROWDAROUNDTRAILER.jpg" height="144px" /></a>
-### 2186663
-**American Dad S14E14 - Hamerican Dad!**  
+895948 The Eric Andre Show: 1  
+### 2322682
+**Smiling Friends S01E07 - Frowning Friends**  
+TV-14-LV 🔒 11:07  
+⌛ April 18, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/smiling-friends/frowning-friends  
+seriesid=`2224721` titleid=`2322682` id=`AX42sTZm208s7zyYUL9h` mediaid=`307cfc0e3282638d68d69de07a0d44b526f49d14`  
+_A rival business moves across the street, much to the Boss's dismay. Nuff said._  
+<a href="https://media.cdn.adultswim.com/uploads/20220110/thumbnails/2_221101238285-SmilingFriends_107_FrowningFriends.png"><img src="https://media.cdn.adultswim.com/uploads/20220110/thumbnails/2_221101238285-SmilingFriends_107_FrowningFriends.png" height="144px" /></a>
+### 2322683
+**Smiling Friends S01E08 - Charlie Dies and Doesn't Come Back**  
+TV-MA 🔒 11:11  
+⌛ April 18, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/smiling-friends/charlie-dies-and-doesnt-come-back  
+seriesid=`2224721` titleid=`2322683` id=`AX42sZA8_0O4w1rD3RRg` mediaid=`cbb49f5a8f9d9e3a3a0a5a794fa49c226cddd40b`  
+_In the season finale, Charlie actually dies for real._  
+<a href="https://media.cdn.adultswim.com/uploads/20220110/thumbnails/2_221101239112-SmilingFriends_108_CharlieDiesAndDoesntComeBack.png"><img src="https://media.cdn.adultswim.com/uploads/20220110/thumbnails/2_221101239112-SmilingFriends_108_CharlieDiesAndDoesntComeBack.png" height="144px" /></a>
+### 2186665
+**American Dad S14E16 - Pride Before the Fail**  
+TV-14-DLSV 🔒 21:03  
+⌛ April 18, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/pride-before-the-fail  
+seriesid=`581006` titleid=`2186665` id=`AXKUOAGSRs3h4hI_X4BT` mediaid=`f9f7945f1cad6a5f1870836f0cdded3be56b78b3`  
+_Roger tries to force Hayley into graduating from community college so he can move into her room. Klaus repairs Francine's car._  
+<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068956328-americandad_1316_air_cid-3Y3D1.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068956328-americandad_1316_air_cid-3Y3D1.jpg" height="144px" /></a>
+### 2186666
+**American Dad S14E17 - Enter Stanman**  
 TV-14-DLSV 🔒 21:02  
-⌛ April 17, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/hamerican-dad  
-seriesid=`581006` titleid=`2186663` id=`AXKPZmnhC8QgH-t19JjV` mediaid=`22719bca3d20ee8dd73a3cd906c93d85ff103cf9`  
-_Stan, reluctantly invites Roger into his ham club. Francine decides to scare Greg._  
-<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_206892083-americandad_1314_air_cid-46CYK.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_206892083-americandad_1314_air_cid-46CYK.jpg" height="144px" /></a>
-### 2186664
-**American Dad S14E15 - Demolition Daddy**  
-TV-14-DLSV 🔒 21:02  
-⌛ April 17, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/demolition-daddy  
-seriesid=`581006` titleid=`2186664` id=`AXKPZuazRs3h4hI_X4A-` mediaid=`4052df40c5fe09a1659e275384c6d9287ca98fb6`  
-_Thanks to Roger, Snot discovers his dead father was a demolition derby driver. Hayley takes Steve on a road trip, so he can learn to drive._  
-<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068919384-americandad_1315_air_cid-3XVN9.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068919384-americandad_1315_air_cid-3XVN9.jpg" height="144px" /></a>
-### 2108972
-**Squidbillies S11E08 - Duel of the Dimwits**  
-TV-MA 🔓 11:16  
-⌛ April 17, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/duel-of-the-dimwits  
-seriesid=`581268` titleid=`2108972` id=`AWAVsnhlZ-onAnjDLtVd` mediaid=`23f9e55fd98bc98bfc87e8906e66d2b4ad40f8cf`  
-_Two idiots argue about stuff nobody cares about._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15124929350219.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15124929350219.jpg" height="144px" /></a>
-### 718762
-**Squidbillies S03E17 - The Okaleechee Dam Jam**  
-TV-MA 🔓 11:45  
-⌛ April 17, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/the-okaleechee-dam-jam  
-seriesid=`581268` titleid=`718762` id=`PPYlQVWgThyqBgzUCLrD3w` mediaid=`a1928e5eecbb654c19bb22dcc79c15fce77513b2`  
-_Drought is a disease. David Allan Coe is the cure._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131156462-squidbillies_037_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131156462-squidbillies_037_bim.jpg" height="144px" /></a>
-### 961482
-**Squidbillies S07E04 - Green and Sober**  
-TV-14-DLS 🔓 11:31  
-⌛ April 17, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/green-and-sober  
-seriesid=`581268` titleid=`961482` id=`T9lWfh8ZTTewGOTCQscpTA` mediaid=`5b3df378c2bd1c16b6c5efb4f459813d9c8059d9`  
-_Lil's loved ones try to get her re-addicted to drugs._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131326511-squidbillies_603_dup-20120806.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131326511-squidbillies_603_dup-20120806.jpg" height="144px" /></a>
+⌛ April 18, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/enter-stanman  
+seriesid=`581006` titleid=`2186666` id=`AXKUOGgeRs3h4hI_X4BU` mediaid=`a652830cd64657aa616de584015fae4b65270b2e`  
+_Roger helps Stan enter Francine's dreams after he becomes insecure about their contents._  
+<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068956584-americandad_1317_air_cid-3Y8P6.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068956584-americandad_1317_air_cid-3Y8P6.jpg" height="144px" /></a>
+### 2230780
+**The Eric Andre Show S05E01 - A King Is Born**  
+TV-MA-LV 🔒 11:14  
+⌛ April 18, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-eric-andre-show/a-king-is-born  
+seriesid=`895948` titleid=`2230780` id=`AXSYwnpvLyLQBOXK_PN8` mediaid=`a994a03f9ab4017b638d036a3eec0ea4415bf116`  
+_Eric & Hannibal are back! Eric welcomes Judy Greer and Adam Rippon, and befriends a lost rat on the subway, trying to find its original owner. Also - beer chugging musical guest Anderson Six .Paak!_  
+<a href="https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161711506-ericandre_501_dup-20200812.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200916/thumbnails/2_209161711506-ericandre_501_dup-20200812.jpg" height="144px" /></a>
