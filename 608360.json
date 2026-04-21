@@ -546,6 +546,66 @@
     },
     {
         "auth": true,
+        "ott_launch_date": 1447346760,
+        "auth_expiration_date": 1777348740,
+        "tms_id": "EP007259620006",
+        "rating": 6.172824,
+        "description": "Voltron engages in an old-school dance-off in \"You Got Robo-Served.\" The secret lives of nature's most fascinating beasts are exposed in \"Secrets of the Animal Kingdom.\" Testicles are terrorized in \"Ode to the Nut Shot.\"",
+        "title_suggest": {
+            "input": [
+                "Nutcracker Sweet",
+                "Sweet"
+            ]
+        },
+        "type": "episode",
+        "title": "Nutcracker Sweet",
+        "expiration_date": 1747713540,
+        "platforms": [
+            "web",
+            "mobile",
+            "ott"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 695.4337671,
+        "episode_number": "2",
+        "original_air_date": 1109565000,
+        "clip_order": null,
+        "auth_launch_date": 1776744000,
+        "modified": 1776700812,
+        "airing_id": "RADS1004202600098136",
+        "media_id": "39ff6c66f91ef38cdc74f3e0509f8f469de4109b",
+        "id": "1zXFlqpaQFWCvSbjuGb2bA",
+        "slug": "nutcracker-sweet",
+        "views": 1634247,
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200326/thumbnails/1_20326203358-robotchicken_005.jpg",
+        "created": 1402945474,
+        "title_id": "609693",
+        "season_number": "1",
+        "tv_rating": "tv-ma",
+        "active": false,
+        "ott_expiration_date": null,
+        "blacklist": [],
+        "published": 1776700812,
+        "tags": [
+            "robot",
+            "chicken",
+            "nutcracker",
+            "sweet",
+            "robo",
+            "served",
+            "voltron"
+        ],
+        "rating_count": 7256,
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1747108800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_20326203358-robotchicken_005.jpg",
+        "cma_id": "1137030"
+    },
+    {
+        "auth": true,
         "ott_launch_date": 1447348980,
         "auth_expiration_date": 1778385540,
         "tms_id": "EP007259620054",
@@ -4330,7 +4390,7 @@
         "launch_date": 1776744000,
         "poster": "https://media.cdn.adultswim.com/uploads/20220325/thumbnails/2_223251715238-RobotChickenInternalDiarrhea.png",
         "id": "AX-8UkhO208s7zyYUMaA",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1776743940,
@@ -4379,7 +4439,7 @@
         "launch_date": 1776744000,
         "poster": "https://media.cdn.adultswim.com/uploads/20220317/thumbnails/2_22317143260-RobotChicken_1117_MayCauseAnExcessOfHam.png",
         "id": "AX-ZJuup_0O4w1rD3R2H",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": null,
@@ -4763,7 +4823,7 @@
         "launch_date": 1776139200,
         "poster": "https://media.cdn.adultswim.com/uploads/20220217/thumbnails/2_222171632118-RobotChicken_1112_MayCauseIndecisionOrNot.png",
         "id": "AX8Jmcl7208s7zyYUMH3",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1776743940,
@@ -4814,7 +4874,7 @@
         "launch_date": 1776744000,
         "poster": "https://media.cdn.adultswim.com/uploads/20220223/thumbnails/2_222231433133-RobotChicken_1114_MayCauseBubblesWhereYouWantEm.png",
         "id": "AX8oEvHe_0O4w1rD3Ru0",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1776743940,
@@ -4861,7 +4921,7 @@
         "launch_date": 1776744000,
         "poster": "https://media.cdn.adultswim.com/uploads/20220301/thumbnails/2_22311355387-RobotChicken_1115_MayCauseASqueakquel.png",
         "id": "AX9G1rEo208s7zyYUMOm",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1776743940,
@@ -4909,7 +4969,7 @@
         "launch_date": 1776744000,
         "poster": "https://media.cdn.adultswim.com/uploads/20220309/thumbnails/2_22391110254-RobotChicken_1116_MayCauseInvoluntaryPoliticalDischarge.png",
         "id": "AX9vcljj_0O4w1rD3RzB",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1803358740,
@@ -5370,55 +5430,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1776743940,
-        "tms_id": "EP007259620241",
-        "description": "Once again it's time for Discovery's Mark Week courtesy of Robot Chicken; Nobody realizes Daria is being sarcastic until it's too late; The Wayne family's Murder Alley gets commercialized and Bruce is pissed.",
-        "title_suggest": {
-            "input": [
-                "May Cause Weebles to Fall Down",
-                "Cause Weebles to Fall Down",
-                "Weebles to Fall Down",
-                "to Fall Down",
-                "Fall Down",
-                "Down"
-            ]
-        },
-        "title": "May Cause Weebles to Fall Down",
-        "expiration_date": 1747713540,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
-        "duration": 671.2039,
-        "episode_number": "20",
-        "original_air_date": "1649044800",
-        "auth_launch_date": 1747713600,
-        "clip_order": null,
-        "airing_id": "RADS1005132500035657",
-        "media_id": "93273569172aeac11e3d6c5cf44fec73d25e0825",
-        "modified": 1776698070,
-        "slug": "may-cause-weebles-to-fall-down",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220330/thumbnails/1_223301310458-RobotChicken_1119_MayCauseWeeblesToFallDown.png",
-        "created": 1648660255,
-        "season_number": "11",
-        "title_id": "2270606",
-        "tv_rating": "tv-ma-v",
-        "published": 1776698070,
-        "tags": [],
-        "collection_title": "Robot Chicken",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1747108800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20220330/thumbnails/2_223301310458-RobotChicken_1119_MayCauseWeeblesToFallDown.png",
-        "id": "AX_bzxKc208s7zyYUMdO",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1803963540,
         "tms_id": "EP007259620223",
         "description": "The Gargoyles get as hard as stone, if you know what Robot Chicken means; Solid Snake must master the walk of shame; The Avengers learn to curb their enthusiasm.",
@@ -5854,7 +5865,7 @@
         "launch_date": 1776139200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210910/thumbnails/2_219101351309-RobotChicken_1108_MayCauseNumbButthole.png",
         "id": "AXvQ1jN6UQa40cfnRR9n",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1805169540,
@@ -5903,7 +5914,7 @@
         "launch_date": 1776139200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210921/thumbnails/2_21921145201-RobotChicken_1109_MayCauseTheNeedForSpeed.png",
         "id": "AXvz4CV74Xbjep71f6G_",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1805169540,
@@ -5965,7 +5976,7 @@
         "launch_date": 1776139200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210921/thumbnails/2_219211453258-RobotChicken_1110_MayCauseYourDadToComeBackWithThatGallonOfMilkHeWentOutFor10YearsAgo.png",
         "id": "AXvz4nj44Xbjep71f6HA",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1805169540,
@@ -6019,7 +6030,56 @@
         "launch_date": 1776139200,
         "poster": "https://media.cdn.adultswim.com/uploads/20210921/thumbnails/2_219211454393-RobotChicken_1111_MayCauseEpisodeTitleToCutOffDueToWordLim.png",
         "id": "AXvz5OApUQa40cfnRSCg",
-        "auth": false
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1777348740,
+        "tms_id": "EP007259620242",
+        "description": "The Robot Chicken gang thinks Barbie George Washington would've made a fine Floundering Father; The Nerd fixes the Mandela Effect with disastrous results; Robot Chicken says farewell, but is it good bye?",
+        "title_suggest": {
+            "input": [
+                "May Cause Season 11 to End",
+                "Cause Season 11 to End",
+                "Season 11 to End",
+                "11 to End",
+                "to End",
+                "End"
+            ]
+        },
+        "title": "May Cause Season 11 to End",
+        "type": "episode",
+        "expiration_date": 1747713540,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+        "duration": 657.5569,
+        "episode_number": "21",
+        "original_air_date": 1649649600,
+        "auth_launch_date": 1776744000,
+        "clip_order": null,
+        "airing_id": "RADS1004202600098133",
+        "media_id": "02449f6d3a4fc4ee4237f8e56364b2463f14c9d1",
+        "modified": 1776700872,
+        "slug": "may-cause-season-11-to-end",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20220411/thumbnails/1_22411125737-Season11Endmin.png",
+        "created": 1649386413,
+        "title_id": "2270607",
+        "season_number": "11",
+        "tv_rating": "tv-ma-l",
+        "published": 1776700872,
+        "tags": [],
+        "collection_title": "Robot Chicken",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1747108800,
+        "poster": "https://media.cdn.adultswim.com/uploads/20220411/thumbnails/2_22411125737-Season11Endmin.png",
+        "id": "AYAHF19h208s7zyYUMhm",
+        "auth": true
     },
     {
         "auth_expiration_date": 1754882940,
@@ -8842,62 +8902,6 @@
         "launch_date": 1768885200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461249211-robotchicken_804_dup-20151112.jpg",
         "cma_id": "1187216"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447346460,
-        "auth_expiration_date": 1776743940,
-        "tms_id": "EP007259620002",
-        "rating": 6.456726,
-        "description": "Rachael Leigh Cook smashes more than eggs in her latest anti-heroin public service announcement. Optimus Prime, leader of the Transformers, falls prey to prostate cancer. The outcome is never in doubt during \"World's Most One-Sided Fistfights Caught on Film.\" Outtakes from Dukes of Hazzard, The X-Files, Battlestar Galactica and more come to light in \"Bloopers.\"",
-        "title_suggest": {
-            "input": [
-                "Junk in the Trunk",
-                "in the Trunk",
-                "the Trunk",
-                "Trunk"
-            ]
-        },
-        "type": "episode",
-        "title": "Junk in the Trunk",
-        "expiration_date": 1747713540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
-        "duration": 697.2335669,
-        "episode_number": "1",
-        "original_air_date": 1108960200,
-        "clip_order": null,
-        "auth_launch_date": 1747713600,
-        "modified": 1776701766,
-        "media_id": "15d647e6d75b201e88ad4c227f0e00d574234543",
-        "airing_id": "RADS1005132500035659",
-        "id": "Qd8SOn8pSzOokRX6emcnoQ",
-        "slug": "junk-in-the-trunk",
-        "views": 441227,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200326/thumbnails/1_203262038188-robotchicken_002.jpg",
-        "created": 1402945475,
-        "title_id": "609691",
-        "season_number": "1",
-        "tv_rating": "tv-14-d",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1776701766,
-        "tags": [
-            "robot chicken episode rc 2 junk in the trunk rachel leigh cook drug optimus prime prostate cancer fist fights"
-        ],
-        "rating_count": 3420,
-        "collection_title": "Robot Chicken",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1747108800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_203262038188-robotchicken_002.jpg",
-        "cma_id": "1137273"
     },
     {
         "auth": true,
