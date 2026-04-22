@@ -2,10 +2,8 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 22, 2026 at 10:00:26 EDT_
+_Last Update: April 22, 2026 at 10:30:14 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
 439722 The Venture Bros.: 2  
 ### 543789
@@ -24,3 +22,5 @@ https://www.adultswim.com/videos/the-venture-bros/the-incredible-mr-brisby
 seriesid=`439722` titleid=`543790` id=`ktj9bStwTIaag-ziu3E9wg` mediaid=`b06e36e689cd9e149de0c0f7f036502850da5afd`  
 _Dr. Venture is offered a job by theme park owner and cartoon magnate Roy Brisby, who won't take no for an answer in his quest for worldwide entertainment dominance.  Meanwhile, the boys are given the Patty Hearst treatment by the Orange County Liberation Front, a group of militant suburbanites who want to take down Brisby's empire  Brock enlists the aid of former lover and fellow superspy Molotov Cocktease to "mount"a rescue, but she may have her own agenda._  
 <a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161323466-venture_105.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161323466-venture_105.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
