@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: April 26, 2026 at 04:30:26 EDT_
+_Last Update: April 26, 2026 at 05:00:14 EDT_
 ## Video added
 ### Summary
-2568743 DAN DA DAN: 1  
-### 2573229
-**DAN DA DAN S02E05 - We Can All Stay There Together!**  
- 🔒 23:02  
-⌛ May 17, 2026 at 03:59:00 EDT  
-https://www.adultswim.com/videos/dan-da-dan/we-can-all-stay-there-together  
-seriesid=`2568743` titleid=`2573229` id=`AZ0i7Gea4fEFRoGAPbey` mediaid=`425f7b3c86d6038d60942d88a506481107cfa0ea`  
-_Momo rescues Okarun, and they return home safely. Aira joins the group to counter Evil Eye._  
-<a href="https://media.cdn.adultswim.com/uploads/20260324/thumbnails/2_263242256361-AS_DanDaDan_S2_Thumbnail_Ep17.png"><img src="https://media.cdn.adultswim.com/uploads/20260324/thumbnails/2_263242256361-AS_DanDaDan_S2_Thumbnail_Ep17.png" height="144px" /></a>
+2584090 Blue Lock: 1  
+### 2584195
+**Blue Lock S01E12 - The Second Selection**  
+ 🔒 21:40  
+⌛ August 24, 2026 at 23:59:59 EDT  
+https://www.adultswim.com/videos/blue-lock/the-second-selection  
+seriesid=`2584090` titleid=`2584195` id=`AZxD-2GQNi2EYjVB1WCh` mediaid=`fccc46e8808ffaed3428688de7a2ad07f843b7ee`  
+_In Blue Lock's second selection, a teammate becomes a foe, and a foe becomes a teammate. Isagi meets Itoshi Rin, the strongest egoist he's ever met._  
+<a href="https://media.cdn.adultswim.com/uploads/20260209/thumbnails/2_26291436485-BlueLock-S01E12.png"><img src="https://media.cdn.adultswim.com/uploads/20260209/thumbnails/2_26291436485-BlueLock-S01E12.png" height="144px" /></a>
 ## Video removed
 No videos were removed.  
