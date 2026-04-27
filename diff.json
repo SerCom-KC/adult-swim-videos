@@ -1,6 +1,66 @@
 {
-    "updated": 1777303815,
+    "updated": 1777307413,
     "added": [
+        {
+            "auth": true,
+            "ott_launch_date": 1447347060,
+            "auth_expiration_date": 1777348740,
+            "tms_id": "EP007259620005",
+            "rating": 6.6287427,
+            "description": "America sends Harrison Ford into space to take out a killer asteroid in \"Meteorgeddon.\" Household animals take to the slopes for \"Winter Pet Games.\" Chucky from Child's Play takes on the cutesy Lettuce Head Kids. The Muppet Show's band is spotlighted in \"Behind the Music: Electric Mayhem.\"",
+            "title_suggest": {
+                "input": [
+                    "The Plastic Buffet",
+                    "Plastic Buffet",
+                    "Buffet"
+                ]
+            },
+            "type": "episode",
+            "title": "The Plastic Buffet",
+            "expiration_date": 1748318340,
+            "platforms": [
+                "web",
+                "mobile",
+                "ott"
+            ],
+            "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
+            "duration": 651.7340674,
+            "episode_number": "4",
+            "original_air_date": 1110774600,
+            "clip_order": null,
+            "auth_launch_date": 1748318400,
+            "modified": 1777306590,
+            "airing_id": "RADS1005222500037033",
+            "media_id": "8c57d9d9b7c799e45727fb57fd5b8634028426a0",
+            "id": "XhjWDVnpR6uadwMxCDf7XQ",
+            "slug": "the-plastic-buffet",
+            "views": 46044,
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200326/thumbnails/1_203262035456-robotchicken_008.jpg",
+            "created": 1402945475,
+            "title_id": "609696",
+            "season_number": "1",
+            "tv_rating": "tv-14-dlv",
+            "active": false,
+            "ott_expiration_date": null,
+            "blacklist": [],
+            "published": 1777306590,
+            "tags": [
+                "robot chicken plastic buffet episode 4"
+            ],
+            "rating_count": 668,
+            "collection_title": "Robot Chicken",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1747713600,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_203262035456-robotchicken_008.jpg",
+            "cma_id": "1156048",
+            "collection_slug": "robot-chicken",
+            "collection_title_id": "608360",
+            "online_exclusives": false
+        }
+    ],
+    "removed": [
         {
             "auth": true,
             "ott_launch_date": 1447347120,
@@ -69,66 +129,6 @@
             "collection_slug": "robot-chicken",
             "collection_title_id": "608360",
             "online_exclusives": false
-        },
-        {
-            "auth": true,
-            "ott_launch_date": 1447347120,
-            "auth_expiration_date": 1777348740,
-            "tms_id": "EP007259620007",
-            "rating": 6.861399,
-            "description": "The tooth fairy stumbles into murder in \"Tooth and Consequences.\" The world's most terrifying supervillains get stuck in traffic. More of television's greatest screw-ups, from Friends to Mr. Rogers' Neighborhood to Saved by the Bell, are highlighted in \"Bloopers Two.\"",
-            "title_suggest": {
-                "input": [
-                    "Toyz in the Hood",
-                    "in the Hood",
-                    "the Hood",
-                    "Hood"
-                ]
-            },
-            "type": "episode",
-            "title": "Toyz in the Hood",
-            "expiration_date": 1748318340,
-            "platforms": [
-                "web",
-                "mobile",
-                "ott"
-            ],
-            "collection_id": "Y9vOHWm2RayFEQYn35sv1g",
-            "duration": 667.5338672,
-            "episode_number": "5",
-            "original_air_date": 1111379400,
-            "clip_order": null,
-            "auth_launch_date": 1748318400,
-            "modified": 1777302897,
-            "airing_id": "RADS1005222500037031",
-            "media_id": "c4c625af2c7d2fdc90fd54fcedf0601c1f596321",
-            "id": "Py5lTrMxRw-xpDHDZwEC9Q",
-            "slug": "toyz-in-the-hood",
-            "views": 470841,
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200326/thumbnails/1_203262036112-robotchicken_010.jpg",
-            "created": 1402945474,
-            "title_id": "609698",
-            "season_number": "1",
-            "tv_rating": "tv-14-lv",
-            "active": false,
-            "ott_expiration_date": null,
-            "blacklist": [],
-            "published": 1777302897,
-            "tags": [
-                "robot chicken toyz in hood episode 10"
-            ],
-            "rating_count": 4329,
-            "collection_title": "Robot Chicken",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1747713600,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200326/thumbnails/2_203262036112-robotchicken_010.jpg",
-            "cma_id": "1162254",
-            "collection_slug": "robot-chicken",
-            "collection_title_id": "608360",
-            "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
