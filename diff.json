@@ -1,22 +1,21 @@
 {
-    "updated": 1777387811,
+    "updated": 1777393105,
     "added": [
         {
             "auth": true,
-            "ott_launch_date": 1445971500,
+            "ott_launch_date": 1445971260,
             "auth_expiration_date": 1777435140,
-            "tms_id": "EP004662930065",
-            "rating": 8.197969,
-            "description": "An unusually persuasive gutter salesman interrupts an otherwise charming discourse on good times and good friends.",
+            "tms_id": "EP004662930061",
+            "rating": 8.938949,
+            "description": "The Aqua Teens' new genetically engineered dog is friendly with Carl.",
             "title_suggest": {
                 "input": [
-                    "Grim Reaper Gutters",
-                    "Reaper Gutters",
-                    "Gutters"
+                    "Hand Banana",
+                    "Banana"
                 ]
             },
             "type": "episode",
-            "title": "Grim Reaper Gutters",
+            "title": "Hand Banana",
             "expiration_date": 1761710340,
             "platforms": [
                 "web",
@@ -24,39 +23,100 @@
                 "ott"
             ],
             "collection_id": "tCNv3vG8S92F8kgKu9_1Vg",
-            "duration": 677.8675342,
-            "episode_number": "8",
-            "original_air_date": 1163993400,
+            "duration": 681.9676343,
+            "episode_number": "5",
+            "original_air_date": 1162179000,
             "clip_order": null,
             "auth_launch_date": 1761710400,
-            "modified": 1777387510,
-            "media_id": "435ee96d38d927c364b6119aa3fea2711ad92048",
-            "airing_id": "RADS1010232500064518",
-            "id": "oGQijiSsRXuz1lrRwc0XJw",
-            "slug": "grim-reaper-gutters",
-            "views": 717282,
+            "modified": 1777392997,
+            "media_id": "892eda6ad2a3a7470643618cd68c24348250cb1e",
+            "airing_id": "RADS1010232500064512",
+            "id": "oSaQgzHMTsehZYcXgB8Z3A",
+            "slug": "hand-banana",
+            "views": 837496,
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/1_202241711550-athf_064_BIM.jpg",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/1_202241710213-athf_060_air_cid-9383820.jpg",
             "created": 1402945461,
-            "title_id": "651246",
+            "title_id": "651242",
             "season_number": "4",
-            "tv_rating": "tv-ma",
+            "tv_rating": "tv-14-dlsv",
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1777387510,
-            "tags": [],
-            "rating_count": 2263,
+            "published": 1777392997,
+            "tags": [
+                "aqua teen hunger force athf episode 60 hand banana dog you tonight rape clone"
+            ],
+            "rating_count": 4815,
             "collection_title": "Aqua Teen Hunger Force",
             "disable_ads": false,
             "modified_by": "ODT Listener",
             "launch_date": 1761105600,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241711550-athf_064_BIM.jpg",
-            "cma_id": "1344727",
+            "poster": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241710213-athf_060_air_cid-9383820.jpg",
+            "cma_id": "1328539",
             "collection_slug": "aqua-teen-hunger-force",
             "collection_title_id": "340537",
             "online_exclusives": false
         },
+        {
+            "auth": true,
+            "ott_launch_date": 1445971320,
+            "auth_expiration_date": 1777435140,
+            "tms_id": "EP004662930062",
+            "rating": 8.373513,
+            "description": "Andrew W.K. guest stars in this very special episode about tragedy, courage and ultimately, redemption.",
+            "title_suggest": {
+                "input": [
+                    "Party All the Time",
+                    "All the Time",
+                    "the Time",
+                    "Time"
+                ]
+            },
+            "type": "episode",
+            "title": "Party All the Time",
+            "expiration_date": 1761710340,
+            "platforms": [
+                "web",
+                "mobile",
+                "ott"
+            ],
+            "collection_id": "tCNv3vG8S92F8kgKu9_1Vg",
+            "duration": 690.2669336,
+            "episode_number": "6",
+            "original_air_date": 1162783800,
+            "clip_order": null,
+            "auth_launch_date": 1761710400,
+            "modified": 1777392910,
+            "media_id": "ed59443ae22564dda484d1f95b02965e16ad64de",
+            "airing_id": "RADS1010232500064514",
+            "id": "RzFXvCvQQiqaPnqq6PSBVg",
+            "slug": "party-all-the-time",
+            "views": 643769,
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/1_202241710431-athf_061_BIM.jpg",
+            "created": 1402945461,
+            "title_id": "651243",
+            "season_number": "4",
+            "tv_rating": "tv-14-l",
+            "active": false,
+            "ott_expiration_date": null,
+            "blacklist": [],
+            "published": 1777392910,
+            "tags": [],
+            "rating_count": 2356,
+            "collection_title": "Aqua Teen Hunger Force",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1761105600,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241710431-athf_061_BIM.jpg",
+            "cma_id": "1332641",
+            "collection_slug": "aqua-teen-hunger-force",
+            "collection_title_id": "340537",
+            "online_exclusives": false
+        }
+    ],
+    "removed": [
         {
             "auth": true,
             "ott_launch_date": 1445971500,
@@ -115,6 +175,5 @@
             "collection_title_id": "340537",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
