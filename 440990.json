@@ -1,6 +1,6 @@
 [
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1777521540,
         "tms_id": "EP002960010216",
@@ -79,7 +79,7 @@
         "modified": 1775894378,
         "slug": "200-episodes-later",
         "id": "AZVtRPA0em4-xVQSK9Xy",
-        "auth": false
+        "auth": true
     },
     {
         "auth": true,
@@ -184,7 +184,7 @@
         "cma_id": "809246"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1777521540,
         "tms_id": "EP002960010215",
