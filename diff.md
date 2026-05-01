@@ -2,8 +2,10 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 1, 2026 at 11:00:15 EDT_
+_Last Update: May 1, 2026 at 11:30:43 EDT_
 ## Video added
+No videos were added.  
+## Video removed
 ### Summary
 581268 Squidbillies: 2  
 ### 2108973
@@ -22,5 +24,3 @@ https://www.adultswim.com/videos/squidbillies/from-russia-with-stud
 seriesid=`581268` titleid=`961485` id=`OTgj7tTCT02kfs-fiTf1NQ` mediaid=`cdf1c54fbd157d803fde6646165275b0dd161cc3`  
 _Sheriff almost makes the biggest mistake of his life, then does._  
 <a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141054324-squidbillies_606_dup-20120824.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141054324-squidbillies_606_dup-20120824.jpg" height="144px" /></a>
-## Video removed
-No videos were removed.  
