@@ -1,7 +1,6 @@
 {
-    "updated": 1777645813,
-    "added": [],
-    "removed": [
+    "updated": 1777647615,
+    "added": [
         {
             "auth": false,
             "ott_launch_date": 1513610940,
@@ -29,7 +28,7 @@
             "auth_launch_date": 1721448000,
             "clip_order": null,
             "media_id": "abff57ea27f88bba593397f84f00506d990155d9",
-            "modified": 1755356189,
+            "modified": 1777645793,
             "airing_id": "RADS1008162500053163",
             "id": "AWBeBf2PwdpKFAKSb4_8",
             "slug": "dewey-two-ey",
@@ -41,7 +40,7 @@
             "season_number": "11",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1755356189,
+            "published": 1777645793,
             "tags": [],
             "collection_title": "Squidbillies",
             "modified_by": "ODT Listener",
@@ -80,7 +79,7 @@
             "original_air_date": 1346040900,
             "clip_order": null,
             "auth_launch_date": 1685160000,
-            "modified": 1755355586,
+            "modified": 1777645789,
             "media_id": "cdf1c54fbd157d803fde6646165275b0dd161cc3",
             "airing_id": "RADS1008162500053162",
             "id": "OTgj7tTCT02kfs-fiTf1NQ",
@@ -95,7 +94,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1755355586,
+            "published": 1777645789,
             "tags": [],
             "rating_count": 827,
             "collection_title": "Squidbillies",
@@ -107,65 +106,7 @@
             "collection_slug": "squidbillies",
             "collection_title_id": "581268",
             "online_exclusives": false
-        },
-        {
-            "auth": false,
-            "ott_launch_date": 1447443780,
-            "auth_expiration_date": 1693540740,
-            "tms_id": "EP007008180039",
-            "rating": 7.6456556,
-            "description": "A pointless and moronic tale of the dangers of going green.",
-            "title_suggest": {
-                "input": [
-                    "Mud Days and Cornfused",
-                    "Days and Cornfused",
-                    "and Cornfused",
-                    "Cornfused"
-                ]
-            },
-            "type": "episode",
-            "title": "Mud Days and Cornfused",
-            "expiration_date": 1777694340,
-            "platforms": [
-                "web",
-                "mobile",
-                "ott"
-            ],
-            "collection_id": "7RvtaeAjRF6oihhda48FjQ",
-            "duration": 683,
-            "episode_number": "19",
-            "original_air_date": 1212380100,
-            "clip_order": null,
-            "auth_launch_date": 1680926400,
-            "modified": 1755356185,
-            "media_id": "96ed4a5c1ce41551648794a6117132183f14a83d",
-            "airing_id": "RADS1008162500053161",
-            "id": "lK1PsMp_SGahCekf3h8lvw",
-            "slug": "mud-days-and-cornfused",
-            "views": 417004,
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/1_20413121500-squidbillies_038_bim.jpg",
-            "created": 1402945477,
-            "title_id": "719989",
-            "season_number": "3",
-            "tv_rating": "tv-14-lv",
-            "active": false,
-            "ott_expiration_date": null,
-            "blacklist": [],
-            "published": 1755356185,
-            "tags": [
-                "squidbillies episode 38 mud days and cornfused maze tarp monsters"
-            ],
-            "rating_count": 2046,
-            "collection_title": "Squidbillies",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1755403200,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413121500-squidbillies_038_bim.jpg",
-            "cma_id": "1477015",
-            "collection_slug": "squidbillies",
-            "collection_title_id": "581268",
-            "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
