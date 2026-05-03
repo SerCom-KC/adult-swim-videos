@@ -1,6 +1,58 @@
 {
-    "updated": 1777795391,
+    "updated": 1777795481,
     "added": [
+        {
+            "auth_expiration_date": 1779609540,
+            "tms_id": "",
+            "description": "The group tries to exorcize Evil Eye with a Hayashi performance. Jiji pleads not kill Evil Eye.",
+            "title_suggest": {
+                "input": [
+                    "We Became a Family",
+                    "Became a Family",
+                    "a Family",
+                    "Family"
+                ]
+            },
+            "title": "We Became a Family",
+            "expiration_date": null,
+            "type": "episode",
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
+            "collection_id": "AZhC4WShITxXrw59dM9q",
+            "duration": 1376.8755,
+            "episode_number": "6",
+            "original_air_date": "1777782600",
+            "auth_launch_date": 1777795200,
+            "clip_order": null,
+            "airing_id": "RADS1004282600099864",
+            "media_id": "0687a24cbd393069ffa079645468f983db68729d",
+            "modified": 1777418081,
+            "slug": "we-became-a-family",
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20260324/thumbnails/1_263242257226-AS_DanDaDan_S2_Thumbnail_Ep18.png",
+            "created": 1774407449,
+            "season_number": "2",
+            "title_id": "2573230",
+            "tv_rating": "",
+            "published": 1777418081,
+            "tags": [],
+            "collection_title": "DAN DA DAN",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": null,
+            "poster": "https://media.cdn.adultswim.com/uploads/20260324/thumbnails/2_263242257226-AS_DanDaDan_S2_Thumbnail_Ep18.png",
+            "id": "AZ0i7Pwf5hm4q6q--tfS",
+            "auth": true,
+            "collection_slug": "dan-da-dan",
+            "collection_title_id": "2568743",
+            "online_exclusives": false
+        }
+    ],
+    "removed": [
         {
             "auth_expiration_date": null,
             "tms_id": "",
@@ -52,58 +104,6 @@
             "poster": "https://media.cdn.adultswim.com/uploads/20260316/thumbnails/2_263162029273-AS_DanDaDan_S2_Thumbnail_Ep13.png",
             "id": "AZtSL_tMc6shItN4M7DM",
             "auth": false,
-            "collection_slug": "dan-da-dan",
-            "collection_title_id": "2568743",
-            "online_exclusives": false
-        }
-    ],
-    "removed": [
-        {
-            "auth_expiration_date": 1779609540,
-            "tms_id": "",
-            "description": "The group tries to exorcize Evil Eye with a Hayashi performance. Jiji pleads not kill Evil Eye.",
-            "title_suggest": {
-                "input": [
-                    "We Became a Family",
-                    "Became a Family",
-                    "a Family",
-                    "Family"
-                ]
-            },
-            "title": "We Became a Family",
-            "expiration_date": null,
-            "type": "episode",
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "AZhC4WShITxXrw59dM9q",
-            "duration": 1376.8755,
-            "episode_number": "6",
-            "original_air_date": "1777782600",
-            "auth_launch_date": 1777795200,
-            "clip_order": null,
-            "airing_id": "RADS1004282600099864",
-            "media_id": "0687a24cbd393069ffa079645468f983db68729d",
-            "modified": 1777418081,
-            "slug": "we-became-a-family",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20260324/thumbnails/1_263242257226-AS_DanDaDan_S2_Thumbnail_Ep18.png",
-            "created": 1774407449,
-            "season_number": "2",
-            "title_id": "2573230",
-            "tv_rating": "",
-            "published": 1777418081,
-            "tags": [],
-            "collection_title": "DAN DA DAN",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20260324/thumbnails/2_263242257226-AS_DanDaDan_S2_Thumbnail_Ep18.png",
-            "id": "AZ0i7Pwf5hm4q6q--tfS",
-            "auth": true,
             "collection_slug": "dan-da-dan",
             "collection_title_id": "2568743",
             "online_exclusives": false
