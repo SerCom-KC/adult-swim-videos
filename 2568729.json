@@ -329,5 +329,54 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20260314/thumbnails/2_26314024312-RoosterFighter_05.png",
         "id": "AZzqltWW4fEFRoGAPbXk",
         "auth": true
+    },
+    {
+        "auth_expiration_date": 1782791940,
+        "tms_id": "",
+        "description": "Keiji finds out a brainwashed Morio is on a rampage and heads out to save him.",
+        "title_suggest": {
+            "input": [
+                "Not All Feathers Hold a Song",
+                "All Feathers Hold a Song",
+                "Feathers Hold a Song",
+                "Hold a Song",
+                "a Song",
+                "Song"
+            ]
+        },
+        "title": "Not All Feathers Hold a Song",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZzoG3x55hm4q6q--tfK",
+        "duration": 1292.7915,
+        "episode_number": "8",
+        "original_air_date": null,
+        "auth_launch_date": 1777780800,
+        "clip_order": null,
+        "airing_id": "RADS1004282600099859",
+        "media_id": "0e702d5791185165bb5d7f1f33961bcb5a94d508",
+        "modified": 1777416279,
+        "slug": "not-all-feathers-hold-a-song",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20260314/thumbnails/1_26314027343-RoosterFighter_08.png",
+        "created": 1773462360,
+        "season_number": "1",
+        "title_id": "2568737",
+        "tv_rating": "",
+        "published": 1777416279,
+        "tags": [],
+        "collection_title": "Rooster Fighter",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20260314/thumbnails/2_26314027343-RoosterFighter_08.png",
+        "id": "AZzqmBLW4fEFRoGAPbXm",
+        "auth": true
     }
 ]
