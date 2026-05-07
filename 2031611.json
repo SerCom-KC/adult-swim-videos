@@ -111,7 +111,7 @@
         "cma_id": "1215420"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1778144340,
         "tms_id": "EP012647370071",
@@ -168,7 +168,7 @@
         "cma_id": "1220895"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1783051140,
         "tms_id": "EP012647370066",
@@ -1520,61 +1520,6 @@
         "launch_date": 1589169600,
         "poster": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_1912101613110-dragonballzkai_083_air_cid-2WFVJ.jpg",
         "cma_id": "1272999"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1779958740,
-        "tms_id": "EP012647370086",
-        "description": "Goku and Gohan emerge from their training session with Super Saiyan hair and a strange sense of calm. Goku's newfound strength is out of this world, but he's not sure it will be enough to defeat Cell!",
-        "title_suggest": {
-            "input": [
-                "Training Complete! Goku Sizes Up the Competition!",
-                "Complete! Goku Sizes Up the Competition!",
-                "Goku Sizes Up the Competition!",
-                "Sizes Up the Competition!",
-                "Up the Competition!",
-                "the Competition!",
-                "Competition!"
-            ]
-        },
-        "title": "Training Complete! Goku Sizes Up the Competition!",
-        "type": "episode",
-        "expiration_date": 1592193540,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "duzujScQQRKOubvQENdNag",
-        "duration": 1318,
-        "episode_number": "84",
-        "original_air_date": 1472355000,
-        "clip_order": null,
-        "auth_launch_date": 1778144400,
-        "modified": 1777717788,
-        "media_id": "f8ca468f515112d8d401a4c786ad5b57739ac3d5",
-        "airing_id": "RADS1004302600000250",
-        "id": "s_soKnC_QnS9oGGUrV9ncw",
-        "slug": "training-complete-goku-sizes-up-the-competition",
-        "views": 4066,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/1_1912101613230-dragonballzkai_084_air_cid-2WFVN.jpg",
-        "created": 1472019023,
-        "title_id": "2031695",
-        "tv_rating": "tv-pg",
-        "season_number": "1",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1777717788,
-        "first_published": 1472019023,
-        "tags": [],
-        "collection_title": "Dragon Ball Z Kai",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1589774400,
-        "poster": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_1912101613230-dragonballzkai_084_air_cid-2WFVN.jpg",
-        "cma_id": "1276827"
     },
     {
         "auth": true,
