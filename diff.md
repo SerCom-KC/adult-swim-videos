@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 8, 2026 at 15:30:14 EDT_
+_Last Update: May 8, 2026 at 16:00:43 EDT_
 ## Video added
 ### Summary
 581268 Squidbillies: 1  
-### 2006881
-**Squidbillies S08E01 - Granite Caverns**  
-TV-MA 🔓 11:07  
+### 2108975
+**Squidbillies S12E01 - Forever Autumn**  
+TV-14-DLV 🔓 11:10  
 ⌛ May 8, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/granite-caverns  
-seriesid=`581268` titleid=`2006881` id=`bg7xJat4SbWJbYuO2oDVfw` mediaid=`498f04fe066d2f30662e389266bdf714cbf5c985`  
-_Early becomes king of a local cave._  
-<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141057287-squidbillies_701_dup-20130808.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141057287-squidbillies_701_dup-20130808.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/squidbillies/forever-autumn  
+seriesid=`581268` titleid=`2108975` id=`AWxx0Cuq4aLemgzOLGIh` mediaid=`f407fd33252996fc291bc389fab5823298b237b6`  
+_Dan Halen's foolish new plan prompts Early to open a foolish new business._  
+<a href="https://media.cdn.adultswim.com/uploads/20190808/thumbnails/2_19881119139-squidbillies_1001_dup-20190807.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190808/thumbnails/2_19881119139-squidbillies_1001_dup-20190807.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
