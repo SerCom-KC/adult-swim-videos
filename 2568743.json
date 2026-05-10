@@ -44,7 +44,7 @@
         "launch_date": 1778400060,
         "poster": "https://media.cdn.adultswim.com/uploads/20260324/thumbnails/2_263242255314-AS_DanDaDan_S2_Thumbnail_Ep16.png",
         "id": "AZ0i62oM4fEFRoGAPbex",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1777795140,
@@ -189,52 +189,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20260324/thumbnails/2_263242257226-AS_DanDaDan_S2_Thumbnail_Ep18.png",
         "id": "AZ0i7Pwf5hm4q6q--tfS",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1780214340,
-        "tms_id": "",
-        "description": "Seiko teaches Jiji how to hold back the Evil Eye, but he struggles with keeping him at bay.",
-        "title_suggest": {
-            "input": [
-                "Feeling Kinda Gloomy",
-                "Kinda Gloomy",
-                "Gloomy"
-            ]
-        },
-        "title": "Feeling Kinda Gloomy",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AZhC4WShITxXrw59dM9q",
-        "duration": 1382.648,
-        "episode_number": "7",
-        "original_air_date": null,
-        "auth_launch_date": 1778400000,
-        "clip_order": null,
-        "airing_id": "RADS1005042600000663",
-        "media_id": "11224bdf36f762ecba175e0d221ba4e283f55adc",
-        "modified": 1777989570,
-        "slug": "feeling-kinda-gloomy",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20260324/thumbnails/1_263242257592-AS_DanDaDan_S2_Thumbnail_Ep19.png",
-        "created": 1774407490,
-        "season_number": "2",
-        "title_id": "2573228",
-        "tv_rating": "",
-        "published": 1777989570,
-        "tags": [],
-        "collection_title": "DAN DA DAN",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20260324/thumbnails/2_263242257592-AS_DanDaDan_S2_Thumbnail_Ep19.png",
-        "id": "AZ0i7Zyu4fEFRoGAPbez",
         "auth": true
     },
     {
@@ -857,6 +811,6 @@
         "launch_date": 1777190520,
         "poster": "https://media.cdn.adultswim.com/uploads/20260316/thumbnails/2_26316203572-AS_DanDaDan_S2_Thumbnail_Ep14.png",
         "id": "AZz5ONDu4fEFRoGAPbZY",
-        "auth": true
+        "auth": false
     }
 ]
