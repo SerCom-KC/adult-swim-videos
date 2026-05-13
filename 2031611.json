@@ -56,7 +56,7 @@
         "cma_id": "1201284"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1783137540,
         "tms_id": "EP012647370069",
@@ -508,7 +508,7 @@
         "cma_id": "1213127"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1778662740,
         "tms_id": "EP012647370074",
@@ -726,63 +726,6 @@
         "launch_date": 1588564800,
         "poster": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_1912101612565-dragonballzkai_082_air_cid-2WFVG.jpg",
         "cma_id": "1272400"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1781081940,
-        "tms_id": "EP012647370094",
-        "description": "Android 16 tries to take the bad guy out with a bang, Cell summons his miniature minions, and a cowardly champion risks his life to deliver an important message to Gohan!",
-        "title_suggest": {
-            "input": [
-                "Tears for an Android! Gohan's Inner Rage Bursts Forth!",
-                "for an Android! Gohan's Inner Rage Bursts Forth!",
-                "an Android! Gohan's Inner Rage Bursts Forth!",
-                "Android! Gohan's Inner Rage Bursts Forth!",
-                "Gohan's Inner Rage Bursts Forth!",
-                "Inner Rage Bursts Forth!",
-                "Rage Bursts Forth!",
-                "Bursts Forth!",
-                "Forth!"
-            ]
-        },
-        "title": "Tears for an Android! Gohan's Inner Rage Bursts Forth!",
-        "type": "episode",
-        "expiration_date": 1595217540,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "duzujScQQRKOubvQENdNag",
-        "duration": 1271.1,
-        "episode_number": "92",
-        "original_air_date": 1478404800,
-        "clip_order": null,
-        "auth_launch_date": 1778662800,
-        "modified": 1778537679,
-        "media_id": "fc5a0dbcdd46130ce16a4cc2db6de9694aad59c6",
-        "airing_id": "RADS1005112600002730",
-        "id": "PVGDmyWeTge1ZL2q7BNbvA",
-        "slug": "tears-for-an-android-gohans-inner-rage-bursts-forth",
-        "views": 3847,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/1_191210161522-dragonballzkai_092_air_cid-2YGDP.jpg",
-        "created": 1478070622,
-        "title_id": "2031703",
-        "tv_rating": "tv-pg",
-        "season_number": "1",
-        "ott_expiration_date": null,
-        "active": false,
-        "blacklist": [],
-        "published": 1778537679,
-        "first_published": 1478070622,
-        "tags": [],
-        "collection_title": "Dragon Ball Z Kai",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1593403200,
-        "poster": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_191210161522-dragonballzkai_092_air_cid-2YGDP.jpg",
-        "cma_id": "1315600"
     },
     {
         "auth": true,
