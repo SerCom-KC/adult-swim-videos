@@ -1,7 +1,6 @@
 {
-    "updated": 1778779331,
-    "added": [],
-    "removed": [
+    "updated": 1778784580,
+    "added": [
         {
             "auth_expiration_date": 1716006540,
             "tms_id": "",
@@ -31,7 +30,7 @@
             "clip_order": null,
             "airing_id": "RADS1005162500036095",
             "media_id": "ad0679dbbc9b3c0d963bef30d6078695cadacf69",
-            "modified": 1747408240,
+            "modified": 1778784429,
             "slug": "camp-bucktooth-buster-tj",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20240429/thumbnails/1_24429101264-Screenshot2024-04-29at10.11.36AM.png",
@@ -39,7 +38,7 @@
             "title_id": "2506631",
             "season_number": "6",
             "tv_rating": "tv-ma-l",
-            "published": 1747408240,
+            "published": 1778784429,
             "tags": [],
             "collection_title": "Smalls",
             "disable_ads": false,
@@ -52,5 +51,6 @@
             "collection_title_id": "2326791",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
