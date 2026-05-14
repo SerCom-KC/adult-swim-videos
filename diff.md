@@ -2,17 +2,25 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 14, 2026 at 06:00:14 EDT_
+_Last Update: May 14, 2026 at 13:00:43 EDT_
 ## Video added
 ### Summary
-2031611 Dragon Ball Z Kai: 1  
-### 2031706
-**Dragon Ball Z Kai S01E95 - A Hero's Sacrifice! Last Chance to Save the World!**  
-TV-PG-LV 🔒 21:57  
-⌛ June 16, 2026 at 04:59:00 EDT  
-https://www.adultswim.com/videos/dragon-ball-z-kai/a-heros-sacrifice-last-chance-to-save-the-world  
-seriesid=`2031611` titleid=`2031706` id=`t4jd-HiVRGCj3hG33ytBng` mediaid=`b96f0d1744057f27fd1a031bcb37f5405213b742`  
-_Gohan succeeds in defeating Cell but the monster has one last trick up his sleeve, a devastating development that could destroy the world! For the sake of the future, Goku must prepare himself for the ultimate sacrifice!_  
-<a href="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_1912101615379-dragonballzkai_095_air_cid-2YH32.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_1912101615379-dragonballzkai_095_air_cid-2YH32.jpg" height="144px" /></a>
+439722 The Venture Bros.: 2  
+### 543797
+**The Venture Bros. S01E11 - Past Tense**  
+TV-14-DLS 🔓 22:35  
+⌛ May 12, 2027 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/past-tense  
+seriesid=`439722` titleid=`543797` id=`qgKt6ZBxRu-h2cGSsWHRFw` mediaid=`be48ab90be72e2841f23e782966529e4b9898eec`  
+_When Brock and Dr. Venture are kidnapped from the funeral of a college friend, the boys enlist the aid of the original Team Venture: a group of superscience adventurers who worked for their grandfather in the sixties._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161326270-venture_112.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161326270-venture_112.jpg" height="144px" /></a>
+### 543791
+**The Venture Bros. S01E10 - Tag Sale, You're It!**  
+TV-14-LV 🔓 22:24  
+⌛ May 12, 2027 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/tag-sale-youre-it  
+seriesid=`439722` titleid=`543791` id=`hqCo9uFTTtOqQfid9qALqg` mediaid=`7be10be02bc7c732eee6384db70c2504fa5fe13e`  
+_Always short on cash, Dr. Venture decides to unload some of his father's old scientific equipment in a huge yard sale that attracts fellow scientists and super-villains alike. Everyone is supposed to be on their best behavior, but The Monarch can't resist the temptation to wreak havoc once he finds himself inside the "belly of the beast"... nor can he find a bathroom._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116132626-venture_106.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116132626-venture_106.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
