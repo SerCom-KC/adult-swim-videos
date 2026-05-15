@@ -1,20 +1,18 @@
 {
-    "updated": 1778857464,
+    "updated": 1778859877,
     "added": [
         {
-            "auth_expiration_date": 1778903940,
-            "tms_id": "",
-            "description": "Lois wants to interview Superman for The Daily Planet, and Clark must figure out how to help her while protecting his identity! The criminal ring INTERGANG gets their hands on weapons, and a mysterious organization plots in the shadows...",
+            "ott_launch_date": null,
+            "auth_expiration_date": 1722657540,
+            "tms_id": "EP007008180119",
+            "description": "Granny finds love and Early loses his mind.",
             "title_suggest": {
                 "input": [
-                    "My Interview With Superman",
-                    "Interview With Superman",
-                    "With Superman",
-                    "Superman"
+                    "Galvin"
                 ]
             },
-            "title": "My Interview With Superman",
-            "expiration_date": 1769835540,
+            "title": "Galvin",
+            "expiration_date": 1778903940,
             "type": "episode",
             "platforms": [
                 "android",
@@ -22,35 +20,39 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "AYj-tDmq2rZC6NyF6196",
-            "duration": 1358.9576,
-            "episode_number": "3",
-            "original_air_date": "1689307200",
-            "auth_launch_date": 1769835600,
+            "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+            "duration": 679.44,
+            "episode_number": "2",
+            "original_air_date": 1565583300,
+            "auth_launch_date": 1722052800,
             "clip_order": null,
-            "airing_id": "RADS1001262600082660",
-            "media_id": "91527843fc3d998db6fdc977057bcef972e5e291",
-            "modified": 1778857170,
-            "slug": "my-interview-with-superman",
+            "media_id": "4bfb6a6e495ff32942111bec629dcfbf0c202de2",
+            "modified": 1778859856,
+            "airing_id": "RADS1008302500055747",
+            "slug": "galvin",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20230727/thumbnails/1_23727113659-MAWS103.png",
-            "created": 1688573351,
-            "season_number": "1",
-            "title_id": "2288457",
-            "tv_rating": "tv-pg",
-            "published": 1778857170,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20190808/thumbnails/1_19881119372-squidbillies_1003_dup-20190807.jpg",
+            "created": 1565277583,
+            "season_number": "12",
+            "title_id": "2199304",
+            "tv_rating": "tv-14-dlv",
+            "blacklist": [],
+            "ott_expiration_date": null,
+            "published": 1778859856,
             "tags": [],
-            "collection_title": "My Adventures with Superman",
+            "collection_title": "Squidbillies",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1766811600,
-            "poster": "https://media.cdn.adultswim.com/uploads/20230727/thumbnails/2_23727113659-MAWS103.png",
-            "id": "AYkm0JS1Oz5CkuTcnwIp",
-            "auth": true,
-            "collection_slug": "my-adventures-with-superman",
-            "collection_title_id": "2288454",
+            "launch_date": 1756612800,
+            "poster": "https://media.cdn.adultswim.com/uploads/20190808/thumbnails/2_19881119372-squidbillies_1003_dup-20190807.jpg",
+            "id": "AWxx0HdoCorLtcgfltfk",
+            "auth": false,
+            "collection_slug": "squidbillies",
+            "collection_title_id": "581268",
             "online_exclusives": false
-        },
+        }
+    ],
+    "removed": [
         {
             "auth": false,
             "ott_launch_date": 1447446000,
@@ -161,6 +163,5 @@
             "collection_title_id": "581268",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
