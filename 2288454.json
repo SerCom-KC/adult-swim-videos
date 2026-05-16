@@ -138,7 +138,7 @@
         "launch_date": 1778904000,
         "poster": "https://media.cdn.adultswim.com/uploads/20240603/thumbnails/2_24631322399-AS_MAWS_203_FullMetalScientist-4.jpg",
         "id": "AY-_sh-2C2cKYm1ap_4c",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1778903999,
@@ -184,6 +184,53 @@
         "launch_date": 1778904000,
         "poster": "https://media.cdn.adultswim.com/uploads/20240610/thumbnails/2_246101350166-AS_MAWS_204_TwoLanesDiverged-3.jpg",
         "id": "AY_euT89C2cKYm1ap_-Z",
+        "auth": false
+    },
+    {
+        "auth_expiration_date": 1782532740,
+        "tms_id": "",
+        "description": "Lois wants to interview Superman for The Daily Planet, and Clark must figure out how to help her while protecting his identity! The criminal ring INTERGANG gets their hands on weapons, and a mysterious organization plots in the shadows...",
+        "title_suggest": {
+            "input": [
+                "My Interview With Superman",
+                "Interview With Superman",
+                "With Superman",
+                "Superman"
+            ]
+        },
+        "title": "My Interview With Superman",
+        "expiration_date": 1769835540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AYj-tDmq2rZC6NyF6196",
+        "duration": 1358.9576,
+        "episode_number": "3",
+        "original_air_date": "1689307200",
+        "auth_launch_date": 1778904000,
+        "clip_order": null,
+        "airing_id": "RADS1005152600003050",
+        "media_id": "91527843fc3d998db6fdc977057bcef972e5e291",
+        "modified": 1778864495,
+        "slug": "my-interview-with-superman",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230727/thumbnails/1_23727113659-MAWS103.png",
+        "created": 1688573351,
+        "season_number": "1",
+        "title_id": "2288457",
+        "tv_rating": "tv-pg",
+        "published": 1778864495,
+        "tags": [],
+        "collection_title": "My Adventures with Superman",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1766811600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230727/thumbnails/2_23727113659-MAWS103.png",
+        "id": "AYkm0JS1Oz5CkuTcnwIp",
         "auth": true
     },
     {
@@ -709,7 +756,7 @@
         "launch_date": 1775880000,
         "poster": "https://media.cdn.adultswim.com/uploads/20240617/thumbnails/2_24617742514-AS_MAWS_208_TheDeathofClarkKent-2.jpg",
         "id": "AZAmAdq_g6zBH7G86tgV",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1780718340,
@@ -756,7 +803,7 @@
         "launch_date": 1776484800,
         "poster": "https://media.cdn.adultswim.com/uploads/20240617/thumbnails/2_24617743243-AS_MAWS_209_PierceTheHeavensSuperman-2.jpg",
         "id": "AZAmAlskSaru9Cdsy62s",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1777089540,
