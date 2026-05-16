@@ -2,26 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 15, 2026 at 16:00:14 EDT_
+_Last Update: May 16, 2026 at 00:00:25 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-340537 Aqua Teen Hunger Force: 1  
-343621 Samurai Jack: 1  
-### 2438768
-**Aqua Teen Hunger Force S14E01 - Shaketopia**  
-TV-MA 🔓 11:14  
-⌛ May 21, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/aqua-teen-hunger-force/shaketopia  
-seriesid=`340537` titleid=`2438768` id=`AYv5v3Ft1E7YmWrdXLk6` mediaid=`ff1901438e259eaf81a3e500dc0b0977c6eed6cb`  
-_In a virtual world of endless possibilities, Shake plays video games and fights with Meatwad._  
-<a href="https://media.cdn.adultswim.com/uploads/20231127/thumbnails/2_231127125209-Screenshot2023-11-27at12.50.54PM.png"><img src="https://media.cdn.adultswim.com/uploads/20231127/thumbnails/2_231127125209-Screenshot2023-11-27at12.50.54PM.png" height="144px" /></a>
-### 2115093
-**Samurai Jack S05E02 - XCIII**  
-TV-14-V 🔓 22:31  
-⌛ May 21, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/samurai-jack/xciii  
-seriesid=`343621` titleid=`2115093` id=`zYGkjwh1TqKsfGGMfBMOUA` mediaid=`059504dc90e4b082cf4d820eb168a95ffa2a192b`  
-_Jack's will to survive is pushed to its absolute limits after a deadly, unseen foe launches a relentless surprise attack._  
-<a href="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471429140-samjack_093_dup-20170125.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471429140-samjack_093_dup-20170125.jpg" height="144px" /></a>
+2288454 My Adventures with Superman: 1  
+### 2288457
+**My Adventures with Superman S01E03 - My Interview With Superman**  
+TV-PG 🔒 22:38  
+⌛ June 26, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/my-adventures-with-superman/my-interview-with-superman  
+seriesid=`2288454` titleid=`2288457` id=`AYkm0JS1Oz5CkuTcnwIp` mediaid=`91527843fc3d998db6fdc977057bcef972e5e291`  
+_Lois wants to interview Superman for The Daily Planet, and Clark must figure out how to help her while protecting his identity! The criminal ring INTERGANG gets their hands on weapons, and a mysterious organization plots in the shadows..._  
+<a href="https://media.cdn.adultswim.com/uploads/20230727/thumbnails/2_23727113659-MAWS103.png"><img src="https://media.cdn.adultswim.com/uploads/20230727/thumbnails/2_23727113659-MAWS103.png" height="144px" /></a>
+## Video removed
+No videos were removed.  
