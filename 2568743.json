@@ -93,7 +93,7 @@
         "launch_date": 1777795200,
         "poster": "https://media.cdn.adultswim.com/uploads/20260324/thumbnails/2_263242254388-AS_DanDaDan_S2_Thumbnail_Ep15.png",
         "id": "AZ0i6oCo5hm4q6q--tfR",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1779004740,
@@ -142,7 +142,7 @@
         "launch_date": 1779004800,
         "poster": "https://media.cdn.adultswim.com/uploads/20260324/thumbnails/2_263242256361-AS_DanDaDan_S2_Thumbnail_Ep17.png",
         "id": "AZ0i7Gea4fEFRoGAPbey",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1779609540,
@@ -235,6 +235,54 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20260324/thumbnails/2_263242257592-AS_DanDaDan_S2_Thumbnail_Ep19.png",
         "id": "AZ0i7Zyu4fEFRoGAPbez",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1780819140,
+        "tms_id": "",
+        "description": "Okarun and Aira end up fighting against classical composers lurking in the school music room.",
+        "title_suggest": {
+            "input": [
+                "You Can Do It, Okarun!",
+                "Can Do It, Okarun!",
+                "Do It, Okarun!",
+                "It, Okarun!",
+                "Okarun!"
+            ]
+        },
+        "title": "You Can Do It, Okarun!",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZhC4WShITxXrw59dM9q",
+        "duration": 1365.364,
+        "episode_number": "8",
+        "original_air_date": null,
+        "auth_launch_date": 1779004800,
+        "clip_order": null,
+        "airing_id": "RADS1005112600002714",
+        "media_id": "ca1511ff94278271b43b856b91a56439a696844f",
+        "modified": 1778579082,
+        "slug": "you-can-do-it-okarun",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20260324/thumbnails/1_263242258538-AS_DanDaDan_S2_Thumbnail_Ep20.png",
+        "created": 1774407544,
+        "season_number": "2",
+        "title_id": "2573226",
+        "tv_rating": "",
+        "published": 1778579082,
+        "tags": [],
+        "collection_title": "DAN DA DAN",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20260324/thumbnails/2_263242258538-AS_DanDaDan_S2_Thumbnail_Ep20.png",
+        "id": "AZ0i7m6L4fEFRoGAPbe0",
         "auth": true
     },
     {
