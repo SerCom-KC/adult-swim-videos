@@ -47,53 +47,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1779076740,
-        "tms_id": "",
-        "description": "After a student accuses her of cheating, Tina needs to get back to school to clear her name.",
-        "title_suggest": {
-            "input": [
-                "Cheaty Cheaty Bang Bang",
-                "Cheaty Bang Bang",
-                "Bang Bang",
-                "Bang"
-            ]
-        },
-        "title": "Cheaty Cheaty Bang Bang",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "11",
-        "original_air_date": null,
-        "auth_launch_date": 1777867200,
-        "clip_order": null,
-        "airing_id": "RADS1004292600099897",
-        "media_id": "88d3eba40ddf1c994b1010110cdf84027fdd77b7",
-        "modified": 1777492771,
-        "slug": "cheaty-cheaty-bang-bang",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181149276-BobsBurgers_1311.jpg",
-        "created": 1758210738,
-        "season_number": "13",
-        "title_id": "2569576",
-        "tv_rating": "tv-pg-l",
-        "published": 1777492771,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181149276-BobsBurgers_1311.jpg",
-        "id": "AZldhsdfs_ErlMTJpQnr",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1779249540,
         "tms_id": "",
         "description": "When Louise is accused of a theft at school, Linda uses her position as school office volunteer to try and solve the case from the inside.",
@@ -476,6 +429,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_25918121070-BobsBurgers_1320.jpg",
         "id": "AZldlygHs_ErlMTJpQnv",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1780286340,
+        "tms_id": "",
+        "description": "Linda almost totally accidentally kidnaps a children's book author.",
+        "title_suggest": {
+            "input": [
+                "Mother Author Laser Pointer",
+                "Author Laser Pointer",
+                "Laser Pointer",
+                "Pointer"
+            ]
+        },
+        "title": "Mother Author Laser Pointer",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "21",
+        "original_air_date": null,
+        "auth_launch_date": 1779076800,
+        "clip_order": null,
+        "airing_id": "RADS1005132600002858",
+        "media_id": "c1de5d9cfdcad14560d6fa6bbe4eb00565106825",
+        "modified": 1778652927,
+        "slug": "mother-author-laser-pointer",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181246335-BobsBurgers_1321.jpg",
+        "created": 1758214043,
+        "season_number": "13",
+        "title_id": "2569586",
+        "tv_rating": "tv-pg-l",
+        "published": 1778652927,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181246335-BobsBurgers_1321.jpg",
+        "id": "AZlduTags_ErlMTJpQnw",
         "auth": true
     }
 ]
