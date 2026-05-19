@@ -1,14 +1,17 @@
 [
     {
-        "auth_expiration_date": 1780372740,
+        "auth_expiration_date": 1779163140,
         "tms_id": "",
-        "description": "Louise takes a class assignment -- and a few unhelpful comments by Wayne -- very personally.",
+        "description": "A man trying to row from New Zealand to Nova Scotia visits the restaurant to have a burger, and it changes everything.",
         "title_suggest": {
             "input": [
-                "Amelia"
+                "Oh Row You Didn't",
+                "Row You Didn't",
+                "You Didn't",
+                "Didn't"
             ]
         },
-        "title": "Amelia",
+        "title": "Oh Row You Didn't",
         "expiration_date": null,
         "type": "episode",
         "platforms": [
@@ -19,29 +22,29 @@
         ],
         "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
         "duration": 0,
-        "episode_number": "22",
+        "episode_number": "12",
         "original_air_date": null,
-        "auth_launch_date": 1779163200,
+        "auth_launch_date": 1777953600,
         "clip_order": null,
-        "airing_id": "RADS1005132600002865",
-        "media_id": "70cfc597c372c68049bd636230203ae398f4bedc",
-        "modified": 1778778892,
-        "slug": "amelia",
+        "airing_id": "RADS1004292600099967",
+        "media_id": "7a7eebf28ebaa6c3e362081abae54cf697e5b89d",
+        "modified": 1777541399,
+        "slug": "oh-row-you-didnt",
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_25918137268-BobsBurgers_1322.jpg",
-        "created": 1758215577,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181152552-BobsBurgers_1312.jpg",
+        "created": 1758210777,
         "season_number": "13",
-        "title_id": "2569587",
+        "title_id": "2569577",
         "tv_rating": "tv-pg-l",
-        "published": 1778778892,
+        "published": 1777541399,
         "tags": [],
         "collection_title": "Bob's Burgers",
         "disable_ads": false,
         "modified_by": "ODT Listener",
         "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_25918137268-BobsBurgers_1322.jpg",
-        "id": "AZld0KCJyEF1_1NDe6as",
-        "auth": true
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181152552-BobsBurgers_1312.jpg",
+        "id": "AZldh2OXs_ErlMTJpQns",
+        "auth": false
     },
     {
         "auth_expiration_date": 1779249540,
