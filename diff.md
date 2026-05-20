@@ -2,10 +2,8 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 20, 2026 at 11:00:14 EDT_
+_Last Update: May 20, 2026 at 12:00:14 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
 439722 The Venture Bros.: 2  
 ### 543796
@@ -24,3 +22,5 @@ https://www.adultswim.com/videos/the-venture-bros/the-trial-of-the-monarch
 seriesid=`439722` titleid=`543798` id=`Bqcj9djVREqxY54puOCcjQ` mediaid=`219b9d94a633815589c7fce734c255256ae28783`  
 _The Monarch is on trial for the one crime he may not have committed, under mysterious circumstances stemming from his bitter breakup with Dr. Girlfriend.  The boys and Dr. Orpheus are forced to testify, but only Brock is aware that something far more sinister is afoot._  
 <a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161326475-venture_113.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161326475-venture_113.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
