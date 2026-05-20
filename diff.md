@@ -2,25 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 20, 2026 at 00:30:13 EDT_
+_Last Update: May 20, 2026 at 05:30:14 EDT_
 ## Video added
 ### Summary
-322328 Space Ghost Coast to Coast: 2  
-### 322330
-**Space Ghost Coast to Coast S04E04 - Anniversary**  
-TV-PG 🔓 10:46  
-⌛ February 23, 2027 at 23:59:00 EST  
-https://www.adultswim.com/videos/space-ghost-coast-to-coast/anniversary  
-seriesid=`322328` titleid=`322330` id=`oFUdDn-rRqq3wjM-TmHlKw` mediaid=`22e16543fbb5dca5ccdf9cf6862981ab443ad23a`  
-_Space Ghost marks a "special notch in the belt that is the Space Ghost saga" with returning guests Bobcat Goldthwait and Judy Tenuda. The show also includes special appearances by villian-turned-announcer Tansut and the evil Chad Ghostal, as well as a spectacular career retrospective montage compiled by Moltar._  
-<a href="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417105349-sgc2c_9704_air_cid-9118535.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417105349-sgc2c_9704_air_cid-9118535.jpg" height="144px" /></a>
-### 322772
-**Space Ghost Coast to Coast S03E14 - Art Show**  
-TV-PG 🔓 12:06  
-⌛ January 19, 2027 at 23:59:00 EST  
-https://www.adultswim.com/videos/space-ghost-coast-to-coast/art-show  
-seriesid=`322328` titleid=`322772` id=`2rRTwZdqRre3KR65buuoew` mediaid=`0101f6d01038f397cb4b165a08e8f20f2c7df88f`  
-_Performance artist Laurie Anderson riles Space Ghost by revealing that she never watches television, then waxes conspiratorial about cyberspace. A disengaged Space Ghost invisos out, missing much of their remaining conversation. Next, Space Ghost endeavors to understand members of the performance troupe Stomp._  
-<a href="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417101335-sgc2c_9614_dst_cid-9137639.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417101335-sgc2c_9614_dst_cid-9137639.jpg" height="144px" /></a>
+2031611 Dragon Ball Z Kai: 1  
+### 2031615
+**Dragon Ball Z Kai S01E04 - Run in the Afterlife, Goku! The One Million Mile Snake Way!**  
+TV-PG-LV 🔒 21:01  
+⌛ June 24, 2026 at 04:59:00 EDT  
+https://www.adultswim.com/videos/dragon-ball-z-kai/run-in-the-afterlife-goku-the-one-million-mile-snake-way  
+seriesid=`2031611` titleid=`2031615` id=`o5xov_HfQvyaB7WP5GOJig` mediaid=`e5c206ea9bb8232d4b375a431c63ed6f17321d85`  
+_Now that he's dead, Goku must fight to survive in the afterlife, especially during his treacherous trek down Snake Way. Back on Earth, Gohan endures his own punishment as a student in the house of Piccolo!_  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684012071111.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684012071111.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
