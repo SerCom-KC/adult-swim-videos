@@ -1352,6 +1352,60 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1782293340,
+        "tms_id": "EP012647370005",
+        "description": "Piccolo tries to toughen up Gohan with some wilderness survival training, but things get hairy when the young Saiyan sees his first full moon! Meanwhile, Yajirobe summons Earth's strongest fighters to Kami's Lookout.",
+        "title_suggest": {
+            "input": [
+                "Wilderness Survival! A Moonlit Night Awakens Gohan!",
+                "Survival! A Moonlit Night Awakens Gohan!",
+                "A Moonlit Night Awakens Gohan!",
+                "Moonlit Night Awakens Gohan!",
+                "Night Awakens Gohan!",
+                "Awakens Gohan!",
+                "Gohan!"
+            ]
+        },
+        "title": "Wilderness Survival! A Moonlit Night Awakens Gohan!",
+        "type": "episode",
+        "expiration_date": 1767866340,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "duration": 1261.2266,
+        "episode_number": "5",
+        "original_air_date": 1420347600,
+        "clip_order": null,
+        "auth_launch_date": 1779269400,
+        "modified": 1778842801,
+        "airing_id": "RADS1005132600003035",
+        "media_id": "58aaae06ae5cbc89eb8331bf1e4e579dd3003952",
+        "id": "WEyvL6uOSDWSgB3hPHo2yA",
+        "slug": "wilderness-survival-a-moonlit-night-awakens-gohan",
+        "views": 643,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155684013420714.jpg",
+        "created": 1420125678,
+        "title_id": "2031616",
+        "tv_rating": "tv-pg-lv",
+        "season_number": "1",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1778842801,
+        "first_published": 1420125678,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "modified_by": "ODT Listener",
+        "launch_date": 1767261600,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684013420714.jpg",
+        "cma_id": "1044737"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1782206940,
         "tms_id": "EP012647370003",
         "description": "Despite the fury of their attacks, Goku and Piccolo are unable to land a death blow in their battle against Raditz. Gohan\u00c6s unexpected outburst manages to weaken the powerful Saiyan, but it may be too little, too late.",
@@ -1808,7 +1862,7 @@
         "cma_id": "1284673"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1783569540,
         "tms_id": "EP012647370075",
@@ -2483,7 +2537,7 @@
         "cma_id": "1326523"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1779269340,
         "tms_id": "EP012647370080",
