@@ -2,25 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 21, 2026 at 05:30:40 EDT_
+_Last Update: May 21, 2026 at 10:30:41 EDT_
 ## Video added
-### Summary
-2031611 Dragon Ball Z Kai: 2  
-### 2031618
-**Dragon Ball Z Kai S01E07 - The Battle with Ten-Times Gravity! Goku's Race Against the Clock!**  
-TV-PG-LV 🔒 21:01  
-⌛ June 30, 2026 at 04:59:00 EDT  
-https://www.adultswim.com/videos/dragon-ball-z-kai/the-battle-with-ten-times-gravity-gokus-race-against-the-clock  
-seriesid=`2031611` titleid=`2031618` id=`12R9ekxqSfCPGqo0euhgCw` mediaid=`dfdd192a09728e61b9fd588e4b0122e15fcdd908`  
-_To prove himself worthy of King Kai's training, Goku must test his mettle against a fleet-footed monkey and a powerful cricket that's big on respect. Meanwhile, in the land of the living, Gohan takes a beating from his monstrous master!_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568401949121.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568401949121.jpg" height="144px" /></a>
-### 2031617
-**Dragon Ball Z Kai S01E06 - The End of Snake Way! King Kai's Bizarre Test!**  
-TV-PG-LV 🔒 21:00  
-⌛ June 25, 2026 at 04:59:00 EDT  
-https://www.adultswim.com/videos/dragon-ball-z-kai/the-end-of-snake-way-king-kais-bizarre-test  
-seriesid=`2031611` titleid=`2031617` id=`KAknEBzaRVGdWgFWTAzIVg` mediaid=`d1c7f49c2ed5b0c955dfb93e82b25c28fe6107f0`  
-_As the deadly Saiyan invaders approach Earth, Gohan makes slow, but steady, progress under the watchful eye of Piccolo, and Goku struggles with the "gravity" of his training under King Kai._  
-<a href="https://media.cdn.adultswim.com/uploads/20240514/thumbnails/2_245141141502-Screenshot2024-05-14at11.41.15AM.png"><img src="https://media.cdn.adultswim.com/uploads/20240514/thumbnails/2_245141141502-Screenshot2024-05-14at11.41.15AM.png" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+2326791 Smalls: 1  
+### 2506630
+**Smalls S06E04 - The Quarry**  
+TV-14-L 🔓 11:14  
+⌛ May 21, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/smalls/the-quarry  
+seriesid=`2326791` titleid=`2506630` id=`AY79UCc75I1d0UhX5iFv` mediaid=`3d8269f9dfbf858313d19641ea2f2f398e6216da`  
+_Karl asks Penny on a date and puts his job on the line._  
+<a href="https://media.cdn.adultswim.com/uploads/20240429/thumbnails/2_244291013159-Screenshot2024-04-29at10.12.41AM.png"><img src="https://media.cdn.adultswim.com/uploads/20240429/thumbnails/2_244291013159-Screenshot2024-04-29at10.12.41AM.png" height="144px" /></a>
