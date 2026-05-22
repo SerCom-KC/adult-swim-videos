@@ -1,7 +1,6 @@
 {
-    "updated": 1779458413,
-    "added": [],
-    "removed": [
+    "updated": 1779460214,
+    "added": [
         {
             "auth_expiration_date": 1779508740,
             "tms_id": "",
@@ -32,9 +31,9 @@
             "original_air_date": "1689912000",
             "auth_launch_date": 1770440400,
             "clip_order": null,
-            "airing_id": "RADS1012292500076606",
+            "airing_id": "RADS1002012600084327",
             "media_id": "8b698e901f81a4c19df771bc1568d38c86718163",
-            "modified": 1769996591,
+            "modified": 1779458365,
             "slug": "lets-go-to-ivo-tower-you-say",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20230727/thumbnails/1_237271136514-MAWS104.png",
@@ -42,7 +41,7 @@
             "season_number": "1",
             "title_id": "2288458",
             "tv_rating": "tv-pg-v",
-            "published": 1769996591,
+            "published": 1779458365,
             "tags": [],
             "collection_title": "My Adventures with Superman",
             "disable_ads": false,
@@ -83,7 +82,7 @@
             "clip_order": null,
             "airing_id": "RADS1009062500056647",
             "media_id": "3d3a95635008c960268f0a1c8a6a422fb3e3ef36",
-            "modified": 1757168790,
+            "modified": 1779459284,
             "slug": "muscadine-wine",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20190815/thumbnails/1_198151032483-squidbillies_1002_dup-20190809.jpg",
@@ -93,7 +92,7 @@
             "tv_rating": "tv-14-dlv",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1757168790,
+            "published": 1779459284,
             "tags": [],
             "collection_title": "Squidbillies",
             "disable_ads": false,
@@ -102,62 +101,6 @@
             "poster": "https://media.cdn.adultswim.com/uploads/20190815/thumbnails/2_198151032483-squidbillies_1002_dup-20190809.jpg",
             "id": "AWyVpoYhCorLtcgfltq_",
             "auth": false,
-            "collection_slug": "squidbillies",
-            "collection_title_id": "581268",
-            "online_exclusives": false
-        },
-        {
-            "auth": false,
-            "ott_launch_date": 1447446060,
-            "auth_expiration_date": 1693540799,
-            "tms_id": "EP007008180080",
-            "rating": 7.4765625,
-            "description": "Rusty ducks his responsibilities as a deadbeat dad to become an amateur crime-fighter.",
-            "title_suggest": {
-                "input": [
-                    "The Inkubator Lives!",
-                    "Inkubator Lives!",
-                    "Lives!"
-                ]
-            },
-            "type": "episode",
-            "title": "The Inkubator Lives!",
-            "expiration_date": 1779508740,
-            "platforms": [
-                "web",
-                "mobile",
-                "ott"
-            ],
-            "collection_id": "7RvtaeAjRF6oihhda48FjQ",
-            "duration": 692.8757298,
-            "episode_number": "3",
-            "original_air_date": 1377490500,
-            "clip_order": null,
-            "auth_launch_date": 1685764800,
-            "modified": 1757167586,
-            "media_id": "68f55fc0c90caa9043cef39ed2b1f3867bdfc4fe",
-            "airing_id": "RADS1009062500056646",
-            "id": "FSJJDU6dSs-a7xKtQWpDCA",
-            "slug": "the-inkubator-lives",
-            "views": 43472,
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200414/thumbnails/1_204141058382-squidbillies_704_dup-20130821.jpg",
-            "created": 1402945477,
-            "title_id": "2006884",
-            "season_number": "8",
-            "tv_rating": "tv-14-dlsv",
-            "active": false,
-            "ott_expiration_date": null,
-            "blacklist": [],
-            "published": 1757167586,
-            "tags": [],
-            "rating_count": 128,
-            "collection_title": "Squidbillies",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1757217600,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141058382-squidbillies_704_dup-20130821.jpg",
-            "cma_id": "1443726",
             "collection_slug": "squidbillies",
             "collection_title_id": "581268",
             "online_exclusives": false
@@ -194,7 +137,7 @@
             "original_air_date": 1243224000,
             "clip_order": null,
             "auth_launch_date": 1681531200,
-            "modified": 1757167312,
+            "modified": 1779459284,
             "media_id": "1a474e85fb6fe49194ec96ad9446dfac6d03d8f9",
             "airing_id": "RADS1009062500056645",
             "id": "W6SP34NKRmmPkRy6X9v5nQ",
@@ -209,7 +152,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1757167312,
+            "published": 1779459284,
             "tags": [
                 "squidbilles episode 42 liar bitch boredrube book fair reading dean koontz"
             ],
@@ -224,5 +167,6 @@
             "collection_title_id": "581268",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
