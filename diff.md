@@ -2,42 +2,42 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 23, 2026 at 05:30:41 EDT_
+_Last Update: May 24, 2026 at 00:00:29 EDT_
 ## Video added
 ### Summary
-2031611 Dragon Ball Z Kai: 2  
-343621 Samurai Jack: 2  
-### 2031621
-**Dragon Ball Z Kai S01E10 - Sit Tight, Chiaotzu! Tien's Screaming Tri-Beam!**  
-TV-PG-LV 🔒 21:01  
-⌛ July 1, 2026 at 05:29:00 EDT  
-https://www.adultswim.com/videos/dragon-ball-z-kai/sit-tight-chiaotzu-tiens-screaming-tri-beam  
-seriesid=`2031611` titleid=`2031621` id=`HFzP7imTQeuFU1Hy_ir6wA` mediaid=`085af71681a6afc4ea269e8161ce1dd580401686`  
-_Krillin's furious attack wipes out the Saibamen, but the Z-Fighters are powerless against the Saiyan warlords. One by one, Earth's defenders suffer devastating injuries - or fall in battle. Goku's return is their only hope for survival._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684023934915.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684023934915.jpg" height="144px" /></a>
-### 2031622
-**Dragon Ball Z Kai S01E11 - Will Goku Make it in Time?! Three Hours Until the Battle Resumes!**  
-TV-PG-LV 🔒 21:01  
-⌛ July 2, 2026 at 04:59:00 EDT  
-https://www.adultswim.com/videos/dragon-ball-z-kai/will-goku-make-it-in-time-three-hours-until-the-battle-resumes  
-seriesid=`2031611` titleid=`2031622` id=`BX8OJl6aSF2tucPGoQsrfw` mediaid=`7035f48d230957ef6c7037e6384ab9060dcbcac6`  
-_Piccolo hatches a desperate plan to prolong the battle until Goku's arrival. When Vegeta senses an awesome source of power approaching, he orders Nappa to dispose of remaining Z-Fighters - starting with Gohan!_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568402519354.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568402519354.jpg" height="144px" /></a>
-### 343646
-**Samurai Jack S02E05 - XVIII**  
-TV-Y7-FV 🔒 22:50  
-⌛ June 7, 2027 at 23:59:00 EDT  
-https://www.adultswim.com/videos/samurai-jack/xviii  
-seriesid=`343621` titleid=`343646` id=`ojRDiZzSSoKgWkNZr2idtg` mediaid=`7e6e696de14f4c499e64494e40af3eb7c855a0e2`  
-_Jack goes from destroyed village to another looking for those responsible, only to find the destruction was commissioned by Aku._  
-<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461644231-samjack_018.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461644231-samjack_018.jpg" height="144px" /></a>
-### 343647
-**Samurai Jack S02E07 - XX**  
-TV-Y7-FV 🔒 22:24  
-⌛ June 21, 2027 at 23:59:00 EDT  
-https://www.adultswim.com/videos/samurai-jack/xx  
-seriesid=`343621` titleid=`343647` id=`UDlA2mnASNWNGu13NCSxVw` mediaid=`5dfd0da3ae0fe436ba9a0f9a96e338f9304328a8`  
-_Jack travels vertically up a mountain with three monks to witness the magic of the mountain only to have the power of the mountain save his very life._  
-<a href="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046164540-samjack_020.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_2046164540-samjack_020.jpg" height="144px" /></a>
+581006 American Dad: 2  
+### 2392753
+**American Dad S18E01 - Fellow Traveler**  
+TV-14-DLV 🔒 21:03  
+⌛ May 30, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/fellow-traveler  
+seriesid=`581006` titleid=`2392753` id=`AYkmxydxOz5CkuTcnwIj` mediaid=`e73bd9ae64fb0eee40b3446b2c02d66f3af6b73e`  
+_A lunar misstep sends Roger on an unexpected detour to New Mexico._  
+<a href="https://media.cdn.adultswim.com/uploads/20240122/thumbnails/2_241221137525-Screenshot2024-01-22at11.36.47AM.png"><img src="https://media.cdn.adultswim.com/uploads/20240122/thumbnails/2_241221137525-Screenshot2024-01-22at11.36.47AM.png" height="144px" /></a>
+### 2392752
+**American Dad S18E02 - The Professor and the Coach**  
+TV-14-DLSV 🔒 21:03  
+⌛ May 30, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/the-professor-and-the-coach  
+seriesid=`581006` titleid=`2392752` id=`AYkm0mIaOz5CkuTcnwIr` mediaid=`abeff3305989b8175405e31b49c1992401f1bbb2`  
+_Hayley tries to help Roger write a book._  
+<a href="https://media.cdn.adultswim.com/uploads/20240122/thumbnails/2_24122113887-Screenshot2024-01-22at11.36.23AM.png"><img src="https://media.cdn.adultswim.com/uploads/20240122/thumbnails/2_24122113887-Screenshot2024-01-22at11.36.23AM.png" height="144px" /></a>
 ## Video removed
-No videos were removed.  
+### Summary
+581006 American Dad: 2  
+### 2342099
+**American Dad S17E11 - The Three Fs**  
+TV-14-DLS 🔒 21:03  
+⌛ May 23, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/the-three-fs  
+seriesid=`581006` titleid=`2342099` id=`AYX1GmGJ4k01GlbfzrYS` mediaid=`dfa766adbbdd9fa43bd104856709b133ffced488`  
+_Francine's newfound friendship with a frog brings excitement to the whole Smith household. Unfortunately, it drives their neighbor, Greg, crazy._  
+<a href="https://media.cdn.adultswim.com/uploads/20230215/thumbnails/2_232151549298-ThreeFstiny.png"><img src="https://media.cdn.adultswim.com/uploads/20230215/thumbnails/2_232151549298-ThreeFstiny.png" height="144px" /></a>
+### 2342100
+**American Dad S17E12 - Smooshed: A Love Story**  
+TV-14-DLSV 🔒 21:03  
+⌛ May 23, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/smooshed-a-love-story  
+seriesid=`581006` titleid=`2342100` id=`AYX1Hhvo4k01GlbfzrYT` mediaid=`a04fc69fbaadcceaee8b7f6e5ae9ff895a821f0f`  
+_Steve goes on a class trip to Philadelphia, where he hopes to fall in love._  
+<a href="https://media.cdn.adultswim.com/uploads/20230215/thumbnails/2_232151549538-Smooshedtiny.png"><img src="https://media.cdn.adultswim.com/uploads/20230215/thumbnails/2_232151549538-Smooshedtiny.png" height="144px" /></a>
