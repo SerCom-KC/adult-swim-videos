@@ -7356,6 +7356,53 @@
         "auth": true
     },
     {
+        "auth_expiration_date": null,
+        "tms_id": "",
+        "description": "Rick's been lonely, broh. Morty's worried bout side pieces.",
+        "title_suggest": {
+            "input": [
+                "There's Something About Morty",
+                "Something About Morty",
+                "About Morty",
+                "Morty"
+            ]
+        },
+        "title": "There's Something About Morty",
+        "expiration_date": 1787716740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 1330.2622,
+        "episode_number": "1",
+        "original_air_date": "1779678000",
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1005232600004290",
+        "media_id": "e0b3de422f58b0d77a3a377add639089d844812b",
+        "modified": 1779559187,
+        "slug": "theres-something-about-morty",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20260522/thumbnails/1_265221714555-RAM_S9_01_902_TheresSomethingAboutMorty-Preferred.png",
+        "created": 1779484523,
+        "season_number": "9",
+        "title_id": "2586554",
+        "tv_rating": "tv-14-dlv",
+        "published": 1779559187,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1779678000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20260522/thumbnails/2_265221714555-RAM_S9_01_902_TheresSomethingAboutMorty-Preferred.png",
+        "id": "AZ5Riv0_S4HfauEvf2F8",
+        "auth": false
+    },
+    {
         "auth_expiration_date": 1780545540,
         "tms_id": "",
         "description": "Rick left the kids in a matrix. Not chill, broh.",
