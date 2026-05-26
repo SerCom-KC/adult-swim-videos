@@ -1009,7 +1009,7 @@
         "cma_id": "1296690"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1783655940,
         "tms_id": "EP012647370077",
@@ -1233,7 +1233,7 @@
         "cma_id": "1315600"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1779787740,
         "tms_id": "EP012647370083",
@@ -2031,6 +2031,61 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1783416540,
+        "tms_id": "EP012647370013",
+        "description": "The stage is set for a final showdown between Vegeta and Goku. The Saiyan Prince is stronger, faster, and far more ruthless. Goku's only hope for victory is a technique that may very well destroy him!",
+        "title_suggest": {
+            "input": [
+                "The Power of the Kaio-Ken! Goku vs. Vegeta!",
+                "Power of the Kaio-Ken! Goku vs. Vegeta!",
+                "of the Kaio-Ken! Goku vs. Vegeta!",
+                "the Kaio-Ken! Goku vs. Vegeta!",
+                "Kaio-Ken! Goku vs. Vegeta!",
+                "Goku vs. Vegeta!",
+                "vs. Vegeta!",
+                "Vegeta!"
+            ]
+        },
+        "title": "The Power of the Kaio-Ken! Goku vs. Vegeta!",
+        "type": "episode",
+        "expiration_date": 1768989540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "duration": 1261.1932,
+        "episode_number": "13",
+        "original_air_date": 1425186000,
+        "clip_order": null,
+        "auth_launch_date": 1779787800,
+        "modified": 1779361185,
+        "airing_id": "RADS1005212600003824",
+        "media_id": "db113377f83b67231bbb7c846ef97211a5339e94",
+        "id": "i8UIcHbkTcePC_8aU0wfbw",
+        "slug": "the-power-of-the-kaio-ken-goku-vs-vegeta",
+        "views": 1215,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155684031425316.jpg",
+        "created": 1425133257,
+        "title_id": "2031624",
+        "tv_rating": "tv-pg-lv",
+        "season_number": "1",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1779361185,
+        "first_published": 1425133257,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "modified_by": "ODT Listener",
+        "launch_date": 1768384800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684031425316.jpg",
+        "cma_id": "1059245"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1780390740,
         "tms_id": "EP012647370087",
         "description": "The army launches an all-out attack on Cell, but the puny Earthlings prove to be no match for the monster. In the aftermath of battle, Goku hatches a plan to revive the magic Dragon Balls!",
@@ -2308,7 +2363,7 @@
         "cma_id": "1235569"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1783742340,
         "tms_id": "EP012647370078",
@@ -2875,6 +2930,58 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1783414740,
+        "tms_id": "EP012647370012",
+        "description": "Goku arrives in time to save Gohan and Krillin, and the resurrected warrior is eager to put the hurt on Nappa. When it becomes clear that Goku is no ordinary fighter, Prince Vegeta steps in to finish the fight himself!",
+        "title_suggest": {
+            "input": [
+                "Farewell, Piccolo! Goku's Furious Counterattack!",
+                "Piccolo! Goku's Furious Counterattack!",
+                "Goku's Furious Counterattack!",
+                "Furious Counterattack!",
+                "Counterattack!"
+            ]
+        },
+        "title": "Farewell, Piccolo! Goku's Furious Counterattack!",
+        "type": "episode",
+        "expiration_date": 1768904940,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "duration": 1261.2266,
+        "episode_number": "12",
+        "original_air_date": 1424581200,
+        "clip_order": null,
+        "auth_launch_date": 1779786000,
+        "modified": 1779360265,
+        "airing_id": "RADS1005212600003822",
+        "media_id": "6db020f71824e3ed8f9fe9980f27fe2f78244913",
+        "id": "uLzXr3tBTX-j8zRgJv0f2g",
+        "slug": "farewell-piccolo-gokus-furious-counterattack",
+        "views": 1029,
+        "exclude_from_search": false,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-155684027363420.jpg",
+        "created": 1424244023,
+        "title_id": "2031623",
+        "tv_rating": "tv-pg-lv",
+        "season_number": "1",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1779360265,
+        "first_published": 1424244023,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "modified_by": "ODT Listener",
+        "launch_date": 1768300200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684027363420.jpg",
+        "cma_id": "1055926"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1781168340,
         "tms_id": "EP012647370096",
         "description": "Cell reveals the full force of his true power, but Gohan refuses to flinch in the face of danger. As the momentum swings to the Saiyan side, Goku calls for his son to deliver the final blow!",
@@ -3319,7 +3426,7 @@
         "cma_id": "1206916"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1779785940,
         "tms_id": "EP012647370082",
