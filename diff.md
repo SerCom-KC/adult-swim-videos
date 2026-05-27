@@ -2,25 +2,25 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 27, 2026 at 05:30:40 EDT_
+_Last Update: May 27, 2026 at 11:30:13 EDT_
 ## Video added
-### Summary
-2031611 Dragon Ball Z Kai: 2  
-### 2031625
-**Dragon Ball Z Kai S01E14 - An All-Out Kamehame-Ha! Vegeta's Terrible Transformation!**  
-TV-PG-LV 🔒 21:01  
-⌛ July 8, 2026 at 04:59:00 EDT  
-https://www.adultswim.com/videos/dragon-ball-z-kai/an-all-out-kamehame-ha-vegetas-terrible-transformation  
-seriesid=`2031611` titleid=`2031625` id=`SwBpoD5_SYe2OreP3_bZow` mediaid=`bdb4193dfcea4e7f6e09024b83da8e564bb2b70b`  
-_Vegeta can't handle the fury of Goku's triple Kaio-Ken technique, so the Saiyan warlord unleashes his inner ape. Weakened by his furious onslaught, Goku's only hope to defeat the beast is the mighty Spirit Bomb!_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568403563449.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568403563449.jpg" height="144px" /></a>
-### 2031626
-**Dragon Ball Z Kai S01E15 - Goku on the Ropes! Pin Your Hopes on the Spirit Bomb!**  
-TV-PG-LV 🔒 21:00  
-⌛ July 8, 2026 at 05:29:00 EDT  
-https://www.adultswim.com/videos/dragon-ball-z-kai/goku-on-the-ropes-pin-your-hopes-on-the-spirit-bomb  
-seriesid=`2031611` titleid=`2031626` id=`rSe1RkGgQFebyXDv0LRtXA` mediaid=`62382ebad1f78cd98593b5c0f60d891b6445bf33`  
-_As Goku lies exhausted and vulnerable on the field of battle, Gohan and Krillin take aim at Vegeta's only weakness: his tail! If they can take the ape out of the fight, they might have a chance to escape with their lives._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684033994216.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684033994216.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+439722 The Venture Bros.: 2  
+### 653786
+**The Venture Bros. S01E15 - A Very Venture Christmas**  
+TV-14-DL 🔓 11:04  
+⌛ May 27, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/a-very-venture-christmas  
+seriesid=`439722` titleid=`653786` id=`jJ1FvdNMQle9nKl8vBfgCw` mediaid=`07837bbbb6b5a71e926cf54956398443cac4cfed`  
+_Have a very merry freakin' Venture Christmas._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116144436-venture_200_AVeryVentureChristmas.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116144436-venture_200_AVeryVentureChristmas.jpg" height="144px" /></a>
+### 639420
+**The Venture Bros. S02E01 - Powerless in the Face of Death**  
+TV-MA 🔓 22:47  
+⌛ May 27, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/powerless-in-the-face-of-death  
+seriesid=`439722` titleid=`639420` id=`ur6tNya2TTizho6tQtnrIw` mediaid=`c089e3799eb25783e1d5316273dbe82623f60753`  
+_The premiere episode finds Team Venture and friends struggling to pick up the pieces of their shattered lives and move on in the wake of Hank and Dean's violent and untimely deaths. While Doc searches for his soul in the far corners of the globe, Dr. Orpheus wallows in guilt, and a mullet-less Brock repairs his beloved Charger, The Monarch plots a daring prison break with the help of his fellow supervillainous inmates._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161328520-venture_120.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161328520-venture_120.jpg" height="144px" /></a>
