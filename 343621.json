@@ -150,7 +150,7 @@
         "cma_id": "1008755"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1494268200,
         "auth_expiration_date": 1780027140,
         "tms_id": "EP004517020110",
@@ -458,7 +458,7 @@
         "cma_id": "1023589"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1495549860,
         "auth_expiration_date": 1779854399,
         "tms_id": "EP004517020112",
@@ -558,7 +558,7 @@
         "cma_id": "995692"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447366680,
         "auth_expiration_date": 1779854399,
         "tms_id": "EP004517020011",
@@ -608,7 +608,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447366620,
         "auth_expiration_date": 1779854399,
         "tms_id": "EP004517020003",
@@ -656,7 +656,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447366620,
         "auth_expiration_date": 1779854399,
         "tms_id": "EP004517020004",
@@ -703,57 +703,6 @@
         "modified_by": "ODT Listener",
         "launch_date": 1779854400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461330452-samjack_007.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447366920,
-        "auth_expiration_date": 1779854399,
-        "tms_id": "EP004517020017",
-        "description": "Jack is kidnapped and placed in a chain gang of warriors chosen to battle in front of a coliseum audience against the Dome of Doom's Champions.",
-        "title_suggest": {
-            "input": [
-                "XVI"
-            ]
-        },
-        "title": "XVI",
-        "type": "episode",
-        "expiration_date": 1811217540,
-        "platforms": [
-            "web",
-            "mobile",
-            "sync-app",
-            "ott"
-        ],
-        "collection_id": "GMP_L78VT8Cg_FwCguu21Q",
-        "duration": 1359.25,
-        "episode_number": "3",
-        "original_air_date": 1250650800,
-        "clip_order": null,
-        "auth_launch_date": 1779163200,
-        "modified": 1779530563,
-        "media_id": "4c4bf91cf4d589bae3fd2384aeed97e3b61a08af",
-        "airing_id": "RADS1005172600003386",
-        "id": "9hmaQ0LrSCe7L-Tnac1jOg",
-        "slug": "xvi",
-        "views": 4650,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/1_20461643253-samjack_016.jpg",
-        "created": 1415893456,
-        "season_number": "2",
-        "title_id": "343643",
-        "tv_rating": "tv-y7-fv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1779530563,
-        "first_published": 1415893456,
-        "tags": [],
-        "collection_title": "Samurai Jack",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1779940800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461643253-samjack_016.jpg",
         "cma_id": ""
     },
     {
@@ -807,7 +756,7 @@
         "cma_id": "1041302"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447366740,
         "auth_expiration_date": 1779854399,
         "tms_id": "EP004517020012",
@@ -957,7 +906,7 @@
         "cma_id": "1031298"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447366680,
         "auth_expiration_date": 1779854399,
         "tms_id": "EP004517020010",
@@ -1207,7 +1156,7 @@
         "cma_id": "1042698"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1489522800,
         "auth_expiration_date": 1779854399,
         "tms_id": "EP004517020103",
@@ -1257,7 +1206,7 @@
         "cma_id": "2115092"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447366440,
         "auth_expiration_date": 1779854399,
         "tms_id": "EP004517020001",
@@ -1357,7 +1306,7 @@
         "cma_id": "1032793"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447366740,
         "auth_expiration_date": 1779854399,
         "tms_id": "EP004517020026",
@@ -1507,7 +1456,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447715040,
         "auth_expiration_date": 1779854399,
         "tms_id": "EP004517020006",
@@ -1606,55 +1555,6 @@
         "launch_date": 1778212800,
         "poster": "https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471430196-samjack_096_dup-20170411.jpg",
         "cma_id": "2115096"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447367340,
-        "auth_expiration_date": 1779854399,
-        "tms_id": "EP004517020028",
-        "description": "Jack comes upon a battle where a mere 300 men are fighting a vast, unending army of robots and their evil robotic leader.",
-        "title_suggest": {
-            "input": [
-                "XXV"
-            ]
-        },
-        "title": "XXV",
-        "type": "episode",
-        "expiration_date": 1816660740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "GMP_L78VT8Cg_FwCguu21Q",
-        "duration": 1369.42,
-        "episode_number": "12",
-        "original_air_date": 1251428400,
-        "clip_order": null,
-        "auth_launch_date": 1777262400,
-        "modified": 1779546606,
-        "media_id": "5e609aa0cbbb24fb43df891db736ce5615a4062b",
-        "airing_id": "RADS1005222600004054",
-        "id": "W2xoXVN8QeOJdq0zSpUVZQ",
-        "slug": "xxv",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200407/thumbnails/1_20471148172-samjack_025.jpg",
-        "created": 1408041948,
-        "season_number": "2",
-        "title_id": "343629",
-        "tv_rating": "tv-y7-fv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1779546606,
-        "first_published": 1408041948,
-        "tags": [],
-        "collection_title": "Samurai Jack",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1779940800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471148172-samjack_025.jpg",
-        "cma_id": "984614"
     },
     {
         "auth": true,
@@ -1908,56 +1808,6 @@
     },
     {
         "auth": true,
-        "ott_launch_date": 1447367340,
-        "auth_expiration_date": 1779854399,
-        "tms_id": "EP004517020019",
-        "description": "When a band of bikes mow over Jack's sandals, he goes on a hunt for the perfect footwear.",
-        "title_suggest": {
-            "input": [
-                "XXVI"
-            ]
-        },
-        "title": "XXVI",
-        "type": "episode",
-        "expiration_date": 1817265540,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "GMP_L78VT8Cg_FwCguu21Q",
-        "duration": 1343.04,
-        "episode_number": "13",
-        "original_air_date": 1251514800,
-        "clip_order": null,
-        "auth_launch_date": 1777262400,
-        "modified": 1779567305,
-        "media_id": "fe1b8d89c97e7fb52fc74b41b43eb3fb4918ec4b",
-        "airing_id": "RADS1004222600098588",
-        "id": "ZTfcv5QeSrOzBFhEsUPumg",
-        "slug": "xxvi",
-        "views": 35,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200407/thumbnails/1_20471153172-samjack_026.jpg",
-        "created": 1407370417,
-        "season_number": "2",
-        "title_id": "343630",
-        "tv_rating": "tv-y7-fv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1779567305,
-        "first_published": 1407370417,
-        "tags": [],
-        "collection_title": "Samurai Jack",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1779940800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471153172-samjack_026.jpg",
-        "cma_id": "986976"
-    },
-    {
-        "auth": true,
         "ott_launch_date": 1447367160,
         "auth_expiration_date": 1782619140,
         "tms_id": "EP004517020034",
@@ -2157,7 +2007,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1494858600,
         "auth_expiration_date": 1779854399,
         "tms_id": "EP004517020111",
@@ -2307,7 +2157,7 @@
         "cma_id": "1012822"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447366680,
         "auth_expiration_date": 1779854399,
         "tms_id": "EP004517020008",
@@ -2357,106 +2207,7 @@
         "cma_id": ""
     },
     {
-        "auth": true,
-        "ott_launch_date": 1447367220,
-        "auth_expiration_date": 1779854399,
-        "tms_id": "EP004517020025",
-        "description": "When Jack has his sword and clothing stolen, he must give chase to a white rabbit who took them while trying to maintain his modesty.",
-        "title_suggest": {
-            "input": [
-                "XXIV"
-            ]
-        },
-        "title": "XXIV",
-        "type": "episode",
-        "expiration_date": 1816055940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "GMP_L78VT8Cg_FwCguu21Q",
-        "duration": 1342.83,
-        "episode_number": "11",
-        "original_air_date": 1251342000,
-        "clip_order": null,
-        "auth_launch_date": 1777262400,
-        "modified": 1779571042,
-        "media_id": "2488f03f25a2ee385f30b6ef1ab7449454266dec",
-        "airing_id": "RADS1005222600004052",
-        "id": "jcnK34oZSBWNH0EfMPqs1Q",
-        "slug": "xxiv",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200407/thumbnails/1_20471147259-samjack_024.jpg",
-        "created": 1447367354,
-        "season_number": "2",
-        "title_id": "343628",
-        "tv_rating": "tv-y7-fv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1779571042,
-        "first_published": 1447367354,
-        "tags": [],
-        "collection_title": "Samurai Jack",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1779940800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471147259-samjack_024.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447366860,
-        "auth_expiration_date": 1779854399,
-        "tms_id": "EP004517020016",
-        "description": "Story 1: Jack vs. the Worm. Story 2: The Metal-Eaters. Story 3: Jack, the Gargoyle, and the Fairy.",
-        "title_suggest": {
-            "input": [
-                "XV"
-            ]
-        },
-        "title": "XV",
-        "type": "episode",
-        "expiration_date": 1810612740,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "GMP_L78VT8Cg_FwCguu21Q",
-        "duration": 1360,
-        "episode_number": "2",
-        "original_air_date": 1250564400,
-        "clip_order": null,
-        "auth_launch_date": 1778558400,
-        "modified": 1779523193,
-        "media_id": "750136612ba1229697d6448f3e73a8ba95d52fc2",
-        "airing_id": "RADS1005102600002124",
-        "id": "jwKQXdyORPiFyZFEzEcBBA",
-        "slug": "xv",
-        "views": 4631,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/1_20461642466-samjack_015.jpg",
-        "created": 1415391831,
-        "season_number": "2",
-        "title_id": "343642",
-        "tv_rating": "tv-y7-fv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1779523193,
-        "first_published": 1415391831,
-        "tags": [],
-        "collection_title": "Samurai Jack",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1779940800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461642466-samjack_015.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447366620,
         "auth_expiration_date": 1779854399,
         "tms_id": "EP004517020009",
@@ -2606,7 +2357,7 @@
         "cma_id": "1025609"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447365900,
         "auth_expiration_date": 1801544340,
         "tms_id": "EP004517020005",
@@ -2706,7 +2457,7 @@
         "cma_id": "2115095"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447366440,
         "auth_expiration_date": 1779854399,
         "tms_id": "EP004517020007",
@@ -2906,7 +2657,7 @@
         "cma_id": "1046118"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447366560,
         "auth_expiration_date": 1779854399,
         "tms_id": "EP004517020002",
@@ -3101,56 +2852,6 @@
         "modified_by": "undefined undefined",
         "launch_date": 1588339800,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/samurai-jack/sjMarathonchannlel_maraThumbS05finale1080.jpg",
-        "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": 1447366860,
-        "auth_expiration_date": 1779854399,
-        "tms_id": "EP004517020015",
-        "description": "Jack comes upon a monkey-man and agrees to train his tribe in the ways of defending themselves if the monkey-man teaches him how to \"jump good\".",
-        "title_suggest": {
-            "input": [
-                "XIV"
-            ]
-        },
-        "title": "XIV",
-        "type": "episode",
-        "expiration_date": 1810007940,
-        "platforms": [
-            "web",
-            "mobile",
-            "ott"
-        ],
-        "collection_id": "GMP_L78VT8Cg_FwCguu21Q",
-        "duration": 1352.75,
-        "episode_number": "1",
-        "original_air_date": 1250478000,
-        "clip_order": null,
-        "auth_launch_date": 1777953600,
-        "modified": 1779530563,
-        "media_id": "af63b40dc737eed5bc51cb8aa6a9fce66f1a2b23",
-        "airing_id": "RADS1005042600000601",
-        "id": "ziEA79ptRl2zALxrBvKEwA",
-        "slug": "xiv",
-        "views": 5771,
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/1_20461642199-samjack_014.jpg",
-        "created": 1414685157,
-        "season_number": "2",
-        "title_id": "343644",
-        "tv_rating": "tv-y7-fv",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1779530563,
-        "first_published": 1414685157,
-        "tags": [],
-        "collection_title": "Samurai Jack",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1779940800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20200406/thumbnails/2_20461642199-samjack_014.jpg",
         "cma_id": ""
     }
 ]
