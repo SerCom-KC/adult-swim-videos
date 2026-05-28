@@ -1,7 +1,6 @@
 {
-    "updated": 1779969641,
-    "added": [],
-    "removed": [
+    "updated": 1779976813,
+    "added": [
         {
             "auth_expiration_date": 1748318340,
             "tms_id": "",
@@ -28,9 +27,9 @@
             "original_air_date": 1701060300,
             "auth_launch_date": 1738126800,
             "clip_order": null,
-            "airing_id": "RADS1001232500017147",
+            "airing_id": "RADS1005192500036283",
             "media_id": "04160c091ea1c365b4ae46f387b020be24ce150a",
-            "modified": 1748156431,
+            "modified": 1779975133,
             "slug": "a-quiet-shake",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20231127/thumbnails/1_2311271256167-Screenshot2023-11-27at12.55.23PM.png",
@@ -38,7 +37,7 @@
             "title_id": "2438769",
             "season_number": "14",
             "tv_rating": "tv-14-dlsv",
-            "published": 1748156431,
+            "published": 1779975133,
             "tags": [],
             "collection_title": "Aqua Teen Hunger Force",
             "disable_ads": false,
@@ -76,9 +75,9 @@
             "original_air_date": 1490497200,
             "clip_order": null,
             "auth_launch_date": 1773979200,
-            "modified": 1776583002,
+            "modified": 1779975134,
             "media_id": "ad2344c6be70437cbc62e5c1e91ee6ca9f355ba4",
-            "airing_id": "RADS1003132600091908",
+            "airing_id": "RADS1004172600097964",
             "id": "pQGV99-ETDeKn_54x2aIVA",
             "slug": "xciv",
             "views": 7,
@@ -91,7 +90,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1776583002,
+            "published": 1779975134,
             "first_published": 1490386271,
             "tags": [],
             "collection_title": "Samurai Jack",
@@ -104,5 +103,6 @@
             "collection_title_id": "343621",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
