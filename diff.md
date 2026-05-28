@@ -2,17 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: May 28, 2026 at 06:00:14 EDT_
+_Last Update: May 28, 2026 at 08:00:41 EDT_
 ## Video added
-### Summary
-2031611 Dragon Ball Z Kai: 1  
-### 2031628
-**Dragon Ball Z Kai S01E17 - Dawn of a Fierce Battle! The Star of Hope is Piccolo's Homeland!**  
-TV-PG-LV 🔒 21:01  
-⌛ July 14, 2026 at 04:59:00 EDT  
-https://www.adultswim.com/videos/dragon-ball-z-kai/dawn-of-a-fierce-battle-the-star-of-hope-is-piccolos-homeland  
-seriesid=`2031611` titleid=`2031628` id=`SoPuLrePQwWYrcz43TWYTA` mediaid=`a6fa6cf4f2ab20ae55a9cb0212c1c0ff727d54d4`  
-_Vegeta has been defeated, but there's no time to celebrate. The Z-Fighters must find a way to resurrect the friends who died stopping the Saiyan invasion. Fortunately for the fallen, Krillin has a plan!_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684039873810.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684039873810.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+340537 Aqua Teen Hunger Force: 1  
+343621 Samurai Jack: 1  
+### 2438769
+**Aqua Teen Hunger Force S14E02 - A Quiet Shake**  
+TV-14-DLSV 🔓 11:05  
+⌛ May 28, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/aqua-teen-hunger-force/a-quiet-shake  
+seriesid=`340537` titleid=`2438769` id=`AYv5wJxd1E7YmWrdXLk7` mediaid=`04160c091ea1c365b4ae46f387b020be24ce150a`  
+_On EARth, everyone can hear you scream._  
+<a href="https://media.cdn.adultswim.com/uploads/20231127/thumbnails/2_2311271256167-Screenshot2023-11-27at12.55.23PM.png"><img src="https://media.cdn.adultswim.com/uploads/20231127/thumbnails/2_2311271256167-Screenshot2023-11-27at12.55.23PM.png" height="144px" /></a>
+### 2115094
+**Samurai Jack S05E03 - XCIV**  
+TV-14-V 🔓 22:28  
+⌛ May 28, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/samurai-jack/xciv  
+seriesid=`343621` titleid=`2115094` id=`pQGV99-ETDeKn_54x2aIVA` mediaid=`ad2344c6be70437cbc62e5c1e91ee6ca9f355ba4`  
+_A gravely injured Samurai Jack chooses to create his own fate by going up against the deadliest foes he's ever faced, Assassins from the Cult of Aku._  
+<a href="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471429366-samjack_094_dup-20170322.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200407/thumbnails/2_20471429366-samjack_094_dup-20170322.jpg" height="144px" /></a>
