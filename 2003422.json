@@ -1,54 +1,5 @@
 [
     {
-        "auth_expiration_date": 1780459140,
-        "tms_id": "",
-        "description": "When Linda and Bob suggest the kids do chores, the family ends up in a showdown.",
-        "title_suggest": {
-            "input": [
-                "Fight at the Not Okay Chore-ral",
-                "at the Not Okay Chore-ral",
-                "the Not Okay Chore-ral",
-                "Not Okay Chore-ral",
-                "Okay Chore-ral",
-                "Chore-ral"
-            ]
-        },
-        "title": "Fight at the Not Okay Chore-ral",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "1",
-        "original_air_date": null,
-        "auth_launch_date": 1779249600,
-        "clip_order": null,
-        "airing_id": "RADS1005132600002978",
-        "media_id": "1ed91f0bdf00dea8e5fa7127359491a78661a793",
-        "modified": 1778823913,
-        "slug": "fight-at-the-not-okay-chore-ral",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181313343-BobsBurgers_1401.jpg",
-        "created": 1758215704,
-        "season_number": "14",
-        "title_id": "2569589",
-        "tv_rating": "tv-pg-l",
-        "published": 1778823913,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181313343-BobsBurgers_1401.jpg",
-        "id": "AZld0pB1yEF1_1NDe6at",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1780545540,
         "tms_id": "",
         "description": "Rudy attends an important dinner. The Belchers make an important casserole.",
@@ -469,6 +420,51 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181625174-BobsBurgers_1410.jpg",
         "id": "AZlegMluyEF1_1NDe6bN",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1781668740,
+        "tms_id": "",
+        "description": "Teddy gets stuck in an underground survival bunker, and he calls on Bob to find him and get him out.",
+        "title_suggest": {
+            "input": [
+                "Mission Impossi-Bob",
+                "Impossi-Bob"
+            ]
+        },
+        "title": "Mission Impossi-Bob",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "11",
+        "original_air_date": null,
+        "auth_launch_date": 1780459200,
+        "clip_order": null,
+        "airing_id": "RADS1005272600004921",
+        "media_id": "c4457ce83bed9e4e652904b94807d831ac315a1a",
+        "modified": 1780035285,
+        "slug": "mission-impossi-bob",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181626235-BobsBurgers_1411.jpg",
+        "created": 1758227186,
+        "season_number": "14",
+        "title_id": "2569598",
+        "tv_rating": "tv-pg-l",
+        "published": 1780035285,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181626235-BobsBurgers_1411.jpg",
+        "id": "AZlegcHRyEF1_1NDe6bO",
         "auth": true
     }
 ]
