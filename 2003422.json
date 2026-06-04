@@ -1,51 +1,5 @@
 [
     {
-        "auth_expiration_date": 1780545540,
-        "tms_id": "",
-        "description": "Rudy attends an important dinner. The Belchers make an important casserole.",
-        "title_suggest": {
-            "input": [
-                "The Amazing Rudy",
-                "Amazing Rudy",
-                "Rudy"
-            ]
-        },
-        "title": "The Amazing Rudy",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "2",
-        "original_air_date": null,
-        "auth_launch_date": 1779336000,
-        "clip_order": null,
-        "airing_id": "RADS1005152600003055",
-        "media_id": "6bb644d47f67dc92f3ae7958a7e5b02ce846a2ba",
-        "modified": 1778916586,
-        "slug": "the-amazing-rudy",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_25918149533-BobsBurgers_1402.jpg",
-        "created": 1758219010,
-        "season_number": "14",
-        "title_id": "2569604",
-        "tv_rating": "tv-pg-l",
-        "published": 1778916586,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_25918149533-BobsBurgers_1402.jpg",
-        "id": "AZleBQEQs_ErlMTJpQnx",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1780631940,
         "tms_id": "",
         "description": "Bob and Linda help Gretchen throw her sister's bachelorette party.",
@@ -465,6 +419,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181626235-BobsBurgers_1411.jpg",
         "id": "AZlegcHRyEF1_1NDe6bO",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1781755140,
+        "tms_id": "",
+        "description": "Linda and Louise stumble into a treasure-hunting adventure.",
+        "title_suggest": {
+            "input": [
+                "Jade in the Shade",
+                "in the Shade",
+                "the Shade",
+                "Shade"
+            ]
+        },
+        "title": "Jade in the Shade",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "12",
+        "original_air_date": null,
+        "auth_launch_date": 1780545600,
+        "clip_order": null,
+        "airing_id": "RADS1005282600005041",
+        "media_id": "db28f04e5aa2f8f5f4fb575163159326de2b5413",
+        "modified": 1780125293,
+        "slug": "jade-in-the-shade",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181626465-BobsBurgers_1412.jpg",
+        "created": 1758227414,
+        "season_number": "14",
+        "title_id": "2569599",
+        "tv_rating": "tv-pg-l",
+        "published": 1780125293,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181626465-BobsBurgers_1412.jpg",
+        "id": "AZlehT2eyEF1_1NDe6bP",
         "auth": true
     }
 ]
