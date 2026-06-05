@@ -2,17 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 4, 2026 at 06:00:13 EDT_
+_Last Update: June 4, 2026 at 22:30:40 EDT_
 ## Video added
-### Summary
-2031611 Dragon Ball Z Kai: 1  
-### 2031638
-**Dragon Ball Z Kai S01E27 - A Touch-and-Go Situation! Gohan, Protect the Four Star Ball!**  
-TV-PG-LV 🔒 21:55  
-⌛ July 28, 2026 at 04:59:00 EDT  
-https://www.adultswim.com/videos/dragon-ball-z-kai/a-touch-and-go-situation-gohan-protect-the-four-star-ball  
-seriesid=`2031611` titleid=`2031638` id=`54TiuzP6RJi0ZKtS0Kelkg` mediaid=`e8dd2100be27ea6a318d275eeb6a89efed565176`  
-_Intimidated by Vegeta's superior strength, Krillin reluctantly surrenders his precious Dragon Ball.  A glimmer of hope remains after Gohan secures a ball of his own - but the young warrior is headed for a beat-down courtesy of Vegeta!_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568406975037.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568406975037.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+322328 Space Ghost Coast to Coast: 1  
+340537 Aqua Teen Hunger Force: 1  
+### 322354
+**Space Ghost Coast to Coast S04E02 - Gallagher**  
+TV-PG 🔓 11:10  
+⌛ June 9, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/space-ghost-coast-to-coast/gallagher  
+seriesid=`322328` titleid=`322354` id=`Ur4HJYeFQiKNXPDuS1FIoA` mediaid=`c94aa8c8a9d45efaab75f39a4482d94e4e3d078e`  
+_Space Ghost introduces "Space Time Quiz Fun 9000" and his "contestants," comedians David Cross and Bob Odenkirk of HBO's "Mr. Show." What follows is a rapid-fire conversation in more ways than one, as Odenkirk's growing addiction to power-band blasts results in a steady volley from Space Ghost._  
+<a href="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417103344-sgc2c_9702.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417103344-sgc2c_9702.jpg" height="144px" /></a>
+### 2438770
+**Aqua Teen Hunger Force S14E03 - Scrip2 2i2le: The Ts are 2s**  
+TV-14-DLSV 🔓 11:12  
+⌛ June 4, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/aqua-teen-hunger-force/scrip-2-2-i-2-le-the-ts-are-2-s  
+seriesid=`340537` titleid=`2438770` id=`AYwXxFPon_kciGPPrDkx` mediaid=`6dd901afe00d5e03ac03fa8a452907f5dbd9a529`  
+_Chap2er 2wo of 2he Grea2es2 Mo2ion Pic2ure 2rilogy ever 2i2led._  
+<a href="https://media.cdn.adultswim.com/uploads/20231204/thumbnails/2_231241228360-Screenshot2023-12-04at12.28.03PM.png"><img src="https://media.cdn.adultswim.com/uploads/20231204/thumbnails/2_231241228360-Screenshot2023-12-04at12.28.03PM.png" height="144px" /></a>
