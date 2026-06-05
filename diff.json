@@ -1,7 +1,113 @@
 {
-    "updated": 1780679929,
-    "added": [],
-    "removed": [
+    "updated": 1780680879,
+    "added": [
+        {
+            "auth_expiration_date": 1780718340,
+            "tms_id": "",
+            "description": "When Jimmy gets kidnapped, it's up to Lois and Clark to save him - but rescuing Jimmy will lead them into danger as they deal with mad scientists, military secrets, and relationship woes!",
+            "title_suggest": {
+                "input": [
+                    "My Adventures With Mad Science",
+                    "Adventures With Mad Science",
+                    "With Mad Science",
+                    "Mad Science",
+                    "Science"
+                ]
+            },
+            "title": "My Adventures With Mad Science",
+            "type": "episode",
+            "expiration_date": 1771649940,
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
+            "collection_id": "AYj-tDmq2rZC6NyF6196",
+            "duration": 1352.718,
+            "episode_number": "6",
+            "original_air_date": 1691121600,
+            "auth_launch_date": 1771650000,
+            "clip_order": null,
+            "airing_id": "RADS1002172600087019",
+            "media_id": "3204c411f11afbfbec2782beeb3f662423e0fe0c",
+            "modified": 1780680677,
+            "slug": "my-adventures-with-mad-science",
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20230807/thumbnails/1_238782138-MAWS106.png",
+            "created": 1690781163,
+            "title_id": "2288460",
+            "season_number": "1",
+            "tv_rating": "tv-pg",
+            "published": 1780680677,
+            "tags": [],
+            "collection_title": "My Adventures with Superman",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1768626000,
+            "poster": "https://media.cdn.adultswim.com/uploads/20230807/thumbnails/2_238782138-MAWS106.png",
+            "id": "AYmqaR6COz5CkuTcnwbI",
+            "auth": true,
+            "collection_slug": "my-adventures-with-superman",
+            "collection_title_id": "2288454",
+            "online_exclusives": false
+        },
+        {
+            "auth": false,
+            "ott_launch_date": 1447446120,
+            "auth_expiration_date": 1693540799,
+            "tms_id": "EP007008180082",
+            "rating": 7.48305,
+            "description": "Deputy Sheriff Denny runs for Sheriff against Sheriff Sheriff.",
+            "title_suggest": {
+                "input": [
+                    "A Jailhouse Divided",
+                    "Jailhouse Divided",
+                    "Divided"
+                ]
+            },
+            "type": "episode",
+            "title": "A Jailhouse Divided",
+            "expiration_date": 1780718340,
+            "platforms": [
+                "web",
+                "mobile",
+                "ott"
+            ],
+            "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+            "duration": 692.9591326,
+            "episode_number": "5",
+            "original_air_date": 1379304900,
+            "clip_order": null,
+            "auth_launch_date": 1685764800,
+            "modified": 1780680679,
+            "media_id": "c670afffca70e47003940450a7253008b422de23",
+            "airing_id": "RADS1009212500059061",
+            "id": "YSfcIL5JTnihvZUmokm1wQ",
+            "slug": "a-jailhouse-divided",
+            "views": 46151,
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200414/thumbnails/1_2041411101-squidbillies_705_dup-20130912.jpg",
+            "created": 1402945477,
+            "title_id": "2006885",
+            "season_number": "8",
+            "tv_rating": "tv-14-dlsv",
+            "active": false,
+            "ott_expiration_date": null,
+            "blacklist": [],
+            "published": 1780680679,
+            "tags": [],
+            "rating_count": 118,
+            "collection_title": "Squidbillies",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1758513600,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_2041411101-squidbillies_705_dup-20130912.jpg",
+            "cma_id": "1452917",
+            "collection_slug": "squidbillies",
+            "collection_title_id": "581268",
+            "online_exclusives": false
+        },
         {
             "auth": false,
             "ott_launch_date": 1447443840,
@@ -28,7 +134,7 @@
             "original_air_date": 1244433600,
             "clip_order": null,
             "auth_launch_date": 1681531200,
-            "modified": 1780677000,
+            "modified": 1780680677,
             "media_id": "0ad473306a3ed86772c24ead5fecaf40c6ead389",
             "airing_id": "RADS1009212500059060",
             "id": "8qXyBYM5SNaECIJazg8uAA",
@@ -43,7 +149,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1780677000,
+            "published": 1780680677,
             "tags": [
                 "squidbillies episode 41 anabolic holic steroids wrestler wrestling fight mick foley drugs mountain"
             ],
@@ -57,6 +163,60 @@
             "collection_slug": "squidbillies",
             "collection_title_id": "581268",
             "online_exclusives": false
+        },
+        {
+            "ott_launch_date": null,
+            "auth_expiration_date": 1723607940,
+            "tms_id": "EP007008180121",
+            "description": "Dan Halen finds financial bankruptcy less enjoyable than moral bankruptcy.",
+            "title_suggest": {
+                "input": [
+                    "Rich Dan, Poor Dan",
+                    "Dan, Poor Dan",
+                    "Poor Dan",
+                    "Dan"
+                ]
+            },
+            "title": "Rich Dan, Poor Dan",
+            "expiration_date": 1780718340,
+            "type": "episode",
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
+            "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+            "duration": 686.21,
+            "episode_number": "5",
+            "original_air_date": 1566792900,
+            "auth_launch_date": 1723003200,
+            "clip_order": null,
+            "media_id": "6c4c5eb6f581f418429f38d5ca9d1d92989f736b",
+            "modified": 1780680678,
+            "airing_id": "RADS1009212500059062",
+            "slug": "rich-dan-poor-dan",
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20190822/thumbnails/1_19822134784-squidbillies_1005_dup-20190820.jpg",
+            "created": 1566496034,
+            "season_number": "12",
+            "title_id": "2199306",
+            "tv_rating": "tv-14-dlsv",
+            "blacklist": [],
+            "ott_expiration_date": null,
+            "published": 1780680678,
+            "tags": [],
+            "collection_title": "Squidbillies",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1758513600,
+            "poster": "https://media.cdn.adultswim.com/uploads/20190822/thumbnails/2_19822134784-squidbillies_1005_dup-20190820.jpg",
+            "id": "AWy6cI7hCorLtcgflt2f",
+            "auth": false,
+            "collection_slug": "squidbillies",
+            "collection_title_id": "581268",
+            "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
