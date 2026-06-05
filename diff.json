@@ -1,6 +1,7 @@
 {
-    "updated": 1780639242,
-    "added": [
+    "updated": 1780646427,
+    "added": [],
+    "removed": [
         {
             "auth": false,
             "ott_launch_date": 1449532140,
@@ -27,7 +28,7 @@
             "original_air_date": 911620800,
             "clip_order": null,
             "auth_launch_date": 1670302800,
-            "modified": 1780638334,
+            "modified": 1780640093,
             "airing_id": "RADS1007302500049565",
             "media_id": "c94aa8c8a9d45efaab75f39a4482d94e4e3d078e",
             "id": "Ur4HJYeFQiKNXPDuS1FIoA",
@@ -41,7 +42,7 @@
             "tv_rating": "tv-pg",
             "active": false,
             "ott_expiration_date": null,
-            "published": 1780638334,
+            "published": 1780640093,
             "tags": [
                 "space ghost coast to coast episode 35 gallagher bob odenkirk david cross mr show"
             ],
@@ -56,6 +57,5 @@
             "collection_title_id": "322328",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
