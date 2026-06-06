@@ -184,7 +184,7 @@
         "launch_date": 1778904000,
         "poster": "https://media.cdn.adultswim.com/uploads/20240610/thumbnails/2_246101350166-AS_MAWS_204_TwoLanesDiverged-3.jpg",
         "id": "AY_euT89C2cKYm1ap_-Z",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1782532740,
@@ -281,6 +281,54 @@
         "launch_date": 1767416400,
         "poster": "https://media.cdn.adultswim.com/uploads/20230727/thumbnails/2_237271136514-MAWS104.png",
         "id": "AYlzoe4E2rZC6NyF61-D",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1784347140,
+        "tms_id": "",
+        "description": "When Jimmy gets kidnapped, it's up to Lois and Clark to save him - but rescuing Jimmy will lead them into danger as they deal with mad scientists, military secrets, and relationship woes!",
+        "title_suggest": {
+            "input": [
+                "My Adventures With Mad Science",
+                "Adventures With Mad Science",
+                "With Mad Science",
+                "Mad Science",
+                "Science"
+            ]
+        },
+        "title": "My Adventures With Mad Science",
+        "type": "episode",
+        "expiration_date": 1771649940,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AYj-tDmq2rZC6NyF6196",
+        "duration": 1352.718,
+        "episode_number": "6",
+        "original_air_date": 1691121600,
+        "auth_launch_date": 1780718400,
+        "clip_order": null,
+        "airing_id": "RADS1006052600006929",
+        "media_id": "3204c411f11afbfbec2782beeb3f662423e0fe0c",
+        "modified": 1780687938,
+        "slug": "my-adventures-with-mad-science",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20230807/thumbnails/1_238782138-MAWS106.png",
+        "created": 1690781163,
+        "title_id": "2288460",
+        "season_number": "1",
+        "tv_rating": "tv-pg",
+        "published": 1780687938,
+        "tags": [],
+        "collection_title": "My Adventures with Superman",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1768626000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20230807/thumbnails/2_238782138-MAWS106.png",
+        "id": "AYmqaR6COz5CkuTcnwbI",
         "auth": true
     },
     {
@@ -516,7 +564,7 @@
         "launch_date": 1779508800,
         "poster": "https://media.cdn.adultswim.com/uploads/20240617/thumbnails/2_24617727143-AS_MAWS_205_MostEligibleSuperman-2.jpg",
         "id": "AZAEl9nXSaru9Cdsy6ws",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1779508799,
@@ -705,7 +753,7 @@
         "launch_date": 1780718400,
         "poster": "https://media.cdn.adultswim.com/uploads/20240617/thumbnails/2_24617743243-AS_MAWS_209_PierceTheHeavensSuperman-2.jpg",
         "id": "AZAmAlskSaru9Cdsy62s",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1780718340,
@@ -752,6 +800,6 @@
         "launch_date": 1780718400,
         "poster": "https://media.cdn.adultswim.com/uploads/20240617/thumbnails/2_24617743588-AS_MAWS_210_MyAdventuresWithSupergirl-1.jpg",
         "id": "AZAmAuLHg6zBH7G86tgW",
-        "auth": true
+        "auth": false
     }
 ]
