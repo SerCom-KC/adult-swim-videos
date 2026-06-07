@@ -464,6 +464,51 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1780804740,
+        "tms_id": "EP007164450450",
+        "description": "Francine becomes an overnight sensation when a famous art dealer discovers her homemade pottery.",
+        "title_suggest": {
+            "input": [
+                "Productive Panic",
+                "Panic"
+            ]
+        },
+        "title": "Productive Panic",
+        "type": "episode",
+        "expiration_date": 1773028740,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1263.4955,
+        "episode_number": "13",
+        "original_air_date": 1696474800,
+        "auth_launch_date": 1780200000,
+        "clip_order": null,
+        "airing_id": "RADS1005262600004555",
+        "media_id": "714576f43a5ce79e037723129df512d847a6f6d5",
+        "modified": 1779778778,
+        "slug": "productive-panic",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240215/thumbnails/1_242151448591-Screenshot2024-02-15at2.47.35PM.png",
+        "created": 1706202147,
+        "title_id": "2397214",
+        "season_number": "18",
+        "tv_rating": "tv-14-dl",
+        "published": 1779778778,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1772427600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240215/thumbnails/2_242151448591-Screenshot2024-02-15at2.47.35PM.png",
+        "id": "AY1BkqvBn_kciGPPrEad",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1780977540,
         "tms_id": "EP007164450453",
         "description": "Klaus house sits for the Smiths while they are away on vacation; Roger investigates the origin of powerful winds plaguing the Eastern Seaboard.",
@@ -703,6 +748,53 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1780804740,
+        "tms_id": "EP007164450451",
+        "description": "Hayley searches for a runaway Steve so they can go to a Shaggy concert.",
+        "title_suggest": {
+            "input": [
+                "Multiverse of American Dadness",
+                "of American Dadness",
+                "American Dadness",
+                "Dadness"
+            ]
+        },
+        "title": "Multiverse of American Dadness",
+        "type": "episode",
+        "expiration_date": 1773028740,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1263.1619,
+        "episode_number": "14",
+        "original_air_date": 1697079600,
+        "auth_launch_date": 1780200000,
+        "clip_order": null,
+        "airing_id": "RADS1005262600004557",
+        "media_id": "8a4b97dc374419ec45efa92fdaa9c7072efb333e",
+        "modified": 1779777896,
+        "slug": "multiverse-of-american-dadness",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20240215/thumbnails/1_242151451485-Screenshot2024-02-15at2.51.00PM.png",
+        "created": 1706203192,
+        "title_id": "2397215",
+        "season_number": "18",
+        "tv_rating": "tv-14-dlsv",
+        "published": 1779777896,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1772427600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20240215/thumbnails/2_242151451485-Screenshot2024-02-15at2.51.00PM.png",
+        "id": "AY1Bopri1E7YmWrdXLlw",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1781150340,
         "tms_id": "EP007164450456",
         "description": "In order to have a chance with a girl, Steve and Snot must track down a keg of 4Loko.",
@@ -937,104 +1029,6 @@
         "launch_date": 1773028800,
         "poster": "https://media.cdn.adultswim.com/uploads/20241105/thumbnails/2_241151116314-AmDad-S19E02-BrownLotus-1920x1080.jpg",
         "id": "AZL9HRc5J6hTPa_yiN9S",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1781409540,
-        "tms_id": "",
-        "description": "After a freak accident, Stan and Roger end up stuck together in the worst possible way. Klaus contends with an impostor.",
-        "title_suggest": {
-            "input": [
-                "I've Got a Friend in Me",
-                "Got a Friend in Me",
-                "a Friend in Me",
-                "Friend in Me",
-                "in Me",
-                "Me"
-            ]
-        },
-        "title": "I've Got a Friend in Me",
-        "expiration_date": 1773633540,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 0,
-        "episode_number": "3",
-        "original_air_date": "1731900600",
-        "auth_launch_date": 1780804800,
-        "clip_order": null,
-        "airing_id": "RADS1006012600006122",
-        "media_id": "f6c1987c084b75ceb4403367fdfc9648862f12c1",
-        "modified": 1780383574,
-        "slug": "ive-got-a-friend-in-me",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241113/thumbnails/1_2411131120122-AmDad-S19E03-FriendInMe-1920x1080.jpg",
-        "created": 1731514816,
-        "season_number": "19",
-        "title_id": "2445746",
-        "tv_rating": "tv-14-dlsv",
-        "published": 1780383574,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1773028800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20241113/thumbnails/2_2411131120122-AmDad-S19E03-FriendInMe-1920x1080.jpg",
-        "id": "AZMmU1gkJ6hTPa_yiN-Z",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1781409540,
-        "tms_id": "",
-        "description": "The family's dream of climbing Mount Everest turns into a nightmare when Stan tries to save a buck and takes them to a different, cheaper mountain.",
-        "title_suggest": {
-            "input": [
-                "Touch the Sun: A Chimborazo Adventure",
-                "the Sun: A Chimborazo Adventure",
-                "Sun: A Chimborazo Adventure",
-                "A Chimborazo Adventure",
-                "Chimborazo Adventure",
-                "Adventure"
-            ]
-        },
-        "title": "Touch the Sun: A Chimborazo Adventure",
-        "expiration_date": 1773633540,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 0,
-        "episode_number": "4",
-        "original_air_date": "1732505400",
-        "auth_launch_date": 1780804800,
-        "clip_order": null,
-        "airing_id": "RADS1006012600006124",
-        "media_id": "055953e6926d30f35dd9517f17a17bba81dda98b",
-        "modified": 1780380890,
-        "slug": "touch-the-sun-a-chimborazo-adventure",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20241119/thumbnails/1_2411191031140-AmDad-S19E03-TouchTheSun-1920x1080.jpg",
-        "created": 1732030277,
-        "season_number": "19",
-        "title_id": "2445747",
-        "tv_rating": "tv-14-dlv",
-        "published": 1780380890,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1773028800,
-        "poster": "https://media.cdn.adultswim.com/uploads/20241119/thumbnails/2_2411191031140-AmDad-S19E03-TouchTheSun-1920x1080.jpg",
-        "id": "AZNFDKk2J6hTPa_yiN_y",
         "auth": true
     }
 ]
