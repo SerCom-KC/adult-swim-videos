@@ -47,53 +47,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1780891140,
-        "tms_id": "",
-        "description": "Gene tries to learn how to lucid dream in order to recover the world's most perfect song that he wrote while asleep.",
-        "title_suggest": {
-            "input": [
-                "Running Down a Gene",
-                "Down a Gene",
-                "a Gene",
-                "Gene"
-            ]
-        },
-        "title": "Running Down a Gene",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "4",
-        "original_air_date": null,
-        "auth_launch_date": 1779681600,
-        "clip_order": null,
-        "airing_id": "RADS1005192600003724",
-        "media_id": "41dcebdd7ad023fc9814766e426d35b092b02822",
-        "modified": 1779259492,
-        "slug": "running-down-a-gene",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181445565-BobsBurgers_1404.jpg",
-        "created": 1758221176,
-        "season_number": "14",
-        "title_id": "2569591",
-        "tv_rating": "tv-pg-l",
-        "published": 1779259492,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181445565-BobsBurgers_1404.jpg",
-        "id": "AZleJgzlyEF1_1NDe6a1",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1781063940,
         "tms_id": "",
         "description": "During a neighborhood block party, Linda makes a mistake that could threaten the life of her favorite alley raccoon.",
@@ -468,6 +421,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181630469-BobsBurgers_1413.jpg",
         "id": "AZlehdk1yEF1_1NDe6bQ",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1782100740,
+        "tms_id": "",
+        "description": "The family gets invited to Rudy's father's birthday party.",
+        "title_suggest": {
+            "input": [
+                "The Big Stieblitzki",
+                "Big Stieblitzki",
+                "Stieblitzki"
+            ]
+        },
+        "title": "The Big Stieblitzki",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "14",
+        "original_air_date": null,
+        "auth_launch_date": 1780891200,
+        "clip_order": null,
+        "airing_id": "RADS1006022600006701",
+        "media_id": "03bc5f32b017c93315021730bdcb9c6866f0d446",
+        "modified": 1780469114,
+        "slug": "the-big-stieblitzki",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181631201-BobsBurgers_1414.jpg",
+        "created": 1758227483,
+        "season_number": "14",
+        "title_id": "2569601",
+        "tv_rating": "tv-pg-l",
+        "published": 1780469114,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181631201-BobsBurgers_1414.jpg",
+        "id": "AZlehkwUs_ErlMTJpQn1",
         "auth": true
     }
 ]
