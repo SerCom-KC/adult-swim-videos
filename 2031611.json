@@ -1291,6 +1291,57 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1785833940,
+        "tms_id": "EP012647370032",
+        "description": "As Frieza prepares for his ruthless interrogation of the Eldest Namekian, Goku shows off the benefits of training in gravity one hundred times that of Earth. Will it be enough to help him defeat Captain Ginyu?",
+        "title_suggest": {
+            "input": [
+                "The Star Player Appears! Ginyu vs. Goku!",
+                "Star Player Appears! Ginyu vs. Goku!",
+                "Player Appears! Ginyu vs. Goku!",
+                "Appears! Ginyu vs. Goku!",
+                "Ginyu vs. Goku!",
+                "vs. Goku!",
+                "Goku!"
+            ]
+        },
+        "expiration_date": 1771909199,
+        "title": "The Star Player Appears! Ginyu vs. Goku!",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1295.009,
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "episode_number": "32",
+        "original_air_date": 1437278400,
+        "clip_order": null,
+        "auth_launch_date": 1780995600,
+        "modified": 1780594159,
+        "airing_id": "RADS1006032600006842",
+        "media_id": "5d17c418ff365bc1f8ecd7ae4400972a4c35cc40",
+        "id": "Clmwr28lSPOXhQ6axSgDRQ",
+        "slug": "the-star-player-appears-ginyu-vs-goku",
+        "views": 3725,
+        "created": 1430773097,
+        "season_number": "1",
+        "title_id": "2031643",
+        "tv_rating": "tv-pg-lv",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1780594159,
+        "first_published": 1437132020,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "modified_by": "ODT Listener",
+        "launch_date": 1770719400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/the-star-player-appears-ginyu-vs-goku/dragonballzkai_cc_032_pt2.jpg",
+        "cma_id": "1096342"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1781773140,
         "tms_id": "EP012647370001",
         "description": "Goku is a legendary warrior and the strongest fighter on the planet, but he's about to encounter a foe from out-of-this-world. What brings this new menace to Earth? And what's up with his tail?",
@@ -2799,7 +2850,7 @@
         "cma_id": "1059245"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1784260740,
         "tms_id": "EP012647370087",
@@ -3588,7 +3639,7 @@
         "cma_id": "1307104"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1780995540,
         "tms_id": "EP012647370092",
