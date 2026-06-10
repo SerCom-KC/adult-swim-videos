@@ -1,53 +1,5 @@
 [
     {
-        "auth_expiration_date": 1781063940,
-        "tms_id": "",
-        "description": "During a neighborhood block party, Linda makes a mistake that could threaten the life of her favorite alley raccoon.",
-        "title_suggest": {
-            "input": [
-                "The (Raccoon) King and I",
-                "(Raccoon) King and I",
-                "King and I",
-                "and I",
-                "I"
-            ]
-        },
-        "title": "The (Raccoon) King and I",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "6",
-        "original_air_date": null,
-        "auth_launch_date": 1779854400,
-        "clip_order": null,
-        "airing_id": "RADS1005212600003860",
-        "media_id": "5fdeb6db73cb551dbb278873d1a425d13bd7331f",
-        "modified": 1779431410,
-        "slug": "the-raccoon-king-and-i",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181450433-BobsBurgers_1406.jpg",
-        "created": 1758221449,
-        "season_number": "14",
-        "title_id": "2569594",
-        "tv_rating": "tv-pg-l",
-        "published": 1779431410,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181450433-BobsBurgers_1406.jpg",
-        "id": "AZleKjpXyEF1_1NDe6a2",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1781150340,
         "tms_id": "",
         "description": "Mr. Fischoeder enlists Bob to be his personal chef for a glamping trip.",
@@ -467,6 +419,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181631201-BobsBurgers_1414.jpg",
         "id": "AZlehkwUs_ErlMTJpQn1",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1782273540,
+        "tms_id": "",
+        "description": "Bosco goes to Bob needing to learn how to make a burger for an undercover mission.",
+        "title_suggest": {
+            "input": [
+                "To Catch a Beef",
+                "Catch a Beef",
+                "a Beef",
+                "Beef"
+            ]
+        },
+        "title": "To Catch a Beef",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "16",
+        "original_air_date": null,
+        "auth_launch_date": 1781064000,
+        "clip_order": null,
+        "airing_id": "RADS1006052600006874",
+        "media_id": "f5153ede65ab9e2c7f8f7611b26577d725fd4efb",
+        "modified": 1780639164,
+        "slug": "to-catch-a-beef",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181633518-BobsBurgers_1416.jpg",
+        "created": 1758227641,
+        "season_number": "14",
+        "title_id": "2569603",
+        "tv_rating": "tv-pg-l",
+        "published": 1780639164,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181633518-BobsBurgers_1416.jpg",
+        "id": "AZleiLUyyEF1_1NDe6bR",
         "auth": true
     }
 ]
