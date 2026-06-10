@@ -1773,7 +1773,7 @@
         "cma_id": "1272400"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1781081940,
         "tms_id": "EP012647370094",
@@ -2962,6 +2962,58 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1785920340,
+        "tms_id": "EP012647370034",
+        "description": "Gohan and Krillin unearth the Dragon Balls, but their attempts to summon Shenron fail miserably. Later, Captain Ginyu's devious strategy forces Earth's warriors to do the unthinkable: attack Goku's flesh and bones with chilling ferocity!",
+        "title_suggest": {
+            "input": [
+                "Surprise! Goku is Ginyu and Ginyu is Goku?!",
+                "Goku is Ginyu and Ginyu is Goku?!",
+                "is Ginyu and Ginyu is Goku?!",
+                "Ginyu and Ginyu is Goku?!",
+                "and Ginyu is Goku?!",
+                "Ginyu is Goku?!",
+                "is Goku?!",
+                "Goku?!"
+            ]
+        },
+        "expiration_date": 1771909199,
+        "title": "Surprise! Goku is Ginyu and Ginyu is Goku?!",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1295.015,
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "episode_number": "34",
+        "original_air_date": 1438488000,
+        "clip_order": null,
+        "auth_launch_date": 1781082000,
+        "modified": 1780656299,
+        "airing_id": "RADS1006052600006923",
+        "media_id": "b7a7cabbf40df596892fcf166361b9f65271d2b2",
+        "id": "jq9o8EgHRbKMXKZe0o3JbQ",
+        "slug": "surprise-goku-is-ginyu-and-ginyu-is-goku",
+        "views": 2871,
+        "created": 1430773151,
+        "season_number": "1",
+        "title_id": "2031645",
+        "tv_rating": "tv-pg-lv",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1780656299,
+        "first_published": 1438154421,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "modified_by": "ODT Listener",
+        "launch_date": 1770805800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/surprise-goku-is-ginyu-and-ginyu-is-goku/dragonballzkai_cc_034_pt1_1.jpg",
+        "cma_id": "1100716"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1783569540,
         "tms_id": "EP012647370075",
         "description": "Piccolo and Android 17 trade blows in a battle of unprecedented brutality! Cell - sensing their presence - races to the scene of the skirmish in pursuit of his terrifying perfect form!",
@@ -3461,7 +3513,7 @@
         "cma_id": "1272999"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1784347140,
         "tms_id": "EP012647370104",
