@@ -1,52 +1,5 @@
 [
     {
-        "auth_expiration_date": 1781150340,
-        "tms_id": "",
-        "description": "Mr. Fischoeder enlists Bob to be his personal chef for a glamping trip.",
-        "title_suggest": {
-            "input": [
-                "Escape From Which Island?",
-                "From Which Island?",
-                "Which Island?",
-                "Island?"
-            ]
-        },
-        "title": "Escape From Which Island?",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "7",
-        "original_air_date": null,
-        "auth_launch_date": 1779940800,
-        "clip_order": null,
-        "airing_id": "RADS1005222600004017",
-        "media_id": "5d56e1d128be7d90aa5bc5ee839bd1460d292061",
-        "modified": 1779564565,
-        "slug": "escape-from-which-island",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181554316-BobsBurgers_1407.jpg",
-        "created": 1758226304,
-        "season_number": "14",
-        "title_id": "2569593",
-        "tv_rating": "tv-pg-l",
-        "published": 1779564565,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181554316-BobsBurgers_1407.jpg",
-        "id": "AZledE3ws_ErlMTJpQnz",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1781236740,
         "tms_id": "",
         "description": "During their special day at the wharf with Big Bob, the kids get into trouble with the Wharf's newest fortune-telling giant clam.",
@@ -466,6 +419,56 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181633518-BobsBurgers_1416.jpg",
         "id": "AZleiLUyyEF1_1NDe6bR",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1782359940,
+        "tms_id": "",
+        "description": "Tina attempts to save her school news segment by interviewing Mr. Frond about his revolutionary new computer game.",
+        "title_suggest": {
+            "input": [
+                "The Tina Table: The Tables Have Tina-ed",
+                "Tina Table: The Tables Have Tina-ed",
+                "Table: The Tables Have Tina-ed",
+                "The Tables Have Tina-ed",
+                "Tables Have Tina-ed",
+                "Have Tina-ed",
+                "Tina-ed"
+            ]
+        },
+        "title": "The Tina Table: The Tables Have Tina-ed",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "1",
+        "original_air_date": null,
+        "auth_launch_date": 1781150400,
+        "clip_order": null,
+        "airing_id": "RADS1006052600007078",
+        "media_id": "078c4e12b3627cc036d7767847eb95659848ec83",
+        "modified": 1780729175,
+        "slug": "the-tina-table-the-tables-have-tina-ed",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/1_259221530313-BobsBurgers_1501.jpg",
+        "created": 1758570216,
+        "season_number": "15",
+        "title_id": "2569620",
+        "tv_rating": "tv-pg-l",
+        "published": 1780729175,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/2_259221530313-BobsBurgers_1501.jpg",
+        "id": "AZly8_tos_ErlMTJpQn3",
         "auth": true
     }
 ]

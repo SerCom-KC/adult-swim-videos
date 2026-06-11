@@ -800,11 +800,11 @@
         "launch_date": 1736658000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15240845875209.jpg",
         "id": "AWLai-mJHAeP4-pUPees",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1529418660,
-        "auth": true,
+        "auth": false,
         "auth_expiration_date": 1781150340,
         "tms_id": "EP029506900010",
         "description": "In which Joe Pera answers viewers' questions about cold weather sports such as ice hockey, downhill skiing, snowmobiling, and luge.",
