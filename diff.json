@@ -1,7 +1,6 @@
 {
-    "updated": 1781293177,
-    "added": [],
-    "removed": [
+    "updated": 1781295578,
+    "added": [
         {
             "auth_expiration_date": 1781323140,
             "tms_id": "",
@@ -30,9 +29,9 @@
             "original_air_date": "1691726400",
             "auth_launch_date": 1772254800,
             "clip_order": null,
-            "airing_id": "RADS1001182600081705",
+            "airing_id": "RADS1002232600087925",
             "media_id": "2525267b493d87cf624da16fadff72f15696ca8f",
-            "modified": 1771872149,
+            "modified": 1781295340,
             "slug": "kiss-kiss-fall-in-portal",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20230807/thumbnails/1_2387822115-AS_MAWS_07_KissKissFallInPortal-5.jpg",
@@ -40,7 +39,7 @@
             "season_number": "1",
             "title_id": "2288461",
             "tv_rating": "tv-pg",
-            "published": 1771872149,
+            "published": 1781295340,
             "tags": [],
             "collection_title": "My Adventures with Superman",
             "disable_ads": false,
@@ -83,7 +82,7 @@
             "original_air_date": 1245038400,
             "clip_order": null,
             "auth_launch_date": 1681531200,
-            "modified": 1758997292,
+            "modified": 1781295340,
             "media_id": "223be2ecf3189410e9e0cbf050227965e5b94a41",
             "airing_id": "RADS1009272500060721",
             "id": "joDCDqTqRJa56ZkvtHrUfw",
@@ -98,7 +97,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1758997292,
+            "published": 1781295340,
             "tags": [
                 "Squidbillies Episode 45 Confessions of a Gangrenous Mind confederate"
             ],
@@ -113,5 +112,6 @@
             "collection_title_id": "581268",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
