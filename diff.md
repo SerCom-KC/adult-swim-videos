@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 12, 2026 at 17:30:28 EDT_
+_Last Update: June 12, 2026 at 19:00:13 EDT_
 ## Video added
 ### Summary
 581268 Squidbillies: 1  
-### 758315
-**Squidbillies S04E05 - Confessions of a Gangrenous Mind**  
-TV-MA 🔓 11:16  
+### 2199308
+**Squidbillies S12E06 - Cooler-Heads Prevail**  
+TV-14-DLV 🔓 11:19  
 ⌛ June 12, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/confessions-of-a-gangrenous-mind  
-seriesid=`581268` titleid=`758315` id=`joDCDqTqRJa56ZkvtHrUfw` mediaid=`223be2ecf3189410e9e0cbf050227965e5b94a41`  
-_Oldest living confederate widow doesn't say anything of real relevance._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131219418-squidbillies_045_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131219418-squidbillies_045_bim.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/squidbillies/cooler-heads-prevail  
+seriesid=`581268` titleid=`2199308` id=`AW0B6f4a4aLemgzOLGXt` mediaid=`c2759f98f2ab94d8f8e68404893ad48c13f2ef79`  
+_Early enjoys the highfalutin lifestyle of owning a premium cooler._  
+<a href="https://media.cdn.adultswim.com/uploads/20190905/thumbnails/2_19951625353-squidbillies_1007_dup-20190904.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190905/thumbnails/2_19951625353-squidbillies_1007_dup-20190904.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
