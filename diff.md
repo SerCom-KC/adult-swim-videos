@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 12, 2026 at 05:00:42 EDT_
+_Last Update: June 12, 2026 at 06:00:29 EDT_
 ## Video added
 ### Summary
 2031611 Dragon Ball Z Kai: 1  
-### 2031649
-**Dragon Ball Z Kai S01E38 - Frieza Bares His Fangs! Gohan's Overwhelming Attack!**  
+### 2031650
+**Dragon Ball Z Kai S01E39 - Piccolo Reborn! Frieza's Second Transformation!**  
 TV-PG-LV 🔒 21:35  
-⌛ August 11, 2026 at 05:29:00 EDT  
-https://www.adultswim.com/videos/dragon-ball-z-kai/frieza-bares-his-fangs-gohans-overwhelming-attack  
-seriesid=`2031611` titleid=`2031649` id=`qwzA9NV6Q-GK4tyKCNTWeA` mediaid=`7831237b96fdc8dbf99dde093baba1072d74c82e`  
-_Vegeta is impressed by Gohan's furious outburst after Frieza strikes a death blow against Krillin. The two Saiyans work together to defeat the monster, but even their combined powers won't be enough spare their lives!_  
-<a href="https://i.cdn.turner.com/adultswim/big/video/frieza-bares-his-fangs-gohans-overwhelming-attack/dragonballzkai_39.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/frieza-bares-his-fangs-gohans-overwhelming-attack/dragonballzkai_39.jpg" height="144px" /></a>
+⌛ August 12, 2026 at 04:59:00 EDT  
+https://www.adultswim.com/videos/dragon-ball-z-kai/piccolo-reborn-friezas-second-transformation  
+seriesid=`2031611` titleid=`2031650` id=`bMzSRKCcT4eU1JV-lXtKog` mediaid=`9c3d51c4000153005945725d2995c6b9b3fedad8`  
+_Piccolo joins the battle in progress and quickly attacks Frieza with the strength of two Namekian warriors. The powerful villain is caught off guard, but a second transformation gives him the strength to finish the fight once and for all!_  
+<a href="https://i.cdn.turner.com/adultswim/big/video/piccolo-reborn-friezas-second-transformation/dragonballzkai_cc_039_pt2.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/piccolo-reborn-friezas-second-transformation/dragonballzkai_cc_039_pt2.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
