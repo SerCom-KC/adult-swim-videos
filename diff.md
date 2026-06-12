@@ -2,8 +2,19 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 12, 2026 at 16:30:14 EDT_
+_Last Update: June 12, 2026 at 17:00:14 EDT_
 ## Video added
+### Summary
+581268 Squidbillies: 1  
+### 2006886
+**Squidbillies S08E06 - Stop. Jammertime!**  
+TV-MA 🔓 10:59  
+⌛ June 12, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/squidbillies/stop-jammertime  
+seriesid=`581268` titleid=`2006886` id=`iEOTBCv5SxCE3rU720sj2g` mediaid=`c13d471ddb41621f2d36620af924405c3af2226f`  
+_A new judge takes the controversial stance of punishing criminals._  
+<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_20414112118-squidbillies_706_dup-20130917.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_20414112118-squidbillies_706_dup-20130917.jpg" height="144px" /></a>
+## Video removed
 ### Summary
 2288454 My Adventures with Superman: 1  
 581268 Squidbillies: 1  
@@ -23,5 +34,3 @@ https://www.adultswim.com/videos/squidbillies/confessions-of-a-gangrenous-mind
 seriesid=`581268` titleid=`758315` id=`joDCDqTqRJa56ZkvtHrUfw` mediaid=`223be2ecf3189410e9e0cbf050227965e5b94a41`  
 _Oldest living confederate widow doesn't say anything of real relevance._  
 <a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131219418-squidbillies_045_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131219418-squidbillies_045_bim.jpg" height="144px" /></a>
-## Video removed
-No videos were removed.  
