@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 15, 2026 at 11:30:40 EDT_
+_Last Update: June 15, 2026 at 13:00:44 EDT_
 ## Video added
 ### Summary
-2288454 My Adventures with Superman: 1  
-### 2288456
-**My Adventures with Superman S01E02 - Adventures of a Normal Man Pt. 2**  
-TV-PG-V 🔒 22:40  
+340537 Aqua Teen Hunger Force: 1  
+### 444401
+**Aqua Teen Hunger Force S02E01 - Super Birthday Snake**  
+TV-14 🔒 11:08  
 ⌛ July 24, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/my-adventures-with-superman/adventures-of-a-normal-man-pt-2  
-seriesid=`2288454` titleid=`2288456` id=`AYkdIk-y2rZC6NyF6199` mediaid=`e3fe697ad517f739b5560db6764478666a0ac1a3`  
-_Clark returns to the Kent farm with questions about where he's from - and who he wants to be. Meanwhile, Lois and Jimmy track down the mercenary Livewire…and encounter "Superman" once again!_  
-<a href="https://media.cdn.adultswim.com/uploads/20230707/thumbnails/2_2377822150-MAWS_AdventuresofaNormalManPt2.png"><img src="https://media.cdn.adultswim.com/uploads/20230707/thumbnails/2_2377822150-MAWS_AdventuresofaNormalManPt2.png" height="144px" /></a>
+https://www.adultswim.com/videos/aqua-teen-hunger-force/super-birthday-snake  
+seriesid=`340537` titleid=`444401` id=`eS-DcQ1CTzCSyCbwsBBDiQ` mediaid=`3cabd14018f50dada6679afc6120d0e6f7596418`  
+_Meatwad gets a pet that seems to have an insatiable appetite for Aqua Teens._  
+<a href="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241526136-athf_020_BIM.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200224/thumbnails/2_202241526136-athf_020_BIM.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
