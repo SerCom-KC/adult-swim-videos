@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 15, 2026 at 10:00:31 EDT_
+_Last Update: June 15, 2026 at 11:30:40 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-2218883 FLCL: 1  
-### 446613
-**FLCL S01E01 - Fooly Cooly**  
-TV-14-D 🔒 24:20  
-⌛ June 15, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/flcl/fooly-cooly  
-seriesid=`2218883` titleid=`446613` id=`AWK713__HAeP4-pUPeak` mediaid=`8696f9b44590c5f14ab7495f7f3433d3420474d0`  
-_Naota's older brother went to the U.S. to play baseball, and his brother's girlfriend is making advances on him. There's a so-called alien girl hitting on him, too. With a guitar. Did we mention the robots keep springing from Naota's head?_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152356985895016.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152356985895016.jpg" height="144px" /></a>
+2288454 My Adventures with Superman: 1  
+### 2288456
+**My Adventures with Superman S01E02 - Adventures of a Normal Man Pt. 2**  
+TV-PG-V 🔒 22:40  
+⌛ July 24, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/my-adventures-with-superman/adventures-of-a-normal-man-pt-2  
+seriesid=`2288454` titleid=`2288456` id=`AYkdIk-y2rZC6NyF6199` mediaid=`e3fe697ad517f739b5560db6764478666a0ac1a3`  
+_Clark returns to the Kent farm with questions about where he's from - and who he wants to be. Meanwhile, Lois and Jimmy track down the mercenary Livewire…and encounter "Superman" once again!_  
+<a href="https://media.cdn.adultswim.com/uploads/20230707/thumbnails/2_2377822150-MAWS_AdventuresofaNormalManPt2.png"><img src="https://media.cdn.adultswim.com/uploads/20230707/thumbnails/2_2377822150-MAWS_AdventuresofaNormalManPt2.png" height="144px" /></a>
+## Video removed
+No videos were removed.  
