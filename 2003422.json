@@ -1,53 +1,5 @@
 [
     {
-        "auth_expiration_date": 1781495940,
-        "tms_id": "",
-        "description": "A documentary film profiling world-class archer Louise Belcher is interrupted by unexpected visitors.",
-        "title_suggest": {
-            "input": [
-                "Fraud of the Dead: Zombie-docu-pocalypse",
-                "of the Dead: Zombie-docu-pocalypse",
-                "the Dead: Zombie-docu-pocalypse",
-                "Dead: Zombie-docu-pocalypse",
-                "Zombie-docu-pocalypse"
-            ]
-        },
-        "title": "Fraud of the Dead: Zombie-docu-pocalypse",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "9",
-        "original_air_date": null,
-        "auth_launch_date": 1780286400,
-        "clip_order": null,
-        "airing_id": "RADS1005272600004691",
-        "media_id": "7350fb7352c2f89c3ad4eab160ad90a08aa364f9",
-        "modified": 1780167586,
-        "slug": "fraud-of-the-dead-zombie-docu-pocalypse",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181615578-BobsBurgers_1409.jpg",
-        "created": 1758226562,
-        "season_number": "14",
-        "title_id": "2569596",
-        "tv_rating": "tv-pg-l",
-        "published": 1780167586,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181615578-BobsBurgers_1409.jpg",
-        "id": "AZleeDysyEF1_1NDe6bH",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1781582340,
         "tms_id": "",
         "description": "The Belchers must spend Christmas at Mr. Fischoeder's family's old hunting lodge.",
@@ -469,6 +421,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/2_25922154765-BobsBurgers_1502.jpg",
         "id": "AZlzJI0TyEF1_1NDe6fd",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1782705540,
+        "tms_id": "",
+        "description": "Linda agrees to drive Teddy to pick up Kathleen from her colonoscopy after he accidentally injures himself.",
+        "title_suggest": {
+            "input": [
+                "Colon-ly the Dronely",
+                "the Dronely",
+                "Dronely"
+            ]
+        },
+        "title": "Colon-ly the Dronely",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "3",
+        "original_air_date": null,
+        "auth_launch_date": 1781496000,
+        "clip_order": null,
+        "airing_id": "RADS1006112600008030",
+        "media_id": "4f2b56297f7b8571a7cb4ad18785e958b4db5c9a",
+        "modified": 1781151326,
+        "slug": "colon-ly-the-dronely",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/1_259221719502-BobsBurgers_1503.jpg",
+        "created": 1758576000,
+        "season_number": "15",
+        "title_id": "2569622",
+        "tv_rating": "tv-pg-lv",
+        "published": 1781151326,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/2_259221719502-BobsBurgers_1503.jpg",
+        "id": "AZlzTD2cs_ErlMTJpQn4",
         "auth": true
     }
 ]
