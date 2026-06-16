@@ -1,54 +1,5 @@
 [
     {
-        "auth_expiration_date": 1781582340,
-        "tms_id": "",
-        "description": "The Belchers must spend Christmas at Mr. Fischoeder's family's old hunting lodge.",
-        "title_suggest": {
-            "input": [
-                "The Nightmare 2 Days Before Christmas",
-                "Nightmare 2 Days Before Christmas",
-                "2 Days Before Christmas",
-                "Days Before Christmas",
-                "Before Christmas",
-                "Christmas"
-            ]
-        },
-        "title": "The Nightmare 2 Days Before Christmas",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "10",
-        "original_air_date": null,
-        "auth_launch_date": 1780372800,
-        "clip_order": null,
-        "airing_id": "RADS1005272600004836",
-        "media_id": "e04587d05cbc9e0a37a1451289629b89b83d2705",
-        "modified": 1779951580,
-        "slug": "the-nightmare-2-days-before-christmas",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181625174-BobsBurgers_1410.jpg",
-        "created": 1758227122,
-        "season_number": "14",
-        "title_id": "2569597",
-        "tv_rating": "tv-pg-l",
-        "published": 1779951580,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181625174-BobsBurgers_1410.jpg",
-        "id": "AZlegMluyEF1_1NDe6bN",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1781668740,
         "tms_id": "",
         "description": "Teddy gets stuck in an underground survival bunker, and he calls on Bob to find him and get him out.",
@@ -467,6 +418,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/2_259221719502-BobsBurgers_1503.jpg",
         "id": "AZlzTD2cs_ErlMTJpQn4",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1782791940,
+        "tms_id": "",
+        "description": "Louise trains Tina to be the last student standing during a cheese throwing battle.",
+        "title_suggest": {
+            "input": [
+                "Don't Stop Be-Cheesin'",
+                "Stop Be-Cheesin'",
+                "Be-Cheesin'"
+            ]
+        },
+        "title": "Don't Stop Be-Cheesin'",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "4",
+        "original_air_date": null,
+        "auth_launch_date": 1781582400,
+        "clip_order": null,
+        "airing_id": "RADS1006112600008109",
+        "media_id": "9bcff33ed99b6c28ac80b144f610346b048faad2",
+        "modified": 1781161249,
+        "slug": "dont-stop-be-cheesin",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/1_259221733580-BobsBurgers_1504.jpg",
+        "created": 1758576854,
+        "season_number": "15",
+        "title_id": "2569624",
+        "tv_rating": "tv-pg-l",
+        "published": 1781161249,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/2_259221733580-BobsBurgers_1504.jpg",
+        "id": "AZlzWUeEyEF1_1NDe6fi",
         "auth": true
     }
 ]
