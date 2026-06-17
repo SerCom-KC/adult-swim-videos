@@ -1,50 +1,5 @@
 [
     {
-        "auth_expiration_date": 1781668740,
-        "tms_id": "",
-        "description": "Teddy gets stuck in an underground survival bunker, and he calls on Bob to find him and get him out.",
-        "title_suggest": {
-            "input": [
-                "Mission Impossi-Bob",
-                "Impossi-Bob"
-            ]
-        },
-        "title": "Mission Impossi-Bob",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "11",
-        "original_air_date": null,
-        "auth_launch_date": 1780459200,
-        "clip_order": null,
-        "airing_id": "RADS1005272600004921",
-        "media_id": "c4457ce83bed9e4e652904b94807d831ac315a1a",
-        "modified": 1780035285,
-        "slug": "mission-impossi-bob",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181626235-BobsBurgers_1411.jpg",
-        "created": 1758227186,
-        "season_number": "14",
-        "title_id": "2569598",
-        "tv_rating": "tv-pg-l",
-        "published": 1780035285,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181626235-BobsBurgers_1411.jpg",
-        "id": "AZlegcHRyEF1_1NDe6bO",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1781755140,
         "tms_id": "",
         "description": "Linda and Louise stumble into a treasure-hunting adventure.",
@@ -464,6 +419,54 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/2_259221733580-BobsBurgers_1504.jpg",
         "id": "AZlzWUeEyEF1_1NDe6fi",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1782878340,
+        "tms_id": "",
+        "description": "It's a mystery within a mystery as Louise stages a murder mystery in a creepy old dollhouse store for reasons that she has trouble explaining.",
+        "title_suggest": {
+            "input": [
+                "For Whom the Doll Toes",
+                "Whom the Doll Toes",
+                "the Doll Toes",
+                "Doll Toes",
+                "Toes"
+            ]
+        },
+        "title": "For Whom the Doll Toes",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "5",
+        "original_air_date": null,
+        "auth_launch_date": 1781668800,
+        "clip_order": null,
+        "airing_id": "RADS1006112600008187",
+        "media_id": "48ee8ba3895a30cd145372ef0f688ea9dec20d9e",
+        "modified": 1781244958,
+        "slug": "for-whom-the-doll-toes",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/1_259221742300-BobsBurgers_1505.jpg",
+        "created": 1758578318,
+        "season_number": "15",
+        "title_id": "2569623",
+        "tv_rating": "tv-pg-l",
+        "published": 1781244958,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/2_259221742300-BobsBurgers_1505.jpg",
+        "id": "AZlzb5x1yEF1_1NDe6fk",
         "auth": true
     }
 ]
