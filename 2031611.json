@@ -1339,7 +1339,7 @@
         "cma_id": "1054868"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1781688540,
         "tms_id": "EP012647370101",
@@ -4665,6 +4665,56 @@
     {
         "auth": true,
         "ott_launch_date": null,
+        "auth_expiration_date": 1787131740,
+        "tms_id": "EP012647370045",
+        "description": "After suffering a savage beating at the hands of Frieza, Goku summons the awesome power of the Kaio-Ken! If his desperate attack succeeds, victory will be his, but if it fails, the Saiyan race will be eliminated!",
+        "title_suggest": {
+            "input": [
+                "Kaio-ken Times Twenty! An All-Or-Nothing Kamehame-Ha!",
+                "Times Twenty! An All-Or-Nothing Kamehame-Ha!",
+                "Twenty! An All-Or-Nothing Kamehame-Ha!",
+                "An All-Or-Nothing Kamehame-Ha!",
+                "All-Or-Nothing Kamehame-Ha!",
+                "Kamehame-Ha!"
+            ]
+        },
+        "expiration_date": 1745737140,
+        "title": "Kaio-ken Times Twenty! An All-Or-Nothing Kamehame-Ha!",
+        "type": "episode",
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "duration": 1321,
+        "collection_id": "duzujScQQRKOubvQENdNag",
+        "episode_number": "45",
+        "original_air_date": 1445745600,
+        "clip_order": null,
+        "auth_launch_date": 1781688600,
+        "modified": 1781262032,
+        "airing_id": "RADS1006112600008256",
+        "media_id": "6a2a3340d944310d9527e755b04904422bb77276",
+        "id": "ukVrWJW0TrGHmtmms2O9lg",
+        "slug": "kaio-ken-times-twenty-an-all-or-nothing-kamehame-ha",
+        "views": 2907,
+        "created": 1430773395,
+        "season_number": "1",
+        "title_id": "2031656",
+        "tv_rating": "tv-pg-lv",
+        "active": false,
+        "ott_expiration_date": null,
+        "published": 1781262032,
+        "first_published": 1445412037,
+        "tags": [],
+        "collection_title": "Dragon Ball Z Kai",
+        "modified_by": "ODT Listener",
+        "launch_date": 1742788800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/video/kaio-ken-times-twenty-an-all-or-nothing-kamehame-ha/dragonballzkai_045_air_cid-2M3WF.jpg",
+        "cma_id": "1128863"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
         "auth_expiration_date": 1782619140,
         "tms_id": "EP012647370065",
         "description": "Goku and his friends eagerly await the arrival of the Androids, but Yamcha's confrontation with the mechanized monsters suggests that Earth's heroes may be up against more muscle they can handle!",
@@ -4716,7 +4766,7 @@
         "cma_id": "1194939"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1784779140,
         "tms_id": "EP012647370095",
