@@ -1,52 +1,5 @@
 [
     {
-        "auth_expiration_date": 1781755140,
-        "tms_id": "",
-        "description": "Linda and Louise stumble into a treasure-hunting adventure.",
-        "title_suggest": {
-            "input": [
-                "Jade in the Shade",
-                "in the Shade",
-                "the Shade",
-                "Shade"
-            ]
-        },
-        "title": "Jade in the Shade",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "12",
-        "original_air_date": null,
-        "auth_launch_date": 1780545600,
-        "clip_order": null,
-        "airing_id": "RADS1005282600005041",
-        "media_id": "db28f04e5aa2f8f5f4fb575163159326de2b5413",
-        "modified": 1780125293,
-        "slug": "jade-in-the-shade",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181626465-BobsBurgers_1412.jpg",
-        "created": 1758227414,
-        "season_number": "14",
-        "title_id": "2569599",
-        "tv_rating": "tv-pg-l",
-        "published": 1780125293,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181626465-BobsBurgers_1412.jpg",
-        "id": "AZlehT2eyEF1_1NDe6bP",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1782187140,
         "tms_id": "",
         "description": "Gayle tells the family she's sending in an audition tape to be on Tough Stuff Island.",
@@ -467,6 +420,54 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/2_259221742300-BobsBurgers_1505.jpg",
         "id": "AZlzb5x1yEF1_1NDe6fk",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1782964740,
+        "tms_id": "",
+        "description": "Tina and Louise get into an argument that escalates across several graphic \"apology\" cards.",
+        "title_suggest": {
+            "input": [
+                "They Slug Horses, Don't They?",
+                "Slug Horses, Don't They?",
+                "Horses, Don't They?",
+                "Don't They?",
+                "They?"
+            ]
+        },
+        "title": "They Slug Horses, Don't They?",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "6",
+        "original_air_date": null,
+        "auth_launch_date": 1781755200,
+        "clip_order": null,
+        "airing_id": "RADS1006132600008559",
+        "media_id": "2bcbe4e02b64e29ff51a4e242b49e81e96f01852",
+        "modified": 1781395240,
+        "slug": "they-slug-horses-dont-they",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_259291442109-BobsBurgers_1506.jpg",
+        "created": 1759171588,
+        "season_number": "15",
+        "title_id": "2569627",
+        "tv_rating": "tv-pg-l",
+        "published": 1781395240,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291442109-BobsBurgers_1506.jpg",
+        "id": "AZmWzDBYs_ErlMTJpQn7",
         "auth": true
     }
 ]
