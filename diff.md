@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 21, 2026 at 03:00:42 EDT_
+_Last Update: June 21, 2026 at 04:30:27 EDT_
 ## Video added
 ### Summary
-2012528 Blue Exorcist: 1  
-### 2012530
-**Blue Exorcist S01E02 - Gehenna Gate**  
-TV-14-LV 🔒 22:00  
-⌛ July 19, 2026 at 02:59:00 EDT  
-https://www.adultswim.com/videos/blue-exorcist/gehenna-gate  
-seriesid=`2012528` titleid=`2012530` id=`zQeLkyNfSBGrpS-asI6ndg` mediaid=`6b32d4737d7a6fde63b95f51e71673995523e2fb`  
-_Rin is thrown into turmoil when Shiro tells him that he's the son of Satan! But this doesn't stop the demons from unleashing a brutal attack. Warning him that he must never draw it, Shiro gives Rin the Koma Sword, and hides him in the monastery basement. Outside, a fierce battle begins - it's Shiratori, who's morphed into a giant demon, versus the exorcists! Just after Shiro manages to end the battle, Rin turns on him in a rage: ""Don't act like you're my father!""_  
-<a href="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/blueexorcist_cc_002_pt4-02.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/blueexorcist_cc_002_pt4-02.jpg" height="144px" /></a>
+2568743 DAN DA DAN: 1  
+### 2573224
+**DAN DA DAN S02E12 - Clash! Space Kaiju vs. Giant Robot!**  
+ 🔒 22:41  
+⌛ July 12, 2026 at 04:00:00 EDT  
+https://www.adultswim.com/videos/dan-da-dan/clash-space-kaiju-vs-giant-robot  
+seriesid=`2568743` titleid=`2573224` id=`AZ0i8Ogd5hm4q6q--tfT` mediaid=`a2944517b5549a9243fbfc60bf42839c72f33ae6`  
+_Momo and company create a giant Buddha robot to fight against the space kaiju._  
+<a href="https://media.cdn.adultswim.com/uploads/20260324/thumbnails/2_26324231408-AS_DanDaDan_S2_Thumbnail_Ep24.png"><img src="https://media.cdn.adultswim.com/uploads/20260324/thumbnails/2_26324231408-AS_DanDaDan_S2_Thumbnail_Ep24.png" height="144px" /></a>
 ## Video removed
 No videos were removed.  
