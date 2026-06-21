@@ -2,95 +2,69 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 20, 2026 at 00:00:41 EDT_
+_Last Update: June 21, 2026 at 00:30:14 EDT_
 ## Video added
 ### Summary
 581006 American Dad: 2  
 2288454 My Adventures with Superman: 1  
-2530043 Psi-Cops: 1  
-581268 Squidbillies: 2  
-### 748135
-**American Dad S05E03 - May the Best Stan Win**  
-TV-14-DLS 🔒 21:47  
-⌛ June 26, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/may-the-best-stan-win  
-seriesid=`581006` titleid=`748135` id=`XUK828lPT2K7glAihZ5Jzw` mediaid=`49a98110eba5b813954d40b446145a1e98460781`  
-_As Valentine's Day approaches...a cyborg version of Stan attempts to steal Francine away from Stan; Roger directs a shot-for-shot remake of the movie "The Goonies."_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152847347075519.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152847347075519.jpg" height="144px" /></a>
-### 748129
-**American Dad S05E04 - Return of the Bling**  
+895948 The Eric Andre Show: 1  
+### 798359
+**American Dad S05E07 - Bully For Steve**  
+TV-14-DL 🔒 21:47  
+⌛ June 27, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/bully-for-steve  
+seriesid=`581006` titleid=`798359` id=`fHExvwYNSWqfcy2sY_Kjig` mediaid=`039fc83429d876effd2ecf3dfb68dce29e98ebc9`  
+_After concluding that Steve is too passive, Stan begins to bully him; Reggie asks Hayley out on a date._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152881343219918.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152881343219918.jpg" height="144px" /></a>
+### 798357
+**American Dad S05E06 - Merlot Down Dirty Shame**  
 TV-14 🔒 21:47  
-⌛ June 26, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/return-of-the-bling  
-seriesid=`581006` titleid=`748129` id=`jhH0gdCvTU6BjyRNnzZl_w` mediaid=`e27cedf03893564d8d093708e0a58e82359b719b`  
-_Stan is appalled to discover that Roger - a "Miracle On Ice" hockey team member - used steroids; Hayley finds herself falling for Reginald._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15284738870972.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15284738870972.jpg" height="144px" /></a>
-### 2288462
-**My Adventures with Superman S01E08 - Zero Day: Part One**  
-TV-PG 🔒 22:42  
-⌛ July 31, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/my-adventures-with-superman/zero-day-part-one  
-seriesid=`2288454` titleid=`2288462` id=`AYnP84Ib2rZC6NyF61-Z` mediaid=`9f049eff39907380fcf609c83948cf0c9eb6561b`  
-_Lois meets her journalism idol, Vicki Vale - only for Vicki to make Lois question her loyalty to Superman. Meanwhile, Superman hunts down Task Force X while dealing with a new power!_  
-<a href="https://media.cdn.adultswim.com/uploads/20230807/thumbnails/2_238782363-AS_MAWS_08_ZeroDayPt1-8.jpg"><img src="https://media.cdn.adultswim.com/uploads/20230807/thumbnails/2_238782363-AS_MAWS_08_ZeroDayPt1-8.jpg" height="144px" /></a>
-### 2530066
-**Psi-Cops S01E15 - Monster Under the Bed**  
-TV-MA-LV 🔒 11:00  
-⌛ June 30, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/psi-cops/monster-under-the-bed  
-seriesid=`2530043` titleid=`2530066` id=`AZFyfgIJg6zBH7G86thH` mediaid=`0aac480f317a577cd90ab984edaf1f3af6e1983f`  
-_Monsters have nothing on Kydd and Felixx's vendetta against a step-mother._  
-<a href="https://media.cdn.adultswim.com/uploads/20240826/thumbnails/2_248261522444-PSICOPS_SEASON1_EP114_SHOWSTILLS_IMAGE4_KYDDFLYING.jpg"><img src="https://media.cdn.adultswim.com/uploads/20240826/thumbnails/2_248261522444-PSICOPS_SEASON1_EP114_SHOWSTILLS_IMAGE4_KYDDFLYING.jpg" height="144px" /></a>
-### 758317
-**Squidbillies S04E06 - The Big Gay Throwdown**  
-TV-MA 🔓 11:17  
-⌛ June 18, 2027 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/the-big-gay-throwdown  
-seriesid=`581268` titleid=`758317` id=`kKdwvvfeSNC4yLBi2--scA` mediaid=`b6725cf2d87302f2a3c90f1db44e7f7739b6ac11`  
-_The Sheriff goes deep undercover to apprehend his most wanted man._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413122023-squidbillies_047_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_20413122023-squidbillies_047_bim.jpg" height="144px" /></a>
-### 2006887
-**Squidbillies S08E07 - Thou Shale Not Drill**  
-TV-14-DLV 🔓 22:32  
-⌛ March 5, 2027 at 23:59:00 EST  
-https://www.adultswim.com/videos/squidbillies/thou-shale-not-drill  
-seriesid=`581268` titleid=`2006887` id=`97LbRCxcSjinP9OmRI6h8g` mediaid=`b77e5201829fe1b6f47d0415e25b0dcb0dd9eabf`  
-_The squids have a nuanced and well thought out debate on the controversial practice of fracture mining._  
-<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_20414113462-squidbillies_707_dup-20131024.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_20414113462-squidbillies_707_dup-20131024.jpg" height="144px" /></a>
+⌛ June 27, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/merlot-down-dirty-shame  
+seriesid=`581006` titleid=`798357` id=`5PbaTBkKQpeEHWNzxdz0OA` mediaid=`35ad52c9b508d7b17940dd3091470c050309f407`  
+_When Roger and Francine go wine-tasting, Roger plants a big kiss on Francine in a drunken moment. Francine decides to tell Stan about this incident, but when they sit down to talk, Roger convinces Stan that Francine started it all._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15288133930095.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15288133930095.jpg" height="144px" /></a>
+### 2536274
+**My Adventures with Superman S03E02 - Mobile Suit Toyman**  
+TV-PG-V 🔒 22:30  
+⌛ July 11, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/my-adventures-with-superman/mobile-suit-toyman  
+seriesid=`2288454` titleid=`2536274` id=`AZ69KOU7mJnHw_h9ubBb` mediaid=`0aa1b3414e1aa70a16f79fcbcd80805cfdd80384`  
+_Big things happen at the Super Convention. Kara takes a friend's advice. Clark gets Whipped. Lois Chases a story. Jimmy makes a mistake._  
+<a href="https://media.cdn.adultswim.com/uploads/20260612/thumbnails/2_266121446551-SUPR_S3_E2.png"><img src="https://media.cdn.adultswim.com/uploads/20260612/thumbnails/2_266121446551-SUPR_S3_E2.png" height="144px" /></a>
+### 2418689
+**The Eric Andre Show S06E09 - Krft Punk Returns**  
+TV-MA-L 🔓 11:10  
+⌛ July 25, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-eric-andre-show/krft-punk-returns  
+seriesid=`895948` titleid=`2418689` id=`AYkM9G6k2rZC6NyF6197` mediaid=`ed8305e1074132d0f5407d4fe2d73153392f1875`  
+_Eric welcomes Lil Yachty. Rico Nasty slaps around an iconic character. A school bus crashes and a President's son is the lone suspect._  
+<a href="https://media.cdn.adultswim.com/uploads/20230705/thumbnails/2_2375112508-EAKrftPunkReturns.png"><img src="https://media.cdn.adultswim.com/uploads/20230705/thumbnails/2_2375112508-EAKrftPunkReturns.png" height="144px" /></a>
 ## Video removed
 ### Summary
-2530043 Psi-Cops: 1  
 581006 American Dad: 2  
-581268 Squidbillies: 1  
-### 2530053
-**Psi-Cops S01E10 - Kyddnapped**  
-TV-MA-V 🔒 11:00  
-⌛ June 19, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/psi-cops/kyddnapped  
-seriesid=`2530043` titleid=`2530053` id=`AZEJo3a3g6zBH7G86tg4` mediaid=`af7692b5298e5417681a6c2ec0fd93f3cff635ea`  
-_Easiest way to get aliens to abduct you? Post an ad online!_  
-<a href="https://media.cdn.adultswim.com/uploads/20240815/thumbnails/2_2481514675-PSICOPS_SEASON1_EP110_SHOWSTILLS_IMAGE2_LEFTTORIGHT_FELIXXKYDDWHEELBARROW.jpg"><img src="https://media.cdn.adultswim.com/uploads/20240815/thumbnails/2_2481514675-PSICOPS_SEASON1_EP110_SHOWSTILLS_IMAGE2_LEFTTORIGHT_FELIXXKYDDWHEELBARROW.jpg" height="144px" /></a>
-### 2445756
-**American Dad S19E13 - The Clearview Motel**  
-TV-14-DLSV 🔒 00:00  
-⌛ June 19, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-clearview-motel  
-seriesid=`581006` titleid=`2445756` id=`AZPVrr9khkIHwKa-EB3r` mediaid=`d1b6cf0e79f4b021bbe8ed9af7cfe22fddaa6af3`  
-_Francine and Roger become addicted to peeping in on people at a mysterious motel._  
-<a href="https://media.cdn.adultswim.com/uploads/20241217/thumbnails/2_2412171233366-AmDad-S19E13-ClearviewMotel-1920x1080.jpg"><img src="https://media.cdn.adultswim.com/uploads/20241217/thumbnails/2_2412171233366-AmDad-S19E13-ClearviewMotel-1920x1080.jpg" height="144px" /></a>
-### 2445757
-**American Dad S19E14 - The Girl Who Cried Space Jam**  
-TV-14-DLV 🔒 00:00  
-⌛ June 19, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-girl-who-cried-space-jam  
-seriesid=`581006` titleid=`2445757` id=`AZPVrvvOhcl3AH3uIkjW` mediaid=`4959d310d282d70cd726831f38c1c3b804e4c7a7`  
-_Forces of evil beyond human comprehension bully Hayley into doing a Space Jam._  
-<a href="https://media.cdn.adultswim.com/uploads/20241217/thumbnails/2_2412171233525-AmDad-S19E14-GirlWhoCriedSpaceJam-1920x1080.jpg"><img src="https://media.cdn.adultswim.com/uploads/20241217/thumbnails/2_2412171233525-AmDad-S19E14-GirlWhoCriedSpaceJam-1920x1080.jpg" height="144px" /></a>
-### 2199310
-**Squidbillies S12E08 - There's Sucker Porn Every Minute**  
-TV-MA-S 🔓 11:17  
-⌛ June 19, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/theres-sucker-porn-every-minute  
-seriesid=`581268` titleid=`2199310` id=`AW0nGO_iCorLtcgfluVv` mediaid=`8edc70d6b4c5caa818e7098afb936eb7b59423a8`  
-_Early lets his beak flag fly._  
-<a href="https://media.cdn.adultswim.com/uploads/20190913/thumbnails/2_19913132161-squidbillies_1009_dup-20190912.jpg"><img src="https://media.cdn.adultswim.com/uploads/20190913/thumbnails/2_19913132161-squidbillies_1009_dup-20190912.jpg" height="144px" /></a>
+895948 The Eric Andre Show: 1  
+### 2445758
+**American Dad S19E15 - Get Him to the Greek Life Style**  
+TV-14-DLSV 🔓 00:00  
+⌛ June 20, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/get-him-to-the-greek-life-style  
+seriesid=`581006` titleid=`2445758` id=`AZPVr0KdhkIHwKa-EB3s` mediaid=`3dec3d07059cb13f20f7617d900ef591a5be0783`  
+_Stan attempts to live forever in order to do everything on his bucket list._  
+<a href="https://media.cdn.adultswim.com/uploads/20241217/thumbnails/2_241217123489-AmDad-S19E15-GreekLifestyle-1920x1080.jpg"><img src="https://media.cdn.adultswim.com/uploads/20241217/thumbnails/2_241217123489-AmDad-S19E15-GreekLifestyle-1920x1080.jpg" height="144px" /></a>
+### 2445759
+**American Dad S19E16 - The Mystery of the Missing Bazooka Shark Babe**  
+TV-14-DL 🔓 00:00  
+⌛ June 20, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/the-mystery-of-the-missing-bazooka-shark-babe  
+seriesid=`581006` titleid=`2445759` id=`AZSpWTgz4ijrGBacAUm4` mediaid=`9c54bcfb49819629880a7b1e43c9d57c651006e3`  
+_After Danuta goes missing, Hayley joins forces with Wheels and The Legman detective to investigate the Bazooka Shark Babes' involvement._  
+<a href="https://media.cdn.adultswim.com/uploads/20250127/thumbnails/2_251271459401-AmDad-S19E16-MysteryMissingBazooka-1920x1080.jpg"><img src="https://media.cdn.adultswim.com/uploads/20250127/thumbnails/2_251271459401-AmDad-S19E16-MysteryMissingBazooka-1920x1080.jpg" height="144px" /></a>
+### 2230789
+**The Eric Andre Show S05E10 - The 50th Episode!**  
+TV-MA-LSV 🔓 14:28  
+⌛ June 20, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-eric-andre-show/the-50th-episode  
+seriesid=`895948` titleid=`2230789` id=`AXWPF0lwLyLQBOXK_PY9` mediaid=`86a625fb079a365a9e392b0e91cf37066ccb92e8`  
+_Eric welcomes Blake Griffin and Stormy Daniels in the season finale. His crossing guard skills stink and Miss Eric Andre will be finally crowned._  
+<a href="https://media.cdn.adultswim.com/uploads/20201103/thumbnails/2_20113121161-ericandre_510_dup-20200915.jpg"><img src="https://media.cdn.adultswim.com/uploads/20201103/thumbnails/2_20113121161-ericandre_510_dup-20200915.jpg" height="144px" /></a>
