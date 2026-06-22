@@ -47,6 +47,52 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1782100740,
+        "tms_id": "",
+        "description": "The family gets invited to Rudy's father's birthday party.",
+        "title_suggest": {
+            "input": [
+                "The Big Stieblitzki",
+                "Big Stieblitzki",
+                "Stieblitzki"
+            ]
+        },
+        "title": "The Big Stieblitzki",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "14",
+        "original_air_date": null,
+        "auth_launch_date": 1780891200,
+        "clip_order": null,
+        "airing_id": "RADS1006022600006701",
+        "media_id": "03bc5f32b017c93315021730bdcb9c6866f0d446",
+        "modified": 1780469114,
+        "slug": "the-big-stieblitzki",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181631201-BobsBurgers_1414.jpg",
+        "created": 1758227483,
+        "season_number": "14",
+        "title_id": "2569601",
+        "tv_rating": "tv-pg-l",
+        "published": 1780469114,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181631201-BobsBurgers_1414.jpg",
+        "id": "AZlehkwUs_ErlMTJpQn1",
+        "auth": false
+    },
+    {
         "auth_expiration_date": 1782273540,
         "tms_id": "",
         "description": "Bosco goes to Bob needing to learn how to make a burger for an undercover mission.",
@@ -374,51 +420,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291449150-BobsBurgers_1507.jpg",
         "id": "AZmW0ACLs_ErlMTJpQn8",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1783310340,
-        "tms_id": "",
-        "description": "When Louise signs up for a father-daughter boogie board contest, Bob's past comes back to haunt him.",
-        "title_suggest": {
-            "input": [
-                "Boogie Days",
-                "Days"
-            ]
-        },
-        "title": "Boogie Days",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "8",
-        "original_air_date": null,
-        "auth_launch_date": 1782100800,
-        "clip_order": null,
-        "airing_id": "RADS1006162600008871",
-        "media_id": "4b6330b78971465218566858a65678a2612beb36",
-        "modified": 1781685064,
-        "slug": "boogie-days",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_25929145222-BobsBurgers_1508.jpg",
-        "created": 1759171926,
-        "season_number": "15",
-        "title_id": "2569626",
-        "tv_rating": "tv-pg-l",
-        "published": 1781685064,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_25929145222-BobsBurgers_1508.jpg",
-        "id": "AZmW0VmDs_ErlMTJpQn9",
         "auth": true
     },
     {
