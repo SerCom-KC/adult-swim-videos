@@ -1,67 +1,6 @@
 {
-    "updated": 1782223214,
-    "added": [],
-    "removed": [
-        {
-            "auth": true,
-            "ott_launch_date": null,
-            "auth_expiration_date": 1782273540,
-            "tms_id": "EP012647370049",
-            "description": "Despite the danger of Namek's impending implosion, Goku continues his battle with Frieza, determined to extract revenge for Krillin's murder. Elsewhere, Gohan tries to locate Bulma before it's too late!",
-            "title_suggest": {
-                "input": [
-                    "Avenge the Fallen, Goku! Countdown to the Planet's Destruction!",
-                    "the Fallen, Goku! Countdown to the Planet's Destruction!",
-                    "Fallen, Goku! Countdown to the Planet's Destruction!",
-                    "Goku! Countdown to the Planet's Destruction!",
-                    "Countdown to the Planet's Destruction!",
-                    "to the Planet's Destruction!",
-                    "the Planet's Destruction!",
-                    "Planet's Destruction!",
-                    "Destruction!"
-                ]
-            },
-            "expiration_date": 1776763740,
-            "title": "Avenge the Fallen, Goku! Countdown to the Planet's Destruction!",
-            "type": "episode",
-            "platforms": [
-                "web",
-                "mobile"
-            ],
-            "duration": 1326.96,
-            "collection_id": "duzujScQQRKOubvQENdNag",
-            "episode_number": "49",
-            "original_air_date": 1449378000,
-            "clip_order": null,
-            "auth_launch_date": 1776763800,
-            "modified": 1776409348,
-            "airing_id": "RADS1004172600097746",
-            "media_id": "7d4a5ed5ee749bb05095f945c1baa617b7f48fd4",
-            "id": "VMaiMmYfT2CpWgMeYUZt7g",
-            "slug": "avenge-the-fallen-goku-countdown-to-the-planets-destruction",
-            "views": 3812,
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/1_191210169293-dragonballzkai_049_air_cid-2N9D2.jpg",
-            "created": 1430773510,
-            "season_number": "1",
-            "title_id": "2031660",
-            "tv_rating": "tv-pg-lv",
-            "active": false,
-            "ott_expiration_date": null,
-            "blacklist": [],
-            "published": 1776409348,
-            "first_published": 1449044418,
-            "tags": [],
-            "collection_title": "Dragon Ball Z Kai",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1776159000,
-            "poster": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_191210169293-dragonballzkai_049_air_cid-2N9D2.jpg",
-            "cma_id": "1142896",
-            "collection_slug": "dragon-ball-z-kai",
-            "collection_title_id": "2031611",
-            "online_exclusives": false
-        },
+    "updated": 1782225013,
+    "added": [
         {
             "auth": true,
             "ott_launch_date": null,
@@ -94,8 +33,8 @@
             "original_air_date": 1448168400,
             "clip_order": null,
             "auth_launch_date": 1776762000,
-            "modified": 1776407483,
-            "airing_id": "RADS1004092600096195",
+            "modified": 1782224249,
+            "airing_id": "RADS1004172600097744",
             "media_id": "30b21830e6a08a9a7068451519eaf66f41b0ba52",
             "id": "wJwh4AP1RxGEpWPlEEqENA",
             "slug": "the-angry-super-saiyan-goku-throws-down-the-gauntlet",
@@ -108,7 +47,7 @@
             "tv_rating": "tv-pg-lv",
             "active": false,
             "ott_expiration_date": null,
-            "published": 1776407483,
+            "published": 1782224249,
             "first_published": 1447834819,
             "tags": [],
             "collection_title": "Dragon Ball Z Kai",
@@ -121,5 +60,6 @@
             "collection_title_id": "2031611",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
