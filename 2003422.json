@@ -1,52 +1,5 @@
 [
     {
-        "auth_expiration_date": 1782273540,
-        "tms_id": "",
-        "description": "Bosco goes to Bob needing to learn how to make a burger for an undercover mission.",
-        "title_suggest": {
-            "input": [
-                "To Catch a Beef",
-                "Catch a Beef",
-                "a Beef",
-                "Beef"
-            ]
-        },
-        "title": "To Catch a Beef",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "16",
-        "original_air_date": null,
-        "auth_launch_date": 1781064000,
-        "clip_order": null,
-        "airing_id": "RADS1006052600006874",
-        "media_id": "f5153ede65ab9e2c7f8f7611b26577d725fd4efb",
-        "modified": 1780639164,
-        "slug": "to-catch-a-beef",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181633518-BobsBurgers_1416.jpg",
-        "created": 1758227641,
-        "season_number": "14",
-        "title_id": "2569603",
-        "tv_rating": "tv-pg-l",
-        "published": 1780639164,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181633518-BobsBurgers_1416.jpg",
-        "id": "AZleiLUyyEF1_1NDe6bR",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1782359940,
         "tms_id": "",
         "description": "Tina attempts to save her school news segment by interviewing Mr. Frond about his revolutionary new computer game.",
@@ -420,6 +373,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291452404-BobsBurgers_1509.jpg",
         "id": "AZmW0eurs_ErlMTJpQn-",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1783483140,
+        "tms_id": "",
+        "description": "Tina becomes the new advice columnist for the school newspaper.",
+        "title_suggest": {
+            "input": [
+                "Advice Things Are Ad-nice",
+                "Things Are Ad-nice",
+                "Are Ad-nice",
+                "Ad-nice"
+            ]
+        },
+        "title": "Advice Things Are Ad-nice",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "10",
+        "original_air_date": null,
+        "auth_launch_date": 1782273600,
+        "clip_order": null,
+        "airing_id": "RADS1006162600009076",
+        "media_id": "0f2bfbc9bc411beac72cfba721fc8241b763325e",
+        "modified": 1781850741,
+        "slug": "advice-things-are-ad-nice",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_259291455260-BobsBurgers_1510.jpg",
+        "created": 1759172130,
+        "season_number": "15",
+        "title_id": "2569629",
+        "tv_rating": "tv-pg-l",
+        "published": 1781850741,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291455260-BobsBurgers_1510.jpg",
+        "id": "AZmW1HWVyEF1_1NDe6m2",
         "auth": true
     },
     {
