@@ -1,63 +1,7 @@
 {
-    "updated": 1782305318,
-    "added": [
-        {
-            "auth": true,
-            "ott_launch_date": null,
-            "auth_expiration_date": 1782359940,
-            "tms_id": "EP012647370050",
-            "description": "Kami and King Kai concoct a plan to restore the wish-granting power of the Namekian Dragon Balls, and Goku continues his epic battle with the villainous Frieza!",
-            "title_suggest": {
-                "input": [
-                    "Full-Power Frieza! Shenron, Grant Our Wish!",
-                    "Frieza! Shenron, Grant Our Wish!",
-                    "Shenron, Grant Our Wish!",
-                    "Grant Our Wish!",
-                    "Our Wish!",
-                    "Wish!"
-                ]
-            },
-            "expiration_date": 1776848340,
-            "title": "Full-Power Frieza! Shenron, Grant Our Wish!",
-            "type": "episode",
-            "platforms": [
-                "web",
-                "mobile"
-            ],
-            "duration": 1272.54,
-            "collection_id": "duzujScQQRKOubvQENdNag",
-            "episode_number": "50",
-            "original_air_date": 1449982800,
-            "clip_order": null,
-            "auth_launch_date": 1776848400,
-            "modified": 1782305283,
-            "airing_id": "RADS1004172600097891",
-            "media_id": "0fdbe191d7df4f1430ff0fa82177fc1aefdc02d3",
-            "id": "d5y9E3N6Qdm9fHbQWCXZPg",
-            "slug": "full-power-frieza-shenron-grant-our-wish",
-            "views": 3725,
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/1_2033170409-dragonballzkai_050_air_cid-2N8C6.jpg",
-            "created": 1430773531,
-            "season_number": "1",
-            "title_id": "2031661",
-            "tv_rating": "tv-pg-lv",
-            "active": false,
-            "ott_expiration_date": null,
-            "blacklist": [],
-            "published": 1782305283,
-            "first_published": 1449649239,
-            "tags": [],
-            "collection_title": "Dragon Ball Z Kai",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1776243600,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_2033170409-dragonballzkai_050_air_cid-2N8C6.jpg",
-            "cma_id": "1145940",
-            "collection_slug": "dragon-ball-z-kai",
-            "collection_title_id": "2031611",
-            "online_exclusives": false
-        },
+    "updated": 1782305351,
+    "added": [],
+    "removed": [
         {
             "auth": true,
             "ott_launch_date": null,
@@ -112,6 +56,63 @@
             "launch_date": 1776245400,
             "poster": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_1912101555462-dragonballzkai_051_air_cid-2NR0W-20151214.jpg",
             "cma_id": "1173075",
+            "collection_slug": "dragon-ball-z-kai",
+            "collection_title_id": "2031611",
+            "online_exclusives": false
+        },
+        {
+            "auth": true,
+            "ott_launch_date": null,
+            "auth_expiration_date": 1782359940,
+            "tms_id": "EP012647370050",
+            "description": "Kami and King Kai concoct a plan to restore the wish-granting power of the Namekian Dragon Balls, and Goku continues his epic battle with the villainous Frieza!",
+            "title_suggest": {
+                "input": [
+                    "Full-Power Frieza! Shenron, Grant Our Wish!",
+                    "Frieza! Shenron, Grant Our Wish!",
+                    "Shenron, Grant Our Wish!",
+                    "Grant Our Wish!",
+                    "Our Wish!",
+                    "Wish!"
+                ]
+            },
+            "expiration_date": 1776848340,
+            "title": "Full-Power Frieza! Shenron, Grant Our Wish!",
+            "type": "episode",
+            "platforms": [
+                "web",
+                "mobile"
+            ],
+            "duration": 1272.54,
+            "collection_id": "duzujScQQRKOubvQENdNag",
+            "episode_number": "50",
+            "original_air_date": 1449982800,
+            "clip_order": null,
+            "auth_launch_date": 1776848400,
+            "modified": 1782305283,
+            "airing_id": "RADS1004172600097891",
+            "media_id": "0fdbe191d7df4f1430ff0fa82177fc1aefdc02d3",
+            "id": "d5y9E3N6Qdm9fHbQWCXZPg",
+            "slug": "full-power-frieza-shenron-grant-our-wish",
+            "views": 3725,
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/1_2033170409-dragonballzkai_050_air_cid-2N8C6.jpg",
+            "created": 1430773531,
+            "season_number": "1",
+            "title_id": "2031661",
+            "tv_rating": "tv-pg-lv",
+            "active": false,
+            "ott_expiration_date": null,
+            "blacklist": [],
+            "published": 1782305283,
+            "first_published": 1449649239,
+            "tags": [],
+            "collection_title": "Dragon Ball Z Kai",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1776243600,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200303/thumbnails/2_2033170409-dragonballzkai_050_air_cid-2N8C6.jpg",
+            "cma_id": "1145940",
             "collection_slug": "dragon-ball-z-kai",
             "collection_title_id": "2031611",
             "online_exclusives": false
@@ -228,6 +229,5 @@
             "collection_title_id": "439722",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
