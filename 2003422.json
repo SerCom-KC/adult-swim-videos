@@ -1,55 +1,5 @@
 [
     {
-        "auth_expiration_date": 1782359940,
-        "tms_id": "",
-        "description": "Tina attempts to save her school news segment by interviewing Mr. Frond about his revolutionary new computer game.",
-        "title_suggest": {
-            "input": [
-                "The Tina Table: The Tables Have Tina-ed",
-                "Tina Table: The Tables Have Tina-ed",
-                "Table: The Tables Have Tina-ed",
-                "The Tables Have Tina-ed",
-                "Tables Have Tina-ed",
-                "Have Tina-ed",
-                "Tina-ed"
-            ]
-        },
-        "title": "The Tina Table: The Tables Have Tina-ed",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "1",
-        "original_air_date": null,
-        "auth_launch_date": 1781150400,
-        "clip_order": null,
-        "airing_id": "RADS1006052600007078",
-        "media_id": "078c4e12b3627cc036d7767847eb95659848ec83",
-        "modified": 1780729175,
-        "slug": "the-tina-table-the-tables-have-tina-ed",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/1_259221530313-BobsBurgers_1501.jpg",
-        "created": 1758570216,
-        "season_number": "15",
-        "title_id": "2569620",
-        "tv_rating": "tv-pg-l",
-        "published": 1780729175,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/2_259221530313-BobsBurgers_1501.jpg",
-        "id": "AZly8_tos_ErlMTJpQn3",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1782446340,
         "tms_id": "",
         "description": "When the Belchers visit the local drive-in, Bob comes up with a plan to save the theater from closing.",
@@ -420,6 +370,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291455260-BobsBurgers_1510.jpg",
         "id": "AZmW1HWVyEF1_1NDe6m2",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1783569540,
+        "tms_id": "",
+        "description": "Mr. Fischoeder gets the chance to conduct his favorite symphony.",
+        "title_suggest": {
+            "input": [
+                "Mr. Fischoeder's Opus",
+                "Fischoeder's Opus",
+                "Opus"
+            ]
+        },
+        "title": "Mr. Fischoeder's Opus",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "11",
+        "original_air_date": null,
+        "auth_launch_date": 1782360000,
+        "clip_order": null,
+        "airing_id": "RADS1006182600009382",
+        "media_id": "4fd8c2deeb10a1fa998c076fdfe142b98a88e7ee",
+        "modified": 1781936151,
+        "slug": "mr-fischoeders-opus",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_259291455540-BobsBurgers_1511.jpg",
+        "created": 1759172164,
+        "season_number": "15",
+        "title_id": "2569630",
+        "tv_rating": "tv-pg-l",
+        "published": 1781936151,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291455540-BobsBurgers_1511.jpg",
+        "id": "AZmW1PukyEF1_1NDe6m4",
         "auth": true
     },
     {
