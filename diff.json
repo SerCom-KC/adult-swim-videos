@@ -1,7 +1,6 @@
 {
-    "updated": 1782429401,
-    "added": [],
-    "removed": [
+    "updated": 1782434980,
+    "added": [
         {
             "auth": true,
             "ott_launch_date": null,
@@ -33,8 +32,8 @@
             "original_air_date": 1453611600,
             "clip_order": null,
             "auth_launch_date": 1776934800,
-            "modified": 1776508189,
-            "airing_id": "RADS1004102600096519",
+            "modified": 1782434932,
+            "airing_id": "RADS1004172600097934",
             "media_id": "df1f68065e0862b08a98b94903972e2eb08f6e4e",
             "id": "3RWEmuwwTi6L8Hu7bSZThQ",
             "slug": "goku-vanishes-into-space-welcome-home-super-warriors",
@@ -48,7 +47,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1776508189,
+            "published": 1782434932,
             "first_published": 1453493420,
             "tags": [],
             "collection_title": "Dragon Ball Z Kai",
@@ -60,68 +59,7 @@
             "collection_slug": "dragon-ball-z-kai",
             "collection_title_id": "2031611",
             "online_exclusives": false
-        },
-        {
-            "auth": true,
-            "ott_launch_date": null,
-            "auth_expiration_date": 1782446340,
-            "tms_id": "EP012647370055",
-            "description": "The wreckage of Frieza's body is rebuilt by the monster's fiendish father! Together, they embark on a mission to eradicate life on Earth. Will Goku return home in time to save his friends?",
-            "title_suggest": {
-                "input": [
-                    "There is Planet Earth, Father! Frieza and King Cold Strike Back!",
-                    "is Planet Earth, Father! Frieza and King Cold Strike Back!",
-                    "Planet Earth, Father! Frieza and King Cold Strike Back!",
-                    "Earth, Father! Frieza and King Cold Strike Back!",
-                    "Father! Frieza and King Cold Strike Back!",
-                    "Frieza and King Cold Strike Back!",
-                    "and King Cold Strike Back!",
-                    "King Cold Strike Back!",
-                    "Cold Strike Back!",
-                    "Strike Back!",
-                    "Back!"
-                ]
-            },
-            "expiration_date": 1777366740,
-            "title": "There is Planet Earth, Father! Frieza and King Cold Strike Back!",
-            "type": "episode",
-            "platforms": [
-                "web",
-                "mobile"
-            ],
-            "duration": 1323,
-            "collection_id": "duzujScQQRKOubvQENdNag",
-            "episode_number": "55",
-            "original_air_date": 1454216400,
-            "clip_order": null,
-            "auth_launch_date": 1777366800,
-            "modified": 1776944794,
-            "airing_id": "RADS1004172600097738",
-            "media_id": "949d5ef7ef6512d2a8f86cf85f8681921b1ec905",
-            "id": "YadRnUbnRUS9VutzyGUv0Q",
-            "slug": "there-is-planet-earth-father-frieza-and-king-cold-strike-back",
-            "views": 2687,
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/1_19121016291-dragonballzkai_055_air_cid-2PF72.jpg",
-            "created": 1430773648,
-            "season_number": "1",
-            "title_id": "2031666",
-            "tv_rating": "tv-pg-lv",
-            "active": false,
-            "ott_expiration_date": null,
-            "blacklist": [],
-            "published": 1776944794,
-            "first_published": 1453882218,
-            "tags": [],
-            "collection_title": "Dragon Ball Z Kai",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1776762000,
-            "poster": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_19121016291-dragonballzkai_055_air_cid-2PF72.jpg",
-            "cma_id": "1184277",
-            "collection_slug": "dragon-ball-z-kai",
-            "collection_title_id": "2031611",
-            "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
