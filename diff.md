@@ -2,18 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: June 28, 2026 at 03:30:14 EDT_
+_Last Update: June 28, 2026 at 04:30:14 EDT_
 ## Video added
 ### Summary
-2012528 Blue Exorcist: 1  
-### 2012531
-**Blue Exorcist S01E03 - Brothers**  
-TV-14-LV 🔒 22:00  
-⌛ July 26, 2026 at 02:59:00 EDT  
-https://www.adultswim.com/videos/blue-exorcist/brothers  
-seriesid=`2012528` titleid=`2012531` id=`IsW7SVH2TR6AHDMR3mfITA` mediaid=`49e389bd647ddce4faf1186fb41ee2a8cf965a27`  
-_Vowing to become an exorcist, Rin is taken to True Cross Academy by the mysterious Mephisto, a friend of Shiro's. The colossal, fortress-like school; Yukio at the top of the class - it's all so mind-boggling for Rin!
-Later, Rin heads to the Exorcist Cram School, as Mephisto warns: "No one can know that you're the son of Satan."_  
-<a href="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/blueexorcist_cc_003_pt2-03.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/blueexorcist_cc_003_pt2-03.jpg" height="144px" /></a>
+2584090 Blue Lock: 1  
+### 2584203
+**Blue Lock S01E20 - Super Link-Up Play**  
+ 🔒 21:22  
+⌛ August 24, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/blue-lock/super-link-up-play  
+seriesid=`2584090` titleid=`2584203` id=`AZxEVQdANi2EYjVB1WCm` mediaid=`7b638a44fa22f891c928fe03b813f643f33eac2a`  
+_Isagi and others are set to play a revenge match against the "Top 3," who have defeated them. They're ready to throw everything they have at them._  
+<a href="https://media.cdn.adultswim.com/uploads/20260209/thumbnails/2_26291623330-BlueLock-S01E20.png"><img src="https://media.cdn.adultswim.com/uploads/20260209/thumbnails/2_26291623330-BlueLock-S01E20.png" height="144px" /></a>
 ## Video removed
 No videos were removed.  
