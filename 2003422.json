@@ -1,51 +1,5 @@
 [
     {
-        "auth_expiration_date": 1782705540,
-        "tms_id": "",
-        "description": "Linda agrees to drive Teddy to pick up Kathleen from her colonoscopy after he accidentally injures himself.",
-        "title_suggest": {
-            "input": [
-                "Colon-ly the Dronely",
-                "the Dronely",
-                "Dronely"
-            ]
-        },
-        "title": "Colon-ly the Dronely",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "3",
-        "original_air_date": null,
-        "auth_launch_date": 1781496000,
-        "clip_order": null,
-        "airing_id": "RADS1006112600008030",
-        "media_id": "4f2b56297f7b8571a7cb4ad18785e958b4db5c9a",
-        "modified": 1781151326,
-        "slug": "colon-ly-the-dronely",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/1_259221719502-BobsBurgers_1503.jpg",
-        "created": 1758576000,
-        "season_number": "15",
-        "title_id": "2569622",
-        "tv_rating": "tv-pg-lv",
-        "published": 1781151326,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/2_259221719502-BobsBurgers_1503.jpg",
-        "id": "AZlzTD2cs_ErlMTJpQn4",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1782791940,
         "tms_id": "",
         "description": "Louise trains Tina to be the last student standing during a cheese throwing battle.",
@@ -277,6 +231,50 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291452404-BobsBurgers_1509.jpg",
         "id": "AZmW0eurs_ErlMTJpQn-",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1783915140,
+        "tms_id": "",
+        "description": "Tina, Gene, and Louise strike it rich in the illegal snack business at school.",
+        "title_suggest": {
+            "input": [
+                "Snackface"
+            ]
+        },
+        "title": "Snackface",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "13",
+        "original_air_date": null,
+        "auth_launch_date": 1782705600,
+        "clip_order": null,
+        "airing_id": "RADS1006232600009744",
+        "media_id": "4728cd964c86b62e9d514da3365b4c6fe32da426",
+        "modified": 1782279163,
+        "slug": "snackface",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_259291457218-BobsBurgers_1513.jpg",
+        "created": 1759172314,
+        "season_number": "15",
+        "title_id": "2569632",
+        "tv_rating": "tv-pg-l",
+        "published": 1782279163,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291457218-BobsBurgers_1513.jpg",
+        "id": "AZmW10YuyEF1_1NDe6m6",
         "auth": true
     },
     {
