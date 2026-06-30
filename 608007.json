@@ -416,11 +416,7 @@
     },
     {
         "auth_expiration_date": 1788753540,
-        "created": 1782159660,
         "tms_id": "",
-        "title_id": "2573265",
-        "season_number": "18",
-        "tv_rating": "tv-14-lv",
         "description": "Luffy faces Grount, a Navy soldier with a powerful punch, in a thrilling showdown to secure their stolen food.",
         "title_suggest": {
             "input": [
@@ -435,21 +431,38 @@
                 "Grount!"
             ]
         },
-        "published": 1782306184,
         "title": "The Devil's Fist! A Show Down! Luffy vs. Grount!",
         "type": "episode",
-        "tags": [],
+        "expiration_date": null,
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
         "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
         "duration": 1286.1182,
-        "episode_number": "",
-        "collection_title": "One Piece",
+        "episode_number": "36",
         "original_air_date": 1782624600,
         "auth_launch_date": 1782637200,
-        "modified_by": "ODT Listener",
+        "clip_order": null,
         "airing_id": "RADS1006222600009675",
         "media_id": "2c70747877cc629f8763db377ca3e021c6c0c841",
-        "modified": 1782306184,
+        "modified": 1782847748,
         "slug": "the-devils-fist-a-show-down-luffy-vs-grount",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20260630/thumbnails/1_266301528338-OnePiece782_s18ep36.png",
+        "created": 1782159660,
+        "title_id": "2573265",
+        "season_number": "18",
+        "tv_rating": "tv-14-lv",
+        "published": 1782847748,
+        "tags": [],
+        "collection_title": "One Piece",
+        "disable_ads": false,
+        "modified_by": "undefined undefined",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20260630/thumbnails/2_266301528338-OnePiece782_s18ep36.png",
         "id": "AZ7w_laDS4HfauEvf2HM",
         "auth": true
     }
