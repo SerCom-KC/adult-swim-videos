@@ -1,7 +1,6 @@
 {
-    "updated": 1782911059,
-    "added": [],
-    "removed": [
+    "updated": 1782913838,
+    "added": [
         {
             "auth": true,
             "ott_launch_date": null,
@@ -33,9 +32,9 @@
             "original_air_date": 1458446400,
             "clip_order": null,
             "auth_launch_date": 1778058000,
-            "modified": 1777631392,
+            "modified": 1782913775,
             "media_id": "a98a0b44376d001b665cbc2b99589f8962f59777",
-            "airing_id": "RADS1004242600098843",
+            "airing_id": "RADS1004292600000089",
             "id": "ooMN1FZ1T_OfgO_S8kOn6g",
             "slug": "piccolos-assault-android-20-and-the-twisted-future",
             "views": 2589,
@@ -48,7 +47,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1777631392,
+            "published": 1782913775,
             "first_published": 1458112218,
             "tags": [],
             "collection_title": "Dragon Ball Z Kai",
@@ -93,7 +92,7 @@
             "original_air_date": 1459051200,
             "clip_order": null,
             "auth_launch_date": 1778059800,
-            "modified": 1777644156,
+            "modified": 1782913775,
             "media_id": "2770014e89812cd1ffb400b538245c8fe779587f",
             "airing_id": "RADS1004292600000091",
             "id": "y7XIBtSUSCivOZQvwirzuA",
@@ -108,7 +107,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1777644156,
+            "published": 1782913775,
             "first_published": 1458717035,
             "tags": [],
             "collection_title": "Dragon Ball Z Kai",
@@ -121,5 +120,6 @@
             "collection_title_id": "2031611",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
