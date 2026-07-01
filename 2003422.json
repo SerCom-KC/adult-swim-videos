@@ -1,53 +1,5 @@
 [
     {
-        "auth_expiration_date": 1782878340,
-        "tms_id": "",
-        "description": "It's a mystery within a mystery as Louise stages a murder mystery in a creepy old dollhouse store for reasons that she has trouble explaining.",
-        "title_suggest": {
-            "input": [
-                "For Whom the Doll Toes",
-                "Whom the Doll Toes",
-                "the Doll Toes",
-                "Doll Toes",
-                "Toes"
-            ]
-        },
-        "title": "For Whom the Doll Toes",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "5",
-        "original_air_date": null,
-        "auth_launch_date": 1781668800,
-        "clip_order": null,
-        "airing_id": "RADS1006112600008187",
-        "media_id": "48ee8ba3895a30cd145372ef0f688ea9dec20d9e",
-        "modified": 1781244958,
-        "slug": "for-whom-the-doll-toes",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/1_259221742300-BobsBurgers_1505.jpg",
-        "created": 1758578318,
-        "season_number": "15",
-        "title_id": "2569623",
-        "tv_rating": "tv-pg-l",
-        "published": 1781244958,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/2_259221742300-BobsBurgers_1505.jpg",
-        "id": "AZlzb5x1yEF1_1NDe6fk",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1783051140,
         "tms_id": "",
         "description": "The kids want to host an open mic night at the restaurant, but the hidden costs keep mounting, and Bob worries that this night will ruin them.",
@@ -419,6 +371,54 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_25929155380-BobsBurgers_1514.jpg",
         "id": "AZmW3cwVs_ErlMTJpQoA",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1784087940,
+        "tms_id": "",
+        "description": "The Belchers have a wild night at a casino, and Linda learns more about her late grandfather than she wanted to know.",
+        "title_suggest": {
+            "input": [
+                "The Lost City of Atlantic",
+                "Lost City of Atlantic",
+                "City of Atlantic",
+                "of Atlantic",
+                "Atlantic"
+            ]
+        },
+        "title": "The Lost City of Atlantic",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "15",
+        "original_air_date": null,
+        "auth_launch_date": 1782878400,
+        "clip_order": null,
+        "airing_id": "RADS1006242600009885",
+        "media_id": "8cdfaa9f7115eee5633db57c70dd9b8c42489d1c",
+        "modified": 1782454719,
+        "slug": "the-lost-city-of-atlantic",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_25929159231-BobsBurgers_1515.jpg",
+        "created": 1759172968,
+        "season_number": "15",
+        "title_id": "2569634",
+        "tv_rating": "tv-pg-l",
+        "published": 1782454719,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_25929159231-BobsBurgers_1515.jpg",
+        "id": "AZmW4UBkyEF1_1NDe6m8",
         "auth": true
     },
     {
