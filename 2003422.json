@@ -422,19 +422,15 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1782964740,
+        "auth_expiration_date": 1784174340,
         "tms_id": "",
-        "description": "Tina and Louise get into an argument that escalates across several graphic \"apology\" cards.",
+        "description": "Insomnia sends Bob on a creative spree in the kitchen, but at what cost?",
         "title_suggest": {
             "input": [
-                "They Slug Horses, Don't They?",
-                "Slug Horses, Don't They?",
-                "Horses, Don't They?",
-                "Don't They?",
-                "They?"
+                "Insomnibob"
             ]
         },
-        "title": "They Slug Horses, Don't They?",
+        "title": "Insomnibob",
         "expiration_date": null,
         "type": "episode",
         "platforms": [
@@ -445,28 +441,28 @@
         ],
         "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
         "duration": 0,
-        "episode_number": "6",
+        "episode_number": "16",
         "original_air_date": null,
-        "auth_launch_date": 1781755200,
+        "auth_launch_date": 1782964800,
         "clip_order": null,
-        "airing_id": "RADS1006132600008559",
-        "media_id": "2bcbe4e02b64e29ff51a4e242b49e81e96f01852",
-        "modified": 1781395240,
-        "slug": "they-slug-horses-dont-they",
+        "airing_id": "RADS1006262600010200",
+        "media_id": "725402d963d34696ab1e5d7d0ccd17c47b7e5c1f",
+        "modified": 1782541172,
+        "slug": "insomnibob",
         "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_259291442109-BobsBurgers_1506.jpg",
-        "created": 1759171588,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_259291511170-BobsBurgers_1516.jpg",
+        "created": 1759173082,
         "season_number": "15",
-        "title_id": "2569627",
+        "title_id": "2569641",
         "tv_rating": "tv-pg-l",
-        "published": 1781395240,
+        "published": 1782541172,
         "tags": [],
         "collection_title": "Bob's Burgers",
         "disable_ads": false,
         "modified_by": "ODT Listener",
         "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291442109-BobsBurgers_1506.jpg",
-        "id": "AZmWzDBYs_ErlMTJpQn7",
+        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291511170-BobsBurgers_1516.jpg",
+        "id": "AZmW4v6Xs_ErlMTJpQoB",
         "auth": true
     }
 ]
