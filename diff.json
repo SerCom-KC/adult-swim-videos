@@ -1,7 +1,6 @@
 {
-    "updated": 1783031413,
-    "added": [],
-    "removed": [
+    "updated": 1783036850,
+    "added": [
         {
             "auth": true,
             "ott_launch_date": null,
@@ -35,7 +34,7 @@
             "original_air_date": 1469331000,
             "clip_order": null,
             "auth_launch_date": 1779958800,
-            "modified": 1783029060,
+            "modified": 1783036385,
             "media_id": "47af952f0cb53d7e7ed1734f0e40d611f8a3cde0",
             "airing_id": "RADS1005222600004067",
             "id": "ujRAXL69RHiArJMPy1IaAQ",
@@ -50,7 +49,7 @@
             "ott_expiration_date": null,
             "active": false,
             "blacklist": [],
-            "published": 1783029060,
+            "published": 1783036385,
             "first_published": 1468995020,
             "tags": [],
             "collection_title": "Dragon Ball Z Kai",
@@ -62,6 +61,61 @@
             "collection_slug": "dragon-ball-z-kai",
             "collection_title_id": "2031611",
             "online_exclusives": false
+        },
+        {
+            "auth": false,
+            "ott_launch_date": 1447446900,
+            "auth_expiration_date": 1693540799,
+            "tms_id": "EP007008180087",
+            "description": "Early takes one for the team, the wrong team, in the battle over marriage equality.",
+            "title_suggest": {
+                "input": [
+                    "Hetero-Cephalo Agenda",
+                    "Agenda"
+                ]
+            },
+            "expiration_date": 1783742340,
+            "title": "Hetero-Cephalo Agenda",
+            "type": "episode",
+            "platforms": [
+                "web",
+                "mobile",
+                "ott"
+            ],
+            "collection_id": "7RvtaeAjRF6oihhda48FjQ",
+            "duration": 684.8340284,
+            "episode_number": "1",
+            "original_air_date": 1411357500,
+            "clip_order": null,
+            "auth_launch_date": 1686369600,
+            "modified": 1783036385,
+            "media_id": "55725df67cf53e5b7a1289cc88ea90f4b8eef126",
+            "airing_id": "RADS1010282500065216",
+            "id": "9RHtWOsORQyjzX4C8U5TSQ",
+            "slug": "hetero-cephalo-agenda",
+            "views": 5,
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200414/thumbnails/1_20414115215-squidbillies_087_dup-20140919.jpg",
+            "created": 1410582506,
+            "season_number": "9",
+            "title_id": "2032577",
+            "tv_rating": "tv-14-dlsv",
+            "active": false,
+            "ott_expiration_date": null,
+            "blacklist": [],
+            "published": 1783036385,
+            "first_published": 1411294828,
+            "tags": [],
+            "collection_title": "Squidbillies",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1761710400,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_20414115215-squidbillies_087_dup-20140919.jpg",
+            "cma_id": "1477351",
+            "collection_slug": "squidbillies",
+            "collection_title_id": "581268",
+            "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
