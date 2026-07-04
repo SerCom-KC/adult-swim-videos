@@ -275,7 +275,7 @@
         "cma_id": "1049938"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1783137540,
         "tms_id": "EP007833440029",
@@ -323,7 +323,7 @@
         "cma_id": ""
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1783742340,
         "tms_id": "",
@@ -421,7 +421,7 @@
     {
         "auth": false,
         "ott_launch_date": null,
-        "auth_expiration_date": 1752897540,
+        "auth_expiration_date": 1784951940,
         "tms_id": "",
         "description": "Episode 8 - I Like You, I Like You, I Love You!",
         "title_suggest": {
@@ -449,10 +449,10 @@
         "episode_number": "8",
         "original_air_date": 1134876600,
         "clip_order": null,
-        "auth_launch_date": 1752292800,
-        "modified": 1752649506,
+        "auth_launch_date": 1784347200,
+        "modified": 1783137868,
         "media_id": "f7ecada2379f9361eb25c35802e2e56ce70fead8",
-        "airing_id": "RADS1007142500046709",
+        "airing_id": "RADS1007032600012196",
         "id": "Yv8NJBHMSIe_B_oiakKORQ",
         "slug": "i-like-you-i-like-you-i-love-you",
         "exclude_from_search": false,
@@ -464,7 +464,7 @@
         "active": false,
         "blacklist": [],
         "ott_expiration_date": null,
-        "published": 1752649506,
+        "published": 1783137868,
         "tags": [],
         "collection_title": "IGPX",
         "disable_ads": false,

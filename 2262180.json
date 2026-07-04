@@ -44,7 +44,7 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1781323140,
+        "auth_expiration_date": 1788580740,
         "tms_id": "EP038016760002",
         "description": "Judy partners with a tech therapy company and spills the company\u2019s deepest secrets.",
         "title_suggest": {
@@ -65,11 +65,11 @@
         "duration": 1352.1174,
         "episode_number": "2",
         "original_air_date": 1618200000,
-        "auth_launch_date": 1777089600,
+        "auth_launch_date": 1784347200,
         "clip_order": null,
-        "airing_id": "RADS1004202600098082",
+        "airing_id": "RADS1007032600012204",
         "media_id": "498a8d6bc6f6c9004e4c23f104f9003df35cc4f6",
-        "modified": 1780904781,
+        "modified": 1783137868,
         "slug": "share-bear",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20210409/thumbnails/1_2149174497-birdgirl_102_ShareBear.jpg",
@@ -77,7 +77,7 @@
         "title_id": "2262182",
         "season_number": "1",
         "tv_rating": "tv-14-dl",
-        "published": 1780904781,
+        "published": 1783137868,
         "tags": [],
         "collection_title": "Birdgirl",
         "disable_ads": false,
@@ -222,7 +222,7 @@
         "launch_date": 1783137600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210430/thumbnails/2_214301450549-BirdGirl_105_ToppleThePopple.png",
         "id": "AXkeotrFBH5Z6gH5aWO1",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1783742340,
@@ -279,7 +279,7 @@
             ]
         },
         "title": "The Wanky",
-        "expiration_date": 1780113540,
+        "expiration_date": 1787371140,
         "type": "episode",
         "platforms": [
             "android",
@@ -293,9 +293,9 @@
         "original_air_date": "1655695800",
         "auth_launch_date": 1780113600,
         "clip_order": null,
-        "airing_id": "RADS1005252600004400",
+        "airing_id": "RADS1007032600012202",
         "media_id": "89db1ca3468a5e75f93a8d5d6e3a45bef53dfd78",
-        "modified": 1779729390,
+        "modified": 1783137868,
         "slug": "the-wanky",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20220615/thumbnails/1_226151058534-Birdgirl_202_TheWanky.png",
@@ -303,12 +303,12 @@
         "season_number": "2",
         "title_id": "2387775",
         "tv_rating": "tv-ma-ls",
-        "published": 1779729390,
+        "published": 1783137868,
         "tags": [],
         "collection_title": "Birdgirl",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1777089600,
+        "launch_date": 1784347200,
         "poster": "https://media.cdn.adultswim.com/uploads/20220615/thumbnails/2_226151058534-Birdgirl_202_TheWanky.png",
         "id": "AYFn4Av0208s7zyYUNIl",
         "auth": true
@@ -542,6 +542,6 @@
         "launch_date": 1780113600,
         "poster": "https://media.cdn.adultswim.com/uploads/20220712/thumbnails/2_227121046500-Birdgirl_206_TheSIM.png",
         "id": "AYHy4LH1IAxeiVkFtLQU",
-        "auth": false
+        "auth": true
     }
 ]
