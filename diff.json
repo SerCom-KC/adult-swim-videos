@@ -1,7 +1,6 @@
 {
-    "updated": 1783164613,
-    "added": [],
-    "removed": [
+    "updated": 1783166412,
+    "added": [
         {
             "auth": true,
             "ott_launch_date": null,
@@ -34,9 +33,9 @@
             "original_air_date": 1462680000,
             "clip_order": null,
             "auth_launch_date": 1778749200,
-            "modified": 1778322565,
+            "modified": 1783164894,
             "media_id": "cd9a6665590234cb3f83bf8484257e0bce302685",
-            "airing_id": "RADS1004302600000246",
+            "airing_id": "RADS1005082600002007",
             "id": "14LlkbamTE-AAioPactpqg",
             "slug": "i-am-your-brother-the-monster-with-gokus-energy",
             "views": 2819,
@@ -49,7 +48,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1778322565,
+            "published": 1783164894,
             "first_published": 1462403460,
             "tags": [],
             "collection_title": "Dragon Ball Z Kai",
@@ -95,7 +94,7 @@
             "original_air_date": 1462075200,
             "clip_order": null,
             "auth_launch_date": 1778664600,
-            "modified": 1778246207,
+            "modified": 1783164901,
             "media_id": "dab30a01bc548760690cbca87a8e610a035b1eaf",
             "airing_id": "RADS1005072600001863",
             "id": "d-t_8wWPS3-mM_ppra-yzA",
@@ -110,7 +109,7 @@
             "active": false,
             "ott_expiration_date": null,
             "blacklist": [],
-            "published": 1778246207,
+            "published": 1783164901,
             "first_published": 1461744637,
             "tags": [],
             "collection_title": "Dragon Ball Z Kai",
@@ -123,5 +122,6 @@
             "collection_title_id": "2031611",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
