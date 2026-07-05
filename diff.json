@@ -1,63 +1,6 @@
 {
-    "updated": 1783224028,
+    "updated": 1783224070,
     "added": [
-        {
-            "auth": false,
-            "ott_launch_date": null,
-            "auth_expiration_date": 1764478740,
-            "tms_id": "EP015632430022",
-            "description": "Interviews with Seth Rogen and Asa Akira; Musical guest Exhumed and The Supremes.",
-            "title_suggest": {
-                "input": [
-                    "Seth Rogen; Asa Akira",
-                    "Rogen; Asa Akira",
-                    "Asa Akira",
-                    "Akira"
-                ]
-            },
-            "title": "Seth Rogen; Asa Akira",
-            "type": "episode",
-            "expiration_date": 1786247940,
-            "platforms": [
-                "web",
-                "mobile"
-            ],
-            "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
-            "duration": 676.0667334,
-            "episode_number": "1",
-            "original_air_date": 1415337300,
-            "clip_order": null,
-            "auth_launch_date": 1761451200,
-            "modified": 1782799472,
-            "media_id": "8aa5d058687a0de93dcfc2247886c81195fa1ba2",
-            "airing_id": "RADS1006292600011018",
-            "id": "BHK7jhhHQby3_ZfgbBQYDA",
-            "slug": "seth-rogen-asa-akira",
-            "views": 11,
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_2034161584-ericandre_021_dup-20141023.jpg",
-            "created": 1415208027,
-            "title_id": "2032596",
-            "tv_rating": "tv-ma-l",
-            "season_number": "3",
-            "active": false,
-            "ott_expiration_date": null,
-            "blacklist": [],
-            "published": 1782799472,
-            "first_published": 1415208027,
-            "tags": [],
-            "collection_title": "The Eric Andre Show",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1783224000,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034161584-ericandre_021_dup-20141023.jpg",
-            "cma_id": "2032596",
-            "collection_slug": "the-eric-andre-show",
-            "collection_title_id": "895948",
-            "online_exclusives": false
-        }
-    ],
-    "removed": [
         {
             "auth": false,
             "ott_launch_date": 1448046840,
@@ -157,6 +100,63 @@
             "poster": "https://media.cdn.adultswim.com/uploads/20230605/thumbnails/2_2365818485-EASEpisode1Thumbtiny.png",
             "id": "AYh39nedOz5CkuTcnvn7",
             "auth": true,
+            "collection_slug": "the-eric-andre-show",
+            "collection_title_id": "895948",
+            "online_exclusives": false
+        }
+    ],
+    "removed": [
+        {
+            "auth": false,
+            "ott_launch_date": null,
+            "auth_expiration_date": 1764478740,
+            "tms_id": "EP015632430022",
+            "description": "Interviews with Seth Rogen and Asa Akira; Musical guest Exhumed and The Supremes.",
+            "title_suggest": {
+                "input": [
+                    "Seth Rogen; Asa Akira",
+                    "Rogen; Asa Akira",
+                    "Asa Akira",
+                    "Akira"
+                ]
+            },
+            "title": "Seth Rogen; Asa Akira",
+            "type": "episode",
+            "expiration_date": 1786247940,
+            "platforms": [
+                "web",
+                "mobile"
+            ],
+            "collection_id": "OG-wJ4G6R9an0JlbgDV7fA",
+            "duration": 676.0667334,
+            "episode_number": "1",
+            "original_air_date": 1415337300,
+            "clip_order": null,
+            "auth_launch_date": 1761451200,
+            "modified": 1782799472,
+            "media_id": "8aa5d058687a0de93dcfc2247886c81195fa1ba2",
+            "airing_id": "RADS1006292600011018",
+            "id": "BHK7jhhHQby3_ZfgbBQYDA",
+            "slug": "seth-rogen-asa-akira",
+            "views": 11,
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/1_2034161584-ericandre_021_dup-20141023.jpg",
+            "created": 1415208027,
+            "title_id": "2032596",
+            "tv_rating": "tv-ma-l",
+            "season_number": "3",
+            "active": false,
+            "ott_expiration_date": null,
+            "blacklist": [],
+            "published": 1782799472,
+            "first_published": 1415208027,
+            "tags": [],
+            "collection_title": "The Eric Andre Show",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1783224000,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034161584-ericandre_021_dup-20141023.jpg",
+            "cma_id": "2032596",
             "collection_slug": "the-eric-andre-show",
             "collection_title_id": "895948",
             "online_exclusives": false
