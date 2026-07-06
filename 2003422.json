@@ -1,50 +1,5 @@
 [
     {
-        "auth_expiration_date": 1783310340,
-        "tms_id": "",
-        "description": "When Louise signs up for a father-daughter boogie board contest, Bob's past comes back to haunt him.",
-        "title_suggest": {
-            "input": [
-                "Boogie Days",
-                "Days"
-            ]
-        },
-        "title": "Boogie Days",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "8",
-        "original_air_date": null,
-        "auth_launch_date": 1782100800,
-        "clip_order": null,
-        "airing_id": "RADS1006162600008871",
-        "media_id": "4b6330b78971465218566858a65678a2612beb36",
-        "modified": 1781685064,
-        "slug": "boogie-days",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_25929145222-BobsBurgers_1508.jpg",
-        "created": 1759171926,
-        "season_number": "15",
-        "title_id": "2569626",
-        "tv_rating": "tv-pg-l",
-        "published": 1781685064,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_25929145222-BobsBurgers_1508.jpg",
-        "id": "AZmW0VmDs_ErlMTJpQn9",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1783396740,
         "tms_id": "",
         "description": "A family trip to go see Christmas lights turns into a rescue mission, in more ways than one.",
@@ -461,6 +416,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291511170-BobsBurgers_1516.jpg",
         "id": "AZmW4v6Xs_ErlMTJpQoB",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1784519940,
+        "tms_id": "",
+        "description": "Bob competes in a Bachelor-style competition to inherit Mr. Fischoeder's 100-year-old giant tortoise.",
+        "title_suggest": {
+            "input": [
+                "The Shell Game",
+                "Shell Game",
+                "Game"
+            ]
+        },
+        "title": "The Shell Game",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "18",
+        "original_air_date": null,
+        "auth_launch_date": 1783310400,
+        "clip_order": null,
+        "airing_id": "RADS1006302600011072",
+        "media_id": "0b90dc0ec919c36bae1ef990c432347a94a273dd",
+        "modified": 1782886781,
+        "slug": "the-shell-game",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_259291513159-BobsBurgers_1518.jpg",
+        "created": 1759173305,
+        "season_number": "15",
+        "title_id": "2569635",
+        "tv_rating": "tv-pg-l",
+        "published": 1782886781,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291513159-BobsBurgers_1518.jpg",
+        "id": "AZmW5mT1s_ErlMTJpQoC",
         "auth": true
     }
 ]
