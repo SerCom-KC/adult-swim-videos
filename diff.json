@@ -1,16 +1,18 @@
 {
-    "updated": 1783843361,
+    "updated": 1783845208,
     "added": [
         {
             "auth_expiration_date": 1787630340,
             "tms_id": "",
-            "description": "The game has entered its final phase, going through a seesaw struggle. Isagi continues to be awakened, and Bachira faces his own ego.",
+            "description": "Two years ago, Mikey learns that Kazutora is beefing with the motorcycle gang, the Black Dragons, and decides he'd fight them as well.",
             "title_suggest": {
                 "input": [
-                    "Voice"
+                    "One For All",
+                    "For All",
+                    "All"
                 ]
             },
-            "title": "Voice",
+            "title": "One For All",
             "expiration_date": null,
             "type": "episode",
             "platforms": [
@@ -19,33 +21,33 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "AZw05SoBc6shItN4M7ll",
-            "duration": 1306.4051,
+            "collection_id": "AZw00-2MNi2EYjVB1WCZ",
+            "duration": 1369.635,
             "episode_number": "22",
             "original_air_date": null,
-            "auth_launch_date": 1783843200,
+            "auth_launch_date": 1783845000,
             "clip_order": null,
-            "airing_id": "RADS1007022600011741",
-            "media_id": "79ced97cdcd3e03bad946efc13e3af00fc709212",
-            "modified": 1783607138,
-            "slug": "voice",
+            "airing_id": "RADS1007022600011743",
+            "media_id": "3b1f52b436f25c8d61c61c01eb83ff4833746096",
+            "modified": 1783607056,
+            "slug": "one-for-all",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20260209/thumbnails/1_26291638352-BlueLock-S01E22.png",
-            "created": 1770673126,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20260302/thumbnails/1_2632153206-TokyoRevengers_S01_E22_Still.png",
+            "created": 1772483526,
             "season_number": "1",
-            "title_id": "2584205",
-            "tv_rating": "",
-            "published": 1783607138,
+            "title_id": "2584181",
+            "tv_rating": "tv-14-dlv",
+            "published": 1783607056,
             "tags": [],
-            "collection_title": "Blue Lock",
+            "collection_title": "Tokyo Revengers",
             "disable_ads": false,
             "modified_by": "ODT Listener",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20260209/thumbnails/2_26291638352-BlueLock-S01E22.png",
-            "id": "AZxEV71PNi2EYjVB1WCn",
+            "poster": "https://media.cdn.adultswim.com/uploads/20260302/thumbnails/2_2632153206-TokyoRevengers_S01_E22_Still.png",
+            "id": "AZywQD7Kc6shItN4M77Y",
             "auth": true,
-            "collection_slug": "blue-lock",
-            "collection_title_id": "2584090",
+            "collection_slug": "tokyo-revengers",
+            "collection_title_id": "2586423",
             "online_exclusives": false
         }
     ],
