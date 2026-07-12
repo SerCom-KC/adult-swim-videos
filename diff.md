@@ -2,68 +2,68 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 11, 2026 at 00:00:41 EDT_
+_Last Update: July 12, 2026 at 00:00:28 EDT_
 ## Video added
 ### Summary
 581006 American Dad: 2  
-### 748165
-**American Dad S07E13 - Dr. Klaustus**  
+2288454 My Adventures with Superman: 1  
+### 748155
+**American Dad S07E15 - Less Money, Mo' Problems**  
 TV-14-DLSV 🔒 21:47  
-⌛ July 17, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/dr-klaustus  
-seriesid=`581006` titleid=`748165` id=`ojhZKE61QxmNVM244Vfh9g` mediaid=`78264e6442dd4f8a27f735273f857642745906db`  
-_After tricking Roger into going to Iraq, Klaus assumes the role of the Smiths' psychologist, but his emphasis on emotional honesty backfires._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200193228141.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200193228141.jpg" height="144px" /></a>
-### 748144
-**American Dad S07E12 - The Wrestler**  
+⌛ July 18, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/less-money-mo-problems  
+seriesid=`581006` titleid=`748155` id=`VJ3Hn0o-TJGGdvSs9gjJSQ` mediaid=`72d9141ef39d2454e02846452ec757824bdbd37f`  
+_Stan bets Jeff and Hayley that he and Fran can live on minimum wage for one month; Roger and Steve test-drive a Ferrari after Klaus brags about having driven one._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15312555106302.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15312555106302.jpg" height="144px" /></a>
+### 748173
+**American Dad S07E14 - Stan's Best Friend**  
 TV-14-DLSV 🔒 21:47  
-⌛ July 17, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-wrestler  
-seriesid=`581006` titleid=`748144` id=`nF04euNRRwCEaj8Ywu4Bzw` mediaid=`020a6c137f00aee0ed76b53ccde5e5af07e8cd7c`  
-_Stan panics when Barry comes close to toppling his longstanding wrestling record at Steve's school - and ends up teaching Roger how to wrestle so he can defeat Barry._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153125463766411.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153125463766411.jpg" height="144px" /></a>
+⌛ July 18, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/stans-best-friend  
+seriesid=`581006` titleid=`748173` id=`b-WsPbuLQXWACdZr89HWww` mediaid=`48b84501f04de04164de330d6041424cf9b67b94`  
+_When Steve's new puppy is gravely injured, Stan attempts to save the dog using a doctor who specializes in alternative medicine._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153125521336317.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153125521336317.jpg" height="144px" /></a>
+### 2536277
+**My Adventures with Superman S03E05 - The Death of Superman**  
+TV-PG-V 🔒 22:32  
+⌛ August 1, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/my-adventures-with-superman/the-death-of-superman  
+seriesid=`2288454` titleid=`2536277` id=`AZ7CAePamJnHw_h9ubBy` mediaid=`0db61a3bc535aefb48f7aff776f827b6424e60e0`  
+_Superman tries to save the city. Our heroes try to save Superman._  
+<a href="https://media.cdn.adultswim.com/uploads/20260613/thumbnails/2_266131322310-SUPR_S3_E5.png"><img src="https://media.cdn.adultswim.com/uploads/20260613/thumbnails/2_266131322310-SUPR_S3_E5.png" height="144px" /></a>
 ## Video removed
 ### Summary
-2031611 Dragon Ball Z Kai: 1  
+2031611 Dragon Ball Z Kai: 2  
 581006 American Dad: 2  
-581268 Squidbillies: 2  
-### 2031688
-**Dragon Ball Z Kai S01E77 - Beyond Super Saiyan! Vegeta Confronts the Monster Cell!**  
+### 2031689
+**Dragon Ball Z Kai S01E78 - Cell on the Verge Of Defeat! Krillin, Destroy Android 18!**  
+TV-PG-LV 🔒 21:59  
+⌛ July 11, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/dragon-ball-z-kai/cell-on-the-verge-of-defeat-krillin-destroy-android-18  
+seriesid=`2031611` titleid=`2031689` id=`ti538NI8St-BDJA3shNWsw` mediaid=`a9dd36d9ebf227102a32c4e6eb5c4406782e0b45`  
+_Gohan struggles to achieve Super Saiyan status, Vegeta considers letting Cell attain his perfect form, and Krillin succumbs to his powerful feelings for a certain pretty Android!_  
+<a href="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_191210168480-dragonballzkai_078_air_cid-2VVGC.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_191210168480-dragonballzkai_078_air_cid-2VVGC.jpg" height="144px" /></a>
+### 2031690
+**Dragon Ball Z Kai S01E79 - The Battle Turns for the Worst! Cell Attacks Android 18!**  
 TV-PG-LV 🔒 21:58  
-⌛ July 10, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/dragon-ball-z-kai/beyond-super-saiyan-vegeta-confronts-the-monster-cell  
-seriesid=`2031611` titleid=`2031688` id=`xtIzGw_wQiakwocxLYpIgQ` mediaid=`860aa459447d260c2006f4423c3763c8c5ce96af`  
-_Vegeta puts his new powers to the test in a shocking slugfest with Cell. Back in the Room of Spirit and Time, Goku attempts to teach Gohan the secret to a Super Saiyan transformation!_  
-<a href="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_191210168346-dragonballzkai_077_air_cid-2VVG3.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_191210168346-dragonballzkai_077_air_cid-2VVG3.jpg" height="144px" /></a>
-### 748171
-**American Dad S07E01 - Hot Water**  
-TV-14-DLSV 🔒 21:47  
-⌛ July 10, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/hot-water  
-seriesid=`581006` titleid=`748171` id=`A1V1PZvHS4OXqQOQznUoZw` mediaid=`3a9c1f53b5c37b42e208111387291329be33ddaa`  
-_Stan battles an evil hot tub bent on killing his family._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151994107786310.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151994107786310.jpg" height="144px" /></a>
-### 748163
-**American Dad S06E19 - Gorillas in the Mist**  
+⌛ July 11, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/dragon-ball-z-kai/the-battle-turns-for-the-worst-cell-attacks-android-18  
+seriesid=`2031611` titleid=`2031690` id=`ujRAXL69RHiArJMPy1IaAQ` mediaid=`47af952f0cb53d7e7ed1734f0e40d611f8a3cde0`  
+_Vegeta's unrivaled arrogance and Krillin's unusual affection for Androids help Cell move one step closer to his perfect form. Meanwhile, Gohan struggles to achieve Super Saiyan status!_  
+<a href="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_19121016916-dragonballzkai_079_air_cid-2W69V.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_19121016916-dragonballzkai_079_air_cid-2W69V.jpg" height="144px" /></a>
+### 748160
+**American Dad S07E02 - Hurricane**  
 TV-14 🔒 21:47  
-⌛ July 10, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/gorillas-in-the-mist  
-seriesid=`581006` titleid=`748163` id=`SpKY05_QS_a8wZkZQtAl9A` mediaid=`01f8999b06c60cc3e23ff941ccf811541fe78f5f`  
-_Stan spends some quality father-son time with Steve at the local zoo, but things go wrong when Steve slips into a gorilla exhibit._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153010781436415.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153010781436415.jpg" height="144px" /></a>
-### 2032577
-**Squidbillies S09E01 - Hetero-Cephalo Agenda**  
-TV-14-DLSV 🔓 11:24  
-⌛ July 10, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/hetero-cephalo-agenda  
-seriesid=`581268` titleid=`2032577` id=`9RHtWOsORQyjzX4C8U5TSQ` mediaid=`55725df67cf53e5b7a1289cc88ea90f4b8eef126`  
-_Early takes one for the team, the wrong team, in the battle over marriage equality._  
-<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_20414115215-squidbillies_087_dup-20140919.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_20414115215-squidbillies_087_dup-20140919.jpg" height="144px" /></a>
-### 758319
-**Squidbillies S04E09 - Reunited, And It Feels No Good**  
-TV-MA 🔓 11:34  
-⌛ July 10, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/reunited-and-it-feels-no-good  
-seriesid=`581268` titleid=`758319` id=`Pkv_EQNIRYCx9vTHS5595g` mediaid=`bafae87e437525bbce65fe2612eee88aa3cd2e49`  
-_Early learns the importance of family, and profiting off them._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131221349-squidbillies_049_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131221349-squidbillies_049_bim.jpg" height="144px" /></a>
+⌛ July 11, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/hurricane  
+seriesid=`581006` titleid=`748160` id=`2gmRoTtyRGCQHA7zZCE0BQ` mediaid=`f52323839790401eae9989ddc5e47635b32dea7d`  
+_Stan attempts to save his family after a hurricane floods Lower Langley--despite Fran's warnings that Stan is a bad decision-maker during a crisis._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15301994091132.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15301994091132.jpg" height="144px" /></a>
+### 748154
+**American Dad S07E03 - A Ward Show**  
+TV-14-DLSV 🔒 21:46  
+⌛ July 11, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/a-ward-show  
+seriesid=`581006` titleid=`748154` id=`aajGKfacRUOpnrGFoACTfg` mediaid=`4e29d2fdc17e3f6bff35545973536027b8ec1973`  
+_After he's appointed Steve's legal guardian, Roger has Principal Lewis fired for letting Steve break the school's rules; Stan and Fran vacation at a waterpark._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153019937465319.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-153019937465319.jpg" height="144px" /></a>
