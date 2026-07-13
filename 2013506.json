@@ -7427,7 +7427,7 @@
         "launch_date": 1783911600,
         "poster": "https://media.cdn.adultswim.com/uploads/20260522/thumbnails/2_26522173486-RAM_S9_05_906_JerBud-Preferred.png",
         "id": "AZ5RnGFdS4HfauEvf2F_",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1784516340,
@@ -7518,6 +7518,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20260522/thumbnails/2_265221735521-RAM_S9_07_910_MortgullyTheLastRickforest-Preferred.png",
         "id": "AZ5RnddWmJnHw_h9uat-",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1785725940,
+        "tms_id": "",
+        "description": "Hold still, broh. It'll make you nice, broh.",
+        "title_suggest": {
+            "input": [
+                "Rickuiem Mort a Dream",
+                "Mort a Dream",
+                "a Dream",
+                "Dream"
+            ]
+        },
+        "title": "Rickuiem Mort a Dream",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 1364.73,
+        "episode_number": "8",
+        "original_air_date": null,
+        "auth_launch_date": 1783911600,
+        "clip_order": null,
+        "airing_id": "RADS1007102600012447",
+        "media_id": "5dc246ee60493fc4928a21ed7313fc12b3658d5a",
+        "modified": 1783720805,
+        "slug": "rickuiem-mort-a-dream",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20260522/thumbnails/1_265221736268-RAM_S9_08_903_RickuiemMortADream-Preferred.png",
+        "created": 1779485841,
+        "season_number": "9",
+        "title_id": "2586555",
+        "tv_rating": "tv-ma-lsv",
+        "published": 1783720805,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20260522/thumbnails/2_265221736268-RAM_S9_08_903_RickuiemMortADream-Preferred.png",
+        "id": "AZ5RnxcjS4HfauEvf2GA",
         "auth": true
     },
     {
