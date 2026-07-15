@@ -96,6 +96,52 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1785297540,
+        "tms_id": "",
+        "description": "A school assignment about careers sends Louise spiraling, trying to imagine what her future might hold.",
+        "title_suggest": {
+            "input": [
+                "What About Job?",
+                "About Job?",
+                "Job?"
+            ]
+        },
+        "title": "What About Job?",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "3",
+        "original_air_date": null,
+        "auth_launch_date": 1784088000,
+        "clip_order": null,
+        "airing_id": "RADS1007032600012032",
+        "media_id": "9da44fe0d8bb21789cccdc20dc39ab28cc3aadac",
+        "modified": 1783663536,
+        "slug": "what-about-job",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181027498-BobsBurgers_1303.jpg",
+        "created": 1758205673,
+        "season_number": "13",
+        "title_id": "2569569",
+        "tv_rating": "tv-pg-lv",
+        "published": 1783663536,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181027498-BobsBurgers_1303.jpg",
+        "id": "AZldOYD1s_ErlMTJpQnn",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1784260740,
         "tms_id": "",
         "description": "Tina's lost book of semi-erotic Horse-torical Fiction lands in the hands of a mysterious stranger with nefarious intentions.",
@@ -138,54 +184,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_25929151237-BobsBurgers_1517.jpg",
         "id": "AZmW47AkyEF1_1NDe6m9",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1784087940,
-        "tms_id": "",
-        "description": "The Belchers have a wild night at a casino, and Linda learns more about her late grandfather than she wanted to know.",
-        "title_suggest": {
-            "input": [
-                "The Lost City of Atlantic",
-                "Lost City of Atlantic",
-                "City of Atlantic",
-                "of Atlantic",
-                "Atlantic"
-            ]
-        },
-        "title": "The Lost City of Atlantic",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "15",
-        "original_air_date": null,
-        "auth_launch_date": 1782878400,
-        "clip_order": null,
-        "airing_id": "RADS1006242600009885",
-        "media_id": "8cdfaa9f7115eee5633db57c70dd9b8c42489d1c",
-        "modified": 1782454719,
-        "slug": "the-lost-city-of-atlantic",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_25929159231-BobsBurgers_1515.jpg",
-        "created": 1759172968,
-        "season_number": "15",
-        "title_id": "2569634",
-        "tv_rating": "tv-pg-l",
-        "published": 1782454719,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_25929159231-BobsBurgers_1515.jpg",
-        "id": "AZmW4UBkyEF1_1NDe6m8",
         "auth": true
     },
     {
