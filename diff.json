@@ -1,62 +1,6 @@
 {
-    "updated": 1784428213,
-    "added": [],
-    "removed": [
-        {
-            "auth": true,
-            "ott_launch_date": null,
-            "auth_expiration_date": 1784433540,
-            "tms_id": "EP012647370090",
-            "description": "Goku and Cell prepare to square off in what may be the greatest battle in history! Both fighters are hesitant to reveal their true powers, but once blows are exchanged, the violence quickly escalates!",
-            "title_suggest": {
-                "input": [
-                    "Showdown! Cell vs. Goku!",
-                    "Cell vs. Goku!",
-                    "vs. Goku!",
-                    "Goku!"
-                ]
-            },
-            "title": "Showdown! Cell vs. Goku!",
-            "type": "episode",
-            "expiration_date": 1781083740,
-            "platforms": [
-                "web",
-                "mobile"
-            ],
-            "collection_id": "duzujScQQRKOubvQENdNag",
-            "duration": 1318,
-            "episode_number": "88",
-            "original_air_date": 1475380800,
-            "clip_order": null,
-            "auth_launch_date": 1781083800,
-            "modified": 1780667351,
-            "media_id": "973d7decdc03dd64c9de0b038a1e68b71d2c0fbb",
-            "airing_id": "RADS1005272600004953",
-            "id": "IJJC694wSgKhm7_CjnWgDw",
-            "slug": "showdown-cell-vs-goku",
-            "views": 3137,
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/1_1912101614118-dragonballzkai_088_air_cid-2XD7C.jpg",
-            "created": 1475053821,
-            "title_id": "2031699",
-            "tv_rating": "tv-pg",
-            "season_number": "1",
-            "ott_expiration_date": null,
-            "active": false,
-            "blacklist": [],
-            "published": 1780667351,
-            "first_published": 1475053821,
-            "tags": [],
-            "collection_title": "Dragon Ball Z Kai",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1780479000,
-            "poster": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_1912101614118-dragonballzkai_088_air_cid-2XD7C.jpg",
-            "cma_id": "1296690",
-            "collection_slug": "dragon-ball-z-kai",
-            "collection_title_id": "2031611",
-            "online_exclusives": false
-        },
+    "updated": 1784430014,
+    "added": [
         {
             "auth": true,
             "ott_launch_date": null,
@@ -89,9 +33,9 @@
             "original_air_date": 1475985600,
             "clip_order": null,
             "auth_launch_date": 1781168400,
-            "modified": 1780745440,
+            "modified": 1784429515,
             "media_id": "676a94da6a232b0bf06f96f4478fcd7a4ee69638",
-            "airing_id": "RADS1005282600005064",
+            "airing_id": "RADS1006052600007105",
             "id": "TfUfSOegSYizQM4OOMAUVw",
             "slug": "battle-at-the-highest-level-goku-goes-all-out",
             "views": 3658,
@@ -104,7 +48,7 @@
             "ott_expiration_date": null,
             "active": false,
             "blacklist": [],
-            "published": 1780745440,
+            "published": 1784429515,
             "first_published": 1475655057,
             "tags": [],
             "collection_title": "Dragon Ball Z Kai",
@@ -117,5 +61,6 @@
             "collection_title_id": "2031611",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
