@@ -2,33 +2,25 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 18, 2026 at 00:30:14 EDT_
+_Last Update: July 18, 2026 at 22:30:13 EDT_
 ## Video added
 No videos were added.  
 ## Video removed
 ### Summary
-581268 Squidbillies: 3  
-### 626850
-**Squidbillies S01E03 - School Days, Fool Days**  
-TV-14-DLV 🔓 11:26  
-⌛ July 17, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/school-days-fool-days  
-seriesid=`581268` titleid=`626850` id=`7iWZyWxOT6uqbugAD6eJPQ` mediaid=`3d106544ab3e4b2a7d92300c98cc69c537723251`  
-_After a debilitating sports injury, Rusty is home schooled by Early._  
-<a href="https://media.cdn.adultswim.com/uploads/20200408/thumbnails/2_20481611575-squidbillies_003.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200408/thumbnails/2_20481611575-squidbillies_003.jpg" height="144px" /></a>
-### 758320
-**Squidbillies S04E10 - Not Without My Cash Cow!**  
-TV-MA 🔓 11:26  
-⌛ July 17, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/not-without-my-cash-cow  
-seriesid=`581268` titleid=`758320` id=`QW3ug_u6Q3eMk61EKNNKOQ` mediaid=`643984d7ddc13c022d56fdeff5aca659362fa2f3`  
-_When the media sensationalizes his son's disappearance, Early finds the coverage to be sensational._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131221598-squidbillies_050_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131221598-squidbillies_050_bim.jpg" height="144px" /></a>
-### 2032578
-**Squidbillies S09E02 - Limbitless**  
-TV-14-LV 🔓 11:46  
-⌛ July 17, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/limbitless  
-seriesid=`581268` titleid=`2032578` id=`_tz4f6DiSRSW79uZ4e0cLw` mediaid=`f1ba52aaf32fbfe3935abb25c844bf5277244632`  
-_Early trades his legs for walking around money._  
-<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_20414115474-squidbillies_088_dup-20140923.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_20414115474-squidbillies_088_dup-20140923.jpg" height="144px" /></a>
+2031611 Dragon Ball Z Kai: 2  
+### 2031699
+**Dragon Ball Z Kai S01E88 - Showdown! Cell vs. Goku!**  
+TV-PG 🔒 21:58  
+⌛ July 18, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/dragon-ball-z-kai/showdown-cell-vs-goku  
+seriesid=`2031611` titleid=`2031699` id=`IJJC694wSgKhm7_CjnWgDw` mediaid=`973d7decdc03dd64c9de0b038a1e68b71d2c0fbb`  
+_Goku and Cell prepare to square off in what may be the greatest battle in history! Both fighters are hesitant to reveal their true powers, but once blows are exchanged, the violence quickly escalates!_  
+<a href="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_1912101614118-dragonballzkai_088_air_cid-2XD7C.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_1912101614118-dragonballzkai_088_air_cid-2XD7C.jpg" height="144px" /></a>
+### 2031700
+**Dragon Ball Z Kai S01E89 - Battle at the Highest Level! Goku Goes All Out!**  
+TV-PG 🔒 21:04  
+⌛ July 18, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/dragon-ball-z-kai/battle-at-the-highest-level-goku-goes-all-out  
+seriesid=`2031611` titleid=`2031700` id=`TfUfSOegSYizQM4OOMAUVw` mediaid=`676a94da6a232b0bf06f96f4478fcd7a4ee69638`  
+_Goku and Cell put on an amazing display of ferocious fighting! The monster makes things more interesting by blowing up the ring, and Goku responds with a devastating Kamehameha Wave!_  
+<a href="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_1912101614257-dragonballzkai_089_air_cid-2Y63G.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_1912101614257-dragonballzkai_089_air_cid-2Y63G.jpg" height="144px" /></a>
