@@ -428,7 +428,7 @@
         "launch_date": 1783238400,
         "poster": "https://media.cdn.adultswim.com/uploads/20260324/thumbnails/2_26324231120-AS_DanDaDan_S2_Thumbnail_Ep23.png",
         "id": "AZ0i8H2P4fEFRoGAPbe3",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1783843200,
@@ -1108,7 +1108,7 @@
         "auth": false
     },
     {
-        "auth_expiration_date": 1784519940,
+        "auth_expiration_date": 1785124740,
         "tms_id": "",
         "description": "The Kito family's 200-year secret is revealed. Just when all seems lost, the Evil Eye emerges.",
         "title_suggest": {
@@ -1131,11 +1131,11 @@
         "duration": 1397.6963,
         "episode_number": "2",
         "original_air_date": "1775363520",
-        "auth_launch_date": 1778400120,
+        "auth_launch_date": 1784520000,
         "clip_order": null,
-        "airing_id": "RADS1005042600000665",
+        "airing_id": "RADS1007202600014262",
         "media_id": "6d70189432e8a9ff4081645d31f09b13346bd582",
-        "modified": 1784517689,
+        "modified": 1784520676,
         "slug": "the-evil-eye",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20260316/thumbnails/1_26316203572-AS_DanDaDan_S2_Thumbnail_Ep14.png",
@@ -1143,7 +1143,7 @@
         "season_number": "2",
         "title_id": "2573222",
         "tv_rating": "",
-        "published": 1784517689,
+        "published": 1784520676,
         "tags": [],
         "collection_title": "DAN DA DAN",
         "disable_ads": false,
@@ -1151,6 +1151,6 @@
         "launch_date": 1777190520,
         "poster": "https://media.cdn.adultswim.com/uploads/20260316/thumbnails/2_26316203572-AS_DanDaDan_S2_Thumbnail_Ep14.png",
         "id": "AZz5ONDu4fEFRoGAPbZY",
-        "auth": false
+        "auth": true
     }
 ]
