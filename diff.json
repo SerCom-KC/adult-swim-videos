@@ -1,57 +1,6 @@
 {
-    "updated": 1784556015,
-    "added": [],
-    "removed": [
-        {
-            "ott_launch_date": null,
-            "auth_expiration_date": 1784606340,
-            "tms_id": "EP022022090006",
-            "description": "The end is near with both Haruko and Canti at large. Medical Mechanica is preparing to move. Before Amarao can do anything to stop it, he needs to find the terminal core. Mamimi has found new friends with an appetite for the mechanical.",
-            "title_suggest": {
-                "input": [
-                    "FLCLimax"
-                ]
-            },
-            "expiration_date": 1692676740,
-            "type": "episode",
-            "title": "FLCLimax",
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "AWH9BNOjNWyh42wYnlM8",
-            "duration": 1865.63,
-            "episode_number": "6",
-            "original_air_date": 1060747200,
-            "auth_launch_date": 1753243200,
-            "clip_order": null,
-            "media_id": "0e74b5c6968b5640c9d30a3d79f7ccec574b1860",
-            "modified": 1753194391,
-            "airing_id": "RADS1007222500047517",
-            "slug": "flc-limax",
-            "exclude_from_search": false,
-            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15266552355338.jpg",
-            "created": 1523886795,
-            "season_number": "1",
-            "title_id": "446618",
-            "tv_rating": "tv-14-s",
-            "blacklist": [],
-            "ott_expiration_date": null,
-            "published": 1753194391,
-            "tags": [],
-            "collection_title": "FLCL",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1555340400,
-            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15266552355338.jpg",
-            "id": "AWLOuylJHAeP4-pUPecL",
-            "auth": true,
-            "collection_slug": "flcl",
-            "collection_title_id": "2218883",
-            "online_exclusives": false
-        },
+    "updated": 1784557843,
+    "added": [
         {
             "auth_expiration_date": 1784606340,
             "tms_id": "",
@@ -83,7 +32,7 @@
             "clip_order": null,
             "airing_id": "RADS1005072600001767",
             "media_id": "918e30b43b98d0cdb745ee908227f7f0f9a9ec33",
-            "modified": 1778200191,
+            "modified": 1784556459,
             "slug": "thats-how-love-starts-ya-know",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20250725/thumbnails/1_257251442472-Ep01_Still_0014.png",
@@ -91,7 +40,7 @@
             "season_number": "1",
             "title_id": "2568744",
             "tv_rating": "tv-ma-sv",
-            "published": 1778200191,
+            "published": 1784556459,
             "tags": [],
             "collection_title": "DAN DA DAN",
             "disable_ads": false,
@@ -102,6 +51,107 @@
             "auth": true,
             "collection_slug": "dan-da-dan",
             "collection_title_id": "2568743",
+            "online_exclusives": false
+        },
+        {
+            "ott_launch_date": null,
+            "auth_expiration_date": 1784606340,
+            "tms_id": "EP022022090006",
+            "description": "The end is near with both Haruko and Canti at large. Medical Mechanica is preparing to move. Before Amarao can do anything to stop it, he needs to find the terminal core. Mamimi has found new friends with an appetite for the mechanical.",
+            "title_suggest": {
+                "input": [
+                    "FLCLimax"
+                ]
+            },
+            "expiration_date": 1692676740,
+            "type": "episode",
+            "title": "FLCLimax",
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
+            "collection_id": "AWH9BNOjNWyh42wYnlM8",
+            "duration": 1865.63,
+            "episode_number": "6",
+            "original_air_date": 1060747200,
+            "auth_launch_date": 1753243200,
+            "clip_order": null,
+            "media_id": "0e74b5c6968b5640c9d30a3d79f7ccec574b1860",
+            "modified": 1784556965,
+            "airing_id": "RADS1007222500047517",
+            "slug": "flc-limax",
+            "exclude_from_search": false,
+            "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15266552355338.jpg",
+            "created": 1523886795,
+            "season_number": "1",
+            "title_id": "446618",
+            "tv_rating": "tv-14-s",
+            "blacklist": [],
+            "ott_expiration_date": null,
+            "published": 1784556965,
+            "tags": [],
+            "collection_title": "FLCL",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1555340400,
+            "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15266552355338.jpg",
+            "id": "AWLOuylJHAeP4-pUPecL",
+            "auth": true,
+            "collection_slug": "flcl",
+            "collection_title_id": "2218883",
+            "online_exclusives": false
+        }
+    ],
+    "removed": [
+        {
+            "auth": true,
+            "ott_launch_date": null,
+            "auth_expiration_date": 1784555940,
+            "tms_id": "EP018691120003",
+            "rating": 7.7083335,
+            "description": "Vowing to become an exorcist, Rin is taken to True Cross Academy by the mysterious Mephisto, a friend of Shiro's. The colossal, fortress-like school; Yukio at the top of the class - it's all so mind-boggling for Rin!\r\nLater, Rin heads to the Exorcist Cram School, as Mephisto warns: \"No one can know that you're the son of Satan.\"",
+            "title_suggest": {
+                "input": [
+                    "Brothers"
+                ]
+            },
+            "type": "episode",
+            "title": "Brothers",
+            "expiration_date": 1452009540,
+            "platforms": [
+                "web",
+                "mobile"
+            ],
+            "collection_id": "BJWRPi1uTl2j_nptAdcYOw",
+            "duration": 1320.016,
+            "episode_number": "3",
+            "original_air_date": 1394346600,
+            "clip_order": null,
+            "auth_launch_date": 1782630000,
+            "modified": 1784555680,
+            "media_id": "49e389bd647ddce4faf1186fb41ee2a8cf965a27",
+            "airing_id": "RADS1006222600009669",
+            "id": "IsW7SVH2TR6AHDMR3mfITA",
+            "slug": "brothers",
+            "views": 4914,
+            "created": 1402945462,
+            "title_id": "2012531",
+            "season_number": "1",
+            "tv_rating": "tv-14-lv",
+            "active": false,
+            "ott_expiration_date": null,
+            "published": 1784555680,
+            "tags": [],
+            "rating_count": 24,
+            "collection_title": "Blue Exorcist",
+            "modified_by": "ODT Listener",
+            "launch_date": 1448384400,
+            "poster": "https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/blueexorcist_cc_003_pt2-03.jpg",
+            "cma_id": "1104420",
+            "collection_slug": "blue-exorcist",
+            "collection_title_id": "2012528",
             "online_exclusives": false
         }
     ]
