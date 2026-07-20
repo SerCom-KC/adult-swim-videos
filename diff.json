@@ -1,7 +1,6 @@
 {
-    "updated": 1784561199,
-    "added": [],
-    "removed": [
+    "updated": 1784564502,
+    "added": [
         {
             "auth_expiration_date": 1784606340,
             "tms_id": "",
@@ -33,7 +32,7 @@
             "clip_order": null,
             "airing_id": "RADS1005072600001767",
             "media_id": "918e30b43b98d0cdb745ee908227f7f0f9a9ec33",
-            "modified": 1784556459,
+            "modified": 1784564231,
             "slug": "thats-how-love-starts-ya-know",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20250725/thumbnails/1_257251442472-Ep01_Still_0014.png",
@@ -41,7 +40,7 @@
             "season_number": "1",
             "title_id": "2568744",
             "tv_rating": "tv-ma-sv",
-            "published": 1784556459,
+            "published": 1784564231,
             "tags": [],
             "collection_title": "DAN DA DAN",
             "disable_ads": false,
@@ -54,5 +53,6 @@
             "collection_title_id": "2568743",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
