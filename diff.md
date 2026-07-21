@@ -2,10 +2,8 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 21, 2026 at 11:30:14 EDT_
+_Last Update: July 21, 2026 at 13:00:28 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
 2031611 Dragon Ball Z Kai: 2  
 ### 2031702
@@ -24,3 +22,5 @@ https://www.adultswim.com/videos/dragon-ball-z-kai/the-opening-round-is-conclude
 seriesid=`2031611` titleid=`2031701` id=`rzNl9FIJSyKo7X3g_PrW9g` mediaid=`d4c788bf4bdbd645842ae65a7def27d69306f7ab`  
 _Goku and Cell battle until both warriors are winded and weary. With the fate of the world hanging in the balance, Goku does the unthinkable. The greatest champion in Earth's history retires!_  
 <a href="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_1912101614391-dragonballzkai_090_air_cid-2Y685.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_1912101614391-dragonballzkai_090_air_cid-2Y685.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  

@@ -1,7 +1,6 @@
 {
-    "updated": 1784647814,
-    "added": [],
-    "removed": [
+    "updated": 1784653228,
+    "added": [
         {
             "auth": true,
             "ott_launch_date": null,
@@ -32,7 +31,7 @@
             "original_air_date": 1477195200,
             "clip_order": null,
             "auth_launch_date": 1781602200,
-            "modified": 1784642870,
+            "modified": 1784651349,
             "media_id": "1b91b5742e1eaa4c39412974c021274112362544",
             "airing_id": "RADS1006112600008167",
             "id": "rzNX65WrQlG73V_ESIVJOg",
@@ -47,7 +46,7 @@
             "ott_expiration_date": null,
             "active": false,
             "blacklist": [],
-            "published": 1784642870,
+            "published": 1784651349,
             "first_published": 1476861058,
             "tags": [],
             "collection_title": "Dragon Ball Z Kai",
@@ -91,7 +90,7 @@
             "original_air_date": 1476590400,
             "auth_launch_date": 1781600400,
             "clip_order": null,
-            "modified": 1784642873,
+            "modified": 1784651349,
             "media_id": "d4c788bf4bdbd645842ae65a7def27d69306f7ab",
             "airing_id": "RADS1006112600008165",
             "id": "rzNl9FIJSyKo7X3g_PrW9g",
@@ -105,7 +104,7 @@
             "season_number": "1",
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1784642873,
+            "published": 1784651349,
             "first_published": 1476490222,
             "tags": [],
             "collection_title": "",
@@ -118,5 +117,6 @@
             "collection_title_id": "2031611",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
