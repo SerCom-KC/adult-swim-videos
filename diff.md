@@ -2,10 +2,8 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 22, 2026 at 10:00:15 EDT_
+_Last Update: July 22, 2026 at 11:00:14 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
 2031611 Dragon Ball Z Kai: 2  
 439722 The Venture Bros.: 2  
@@ -41,3 +39,14 @@ https://www.adultswim.com/videos/the-venture-bros/the-invisible-hand-of-fate
 seriesid=`439722` titleid=`712671` id=`t-Zkao7uQEKHV5x49FH7jw` mediaid=`51740a714c57f467c6352ccb3317ff7fa33643d3`  
 _At long last, The Venture Bros. peels away the onion-like shrouds of time for a look back into the troubled past of America's most beloved hydrocephalic former boy genius, to reveal dark secrets that even he didn't know about. What could Pete White have been hiding from him for all these years? And why is Brock in on the cover-up?_  
 <a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161359575-venture_127_dst_cid-UMUV.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161359575-venture_127_dst_cid-UMUV.jpg" height="144px" /></a>
+## Video removed
+### Summary
+2568743 DAN DA DAN: 1  
+### 2573231
+**DAN DA DAN S02E03 - You Won't Get Away with This**  
+ 🔒 23:02  
+⌛ July 26, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/dan-da-dan/you-wont-get-away-with-this  
+seriesid=`2568743` titleid=`2573231` id=`AZ0i6oCo5hm4q6q--tfR` mediaid=`d92d53c232e8e421d6bd017038de430cceb1f15d`  
+_Jiji is possessed by the Evil Eye. After escaping, Momo tries to shine sunlight onto the worm._  
+<a href="https://media.cdn.adultswim.com/uploads/20260324/thumbnails/2_263242254388-AS_DanDaDan_S2_Thumbnail_Ep15.png"><img src="https://media.cdn.adultswim.com/uploads/20260324/thumbnails/2_263242254388-AS_DanDaDan_S2_Thumbnail_Ep15.png" height="144px" /></a>
