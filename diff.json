@@ -1,7 +1,6 @@
 {
-    "updated": 1784738504,
-    "added": [],
-    "removed": [
+    "updated": 1784739220,
+    "added": [
         {
             "auth": false,
             "ott_launch_date": 1447781520,
@@ -33,7 +32,7 @@
             "original_air_date": 1214191800,
             "clip_order": null,
             "auth_launch_date": 1712203200,
-            "modified": 1784731206,
+            "modified": 1784739211,
             "media_id": "bfe24211fc09b146f350c9924d6ea3461d1c61b8",
             "airing_id": "RADS1009252500059609",
             "id": "G03GVuVSQhaSUDdtWDt7tA",
@@ -47,7 +46,7 @@
             "tv_rating": "tv-14-dlv",
             "active": false,
             "ott_expiration_date": null,
-            "published": 1784731206,
+            "published": 1784739211,
             "tags": [
                 "venture bros. brothers episode 37 home is where the hate is monarch sgt. hatred girlfriend moppets charades suburbs"
             ],
@@ -92,7 +91,7 @@
             "original_air_date": 1213587000,
             "clip_order": null,
             "auth_launch_date": 1712203200,
-            "modified": 1784731206,
+            "modified": 1784739212,
             "media_id": "51740a714c57f467c6352ccb3317ff7fa33643d3",
             "airing_id": "RADS1009252500059608",
             "id": "t-Zkao7uQEKHV5x49FH7jw",
@@ -106,7 +105,7 @@
             "tv_rating": "tv-14-dlv",
             "active": false,
             "ott_expiration_date": null,
-            "published": 1784731206,
+            "published": 1784739212,
             "tags": [
                 "venture bros venture brothers episode 27 invisible hand of fate billy quizboy flashback origin"
             ],
@@ -121,5 +120,6 @@
             "collection_title_id": "439722",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
