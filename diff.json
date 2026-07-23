@@ -1,7 +1,6 @@
 {
-    "updated": 1784817146,
-    "added": [],
-    "removed": [
+    "updated": 1784819426,
+    "added": [
         {
             "auth": true,
             "ott_launch_date": null,
@@ -34,7 +33,7 @@
             "original_air_date": 1480222800,
             "clip_order": null,
             "auth_launch_date": 1782205200,
-            "modified": 1781789581,
+            "modified": 1784819379,
             "media_id": "b96f0d1744057f27fd1a031bcb37f5405213b742",
             "airing_id": "RADS1006162600009069",
             "id": "t4jd-HiVRGCj3hG33ytBng",
@@ -49,7 +48,7 @@
             "ott_expiration_date": null,
             "active": false,
             "blacklist": [],
-            "published": 1781789581,
+            "published": 1784819379,
             "first_published": 1479899483,
             "tags": [],
             "collection_title": "Dragon Ball Z Kai",
@@ -61,64 +60,7 @@
             "collection_slug": "dragon-ball-z-kai",
             "collection_title_id": "2031611",
             "online_exclusives": false
-        },
-        {
-            "auth": true,
-            "ott_launch_date": null,
-            "auth_expiration_date": 1784865540,
-            "tms_id": "EP012647370096",
-            "description": "Cell reveals the full force of his true power, but Gohan refuses to flinch in the face of danger. As the momentum swings to the Saiyan side, Goku calls for his son to deliver the final blow!",
-            "title_suggest": {
-                "input": [
-                    "Perfection's End! A Fury Beyond Super Saiyan!",
-                    "End! A Fury Beyond Super Saiyan!",
-                    "A Fury Beyond Super Saiyan!",
-                    "Fury Beyond Super Saiyan!",
-                    "Beyond Super Saiyan!",
-                    "Super Saiyan!",
-                    "Saiyan!"
-                ]
-            },
-            "title": "Perfection's End! A Fury Beyond Super Saiyan!",
-            "type": "episode",
-            "expiration_date": 1781773140,
-            "platforms": [
-                "web",
-                "mobile"
-            ],
-            "collection_id": "duzujScQQRKOubvQENdNag",
-            "duration": 1316,
-            "episode_number": "94",
-            "original_air_date": 1479618000,
-            "clip_order": null,
-            "auth_launch_date": 1781773200,
-            "modified": 1781397067,
-            "media_id": "6e9e7f5735699acedf74e8c0a080b9bba02133a7",
-            "airing_id": "RADS1006052600007103",
-            "id": "uSEvcJpJROe4yey18G0ljQ",
-            "slug": "perfections-end-a-fury-beyond-super-saiyan",
-            "views": 4327,
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/1_1912101615256-dragonballzkai_094_air_cid-2YX25.jpg",
-            "created": 1479312621,
-            "title_id": "2031705",
-            "tv_rating": "tv-pg-lv",
-            "season_number": "1",
-            "ott_expiration_date": null,
-            "active": false,
-            "blacklist": [],
-            "published": 1781397067,
-            "first_published": 1479312621,
-            "tags": [],
-            "collection_title": "Dragon Ball Z Kai",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1781168400,
-            "poster": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_1912101615256-dragonballzkai_094_air_cid-2YX25.jpg",
-            "cma_id": "1321288",
-            "collection_slug": "dragon-ball-z-kai",
-            "collection_title_id": "2031611",
-            "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
