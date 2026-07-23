@@ -1,6 +1,7 @@
 {
-    "updated": 1784823312,
-    "added": [
+    "updated": 1784825908,
+    "added": [],
+    "removed": [
         {
             "auth": true,
             "ott_launch_date": null,
@@ -55,68 +56,6 @@
             "launch_date": 1781168400,
             "poster": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_1912101615256-dragonballzkai_094_air_cid-2YX25.jpg",
             "cma_id": "1321288",
-            "collection_slug": "dragon-ball-z-kai",
-            "collection_title_id": "2031611",
-            "online_exclusives": false
-        }
-    ],
-    "removed": [
-        {
-            "auth": true,
-            "ott_launch_date": null,
-            "auth_expiration_date": 1784865540,
-            "tms_id": "EP012647370097",
-            "description": "Gohan succeeds in defeating Cell but the monster has one last trick up his sleeve, a devastating development that could destroy the world! For the sake of the future, Goku must prepare himself for the ultimate sacrifice!",
-            "title_suggest": {
-                "input": [
-                    "A Hero's Sacrifice! Last Chance to Save the World!",
-                    "Hero's Sacrifice! Last Chance to Save the World!",
-                    "Sacrifice! Last Chance to Save the World!",
-                    "Last Chance to Save the World!",
-                    "Chance to Save the World!",
-                    "to Save the World!",
-                    "Save the World!",
-                    "the World!",
-                    "World!"
-                ]
-            },
-            "title": "A Hero's Sacrifice! Last Chance to Save the World!",
-            "type": "episode",
-            "expiration_date": 1782205140,
-            "platforms": [
-                "web",
-                "mobile"
-            ],
-            "collection_id": "duzujScQQRKOubvQENdNag",
-            "duration": 1317,
-            "episode_number": "95",
-            "original_air_date": 1480222800,
-            "clip_order": null,
-            "auth_launch_date": 1782205200,
-            "modified": 1784819379,
-            "media_id": "b96f0d1744057f27fd1a031bcb37f5405213b742",
-            "airing_id": "RADS1006162600009069",
-            "id": "t4jd-HiVRGCj3hG33ytBng",
-            "slug": "a-heros-sacrifice-last-chance-to-save-the-world",
-            "views": 4673,
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/1_1912101615379-dragonballzkai_095_air_cid-2YH32.jpg",
-            "created": 1479899483,
-            "title_id": "2031706",
-            "tv_rating": "tv-pg-lv",
-            "season_number": "1",
-            "ott_expiration_date": null,
-            "active": false,
-            "blacklist": [],
-            "published": 1784819379,
-            "first_published": 1479899483,
-            "tags": [],
-            "collection_title": "Dragon Ball Z Kai",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1781600400,
-            "poster": "https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_1912101615379-dragonballzkai_095_air_cid-2YH32.jpg",
-            "cma_id": "1326523",
             "collection_slug": "dragon-ball-z-kai",
             "collection_title_id": "2031611",
             "online_exclusives": false
