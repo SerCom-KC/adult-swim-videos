@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: July 27, 2026 at 11:00:28 EDT_
+_Last Update: July 27, 2026 at 14:30:14 EDT_
 ## Video added
 ### Summary
-2013506 Rick and Morty: 1  
-### 2586556
-**Rick and Morty S09E03 - Rick Fu Hustle**  
-TV-MA-LSV 🔒 23:17  
-⌛ September 2, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/rick-and-morty/rick-fu-hustle  
-seriesid=`2013506` titleid=`2586556` id=`AZ5Rmc3eS4HfauEvf2F9` mediaid=`3eb05776b231150c75db99b281def49f86d06580`  
-_You haven't lived till you've chested up at Trader Joe's, broh._  
-<a href="https://media.cdn.adultswim.com/uploads/20260522/thumbnails/2_265221731240-RAM_S9_03_904_RickFuHustle-Preferred.png"><img src="https://media.cdn.adultswim.com/uploads/20260522/thumbnails/2_265221731240-RAM_S9_03_904_RickFuHustle-Preferred.png" height="144px" /></a>
+2568743 DAN DA DAN: 1  
+### 2568745
+**DAN DA DAN S01E02 - That's a Space Alien, Ain't It?!**  
+TV-MA 🔒 22:52  
+⌛ July 27, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/dan-da-dan/thats-a-space-alien-aint-it  
+seriesid=`2568743` titleid=`2568745` id=`AZhDAvk5CI-3VkGoG1VE` mediaid=`44fa19ecdfc71260910f5c52669f0f7f1aefdcec`  
+_Momo's psychic powers awaken, while Okarun is cursed by Turbo Granny. They try to take refuge at Momo's house, but a giant alien appears before them._  
+<a href="https://media.cdn.adultswim.com/uploads/20250725/thumbnails/2_257251515172-Ep02_Still_0171.png"><img src="https://media.cdn.adultswim.com/uploads/20250725/thumbnails/2_257251515172-Ep02_Still_0171.png" height="144px" /></a>
 ## Video removed
 No videos were removed.  
