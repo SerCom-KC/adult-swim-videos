@@ -7687,6 +7687,52 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1788407940,
+        "tms_id": "",
+        "description": "You haven't lived till you've chested up at Trader Joe's, broh.",
+        "title_suggest": {
+            "input": [
+                "Rick Fu Hustle",
+                "Fu Hustle",
+                "Hustle"
+            ]
+        },
+        "title": "Rick Fu Hustle",
+        "expiration_date": 1785121140,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 1397.2625,
+        "episode_number": "3",
+        "original_air_date": "1780887600",
+        "auth_launch_date": 1785164400,
+        "clip_order": null,
+        "airing_id": "RADS1007272600015260",
+        "media_id": "3eb05776b231150c75db99b281def49f86d06580",
+        "modified": 1785152601,
+        "slug": "rick-fu-hustle",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20260522/thumbnails/1_265221731240-RAM_S9_03_904_RickFuHustle-Preferred.png",
+        "created": 1779485494,
+        "season_number": "9",
+        "title_id": "2586556",
+        "tv_rating": "tv-ma-lsv",
+        "published": 1785152601,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1782702000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20260522/thumbnails/2_265221731240-RAM_S9_03_904_RickFuHustle-Preferred.png",
+        "id": "AZ5Rmc3eS4HfauEvf2F9",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1783306740,
         "tms_id": "",
         "description": "Remembering passwords is hard, broh. Special characters, broh.",
