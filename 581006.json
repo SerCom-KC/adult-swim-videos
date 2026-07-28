@@ -496,54 +496,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1785211140,
-        "tms_id": "EP007164450148",
-        "description": "Roger (Seth MacFarlane) announces that \"Max Jets,\" a character of Roger's who enjoys showering the Smith family with money, is soon getting out of prison. But a wrench is thrown in the system when Max falls in love with Gina (Michelle Monaghan), a gold-digging waitress who threatens the family's inheritance.",
-        "title_suggest": {
-            "input": [
-                "Max Jets",
-                "Jets"
-            ]
-        },
-        "expiration_date": 1655697540,
-        "title": "Max Jets",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 1286.6854,
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "episode_number": "11",
-        "original_air_date": 1361244600,
-        "clip_order": null,
-        "auth_launch_date": 1784606400,
-        "modified": 1784181998,
-        "media_id": "b5359df2f50b84c09c41d8252185933aa15a9f17",
-        "airing_id": "RADS1007152600013095",
-        "id": "Q7kMtUrSSoiGgIGq95p5Cg",
-        "slug": "max-jets",
-        "views": 2689,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15180319338171.jpg",
-        "created": 1403556347,
-        "season_number": "8",
-        "title_id": "748217",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1784181998,
-        "first_published": 1437711626,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1655092800,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15180319338171.jpg",
-        "cma_id": "1485897"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1785556740,
         "tms_id": "EP007164450156",
         "description": "In order to return to Earth, the space-bound Jeff must convince an Emperor that he is in love with Hayley.",
@@ -798,6 +750,53 @@
         "launch_date": 1655697600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151803211999014.jpg",
         "cma_id": "1488853"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1785815940,
+        "tms_id": "EP007164450165",
+        "description": "In a desperate attempt to show Steve that she's still a \"cool\" mom, Francine teaches him a vast array of shoplifting techniques to try out at the local mall. When their attempt to pull off the ultimate heist at \"The Gash\" goes awry, Steve is captured and sent to a Venezuelan sweatshop. Meanwhile, Roger, Hayley and Klaus form Langley Falls' first Russian Balalaika trio.",
+        "title_suggest": {
+            "input": [
+                "Crotchwalkers"
+            ]
+        },
+        "title": "Crotchwalkers",
+        "type": "episode",
+        "expiration_date": 1657511940,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1291.1232,
+        "episode_number": "4",
+        "original_air_date": 1385091000,
+        "clip_order": null,
+        "auth_launch_date": 1785211200,
+        "modified": 1784789850,
+        "media_id": "32eaefcf4d362663efcbf89e5732c350a7d67fb5",
+        "airing_id": "RADS1007222600014714",
+        "id": "_6oDiwwbSUiwXn4oZ8Y1sw",
+        "slug": "crotchwalkers",
+        "views": 5503,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151870786042512.jpg",
+        "created": 1411570043,
+        "season_number": "9",
+        "title_id": "2007874",
+        "tv_rating": "tv-14",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1784789850,
+        "first_published": 1411570043,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1656907200,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870786042512.jpg",
+        "cma_id": "1491638"
     },
     {
         "auth": true,
