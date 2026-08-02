@@ -813,6 +813,52 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1787457540,
+        "tms_id": "",
+        "description": "Clark and Lois face the future -- again. Familiar faces return to Metropolis. Lex shakes things up at Lexcorp.",
+        "title_suggest": {
+            "input": [
+                "It's Reigning (Super)Men",
+                "Reigning (Super)Men",
+                "(Super)Men"
+            ]
+        },
+        "title": "It's Reigning (Super)Men",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AYj-tDmq2rZC6NyF6196",
+        "duration": 1344.2763,
+        "episode_number": "8",
+        "original_air_date": null,
+        "auth_launch_date": 1785643200,
+        "clip_order": null,
+        "airing_id": "RADS1007272600015465",
+        "media_id": "863a639b5f710f4eb5ee5bf1a30cc2859d4afb15",
+        "modified": 1785190161,
+        "slug": "its-reigning-super-men",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20260613/thumbnails/1_266131324230-SUPR_S3_E8.png",
+        "created": 1781371482,
+        "season_number": "3",
+        "title_id": "2536280",
+        "tv_rating": "tv-pg-v",
+        "published": 1785190161,
+        "tags": [],
+        "collection_title": "My Adventures with Superman",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20260613/thumbnails/2_266131324230-SUPR_S3_E8.png",
+        "id": "AZ7CA7GcmJnHw_h9ubB0",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1785038340,
         "tms_id": "",
         "description": "Clark and Lois get poundcake. A stranger comes to brunch. Jimmy gets to be right. Hank shakes things up at Lexcorp.",
@@ -905,7 +951,7 @@
         "launch_date": 1785643200,
         "poster": "https://media.cdn.adultswim.com/uploads/20260613/thumbnails/2_266131322310-SUPR_S3_E5.png",
         "id": "AZ7CAePamJnHw_h9ubBy",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1786247940,
