@@ -2,53 +2,42 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: August 4, 2026 at 00:30:39 EDT_
+_Last Update: August 4, 2026 at 10:30:13 EDT_
 ## Video added
-### Summary
-581006 American Dad: 1  
-2003422 Bob's Burgers: 1  
-### 2007886
-**American Dad S09E17 - Rubberneckers**  
-TV-14 🔒 21:30  
-⌛ August 10, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/rubberneckers  
-seriesid=`581006` titleid=`2007886` id=`nw6w-MZ5TBiSaM-TX8OXrQ` mediaid=`e4764ee08185598feac0722e556508c0bac175d7`  
-_Stan and Francine go out to dinner and Francine catches Stan looking at another woman.  Stan tells his co-workers that he got caught and the co-workers teach Stan about Rubbernecking, the art of checking out other woman on the sly._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151923980951911.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151923980951911.jpg" height="144px" /></a>
-### 2569581
-**Bob's Burgers S13E17 - What a (April) Fool Believes**  
-TV-PG-L 🔒 00:00  
-⌛ August 17, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/what-a-april-fool-believes  
-seriesid=`2003422` titleid=`2569581` id=`AZldk1s3yEF1_1NDe6ak` mediaid=`27f36cd50d2d80bc0e66b6bbd93bccd8f7008bc2`  
-_Mr. Fischoeder challenges Bob to successfully prank him on April Fool's Day or lose his lease._  
-<a href="https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_25918125570-BobsBurgers_1317.jpg"><img src="https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_25918125570-BobsBurgers_1317.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 ### Summary
-2003422 Bob's Burgers: 1  
-2568743 DAN DA DAN: 1  
-581006 American Dad: 1  
-### 2569588
-**Bob's Burgers S13E07 - Ready Player Gene**  
-TV-PG-DL 🔒 00:00  
-⌛ August 3, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/bobs-burgers/ready-player-gene  
-seriesid=`2003422` titleid=`2569588` id=`AZldefCXs_ErlMTJpQno` mediaid=`065a9b2cc26a1a8884473793181cd6ac0b4e4351`  
-_A VR arcade opens next door, and Gene spends all his money._  
-<a href="https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181137218-BobsBurgers_1307.jpg"><img src="https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181137218-BobsBurgers_1307.jpg" height="144px" /></a>
-### 2568746
-**DAN DA DAN S01E03 - It's a Granny vs. Granny Clash!**  
-TV-MA 🔒 22:52  
-⌛ August 3, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/dan-da-dan/its-a-granny-vs-granny-clash  
-seriesid=`2568743` titleid=`2568746` id=`AZhDBDZlITxXrw59dM9v` mediaid=`f2e39e45b6c3dcd131f1fdce24fc3fb2c352cfe3`  
-_Okarun is saved from a tough spot by Momo's grandmother, Seiko. Okarun must now play tag with Turbo Granny to lift his curse._  
-<a href="https://media.cdn.adultswim.com/uploads/20250725/thumbnails/2_257251516388-Ep03_Still_0021.png"><img src="https://media.cdn.adultswim.com/uploads/20250725/thumbnails/2_257251516388-Ep03_Still_0021.png" height="144px" /></a>
-### 2007874
-**American Dad S09E04 - Crotchwalkers**  
-TV-14 🔒 21:31  
-⌛ August 3, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/crotchwalkers  
-seriesid=`581006` titleid=`2007874` id=`_6oDiwwbSUiwXn4oZ8Y1sw` mediaid=`32eaefcf4d362663efcbf89e5732c350a7d67fb5`  
-_In a desperate attempt to show Steve that she's still a "cool" mom, Francine teaches him a vast array of shoplifting techniques to try out at the local mall. When their attempt to pull off the ultimate heist at "The Gash" goes awry, Steve is captured and sent to a Venezuelan sweatshop. Meanwhile, Roger, Hayley and Klaus form Langley Falls' first Russian Balalaika trio._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870786042512.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870786042512.jpg" height="144px" /></a>
+2031611 Dragon Ball Z Kai: 2  
+322328 Space Ghost Coast to Coast: 2  
+### 2031624
+**Dragon Ball Z Kai S01E13 - The Power of the Kaio-Ken! Goku vs. Vegeta!**  
+TV-PG-LV 🔒 21:01  
+⌛ August 4, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/dragon-ball-z-kai/the-power-of-the-kaio-ken-goku-vs-vegeta  
+seriesid=`2031611` titleid=`2031624` id=`i8UIcHbkTcePC_8aU0wfbw` mediaid=`db113377f83b67231bbb7c846ef97211a5339e94`  
+_The stage is set for a final showdown between Vegeta and Goku. The Saiyan Prince is stronger, faster, and far more ruthless. Goku's only hope for victory is a technique that may very well destroy him!_  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684031425316.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684031425316.jpg" height="144px" /></a>
+### 2031623
+**Dragon Ball Z Kai S01E12 - Farewell, Piccolo! Goku's Furious Counterattack!**  
+TV-PG-LV 🔒 21:01  
+⌛ August 4, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/dragon-ball-z-kai/farewell-piccolo-gokus-furious-counterattack  
+seriesid=`2031611` titleid=`2031623` id=`uLzXr3tBTX-j8zRgJv0f2g` mediaid=`6db020f71824e3ed8f9fe9980f27fe2f78244913`  
+_Goku arrives in time to save Gohan and Krillin, and the resurrected warrior is eager to put the hurt on Nappa. When it becomes clear that Goku is no ordinary fighter, Prince Vegeta steps in to finish the fight himself!_  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684027363420.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684027363420.jpg" height="144px" /></a>
+### 322344
+**Space Ghost Coast to Coast S04E18 - Piledriver**  
+TV-PG 🔓 10:32  
+⌛ August 4, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/space-ghost-coast-to-coast/piledriver  
+seriesid=`322328` titleid=`322344` id=`AHVmtcYwRxeQQXC0SQndIQ` mediaid=`3a79d317719736a471c0368e39c19aeb94ea0241`  
+_Grandpa Space Ghost, whose physique is identical to his grandson's and whose voice is identical to WCW wrestler "Macho Man" Randy Savage, gives an "OOOO-YEEAAAHHH!" performance despite being clubbed with a chair by Zorak. Grandpa Ghostal interviews kid actress Raven Symone._  
+<a href="https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_20420113803-sgc2c_9718.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_20420113803-sgc2c_9718.jpg" height="144px" /></a>
+### 322349
+**Space Ghost Coast to Coast S04E12 - Boo Boo Kitty**  
+TV-PG 🔓 10:41  
+⌛ August 4, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/space-ghost-coast-to-coast/boo-boo-kitty  
+seriesid=`322328` titleid=`322349` id=`UPTYIR11Q6WoyCRU8amDOw` mediaid=`c6be66c5ba8f016190c62e0d4ef84f937acd60c3`  
+_Self-heralded "comedy ghetto" resident Michael McKean barely gets a word in with Space Ghost, and David Lander suffers a similar fate. The reason? Zorak and Space Ghost's roommate tiff spilling over into the show. In addition, a menacing "kitty" blimp hovers around Ghost Planet._  
+<a href="https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201131579-sgc2c_9712_air_cid-9266088.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201131579-sgc2c_9712_air_cid-9266088.jpg" height="144px" /></a>
