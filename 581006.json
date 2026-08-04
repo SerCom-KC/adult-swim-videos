@@ -492,53 +492,6 @@
     {
         "auth": true,
         "ott_launch_date": null,
-        "auth_expiration_date": 1785815940,
-        "tms_id": "EP007164450165",
-        "description": "In a desperate attempt to show Steve that she's still a \"cool\" mom, Francine teaches him a vast array of shoplifting techniques to try out at the local mall. When their attempt to pull off the ultimate heist at \"The Gash\" goes awry, Steve is captured and sent to a Venezuelan sweatshop. Meanwhile, Roger, Hayley and Klaus form Langley Falls' first Russian Balalaika trio.",
-        "title_suggest": {
-            "input": [
-                "Crotchwalkers"
-            ]
-        },
-        "title": "Crotchwalkers",
-        "type": "episode",
-        "expiration_date": 1657511940,
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1291.1232,
-        "episode_number": "4",
-        "original_air_date": 1385091000,
-        "clip_order": null,
-        "auth_launch_date": 1785211200,
-        "modified": 1784789850,
-        "media_id": "32eaefcf4d362663efcbf89e5732c350a7d67fb5",
-        "airing_id": "RADS1007222600014714",
-        "id": "_6oDiwwbSUiwXn4oZ8Y1sw",
-        "slug": "crotchwalkers",
-        "views": 5503,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151870786042512.jpg",
-        "created": 1411570043,
-        "season_number": "9",
-        "title_id": "2007874",
-        "tv_rating": "tv-14",
-        "active": false,
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1784789850,
-        "first_published": 1411570043,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1656907200,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151870786042512.jpg",
-        "cma_id": "1491638"
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
         "auth_expiration_date": 1786161540,
         "tms_id": "EP007164450173",
         "description": "Stan takes Francine on a surprise trip to Sacramento, but Francine is bored.  They meet the Naughty Stewardesses, four women who use their status as flight attendants to find love and adventure.",
@@ -920,6 +873,53 @@
         "launch_date": 1657512000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15192396397831.jpg",
         "cma_id": "1495684"
+    },
+    {
+        "auth": true,
+        "ott_launch_date": null,
+        "auth_expiration_date": 1786420740,
+        "tms_id": "EP007164450179",
+        "description": "Stan and Francine go out to dinner and Francine catches Stan looking at another woman.  Stan tells his co-workers that he got caught and the co-workers teach Stan about Rubbernecking, the art of checking out other woman on the sly.",
+        "title_suggest": {
+            "input": [
+                "Rubberneckers"
+            ]
+        },
+        "title": "Rubberneckers",
+        "type": "episode",
+        "expiration_date": 1658721540,
+        "platforms": [
+            "web",
+            "mobile"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1290.8229,
+        "episode_number": "17",
+        "original_air_date": 1399345200,
+        "clip_order": null,
+        "auth_launch_date": 1785816000,
+        "modified": 1785397274,
+        "media_id": "e4764ee08185598feac0722e556508c0bac175d7",
+        "airing_id": "RADS1007292600015554",
+        "id": "nw6w-MZ5TBiSaM-TX8OXrQ",
+        "slug": "rubberneckers",
+        "views": 2391,
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-151923980951911.jpg",
+        "created": 1411570523,
+        "season_number": "9",
+        "title_id": "2007886",
+        "tv_rating": "tv-14",
+        "active": false,
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1785397274,
+        "first_published": 1411570523,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1658116800,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151923980951911.jpg",
+        "cma_id": "1496734"
     },
     {
         "auth": false,
