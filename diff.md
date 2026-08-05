@@ -2,8 +2,10 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: August 5, 2026 at 12:00:14 EDT_
+_Last Update: August 5, 2026 at 12:30:25 EDT_
 ## Video added
+No videos were added.  
+## Video removed
 ### Summary
 2031611 Dragon Ball Z Kai: 2  
 ### 2031625
@@ -22,5 +24,3 @@ https://www.adultswim.com/videos/dragon-ball-z-kai/goku-on-the-ropes-pin-your-ho
 seriesid=`2031611` titleid=`2031626` id=`rSe1RkGgQFebyXDv0LRtXA` mediaid=`62382ebad1f78cd98593b5c0f60d891b6445bf33`  
 _As Goku lies exhausted and vulnerable on the field of battle, Gohan and Krillin take aim at Vegeta's only weakness: his tail! If they can take the ape out of the fight, they might have a chance to escape with their lives._  
 <a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684033994216.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684033994216.jpg" height="144px" /></a>
-## Video removed
-No videos were removed.  
