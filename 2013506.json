@@ -7700,6 +7700,53 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1785121140,
+        "tms_id": "",
+        "description": "Rick and Morty gotta evolve, broh.",
+        "title_suggest": {
+            "input": [
+                "Mortgully: The Last Rickforest",
+                "The Last Rickforest",
+                "Last Rickforest",
+                "Rickforest"
+            ]
+        },
+        "title": "Mortgully: The Last Rickforest",
+        "expiration_date": 1788407940,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
+        "duration": 1391.6236,
+        "episode_number": "7",
+        "original_air_date": "1783306800",
+        "auth_launch_date": 1783306800,
+        "clip_order": null,
+        "airing_id": "RADS1008062600017562",
+        "media_id": "3599659fe966ad2f2796f2c1533c498a6085962f",
+        "modified": 1786045336,
+        "slug": "mortgully-the-last-rickforest",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20260522/thumbnails/1_265221735521-RAM_S9_07_910_MortgullyTheLastRickforest-Preferred.png",
+        "created": 1779485759,
+        "season_number": "9",
+        "title_id": "2586562",
+        "tv_rating": "tv-ma-lsv",
+        "published": 1786045336,
+        "tags": [],
+        "collection_title": "Rick and Morty",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1786053600,
+        "poster": "https://media.cdn.adultswim.com/uploads/20260522/thumbnails/2_265221735521-RAM_S9_07_910_MortgullyTheLastRickforest-Preferred.png",
+        "id": "AZ5RnddWmJnHw_h9uat-",
+        "auth": false
+    },
+    {
         "auth_expiration_date": 1785722610,
         "tms_id": "",
         "description": "Hold still, broh. It'll make you nice, broh.",
