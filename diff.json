@@ -1,19 +1,17 @@
 {
-    "updated": 1786331127,
-    "added": [],
-    "removed": [
+    "updated": 1786332864,
+    "added": [
         {
-            "auth_expiration_date": 1783911540,
+            "auth_expiration_date": 1788146940,
             "tms_id": "",
-            "description": "Man's best friend, broh.",
+            "description": "Curtis gets invited to his ex-wife's inauguration gala. Banks and O'Doyle must undergo a job evaluation at a fully-immersive offsite facility.",
             "title_suggest": {
                 "input": [
-                    "Jer Bud",
-                    "Bud"
+                    "Ex"
                 ]
             },
-            "title": "Jer Bud",
-            "expiration_date": 1786330740,
+            "title": "Ex",
+            "expiration_date": null,
             "type": "episode",
             "platforms": [
                 "android",
@@ -21,34 +19,35 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "CAC2ATvKTOW8OVfYyzTi8Q",
-            "duration": 1352.4511,
-            "episode_number": "5",
-            "original_air_date": "1782097200",
-            "auth_launch_date": 1782097200,
+            "collection_id": "AZ-LbfQEmJnHw_h9ubpt",
+            "duration": 1351.1165,
+            "episode_number": "3",
+            "original_air_date": null,
+            "auth_launch_date": 1786332600,
             "clip_order": null,
-            "airing_id": "RADS1007022600011935",
-            "media_id": "19f33bc170e3c9567aa324e92f4e8556e94580c7",
-            "modified": 1783545767,
-            "slug": "jer-bud",
+            "airing_id": "RADS1008052600017452",
+            "media_id": "a0c2722d3b3c619eff00efe28bef09a3edee7a14",
+            "modified": 1785976021,
+            "slug": "ex",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20260522/thumbnails/1_26522173486-RAM_S9_05_906_JerBud-Preferred.png",
-            "created": 1779485663,
-            "season_number": "9",
-            "title_id": "2586558",
-            "tv_rating": "tv-ma-lsv",
-            "published": 1783545767,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20260722/thumbnails/1_267221710389-PresidentCurtis_103_Ex_Thumbnail_1920x1080.jpg",
+            "created": 1784754651,
+            "season_number": "1",
+            "title_id": "2569974",
+            "tv_rating": "",
+            "published": 1785976021,
             "tags": [],
-            "collection_title": "Rick and Morty",
+            "collection_title": "President Curtis",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1783911600,
-            "poster": "https://media.cdn.adultswim.com/uploads/20260522/thumbnails/2_26522173486-RAM_S9_05_906_JerBud-Preferred.png",
-            "id": "AZ5RnGFdS4HfauEvf2F_",
-            "auth": false,
-            "collection_slug": "rick-and-morty",
-            "collection_title_id": "2013506",
+            "launch_date": null,
+            "poster": "https://media.cdn.adultswim.com/uploads/20260722/thumbnails/2_267221710389-PresidentCurtis_103_Ex_Thumbnail_1920x1080.jpg",
+            "id": "AZ-LqsB_mJnHw_h9ubpx",
+            "auth": true,
+            "collection_slug": "president-curtis",
+            "collection_title_id": "2547718",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
