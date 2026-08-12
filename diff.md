@@ -2,10 +2,22 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: August 12, 2026 at 09:00:14 EDT_
+_Last Update: August 12, 2026 at 09:30:42 EDT_
 ## Video added
 ### Summary
+439722 The Venture Bros.: 1  
+### 718821
+**The Venture Bros. S03E10 - The Lepidopterists**  
+TV-14-DLSV 🔓 21:45  
+⌛ August 12, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-venture-bros/the-lepidopterists  
+seriesid=`439722` titleid=`718821` id=`IzlPG37jT76B9k6rgAN0PA` mediaid=`ac47c81424d41cb3a2ee71d633d4a4f12ee5623b`  
+_The Monarch launches his first attack on his new arch nemesis, the other Dr. Venture.  But Jonas has the formidable defenses of Spider-Skull Island on his side, as well as his own Team Venture, and the expert advice of a trio of O.S.I. "butterfly specialists." It will take a loose reading of the Guild handbook, an insertion team of his three best henchmen, and all the diabolical chicanery The Monarch can muster to even the playing field._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116145178-venture_136_dst_cid-URZA.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116145178-venture_136_dst_cid-URZA.jpg" height="144px" /></a>
+## Video removed
+### Summary
 2031611 Dragon Ball Z Kai: 1  
+439722 The Venture Bros.: 1  
 ### 2031635
 **Dragon Ball Z Kai S01E24 - Friends Reborn! Zarbon's Hideous Transformation!**  
 TV-PG-LV 🔒 21:00  
@@ -14,14 +26,12 @@ https://www.adultswim.com/videos/dragon-ball-z-kai/friends-reborn-zarbons-hideou
 seriesid=`2031611` titleid=`2031635` id=`Z7PP2T_IQmKnVx09X-4Yfw` mediaid=`b6a2d57ed801a5c653b00650b352406282725881`  
 _King Kai telepathically "phones" Goku with a warning to stay as far away from Frieza as possible! Back on Namek, Vegeta is shocked to discover how much a simple transformation can increase Zarbon's power._  
 <a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684057621713.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684057621713.jpg" height="144px" /></a>
-## Video removed
-### Summary
-2031611 Dragon Ball Z Kai: 1  
-### 2031636
-**Dragon Ball Z Kai S01E25 - Power Up, Krillin! Frieza's Mounting Apprehension!**  
-TV-PG-LV 🔒 21:01  
+### 718820
+**The Venture Bros. S03E09 - Now Museum--Now You Don't**  
+TV-14-DLSV 🔓 22:18  
 ⌛ August 12, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/dragon-ball-z-kai/power-up-krillin-friezas-mounting-apprehension  
-seriesid=`2031611` titleid=`2031636` id=`7rDBj3n0T8G7V9uYAGl5Pw` mediaid=`0ed547854811c907de61f5d8c962daebf050735e`  
-_The eldest Namekian unlocks the full force of Krillin's dormant power, so the bald brawler can better protect his Dragon Ball. Elsewhere, a Saiyan-related premonition prompts Frieze to call for reinforcements._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684061055215.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684061055215.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/the-venture-bros/now-museum-now-you-dont  
+seriesid=`439722` titleid=`718820` id=`EWnaS7unRByuRVHapkE9rw` mediaid=`20de8c29f6060c6a972372b4539b48839093a763`  
+_Determined to honor the father he never knew, Jonas, Jr. converts Spider Skull Island into a Team Venture Museum.  Unfortunately, he invited all of his father's surviving friends and enemies to the grand opening. 
+There's nothing like a party to stir up decades worth of sibling rivalries, bitter regrets and half-forgotten hatreds._  
+<a href="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_211614545-venture_135_dst_cid-URYR.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_211614545-venture_135_dst_cid-URYR.jpg" height="144px" /></a>
