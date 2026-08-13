@@ -1,7 +1,6 @@
 {
-    "updated": 1786630360,
-    "added": [],
-    "removed": [
+    "updated": 1786635760,
+    "added": [
         {
             "auth": true,
             "ott_launch_date": null,
@@ -34,7 +33,7 @@
             "original_air_date": 1433044800,
             "clip_order": null,
             "auth_launch_date": 1785402000,
-            "modified": 1785000270,
+            "modified": 1786635692,
             "airing_id": "RADS1007252600015153",
             "media_id": "83a21a84127d416f76b17c7743308c86fe966a60",
             "id": "2LXn-QyYS0Swg3-Of36KhQ",
@@ -49,7 +48,7 @@
             "active": false,
             "blacklist": [],
             "ott_expiration_date": null,
-            "published": 1785000270,
+            "published": 1786635692,
             "first_published": 1432747252,
             "tags": [],
             "collection_title": "Dragon Ball Z Kai",
@@ -61,5 +60,6 @@
             "collection_title_id": "2031611",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
