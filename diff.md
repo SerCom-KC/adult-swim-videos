@@ -2,8 +2,10 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: August 13, 2026 at 12:00:13 EDT_
+_Last Update: August 13, 2026 at 14:00:14 EDT_
 ## Video added
+No videos were added.  
+## Video removed
 ### Summary
 2031611 Dragon Ball Z Kai: 1  
 ### 2031637
@@ -14,5 +16,3 @@ https://www.adultswim.com/videos/dragon-ball-z-kai/the-scheme-is-shattered-veget
 seriesid=`2031611` titleid=`2031637` id=`2LXn-QyYS0Swg3-Of36KhQ` mediaid=`83a21a84127d416f76b17c7743308c86fe966a60`  
 _Vegeta lays it on the line in a daring attempt to steal the Dragon Balls right out from under Frieza's nose. Krillin's riding high on a Namekian power surge, but he's about to wander into a dogfight he can't survive!_  
 <a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684065349417.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684065349417.jpg" height="144px" /></a>
-## Video removed
-No videos were removed.  
