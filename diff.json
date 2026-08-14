@@ -1,61 +1,6 @@
 {
-    "updated": 1786680072,
+    "updated": 1786680157,
     "added": [
-        {
-            "auth_expiration_date": 1786679940,
-            "tms_id": "",
-            "description": "Louise brings Tina along on a mission to find the perfect item for her last-ever Show and Tell.",
-            "title_suggest": {
-                "input": [
-                    "The Show (And Tell) Must Go On",
-                    "Show (And Tell) Must Go On",
-                    "(And Tell) Must Go On",
-                    "Tell) Must Go On",
-                    "Must Go On",
-                    "Go On",
-                    "On"
-                ]
-            },
-            "title": "The Show (And Tell) Must Go On",
-            "expiration_date": null,
-            "type": "episode",
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-            "duration": 0,
-            "episode_number": "15",
-            "original_air_date": null,
-            "auth_launch_date": 1785470400,
-            "clip_order": null,
-            "airing_id": "RADS1007252600015218",
-            "media_id": "735186412a0f415a83069c34f0778bcbd1cb6558",
-            "modified": 1785047080,
-            "slug": "the-show-and-tell-must-go-on",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_2591812167-BobsBurgers_1315.jpg",
-            "created": 1758211272,
-            "season_number": "13",
-            "title_id": "2569580",
-            "tv_rating": "tv-pg-l",
-            "published": 1785047080,
-            "tags": [],
-            "collection_title": "Bob's Burgers",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_2591812167-BobsBurgers_1315.jpg",
-            "id": "AZldju9KyEF1_1NDe6ah",
-            "auth": true,
-            "collection_slug": "bobs-burgers",
-            "collection_title_id": "2003422",
-            "online_exclusives": false
-        }
-    ],
-    "removed": [
         {
             "auth_expiration_date": 1787889540,
             "tms_id": "",
@@ -161,6 +106,172 @@
             "cma_id": "1082540",
             "collection_slug": "dragon-ball-z-kai",
             "collection_title_id": "2031611",
+            "online_exclusives": false
+        },
+        {
+            "auth": false,
+            "ott_launch_date": 1451681940,
+            "auth_expiration_date": 1690516740,
+            "tms_id": "EP007008200009",
+            "rating": 8.152818,
+            "description": "Tom tries to start a consulting business in Jefferton but is denied by City Council until his family becomes registered.",
+            "title_suggest": {
+                "input": [
+                    "Re-Birth"
+                ]
+            },
+            "type": "episode",
+            "title": "Re-Birth",
+            "expiration_date": 1792727940,
+            "platforms": [
+                "web",
+                "mobile",
+                "ott"
+            ],
+            "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
+            "duration": 708.91,
+            "episode_number": "9",
+            "original_air_date": 1118031300,
+            "clip_order": null,
+            "auth_launch_date": 1687492800,
+            "modified": 1786375610,
+            "airing_id": "RADS1008102600018011",
+            "media_id": "63903d39e4b926cace8adcb33098f71196db2cbf",
+            "id": "_aEKJkhaTx-Tb4wuQMQXfA",
+            "slug": "re-birth",
+            "views": 134942,
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_2117836571-tgttm_009.jpg",
+            "created": 1402945482,
+            "title_id": "612758",
+            "season_number": "1",
+            "tv_rating": "tv-ma",
+            "active": true,
+            "ott_expiration_date": null,
+            "published": 1786375610,
+            "tags": [
+                "tom goes to the mayor tgttm episode 9 rebirth consulting"
+            ],
+            "rating_count": 373,
+            "collection_title": "Tom Goes To The Mayor",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1786680000,
+            "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_2117836571-tgttm_009.jpg",
+            "cma_id": "",
+            "collection_slug": "tom-goes-to-the-mayor",
+            "collection_title_id": "547867",
+            "online_exclusives": false
+        }
+    ],
+    "removed": [
+        {
+            "auth_expiration_date": 1786679940,
+            "tms_id": "",
+            "description": "Louise brings Tina along on a mission to find the perfect item for her last-ever Show and Tell.",
+            "title_suggest": {
+                "input": [
+                    "The Show (And Tell) Must Go On",
+                    "Show (And Tell) Must Go On",
+                    "(And Tell) Must Go On",
+                    "Tell) Must Go On",
+                    "Must Go On",
+                    "Go On",
+                    "On"
+                ]
+            },
+            "title": "The Show (And Tell) Must Go On",
+            "expiration_date": null,
+            "type": "episode",
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
+            "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+            "duration": 0,
+            "episode_number": "15",
+            "original_air_date": null,
+            "auth_launch_date": 1785470400,
+            "clip_order": null,
+            "airing_id": "RADS1007252600015218",
+            "media_id": "735186412a0f415a83069c34f0778bcbd1cb6558",
+            "modified": 1785047080,
+            "slug": "the-show-and-tell-must-go-on",
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_2591812167-BobsBurgers_1315.jpg",
+            "created": 1758211272,
+            "season_number": "13",
+            "title_id": "2569580",
+            "tv_rating": "tv-pg-l",
+            "published": 1785047080,
+            "tags": [],
+            "collection_title": "Bob's Burgers",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": null,
+            "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_2591812167-BobsBurgers_1315.jpg",
+            "id": "AZldju9KyEF1_1NDe6ah",
+            "auth": true,
+            "collection_slug": "bobs-burgers",
+            "collection_title_id": "2003422",
+            "online_exclusives": false
+        },
+        {
+            "auth": false,
+            "ott_launch_date": 1451681760,
+            "auth_expiration_date": 1702616340,
+            "tms_id": "EP007008200003",
+            "rating": 7.7826085,
+            "description": "Tom proposes a World War II-themed restaurant, but the Mayor's nephew turns it into an arcade/pizza parlor that veers far from his original vision.",
+            "title_suggest": {
+                "input": [
+                    "WW Laserz",
+                    "Laserz"
+                ]
+            },
+            "type": "episode",
+            "title": "WW Laserz",
+            "expiration_date": 1786679940,
+            "platforms": [
+                "web",
+                "mobile",
+                "ott"
+            ],
+            "collection_id": "j9EQRyMBTj-fOqwbfMtyyA",
+            "duration": 695.03,
+            "episode_number": "3",
+            "original_air_date": 1101097800,
+            "clip_order": null,
+            "auth_launch_date": 1699592400,
+            "modified": 1780209866,
+            "airing_id": "RADS1005292600005545",
+            "media_id": "47092b374778aab28d4e26e9a39515a5fb93dc16",
+            "id": "LIeGI_YTT3KeyCqV508ZsA",
+            "slug": "ww-laserz",
+            "views": 102304,
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/1_211783543-tgttm_003.jpg",
+            "created": 1402945482,
+            "title_id": "607108",
+            "season_number": "1",
+            "tv_rating": "tv-pg",
+            "active": true,
+            "ott_expiration_date": null,
+            "published": 1780209866,
+            "tags": [
+                "tom goes to the mayor tgttm episode 3 ww laserz pizza restaurant nephew"
+            ],
+            "rating_count": 322,
+            "collection_title": "Tom Goes To The Mayor",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1780632000,
+            "poster": "https://media.cdn.adultswim.com/uploads/20210107/thumbnails/2_211783543-tgttm_003.jpg",
+            "cma_id": "",
+            "collection_slug": "tom-goes-to-the-mayor",
+            "collection_title_id": "547867",
             "online_exclusives": false
         }
     ]
