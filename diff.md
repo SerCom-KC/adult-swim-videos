@@ -2,42 +2,43 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: August 15, 2026 at 00:00:28 EDT_
+_Last Update: August 15, 2026 at 00:30:14 EDT_
 ## Video added
 ### Summary
-581006 American Dad: 2  
-### 2019429
-**American Dad S10E14 - American Fung**  
-TV-14 🔒 21:03  
-⌛ August 21, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/american-fung  
-seriesid=`581006` titleid=`2019429` id=`YQYQ_TX8SQ-kR46SyT5g7g` mediaid=`2b0a5030eb72df91ca6eeeb7e6c1622b87f1aa2f`  
-_American Dad is sold to a Chinese businessman. Meanwhile, Stan has Francine committed to an insane asylum when he forgets their anniversary._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203654389833.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203654389833.jpg" height="144px" /></a>
-### 2019430
-**American Dad S10E15 - Seizures Suit Stanny**  
-TV-14 🔒 20:58  
-⌛ August 21, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/seizures-suit-stanny  
-seriesid=`581006` titleid=`2019430` id=`JG2h5XE-Sc-97MLP6lOnuQ` mediaid=`88ff5c9798e4b855093725ef8d44a9dc4ce0f18d`  
-_When Stan lies about his texting and driving accident, he takes a seizure medication and suffers from the side effects. Meanwhile, Roger helps Steve with his performance anxiety._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203654648735.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15203654648735.jpg" height="144px" /></a>
+581268 Squidbillies: 1  
+### 791438
+**Squidbillies S05E04 - Young, Dumb, and Full of Gums**  
+TV-14-DLV 🔓 11:18  
+⌛ August 13, 2027 at 23:59:00 EDT  
+https://www.adultswim.com/videos/squidbillies/young-dumb-and-full-of-gums  
+seriesid=`581268` titleid=`791438` id=`l-UqDCH9RDKoq38m8njFRg` mediaid=`5966eead3444594ed434568f2d357a870f33e783`  
+_The squids are fed up with government attempts to improve their lives._  
+<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131318251-squidbillies_054_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131318251-squidbillies_054_bim.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-581006 American Dad: 2  
-### 2019417
-**American Dad S10E02 - CIAPOW**  
-TV-14 🔒 21:03  
+2326791 Smalls: 1  
+581268 Squidbillies: 2  
+### 2568724
+**Smalls S07E04 - Dewdge Center/The Fit**  
+TV-MA-L 🔓 10:49  
 ⌛ August 14, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/ciapow  
-seriesid=`581006` titleid=`2019417` id=`J2yASXnmQXC3fGXJHQOU7g` mediaid=`39b437f039d0fe42b04fa27a65bcfe373dea8c06`  
-_When Bullock sends a drone to do the job Stan and his colleagues are supposed to do, Stan is determined to prove that humans are better than robots. Meanwhile, Francine and the rest of the family participate in a slow motion race in the living room._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991859679618.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991859679618.jpg" height="144px" /></a>
-### 2019416
-**American Dad S10E01 - Blonde Ambition**  
-TV-14 🔒 21:04  
+https://www.adultswim.com/videos/smalls/dewdge-center-the-fit  
+seriesid=`2326791` titleid=`2568724` id=`AZfCxNfCCI-3VkGoG1Lq` mediaid=`f484c92e58acb2e6a4cbe74bb7288aadb3ffff51`  
+_Rock 'n' Roll reigns eternal at Dewdge Center, but relaxation is king when it comes to The Fit._  
+<a href="https://media.cdn.adultswim.com/uploads/20250908/thumbnails/2_25981453563-AS-SMALLS-704-1920x1080.png"><img src="https://media.cdn.adultswim.com/uploads/20250908/thumbnails/2_25981453563-AS-SMALLS-704-1920x1080.png" height="144px" /></a>
+### 2032582
+**Squidbillies S09E06 - A Walk to Dignity**  
+TV-14-LV 🔓 11:19  
 ⌛ August 14, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/blonde-ambition  
-seriesid=`581006` titleid=`2019416` id=`bCTt_9u2RIqanyRvylNJqw` mediaid=`b565a067a34f00259f2d3659dad7b07a6ee6f03a`  
-_When her efforts to save the planet prove hopeless, Hayley decides that she might get more attention if she becomes a blonde. Meanwhile, Stan and Steve go on a mission to find a new home for the Smiths._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991856208418.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151991856208418.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/squidbillies/a-walk-to-dignity  
+seriesid=`581268` titleid=`2032582` id=`PQ8s0JYnRrShnRqfQ7w85Q` mediaid=`96e38b2171e069f4a3c839fd4005fc5c5dca717a`  
+_Sheriff's dad, the Sheriff, breaks the law to break down social barriers._  
+<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141126100-squidbillies_092_dup-20141030.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141126100-squidbillies_092_dup-20141030.jpg" height="144px" /></a>
+### 650446
+**Squidbillies S02E01 - Government Brain Voodoo Trouble**  
+TV-MA 🔓 11:15  
+⌛ August 14, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/squidbillies/government-brain-voodoo-trouble  
+seriesid=`581268` titleid=`650446` id=`vkOTj_8fRwuP9zJQS6qbbw` mediaid=`220763c1c720548e821043f8f86bd698c6e7fc1f`  
+_Early and the Sheriff reach a crossroads. Not starring Charles Napier._  
+<a href="https://media.cdn.adultswim.com/uploads/20200408/thumbnails/2_20481613237-squidbillies_007.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200408/thumbnails/2_20481613237-squidbillies_007.jpg" height="144px" /></a>
