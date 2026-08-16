@@ -2,43 +2,69 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: August 15, 2026 at 00:30:14 EDT_
+_Last Update: August 16, 2026 at 00:30:40 EDT_
 ## Video added
 ### Summary
-581268 Squidbillies: 1  
-### 791438
-**Squidbillies S05E04 - Young, Dumb, and Full of Gums**  
-TV-14-DLV 🔓 11:18  
-⌛ August 13, 2027 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/young-dumb-and-full-of-gums  
-seriesid=`581268` titleid=`791438` id=`l-UqDCH9RDKoq38m8njFRg` mediaid=`5966eead3444594ed434568f2d357a870f33e783`  
-_The squids are fed up with government attempts to improve their lives._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131318251-squidbillies_054_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131318251-squidbillies_054_bim.jpg" height="144px" /></a>
+581006 American Dad: 2  
+2288454 My Adventures with Superman: 1  
+895948 The Eric Andre Show: 1  
+### 2041474
+**American Dad S11E01 - Roots**  
+TV-14-DLV 🔒 21:13  
+⌛ August 22, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/roots  
+seriesid=`581006` titleid=`2041474` id=`TYWscrkVRdCNVviIdM1W0Q` mediaid=`566083395eaa38012ee31da187d895b1f2fcd330`  
+_Stan sets out to stop a tree that he considers his father from being cut down. Steve realizes he's stopped growing and considers surgery._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002065003817.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002065003817.jpg" height="144px" /></a>
+### 2041475
+**American Dad S11E02 - The Life Aquatic with Steve Smith**  
+TV-14-DLS 🔒 21:13  
+⌛ August 22, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/the-life-aquatic-with-steve-smith  
+seriesid=`581006` titleid=`2041475` id=`6m-aKqOzTuiKpe2ndROi_A` mediaid=`bd13f4f6ae04673e20a7854990ba9a61a012f1a5`  
+_Steve joins the high school water polo team in order to get girls. Meanwhile, Roger and Stan get a boat._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002055144810.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002055144810.jpg" height="144px" /></a>
+### 2536282
+**My Adventures with Superman S03E10 - The Return**  
+TV-PG-V 🔒 22:31  
+⌛ September 5, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/my-adventures-with-superman/the-return  
+seriesid=`2288454` titleid=`2536282` id=`AZ7CBjAiS4HfauEvf2HK` mediaid=`ff20fb5656ad475fa7e26ae1be0e32dd9188a731`  
+_Our heroes try to save the world. Clark tries to reach them. Lex faces the music. It's time to be brave._  
+<a href="https://media.cdn.adultswim.com/uploads/20260613/thumbnails/2_26613132676-SUPR_S3_E10.png"><img src="https://media.cdn.adultswim.com/uploads/20260613/thumbnails/2_26613132676-SUPR_S3_E10.png" height="144px" /></a>
+### 2032603
+**The Eric Andre Show S03E07 - Naturi Naughton; Ryan Phillippe**  
+TV-MA-L 🔓 11:02  
+⌛ September 19, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-eric-andre-show/naturi-naughton-ryan-phillippe  
+seriesid=`895948` titleid=`2032603` id=`u8UTHGNETfaPYUdeOsZ9sg` mediaid=`233d29f02119f01236a41146383c608cf280d991`  
+_Interviews with Naturi Naughton and Ryan Phillippe; Musical guest Trash Talk._  
+<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341617101-ericandre_027_dup-20141204.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341617101-ericandre_027_dup-20141204.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-2326791 Smalls: 1  
-581268 Squidbillies: 2  
-### 2568724
-**Smalls S07E04 - Dewdge Center/The Fit**  
-TV-MA-L 🔓 10:49  
-⌛ August 14, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/smalls/dewdge-center-the-fit  
-seriesid=`2326791` titleid=`2568724` id=`AZfCxNfCCI-3VkGoG1Lq` mediaid=`f484c92e58acb2e6a4cbe74bb7288aadb3ffff51`  
-_Rock 'n' Roll reigns eternal at Dewdge Center, but relaxation is king when it comes to The Fit._  
-<a href="https://media.cdn.adultswim.com/uploads/20250908/thumbnails/2_25981453563-AS-SMALLS-704-1920x1080.png"><img src="https://media.cdn.adultswim.com/uploads/20250908/thumbnails/2_25981453563-AS-SMALLS-704-1920x1080.png" height="144px" /></a>
-### 2032582
-**Squidbillies S09E06 - A Walk to Dignity**  
-TV-14-LV 🔓 11:19  
-⌛ August 14, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/a-walk-to-dignity  
-seriesid=`581268` titleid=`2032582` id=`PQ8s0JYnRrShnRqfQ7w85Q` mediaid=`96e38b2171e069f4a3c839fd4005fc5c5dca717a`  
-_Sheriff's dad, the Sheriff, breaks the law to break down social barriers._  
-<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141126100-squidbillies_092_dup-20141030.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141126100-squidbillies_092_dup-20141030.jpg" height="144px" /></a>
-### 650446
-**Squidbillies S02E01 - Government Brain Voodoo Trouble**  
-TV-MA 🔓 11:15  
-⌛ August 14, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/government-brain-voodoo-trouble  
-seriesid=`581268` titleid=`650446` id=`vkOTj_8fRwuP9zJQS6qbbw` mediaid=`220763c1c720548e821043f8f86bd698c6e7fc1f`  
-_Early and the Sheriff reach a crossroads. Not starring Charles Napier._  
-<a href="https://media.cdn.adultswim.com/uploads/20200408/thumbnails/2_20481613237-squidbillies_007.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200408/thumbnails/2_20481613237-squidbillies_007.jpg" height="144px" /></a>
+581006 American Dad: 2  
+895948 The Eric Andre Show: 1  
+### 2019420
+**American Dad S10E03 - Scents and Sensei-bility**  
+TV-14 🔒 21:01  
+⌛ August 15, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/scents-and-sensei-bility  
+seriesid=`581006` titleid=`2019420` id=`TBFgQoSBRUKm2eDTb1QWmQ` mediaid=`ad0c12dab6551f047632e89d2c925b681a66c541`  
+_Steve and Snot are fed up with being bullied. When they enroll in a karate class, Snot is brainwashed by the sensei and it's Steve’s mission to get him back. Meanwhile, Klaus develops a horrible odor and is forced to be an outside pet._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15202795336366.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15202795336366.jpg" height="144px" /></a>
+### 2019421
+**American Dad S10E05 - Now and Gwen**  
+TV-14 🔒 21:03  
+⌛ August 15, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/now-and-gwen  
+seriesid=`581006` titleid=`2019421` id=`yl36vIIkSmiG-pCULIEgOw` mediaid=`86d98209d9093ad062a3f4431f15a527db1fa3be`  
+_When Francine's sister Gwen comes to town, Hayley suspects she is up to no good. Meanwhile, Stan teaches Steve the art of hugging Aunt Gwen and Klaus shadows Roger's dramatic comments._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002057523219.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152002057523219.jpg" height="144px" /></a>
+### 2418687
+**The Eric Andre Show S06E07 - Anti-weed**  
+TV-MA-LS 🔒 11:13  
+⌛ August 15, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-eric-andre-show/anti-weed  
+seriesid=`895948` titleid=`2418687` id=`AYjZOXpA2rZC6NyF6193` mediaid=`0379c858dcf529d4f4e633ce78f4b97be8abfc37`  
+_Eric welcomes Raven Symone and Benny Blanco. H09909 gets H09909fied. The Kar Kwash introduces a new car cleaning technique._  
+<a href="https://media.cdn.adultswim.com/uploads/20230705/thumbnails/2_23751456152-EAAntiWeed.png"><img src="https://media.cdn.adultswim.com/uploads/20230705/thumbnails/2_23751456152-EAAntiWeed.png" height="144px" /></a>
