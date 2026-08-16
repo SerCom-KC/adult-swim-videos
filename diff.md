@@ -2,26 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: August 16, 2026 at 03:30:40 EDT_
+_Last Update: August 16, 2026 at 05:30:14 EDT_
 ## Video added
 ### Summary
-2012528 Blue Exorcist: 1  
-### 2012544
-**Blue Exorcist S01E16 - The Wager**  
-TV-14 🔒 21:58  
-⌛ August 30, 2026 at 02:59:00 EDT  
-https://www.adultswim.com/videos/blue-exorcist/the-wager  
-seriesid=`2012528` titleid=`2012544` id=`eGufNsc1TAOkx6FwL3lGCA` mediaid=`9fc04168555457da863a5e5b04e73e1d0132f43a`  
-_Consumed by the power of the flames during his battle with Amaimon, Rin goes berserk! He regains control of himself once his power is exhausted...only to be captured then and there by the current Paladin, Angel!_  
-<a href="https://i.cdn.turner.com/adultswim/big/video/the-wager/blueexorcist_cc_16_pt3-02.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/the-wager/blueexorcist_cc_16_pt3-02.jpg" height="144px" /></a>
+608007 One Piece: 1  
+### 2600307
+**One Piece S19E07 - The Capital City Falls?! Big Mom and Jimbei!**  
+TV-14-V 🔒 21:30  
+⌛ October 25, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/one-piece/the-capital-city-falls-big-mom-and-jimbei  
+seriesid=`608007` titleid=`2600307` id=`AZ_ODM8PjvfpAIE9Vpza` mediaid=`db5c1f077c8a9f2262f6034784b9c805fbebf988`  
+_Big Mom rampages through the Whole Cake Island in search for sweets. An old face curbs her cravings._  
+<a href="https://media.cdn.adultswim.com/uploads/20260804/thumbnails/2_26841432510-789_S19ep7.jpg"><img src="https://media.cdn.adultswim.com/uploads/20260804/thumbnails/2_26841432510-789_S19ep7.jpg" height="144px" /></a>
 ## Video removed
-### Summary
-2012528 Blue Exorcist: 1  
-### 2012540
-**Blue Exorcist S01E12 - A Game of Tag**  
-TV-PG-DLV 🔒 22:01  
-⌛ August 16, 2026 at 02:59:00 EDT  
-https://www.adultswim.com/videos/blue-exorcist/a-game-of-tag  
-seriesid=`2012528` titleid=`2012540` id=`dGmNY6mcQ2-7t0EaK3uBOQ` mediaid=`b96757ba7f1ffe219db5bdf23a0c17be4915f5b3`  
-_The class's latest mission is to search for a "ghost" spotted in an amusement park. Paired up with Shiemi, Rin can't shake off the feeling that he's on a date. They find the ghost, who keeps taunting them and running off, until the mission becomes a game of tag. Separated from Shiemi, Rin is confronted by the King of Earth - Amaimon! When he loses the Koma Sword to Amaimon, Rin finds himself being consumed by the power of Satan...!_  
-<a href="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/blueexorcist_cc_12_pt1-03.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/episode-thumbs-16x9/blueexorcist_cc_12_pt1-03.jpg" height="144px" /></a>
+No videos were removed.  
