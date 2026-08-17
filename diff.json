@@ -1,7 +1,6 @@
 {
-    "updated": 1786969815,
-    "added": [],
-    "removed": [
+    "updated": 1786980614,
+    "added": [
         {
             "auth_expiration_date": 1787025540,
             "tms_id": "",
@@ -30,9 +29,9 @@
             "original_air_date": null,
             "auth_launch_date": 1780977600,
             "clip_order": null,
-            "airing_id": "RADS1005212600003804",
+            "airing_id": "RADS1006032600006796",
             "media_id": "0d2a157c1897d9d0b073f9e145e7db6512ca64d7",
-            "modified": 1780556492,
+            "modified": 1786978793,
             "slug": "like-where-are-your-balls",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20250725/thumbnails/1_257251518178-Ep05_Still_0132.png",
@@ -40,7 +39,7 @@
             "season_number": "1",
             "title_id": "2568748",
             "tv_rating": "tv-ma",
-            "published": 1780556492,
+            "published": 1786978793,
             "tags": [],
             "collection_title": "DAN DA DAN",
             "disable_ads": false,
@@ -53,5 +52,6 @@
             "collection_title_id": "2568743",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
