@@ -1,16 +1,19 @@
 {
-    "updated": 1786937651,
+    "updated": 1786939228,
     "added": [
         {
-            "auth_expiration_date": 1788751740,
+            "auth_expiration_date": 1788753540,
             "tms_id": "",
-            "description": "After finding an addendum on the Louisiana Purchase receipt, Curtis must race against old enemies and friends to hold control of the territory.",
+            "description": "Demons and Devils lie in wait to attack Keiji and his flock.",
             "title_suggest": {
                 "input": [
-                    "Purchase"
+                    "Gone to the Birds",
+                    "to the Birds",
+                    "the Birds",
+                    "Birds"
                 ]
             },
-            "title": "Purchase",
+            "title": "Gone to the Birds",
             "expiration_date": null,
             "type": "episode",
             "platforms": [
@@ -19,35 +22,87 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "AZ-LbfQEmJnHw_h9ubpt",
-            "duration": 1307.0391,
-            "episode_number": "4",
+            "collection_id": "AZzoG3x55hm4q6q--tfK",
+            "duration": 1293.2586,
+            "episode_number": "9",
             "original_air_date": null,
-            "auth_launch_date": 1786937400,
+            "auth_launch_date": 1786939200,
             "clip_order": null,
-            "airing_id": "RADS1008102600018190",
-            "media_id": "bd00e2aa94c2420577d97a43d9f1ea0fdb626f55",
-            "modified": 1786559185,
-            "slug": "purchase",
+            "airing_id": "RADS1008122600018502",
+            "media_id": "15fa6ff038ae8e119cbc0aa78e13fda0834ff71f",
+            "modified": 1786555770,
+            "slug": "gone-to-the-birds",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20260722/thumbnails/1_267221711447-PresidentCurtis_105_Purchase_Thumbnail_1920x1080.jpg",
-            "created": 1784754710,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20260314/thumbnails/1_26314028443-RoosterFighter_09.png",
+            "created": 1773462545,
             "season_number": "1",
-            "title_id": "2569976",
+            "title_id": "2568738",
             "tv_rating": "",
-            "published": 1786559185,
+            "published": 1786555770,
             "tags": [],
-            "collection_title": "President Curtis",
+            "collection_title": "Rooster Fighter",
             "disable_ads": false,
             "modified_by": "ODT Listener",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20260722/thumbnails/2_267221711447-PresidentCurtis_105_Purchase_Thumbnail_1920x1080.jpg",
-            "id": "AZ-Lq6ZxS4HfauEvf2Nk",
+            "poster": "https://media.cdn.adultswim.com/uploads/20260314/thumbnails/2_26314028443-RoosterFighter_09.png",
+            "id": "AZzqmuXw5hm4q6q--tfO",
             "auth": true,
-            "collection_slug": "president-curtis",
-            "collection_title_id": "2547718",
+            "collection_slug": "rooster-fighter",
+            "collection_title_id": "2568729",
             "online_exclusives": false
         }
     ],
-    "removed": []
+    "removed": [
+        {
+            "auth_expiration_date": 1786939140,
+            "tms_id": "",
+            "description": "When Morio's efforts fail, the flood approaches! Will Keiji and his flock be able to save the city?",
+            "title_suggest": {
+                "input": [
+                    "Built Like a Brick Coop",
+                    "Like a Brick Coop",
+                    "a Brick Coop",
+                    "Brick Coop",
+                    "Coop"
+                ]
+            },
+            "title": "Built Like a Brick Coop",
+            "expiration_date": null,
+            "type": "episode",
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
+            "collection_id": "AZzoG3x55hm4q6q--tfK",
+            "duration": 1353.7191,
+            "episode_number": "6",
+            "original_air_date": "1776571200",
+            "auth_launch_date": 1785124800,
+            "clip_order": null,
+            "airing_id": "RADS1007212600014679",
+            "media_id": "22f0288b7ba3cd6bbdd0f3b8e4324042bfcc4801",
+            "modified": 1784729315,
+            "slug": "built-like-a-brick-coop",
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20260314/thumbnails/1_2631402578-RoosterFighter_06.png",
+            "created": 1773462313,
+            "season_number": "1",
+            "title_id": "2568735",
+            "tv_rating": "",
+            "published": 1784729315,
+            "tags": [],
+            "collection_title": "Rooster Fighter",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": null,
+            "poster": "https://media.cdn.adultswim.com/uploads/20260314/thumbnails/2_2631402578-RoosterFighter_06.png",
+            "id": "AZzql1vX5hm4q6q--tfN",
+            "auth": true,
+            "collection_slug": "rooster-fighter",
+            "collection_title_id": "2568729",
+            "online_exclusives": false
+        }
+    ]
 }
