@@ -1,24 +1,21 @@
 {
-    "updated": 1786872614,
-    "added": [
+    "updated": 1786930214,
+    "added": [],
+    "removed": [
         {
-            "auth_expiration_date": 1792987140,
+            "auth_expiration_date": 1786939140,
             "tms_id": "",
-            "description": "Big Mom rampages through the Whole Cake Island in search for sweets. An old face curbs her cravings.",
+            "description": "The group tries to exorcize Evil Eye with a Hayashi performance. Jiji pleads not kill Evil Eye.",
             "title_suggest": {
                 "input": [
-                    "The Capital City Falls?! Big Mom and Jimbei!",
-                    "Capital City Falls?! Big Mom and Jimbei!",
-                    "City Falls?! Big Mom and Jimbei!",
-                    "Falls?! Big Mom and Jimbei!",
-                    "Big Mom and Jimbei!",
-                    "Mom and Jimbei!",
-                    "and Jimbei!",
-                    "Jimbei!"
+                    "We Became a Family",
+                    "Became a Family",
+                    "a Family",
+                    "Family"
                 ]
             },
-            "title": "The Capital City Falls?! Big Mom and Jimbei!",
-            "expiration_date": null,
+            "title": "We Became a Family",
+            "expiration_date": 1780819140,
             "type": "episode",
             "platforms": [
                 "android",
@@ -26,35 +23,34 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "SslYF3YhS8W8G_JR4TLlDw",
-            "duration": 1290.3224,
-            "episode_number": "7",
-            "original_air_date": null,
-            "auth_launch_date": 1786870800,
+            "collection_id": "AZhC4WShITxXrw59dM9q",
+            "duration": 1376.8755,
+            "episode_number": "6",
+            "original_air_date": "1777782600",
+            "auth_launch_date": 1780819200,
             "clip_order": null,
-            "airing_id": "RADS1008102600018184",
-            "media_id": "db5c1f077c8a9f2262f6034784b9c805fbebf988",
-            "modified": 1786414281,
-            "slug": "the-capital-city-falls-big-mom-and-jimbei",
+            "airing_id": "RADS1005182600003603",
+            "media_id": "0687a24cbd393069ffa079645468f983db68729d",
+            "modified": 1780399955,
+            "slug": "we-became-a-family",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20260804/thumbnails/1_26841432510-789_S19ep7.jpg",
-            "created": 1785868373,
-            "season_number": "19",
-            "title_id": "2600307",
-            "tv_rating": "tv-14-v",
-            "published": 1786414281,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20260324/thumbnails/1_263242257226-AS_DanDaDan_S2_Thumbnail_Ep18.png",
+            "created": 1774407449,
+            "season_number": "2",
+            "title_id": "2573230",
+            "tv_rating": "",
+            "published": 1780399955,
             "tags": [],
-            "collection_title": "One Piece",
+            "collection_title": "DAN DA DAN",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20260804/thumbnails/2_26841432510-789_S19ep7.jpg",
-            "id": "AZ_ODM8PjvfpAIE9Vpza",
+            "launch_date": 1779609600,
+            "poster": "https://media.cdn.adultswim.com/uploads/20260324/thumbnails/2_263242257226-AS_DanDaDan_S2_Thumbnail_Ep18.png",
+            "id": "AZ0i7Pwf5hm4q6q--tfS",
             "auth": true,
-            "collection_slug": "one-piece",
-            "collection_title_id": "608007",
+            "collection_slug": "dan-da-dan",
+            "collection_title_id": "2568743",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
