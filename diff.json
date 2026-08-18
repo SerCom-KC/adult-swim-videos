@@ -1,7 +1,6 @@
 {
-    "updated": 1787067877,
-    "added": [],
-    "removed": [
+    "updated": 1787071957,
+    "added": [
         {
             "auth_expiration_date": null,
             "tms_id": "EP001022180057",
@@ -21,14 +20,14 @@
                 "fire-tv"
             ],
             "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
-            "duration": 739.7724,
+            "duration": 740.8067,
             "episode_number": "20",
             "original_air_date": "937623600",
             "auth_launch_date": null,
             "clip_order": null,
             "airing_id": "RADS1011122500068681",
             "media_id": "afd39059cfce60306dd3077e4283b33df475874b",
-            "modified": 1787064245,
+            "modified": 1787071463,
             "slug": "dam",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_20420113931-sgc2c_9720.jpg",
@@ -36,7 +35,7 @@
             "season_number": "4",
             "title_id": "322334",
             "tv_rating": "tv-pg",
-            "published": 1787064245,
+            "published": 1787071463,
             "tags": [
                 "space ghost coast to coast sgc2c episode 53 dam charlton heston"
             ],
@@ -51,5 +50,6 @@
             "collection_title_id": "322328",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
