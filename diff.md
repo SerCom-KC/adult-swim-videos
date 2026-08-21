@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: August 21, 2026 at 01:30:27 EDT_
+_Last Update: August 21, 2026 at 06:00:42 EDT_
 ## Video added
 ### Summary
-322328 Space Ghost Coast to Coast: 1  
-### 322741
-**Space Ghost Coast to Coast S01E09 - Self Help**  
-TV-PG 🔓 11:43  
-⌛ September 1, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/space-ghost-coast-to-coast/self-help  
-seriesid=`322328` titleid=`322741` id=`W6qsc12JR2ahykAeOM67pg` mediaid=`5de5c0541e6da1a222cb83c72909f8bbf8bd2dcf`  
-_Hoping to rehabilitate Zorak, Space Ghost welcomes psychiatrist Dr. Joyce Brothers, who ends up being more concerned about him. Later, comic Rich Hall give Space Ghost pointers on how to pick up women that are immediately used by Zorak and Moltar to impress author Anka Radakovich._  
-<a href="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417948300-sgc2c_9409_dst_cid-9129902.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200417/thumbnails/2_20417948300-sgc2c_9409_dst_cid-9129902.jpg" height="144px" /></a>
+2031611 Dragon Ball Z Kai: 1  
+### 2031667
+**Dragon Ball Z Kai S01E56 - I Will Defeat Frieza! Another Super Saiyan!**  
+TV-PG-LV 🔒 21:57  
+⌛ September 2, 2026 at 04:59:00 EDT  
+https://www.adultswim.com/videos/dragon-ball-z-kai/i-will-defeat-frieza-another-super-saiyan  
+seriesid=`2031611` titleid=`2031667` id=`Szn0wL6YRKW1iPwc4dY7Nw` mediaid=`fc667afe28031841ae62e2339f2c9b4c988eb73d`  
+_The bone-chilling onslaught of Frieza and King Cold is brought to a halt by a mysterious stranger with a mighty sword, but only time will tell if this new warrior is friend or foe!_  
+<a href="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_191210162467-dragonballzkai_056_air_cid-2PFNK.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_191210162467-dragonballzkai_056_air_cid-2PFNK.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
