@@ -93,53 +93,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1787284740,
-        "tms_id": "",
-        "description": "Bob tells Linda and the kids the story behind an old, broken radio.",
-        "title_suggest": {
-            "input": [
-                "Radio No You Didn't",
-                "No You Didn't",
-                "You Didn't",
-                "Didn't"
-            ]
-        },
-        "title": "Radio No You Didn't",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "20",
-        "original_air_date": null,
-        "auth_launch_date": 1786075200,
-        "clip_order": null,
-        "airing_id": "RADS1008022600016592",
-        "media_id": "5b8fce3ec516e29065042ec55c78f5c7cf07036b",
-        "modified": 1785704208,
-        "slug": "radio-no-you-didnt",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_25918121070-BobsBurgers_1320.jpg",
-        "created": 1758211811,
-        "season_number": "13",
-        "title_id": "2569585",
-        "tv_rating": "tv-pg-l",
-        "published": 1785704208,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_25918121070-BobsBurgers_1320.jpg",
-        "id": "AZldlygHs_ErlMTJpQnv",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1787543940,
         "tms_id": "",
         "description": "Linda almost totally accidentally kidnaps a children's book author.",
@@ -464,6 +417,52 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181554316-BobsBurgers_1407.jpg",
         "id": "AZledE3ws_ErlMTJpQnz",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1788494340,
+        "tms_id": "",
+        "description": "During their special day at the wharf with Big Bob, the kids get into trouble with the Wharf's newest fortune-telling giant clam.",
+        "title_suggest": {
+            "input": [
+                "Wharf, Me Worry?",
+                "Me Worry?",
+                "Worry?"
+            ]
+        },
+        "title": "Wharf, Me Worry?",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "8",
+        "original_air_date": null,
+        "auth_launch_date": 1787284800,
+        "clip_order": null,
+        "airing_id": "RADS1008172600018987",
+        "media_id": "84acca5096efd9cdbe2c00db595d353bafb7b8ba",
+        "modified": 1787023674,
+        "slug": "wharf-me-worry",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181613248-BobsBurgers_1408.jpg",
+        "created": 1758226411,
+        "season_number": "14",
+        "title_id": "2569595",
+        "tv_rating": "tv-pg-l",
+        "published": 1787023674,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181613248-BobsBurgers_1408.jpg",
+        "id": "AZledfCss_ErlMTJpQn0",
         "auth": true
     }
 ]
