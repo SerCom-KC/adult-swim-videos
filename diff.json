@@ -1,7 +1,6 @@
 {
-    "updated": 1787601639,
-    "added": [],
-    "removed": [
+    "updated": 1787605537,
+    "added": [
         {
             "auth_expiration_date": 1787630399,
             "tms_id": "",
@@ -28,7 +27,7 @@
             "clip_order": null,
             "airing_id": "RADS1002232600088027",
             "media_id": "e84ca3d58d339bede921a1a6cb20c4047ec483b1",
-            "modified": 1787596151,
+            "modified": 1787605280,
             "slug": "return",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20260227/thumbnails/1_262271410222-TokyoRevengers_S01_E04_Still.png",
@@ -36,7 +35,7 @@
             "season_number": "1",
             "title_id": "2584163",
             "tv_rating": "tv-14-dlv",
-            "published": 1787596151,
+            "published": 1787605280,
             "tags": [],
             "collection_title": "Tokyo Revengers",
             "disable_ads": false,
@@ -49,5 +48,6 @@
             "collection_title_id": "2586423",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
