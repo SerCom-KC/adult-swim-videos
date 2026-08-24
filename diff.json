@@ -1,54 +1,6 @@
 {
-    "updated": 1787601639,
-    "added": [],
-    "removed": [
-        {
-            "auth_expiration_date": 1787630399,
-            "tms_id": "",
-            "description": "In order to protect his friend Yamamoto Takuya who's a bit frail, Takemichi challenges Kiyomasa to a fight.",
-            "title_suggest": {
-                "input": [
-                    "Resolve"
-                ]
-            },
-            "title": "Resolve",
-            "expiration_date": null,
-            "type": "episode",
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "AZw00-2MNi2EYjVB1WCZ",
-            "duration": 1369.6683,
-            "episode_number": "3",
-            "original_air_date": null,
-            "auth_launch_date": 1771754400,
-            "clip_order": null,
-            "airing_id": "RADS1002172600087134",
-            "media_id": "771a44853317b0ad02fc300d64a71babd3c172d5",
-            "modified": 1787598006,
-            "slug": "resolve",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20260219/thumbnails/1_26219168469-TokyoRevengers_S01_E03_Still.png",
-            "created": 1771535335,
-            "season_number": "1",
-            "title_id": "2584162",
-            "tv_rating": "tv-14-lv",
-            "published": 1787598006,
-            "tags": [],
-            "collection_title": "Tokyo Revengers",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20260219/thumbnails/2_26219168469-TokyoRevengers_S01_E03_Still.png",
-            "id": "AZx3u_8gc6shItN4M7w1",
-            "auth": true,
-            "collection_slug": "tokyo-revengers",
-            "collection_title_id": "2586423",
-            "online_exclusives": false
-        },
+    "updated": 1787607013,
+    "added": [
         {
             "auth_expiration_date": 1787630399,
             "tms_id": "",
@@ -75,7 +27,7 @@
             "clip_order": null,
             "airing_id": "RADS1002232600088027",
             "media_id": "e84ca3d58d339bede921a1a6cb20c4047ec483b1",
-            "modified": 1787596151,
+            "modified": 1787605280,
             "slug": "return",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20260227/thumbnails/1_262271410222-TokyoRevengers_S01_E04_Still.png",
@@ -83,7 +35,7 @@
             "season_number": "1",
             "title_id": "2584163",
             "tv_rating": "tv-14-dlv",
-            "published": 1787596151,
+            "published": 1787605280,
             "tags": [],
             "collection_title": "Tokyo Revengers",
             "disable_ads": false,
@@ -96,5 +48,6 @@
             "collection_title_id": "2586423",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
