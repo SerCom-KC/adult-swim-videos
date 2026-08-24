@@ -93,53 +93,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1787543940,
-        "tms_id": "",
-        "description": "Linda almost totally accidentally kidnaps a children's book author.",
-        "title_suggest": {
-            "input": [
-                "Mother Author Laser Pointer",
-                "Author Laser Pointer",
-                "Laser Pointer",
-                "Pointer"
-            ]
-        },
-        "title": "Mother Author Laser Pointer",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "21",
-        "original_air_date": null,
-        "auth_launch_date": 1786334400,
-        "clip_order": null,
-        "airing_id": "RADS1008052600017411",
-        "media_id": "8797acb31709a3309d7f244f76c5fa567dc3646d",
-        "modified": 1785976884,
-        "slug": "mother-author-laser-pointer",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181246335-BobsBurgers_1321.jpg",
-        "created": 1758214043,
-        "season_number": "13",
-        "title_id": "2569586",
-        "tv_rating": "tv-pg-l",
-        "published": 1785976884,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181246335-BobsBurgers_1321.jpg",
-        "id": "AZlduTags_ErlMTJpQnw",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1787803140,
         "tms_id": "",
         "description": "Rudy attends an important dinner. The Belchers make an important casserole.",
@@ -463,6 +416,54 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181613248-BobsBurgers_1408.jpg",
         "id": "AZledfCss_ErlMTJpQn0",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1788753540,
+        "tms_id": "",
+        "description": "A documentary film profiling world-class archer Louise Belcher is interrupted by unexpected visitors.",
+        "title_suggest": {
+            "input": [
+                "Fraud of the Dead: Zombie-docu-pocalypse",
+                "of the Dead: Zombie-docu-pocalypse",
+                "the Dead: Zombie-docu-pocalypse",
+                "Dead: Zombie-docu-pocalypse",
+                "Zombie-docu-pocalypse"
+            ]
+        },
+        "title": "Fraud of the Dead: Zombie-docu-pocalypse",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "9",
+        "original_air_date": null,
+        "auth_launch_date": 1787544000,
+        "clip_order": null,
+        "airing_id": "RADS1008182600019308",
+        "media_id": "87d1e2e6c66006772a8d96f460eee3d6ab5ead5f",
+        "modified": 1787119971,
+        "slug": "fraud-of-the-dead-zombie-docu-pocalypse",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181615578-BobsBurgers_1409.jpg",
+        "created": 1758226562,
+        "season_number": "14",
+        "title_id": "2569596",
+        "tv_rating": "tv-pg-l",
+        "published": 1787119971,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181615578-BobsBurgers_1409.jpg",
+        "id": "AZleeDysyEF1_1NDe6bH",
         "auth": true
     }
 ]

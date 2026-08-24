@@ -129,7 +129,7 @@
         "launch_date": 1787542200,
         "poster": "https://media.cdn.adultswim.com/uploads/20260722/thumbnails/2_26722179550-PresidentCurtis_102_Triangle_Thumbnail_1920x1080.jpg",
         "id": "AZ-LqgxqmJnHw_h9ubpw",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1788146940,
@@ -173,6 +173,50 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20260722/thumbnails/2_267221710389-PresidentCurtis_103_Ex_Thumbnail_1920x1080.jpg",
         "id": "AZ-LqsB_mJnHw_h9ubpx",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1789356540,
+        "tms_id": "",
+        "description": "After butting heads with his own Party, Curtis visits Camp David to undergo a true test of his Presidential prowess.",
+        "title_suggest": {
+            "input": [
+                "David"
+            ]
+        },
+        "title": "David",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZ-LbfQEmJnHw_h9ubpt",
+        "duration": 1312.5112,
+        "episode_number": "5",
+        "original_air_date": null,
+        "auth_launch_date": 1787542200,
+        "clip_order": null,
+        "airing_id": "RADS1008172600019196",
+        "media_id": "a4b7ff21a0592641b2430c7bac9ae3bd102cf380",
+        "modified": 1787116370,
+        "slug": "david",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20260722/thumbnails/1_267221712107-PresidentCurtis_104_David_Thumbnail_1920x1080.jpg",
+        "created": 1784754734,
+        "season_number": "1",
+        "title_id": "2569975",
+        "tv_rating": "",
+        "published": 1787116370,
+        "tags": [],
+        "collection_title": "President Curtis",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20260722/thumbnails/2_267221712107-PresidentCurtis_104_David_Thumbnail_1920x1080.jpg",
+        "id": "AZ-LrAacS4HfauEvf2Nl",
         "auth": true
     }
 ]
