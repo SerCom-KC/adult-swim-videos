@@ -1,56 +1,7 @@
 {
-    "updated": 1787599826,
-    "added": [
-        {
-            "auth_expiration_date": 1787630340,
-            "tms_id": "",
-            "description": "Their classmate Aira had one of the missing golden balls. Aira can now see \"invisible things\" -- perhaps an effect of the ball?",
-            "title_suggest": {
-                "input": [
-                    "A Dangerous Woman Arrives",
-                    "Dangerous Woman Arrives",
-                    "Woman Arrives",
-                    "Arrives"
-                ]
-            },
-            "title": "A Dangerous Woman Arrives",
-            "expiration_date": 1781582340,
-            "type": "episode",
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "AZhC4WShITxXrw59dM9q",
-            "duration": 1372.3042,
-            "episode_number": "6",
-            "original_air_date": null,
-            "auth_launch_date": 1781582400,
-            "clip_order": null,
-            "airing_id": "RADS1006112600008150",
-            "media_id": "73753670558a7087d144e8dd7d4713b5e408c988",
-            "modified": 1787599745,
-            "slug": "a-dangerous-woman-arrives",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20250725/thumbnails/1_25725151916-Ep06_Still_0019.png",
-            "created": 1753471148,
-            "season_number": "1",
-            "title_id": "2568749",
-            "tv_rating": "tv-ma",
-            "published": 1787599745,
-            "tags": [],
-            "collection_title": "DAN DA DAN",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1780372800,
-            "poster": "https://media.cdn.adultswim.com/uploads/20250725/thumbnails/2_25725151916-Ep06_Still_0019.png",
-            "id": "AZhDBmNDITxXrw59dM9x",
-            "auth": true,
-            "collection_slug": "dan-da-dan",
-            "collection_title_id": "2568743",
-            "online_exclusives": false
-        },
+    "updated": 1787601639,
+    "added": [],
+    "removed": [
         {
             "auth_expiration_date": 1787630399,
             "tms_id": "",
@@ -97,21 +48,17 @@
             "collection_slug": "tokyo-revengers",
             "collection_title_id": "2586423",
             "online_exclusives": false
-        }
-    ],
-    "removed": [
+        },
         {
             "auth_expiration_date": 1787630399,
             "tms_id": "",
-            "description": "Relying on his raw instinct of \"the smell of the goal,\" Isagi battles Team Y's playmaker, Niko Ikki, as they \"read\" each other's hand on the field.",
+            "description": "Takemichi gets to enjoy some happy times with Hinata back during their middle school days, but then he is suddenly sent back to the present.",
             "title_suggest": {
                 "input": [
-                    "To Be Reborn",
-                    "Be Reborn",
-                    "Reborn"
+                    "Return"
                 ]
             },
-            "title": "To Be Reborn",
+            "title": "Return",
             "expiration_date": null,
             "type": "episode",
             "platforms": [
@@ -120,33 +67,33 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "AZw05SoBc6shItN4M7ll",
-            "duration": 1316.8823,
-            "episode_number": "5",
+            "collection_id": "AZw00-2MNi2EYjVB1WCZ",
+            "duration": 1385.5175,
+            "episode_number": "4",
             "original_air_date": null,
-            "auth_launch_date": 1772958600,
+            "auth_launch_date": 1772359200,
             "clip_order": null,
-            "airing_id": "RADS1003022600089310",
-            "media_id": "0cd7acbe36a020b832a48a49e242387354183ace",
-            "modified": 1787596077,
-            "slug": "to-be-reborn",
+            "airing_id": "RADS1002232600088027",
+            "media_id": "e84ca3d58d339bede921a1a6cb20c4047ec483b1",
+            "modified": 1787596151,
+            "slug": "return",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20260209/thumbnails/1_26291351572-BlueLock-S01E05.png",
-            "created": 1770663493,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20260227/thumbnails/1_262271410222-TokyoRevengers_S01_E04_Still.png",
+            "created": 1772219426,
             "season_number": "1",
-            "title_id": "2584188",
-            "tv_rating": "",
-            "published": 1787596077,
+            "title_id": "2584163",
+            "tv_rating": "tv-14-dlv",
+            "published": 1787596151,
             "tags": [],
-            "collection_title": "Blue Lock",
+            "collection_title": "Tokyo Revengers",
             "disable_ads": false,
             "modified_by": "ODT Listener",
             "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20260209/thumbnails/2_26291351572-BlueLock-S01E05.png",
-            "id": "AZxDxMCsc6shItN4M7nV",
+            "poster": "https://media.cdn.adultswim.com/uploads/20260227/thumbnails/2_262271410222-TokyoRevengers_S01_E04_Still.png",
+            "id": "AZyggmX-4fEFRoGAPbR6",
             "auth": true,
-            "collection_slug": "blue-lock",
-            "collection_title_id": "2584090",
+            "collection_slug": "tokyo-revengers",
+            "collection_title_id": "2586423",
             "online_exclusives": false
         }
     ]
