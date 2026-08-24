@@ -1,7 +1,6 @@
 {
-    "updated": 1787536479,
-    "added": [],
-    "removed": [
+    "updated": 1787538698,
+    "added": [
         {
             "auth_expiration_date": 1787543940,
             "tms_id": "",
@@ -30,7 +29,7 @@
             "clip_order": null,
             "airing_id": "RADS1006082600007778",
             "media_id": "11224bdf36f762ecba175e0d221ba4e283f55adc",
-            "modified": 1780998285,
+            "modified": 1787538441,
             "slug": "feeling-kinda-gloomy",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20260324/thumbnails/1_263242257592-AS_DanDaDan_S2_Thumbnail_Ep19.png",
@@ -38,7 +37,7 @@
             "season_number": "2",
             "title_id": "2573228",
             "tv_rating": "",
-            "published": 1780998285,
+            "published": 1787538441,
             "tags": [],
             "collection_title": "DAN DA DAN",
             "disable_ads": false,
@@ -51,5 +50,6 @@
             "collection_title_id": "2568743",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
