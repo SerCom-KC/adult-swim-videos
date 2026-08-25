@@ -2,17 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: August 24, 2026 at 17:30:13 EDT_
+_Last Update: August 25, 2026 at 00:00:14 EDT_
 ## Video added
 ### Summary
-2586423 Tokyo Revengers: 1  
-### 2584163
-**Tokyo Revengers S01E04 - Return**  
-TV-14-DLV 🔒 23:05  
-⌛ August 24, 2026 at 23:59:59 EDT  
-https://www.adultswim.com/videos/tokyo-revengers/return  
-seriesid=`2586423` titleid=`2584163` id=`AZyggmX-4fEFRoGAPbR6` mediaid=`e84ca3d58d339bede921a1a6cb20c4047ec483b1`  
-_Takemichi gets to enjoy some happy times with Hinata back during their middle school days, but then he is suddenly sent back to the present._  
-<a href="https://media.cdn.adultswim.com/uploads/20260227/thumbnails/2_262271410222-TokyoRevengers_S01_E04_Still.png"><img src="https://media.cdn.adultswim.com/uploads/20260227/thumbnails/2_262271410222-TokyoRevengers_S01_E04_Still.png" height="144px" /></a>
+581006 American Dad: 1  
+### 2046300
+**American Dad S11E16 - Daesong Heavy Industries II: Return to Innocence**  
+TV-14-DLSV 🔒 21:14  
+⌛ August 31, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/daesong-heavy-industries-ii-return-to-innocence  
+seriesid=`581006` titleid=`2046300` id=`IsWR_wnmSM-E7KEkZ7ggWw` mediaid=`933f2dcdcdfbb9d438d1630ecde5aa95178a39bd`  
+_Stan and Francine lose their memories and resort to primitive living on an island, Hayley and Jeff are rescued by the Navy and Jeff decides to enlist, and Roger and Steve try to survive on a lifeboat in the middle of the ocean._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001910118711.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152001910118711.jpg" height="144px" /></a>
 ## Video removed
-No videos were removed.  
+### Summary
+581006 American Dad: 1  
+### 2041477
+**American Dad S11E04 - N.S.A. (No Snoops Allowed)**  
+TV-14-DLSV 🔒 21:13  
+⌛ August 24, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/n-s-a-no-snoops-allowed  
+seriesid=`581006` titleid=`2041477` id=`R1Isc4OiQ5OqNqz5mq_ZJg` mediaid=`b39d3524843586357c93516b5cdcd8d7a225f9b6`  
+_Steve goes to work with Stan and discovers the N.S.A. Hayley decides to let go of being a vegetarian and eat meat for one day._  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200189171345.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200189171345.jpg" height="144px" /></a>
