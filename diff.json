@@ -1,7 +1,6 @@
 {
-    "updated": 1787664205,
-    "added": [],
-    "removed": [
+    "updated": 1787672919,
+    "added": [
         {
             "auth_expiration_date": null,
             "tms_id": "EP001022180056",
@@ -28,7 +27,7 @@
             "clip_order": null,
             "airing_id": "RADS1010152500062759",
             "media_id": "fcaecbc43f968b3b254fd666f3c6595316f17b7d",
-            "modified": 1760535948,
+            "modified": 1787672704,
             "slug": "pavement",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_204201133119-sgc2c_9715_air_cid-9268244.jpg",
@@ -36,7 +35,7 @@
             "season_number": "4",
             "title_id": "322637",
             "tv_rating": "tv-pg",
-            "published": 1760535948,
+            "published": 1787672704,
             "tags": [
                 "space ghost coast to coast sgc2c episode 48 pavement goldie hawn tommy davidson red green colin quinn"
             ],
@@ -51,5 +50,6 @@
             "collection_title_id": "322328",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
