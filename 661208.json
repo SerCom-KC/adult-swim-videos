@@ -1704,7 +1704,7 @@
         "cma_id": "1457834"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447783860,
         "auth_expiration_date": 1787716740,
         "tms_id": "EP008994530007",
@@ -2283,7 +2283,7 @@
         },
         "type": "episode",
         "title": "Anniversary",
-        "expiration_date": 1787716740,
+        "expiration_date": 1819166340,
         "platforms": [
             "web",
             "mobile",
@@ -2295,9 +2295,9 @@
         "original_air_date": 1175485500,
         "clip_order": null,
         "auth_launch_date": 1787716800,
-        "modified": 1787293660,
+        "modified": 1787901290,
         "media_id": "80041c60e56c1e48b97e781943a4f01f3a50fc1e",
-        "airing_id": "RADS1008272500055011",
+        "airing_id": "RADS1008272600020609",
         "id": "kjdm7l1yTdSv3_bkpVN3tw",
         "slug": "anniversary",
         "views": 348550,
@@ -2310,7 +2310,7 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1787293660,
+        "published": 1787901290,
         "tags": [
             "tim eric awesome show great job episode 9 anniversary 50th celebration special"
         ],
@@ -2318,7 +2318,7 @@
         "collection_title": "Tim and Eric Awesome Show Great Job!",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1756699200,
+        "launch_date": 1788321600,
         "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_21161621200-timanderic_109.jpg",
         "cma_id": "663089"
     },
@@ -2585,7 +2585,7 @@
     {
         "auth": false,
         "ott_launch_date": 1447783920,
-        "auth_expiration_date": 1756699199,
+        "auth_expiration_date": 1789531140,
         "tms_id": "EP008994530009",
         "rating": 6.2205877,
         "description": "The Uncle Muscles Hour is turned upside down when Casey turns up missing. Casey's brother struggles to adapt to life without him. \r\n(John C. Reilly guest stars)",
@@ -2607,10 +2607,10 @@
         "episode_number": "10",
         "original_air_date": 1176695100,
         "clip_order": null,
-        "auth_launch_date": 1729656000,
-        "modified": 1756510965,
+        "auth_launch_date": 1788926400,
+        "modified": 1788503947,
         "media_id": "00509e66dc3c42db03c0a3125ab965e7222f155f",
-        "airing_id": "RADS1010162400098312",
+        "airing_id": "RADS1009022600022251",
         "id": "t-mhh402RbmtoPUXMx8Pmg",
         "slug": "missing",
         "views": 588052,
@@ -2623,7 +2623,7 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1756510965,
+        "published": 1788503947,
         "tags": [
             "tim eric awesome show great job episode 10 missing casey tatum brother uncle muscles  john c reilly steve brule"
         ],
@@ -2689,9 +2689,9 @@
         "cma_id": "1313933"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1447783860,
-        "auth_expiration_date": 1756699199,
+        "auth_expiration_date": 1788926340,
         "tms_id": "EP008994530008",
         "rating": 6.720391,
         "description": "Tim and Eric are late in delivering the episode to the Network and must rely on Hamburger Taxi to get the tape there on time. \r\n(John C. Reilly, Neil Hamburger, Al Yankovic guest star)",
@@ -2702,7 +2702,7 @@
         },
         "type": "episode",
         "title": "Hamburger",
-        "expiration_date": 1788321540,
+        "expiration_date": 1819771140,
         "platforms": [
             "web",
             "mobile",
@@ -2713,10 +2713,10 @@
         "episode_number": "8",
         "original_air_date": 1176090300,
         "clip_order": null,
-        "auth_launch_date": 1729051200,
-        "modified": 1756510965,
+        "auth_launch_date": 1788321600,
+        "modified": 1788503947,
         "media_id": "0dad6dd0fe7e0d1c675b384a269f2eb0d92a2a35",
-        "airing_id": "RADS1010102400097580",
+        "airing_id": "RADS1008272600020611",
         "id": "wdXtFjTgQF6RoWyWD980lQ",
         "slug": "hamburger",
         "views": 387206,
@@ -2729,7 +2729,7 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1756510965,
+        "published": 1788503947,
         "tags": [
             "tim eric awesome show great job episode 8 hamburger late delivery network taxi john c reilly neil weird al yankovic"
         ],
@@ -2737,7 +2737,7 @@
         "collection_title": "Tim and Eric Awesome Show Great Job!",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1756699200,
+        "launch_date": 1788926400,
         "poster": "https://media.cdn.adultswim.com/uploads/20210106/thumbnails/2_2116162152-timanderic_108.jpg",
         "cma_id": "661595"
     },

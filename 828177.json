@@ -183,7 +183,7 @@
     {
         "auth": false,
         "ott_launch_date": 1477319400,
-        "auth_expiration_date": 1764219540,
+        "auth_expiration_date": 1789617540,
         "tms_id": "EP013726210022",
         "description": "Gary produces a hip, new orientation video to prepare new arrivals for Hell.",
         "title_suggest": {
@@ -206,10 +206,10 @@
         "episode_number": "1",
         "original_air_date": 1477279800,
         "clip_order": null,
-        "auth_launch_date": 1763614800,
-        "modified": 1763969073,
+        "auth_launch_date": 1789012800,
+        "modified": 1788591084,
         "media_id": "7994c833f4e0a1ee4ef80910e5d9cecd2bbcff22",
-        "airing_id": "RADS1011162500069306",
+        "airing_id": "RADS1009032600022327",
         "id": "3r-DcU_LQUC6YkPCTW2C8A",
         "slug": "straight-outta-hades",
         "views": 35019,
@@ -222,7 +222,7 @@
         "active": false,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1763969073,
+        "published": 1788591084,
         "first_published": 1477037421,
         "tags": [],
         "collection_title": "Your Pretty Face is Going to Hell",
@@ -1490,9 +1490,9 @@
         "auth": false
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1452139200,
-        "auth_expiration_date": 1763614740,
+        "auth_expiration_date": 1789012740,
         "tms_id": "EP013726210021",
         "description": "A correction of a typo means Gary gets to go to Heaven.",
         "title_suggest": {
@@ -1500,7 +1500,7 @@
                 "Heaven"
             ]
         },
-        "expiration_date": 1788407940,
+        "expiration_date": 1820462340,
         "title": "Heaven",
         "type": "episode",
         "platforms": [
@@ -1513,9 +1513,9 @@
         "episode_number": "12",
         "original_air_date": 1444623300,
         "clip_order": null,
-        "auth_launch_date": 1763010000,
-        "modified": 1763362321,
-        "airing_id": "RADS1011162500069304",
+        "auth_launch_date": 1788408000,
+        "modified": 1788586313,
+        "airing_id": "RADS1009032600022329",
         "media_id": "0e8872f24a53ff429a9527ae86d91f170ff228cb",
         "id": "AdGQrLrQRlyPV5_F4O2e9g",
         "slug": "heaven",
@@ -1526,12 +1526,12 @@
         "tv_rating": "tv-ma",
         "active": false,
         "ott_expiration_date": null,
-        "published": 1763362321,
+        "published": 1788586313,
         "first_published": 1444530020,
         "tags": [],
         "collection_title": "Your Pretty Face is Going to Hell",
         "modified_by": "ODT Listener",
-        "launch_date": 1763614800,
+        "launch_date": 1789012800,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/heaven/ypf_ep209_002_abtr4589aga9w9730akpp.jpg",
         "cma_id": "1380131"
     },
@@ -1695,7 +1695,7 @@
                 "Nacht"
             ]
         },
-        "expiration_date": 1787803140,
+        "expiration_date": 1819857540,
         "title": "Krampus Nacht",
         "type": "episode",
         "platforms": [
@@ -1709,8 +1709,8 @@
         "original_air_date": 1444018500,
         "clip_order": null,
         "auth_launch_date": 1787803200,
-        "modified": 1787381059,
-        "airing_id": "RADS1011072500067824",
+        "modified": 1788228188,
+        "airing_id": "RADS1008282600020839",
         "media_id": "7aebba52a279bd77b8f628775fa37b7f9b154e22",
         "id": "IHq3-0q1QOObvZdNmZpxPQ",
         "slug": "krampus-nacht",
@@ -1721,12 +1721,12 @@
         "tv_rating": "tv-14-v",
         "active": false,
         "ott_expiration_date": null,
-        "published": 1787381059,
+        "published": 1788228188,
         "first_published": 1443860419,
         "tags": [],
         "collection_title": "Your Pretty Face is Going to Hell",
         "modified_by": "ODT Listener",
-        "launch_date": 1763010000,
+        "launch_date": 1788408000,
         "poster": "https://i.cdn.turner.com/adultswim/big/video/krampus-nacht/ypf_ep212_003_ba865801g56qf6qw8s_2.jpg",
         "cma_id": "1377020"
     },
@@ -1781,7 +1781,7 @@
         "cma_id": "1384952"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1447787400,
         "auth_expiration_date": 1787803140,
         "tms_id": "EP013726210019",

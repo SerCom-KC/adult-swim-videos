@@ -9,7 +9,7 @@
             ]
         },
         "title": "Purchase",
-        "expiration_date": null,
+        "expiration_date": 1791170940,
         "type": "episode",
         "platforms": [
             "android",
@@ -25,7 +25,7 @@
         "clip_order": null,
         "airing_id": "RADS1008102600018190",
         "media_id": "bd00e2aa94c2420577d97a43d9f1ea0fdb626f55",
-        "modified": 1786559185,
+        "modified": 1788325321,
         "slug": "purchase",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20260722/thumbnails/1_267221711447-PresidentCurtis_105_Purchase_Thumbnail_1920x1080.jpg",
@@ -33,12 +33,12 @@
         "season_number": "1",
         "title_id": "2569976",
         "tv_rating": "",
-        "published": 1786559185,
+        "published": 1788325321,
         "tags": [],
         "collection_title": "President Curtis",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": null,
+        "launch_date": 1788751800,
         "poster": "https://media.cdn.adultswim.com/uploads/20260722/thumbnails/2_267221711447-PresidentCurtis_105_Purchase_Thumbnail_1920x1080.jpg",
         "id": "AZ-Lq6ZxS4HfauEvf2Nk",
         "auth": true
@@ -155,9 +155,9 @@
         "original_air_date": null,
         "auth_launch_date": 1786332600,
         "clip_order": null,
-        "airing_id": "RADS1008242600020382",
+        "airing_id": "RADS1008052600017452",
         "media_id": "a0c2722d3b3c619eff00efe28bef09a3edee7a14",
-        "modified": 1787585956,
+        "modified": 1787722089,
         "slug": "ex",
         "exclude_from_search": false,
         "thumbnail": "https://media.cdn.adultswim.com/uploads/20260722/thumbnails/1_267221710389-PresidentCurtis_103_Ex_Thumbnail_1920x1080.jpg",
@@ -165,7 +165,7 @@
         "season_number": "1",
         "title_id": "2569974",
         "tv_rating": "",
-        "published": 1787585956,
+        "published": 1787722089,
         "tags": [],
         "collection_title": "President Curtis",
         "disable_ads": false,
@@ -173,7 +173,7 @@
         "launch_date": 1788147000,
         "poster": "https://media.cdn.adultswim.com/uploads/20260722/thumbnails/2_267221710389-PresidentCurtis_103_Ex_Thumbnail_1920x1080.jpg",
         "id": "AZ-LqsB_mJnHw_h9ubpx",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1789356540,
@@ -217,6 +217,50 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20260722/thumbnails/2_267221712107-PresidentCurtis_104_David_Thumbnail_1920x1080.jpg",
         "id": "AZ-LrAacS4HfauEvf2Nl",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1789961340,
+        "tms_id": "",
+        "description": "When America faces a national energy crisis, Curtis and his team venture deep into Hollow Earth to find a solution.",
+        "title_suggest": {
+            "input": [
+                "Hollow"
+            ]
+        },
+        "title": "Hollow",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZ-LbfQEmJnHw_h9ubpt",
+        "duration": 1350.4491,
+        "episode_number": "6",
+        "original_air_date": null,
+        "auth_launch_date": 1788147000,
+        "clip_order": null,
+        "airing_id": "RADS1008242600020384",
+        "media_id": "2ef329b780314f699e08487d84c01dba4033a3b2",
+        "modified": 1787722084,
+        "slug": "hollow",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20260722/thumbnails/1_26722171398-PresidentCurtis_106_Hollow_Thumbnail_1920x1080.jpg",
+        "created": 1784754806,
+        "season_number": "1",
+        "title_id": "2569977",
+        "tv_rating": "",
+        "published": 1787722084,
+        "tags": [],
+        "collection_title": "President Curtis",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20260722/thumbnails/2_26722171398-PresidentCurtis_106_Hollow_Thumbnail_1920x1080.jpg",
+        "id": "AZ-LrR0qS4HfauEvf2Nm",
         "auth": true
     }
 ]
