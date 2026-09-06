@@ -282,7 +282,7 @@
         "cma_id": "1398453"
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": 1446846720,
         "auth_expiration_date": 1787716740,
         "tms_id": "EP015399680008",
@@ -971,9 +971,9 @@
         "cma_id": "1389684"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": 1446846780,
-        "auth_expiration_date": 1770181140,
+        "auth_expiration_date": 1788926340,
         "tms_id": "EP015399680011",
         "rating": 7.1250443,
         "description": "Puppets fight and reveal secrets; Jefferson, Darnell, and Murphy go on the Mating Game; Taco wears the wrong camouflage during war.",
@@ -985,7 +985,7 @@
         },
         "type": "episode",
         "title": "Episode 10",
-        "expiration_date": 1788321540,
+        "expiration_date": 1820375940,
         "platforms": [
             "web",
             "mobile",
@@ -996,10 +996,10 @@
         "episode_number": "10",
         "original_air_date": 1338780600,
         "clip_order": null,
-        "auth_launch_date": 1769576400,
-        "modified": 1769758034,
+        "auth_launch_date": 1788321600,
+        "modified": 1788503947,
         "media_id": "9f8fa9fa33243ba1ac897c00d69a84bbacb50fa4",
-        "airing_id": "RADS1001292600083570",
+        "airing_id": "RADS1008272600020626",
         "id": "a_5cKubaS8mXyawvB2BcOw",
         "slug": "episode-10",
         "views": 380424,
@@ -1012,7 +1012,7 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1769758034,
+        "published": 1788503947,
         "tags": [
             "tyler the creator",
             "odd future",
@@ -1037,7 +1037,7 @@
         "collection_title": "Loiter Squad",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1770181200,
+        "launch_date": 1788926400,
         "poster": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_20361019510-loitersquad_110_dup-20120522.jpg",
         "cma_id": "1371835"
     },
@@ -1386,7 +1386,7 @@
         },
         "type": "episode",
         "title": "Episode 9",
-        "expiration_date": 1787716740,
+        "expiration_date": 1819771140,
         "platforms": [
             "web",
             "mobile",
@@ -1398,9 +1398,9 @@
         "original_air_date": 1338175800,
         "clip_order": null,
         "auth_launch_date": 1787716800,
-        "modified": 1787296360,
+        "modified": 1787898552,
         "media_id": "e0de6782f032bf14171878c0d4c21809052fdf95",
-        "airing_id": "RADS1001232600082129",
+        "airing_id": "RADS1008272600020624",
         "id": "ltFyGpoLTwuHkaQ-GCMShQ",
         "slug": "episode-9",
         "views": 383204,
@@ -1413,7 +1413,7 @@
         "active": true,
         "ott_expiration_date": null,
         "blacklist": [],
-        "published": 1787296360,
+        "published": 1787898552,
         "tags": [
             "tyler the creator",
             "odd future",
@@ -1438,7 +1438,7 @@
         "collection_title": "Loiter Squad",
         "disable_ads": false,
         "modified_by": "ODT Listener",
-        "launch_date": 1769576400,
+        "launch_date": 1788321600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200306/thumbnails/2_20361019316-loitersquad_109_dup-20120522.jpg",
         "cma_id": "887697"
     },
