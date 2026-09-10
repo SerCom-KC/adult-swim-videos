@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: September 10, 2026 at 05:30:38 EDT_
+_Last Update: September 10, 2026 at 10:30:27 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
 2031611 Dragon Ball Z Kai: 1  
-### 2031680
-**Dragon Ball Z Kai S01E69 - I Am Your Brother! The Monster with Goku's Energy!**  
+### 2031682
+**Dragon Ball Z Kai S01E71 - The Hunt for Cell is On! Goku, Back in Action!**  
 TV-PG-LV 🔒 21:58  
-⌛ September 10, 2026 at 05:29:00 EDT  
-https://www.adultswim.com/videos/dragon-ball-z-kai/i-am-your-brother-the-monster-with-gokus-energy  
-seriesid=`2031611` titleid=`2031680` id=`14LlkbamTE-AAioPactpqg` mediaid=`cd9a6665590234cb3f83bf8484257e0bce302685`  
-_The Super Namekian formerly known as Piccolo finds himself face-to-face with the most terrifying monster the world has ever seen. Who is this new threat? And why does he have Goku's power?_  
-<a href="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_191210166314-dragonballzkai_069_air_cid-2TFHX.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_191210166314-dragonballzkai_069_air_cid-2TFHX.jpg" height="144px" /></a>
+⌛ September 11, 2026 at 05:29:00 EDT  
+https://www.adultswim.com/videos/dragon-ball-z-kai/the-hunt-for-cell-is-on-goku-back-in-action  
+seriesid=`2031611` titleid=`2031682` id=`2CI8AMPJQfGUcdS0OCcWwA` mediaid=`1ded9115e18f21c00d1772fc17340b8ae23471ee`  
+_Cell continues his bloodthirsty rampage, Krillin and Trunks destroy what little remains of Dr. Gero's laboratory, and Goku awakens from his extended slumber ready to fight!_  
+<a href="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_191210166598-dragonballzkai_071_air_cid-2THJ2.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_191210166598-dragonballzkai_071_air_cid-2THJ2.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
