@@ -2,25 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: September 13, 2026 at 01:00:26 EDT_
+_Last Update: September 13, 2026 at 03:00:38 EDT_
 ## Video added
-### Summary
-2599126 Scavengers Reign: 2  
-### 2599131
-**Scavengers Reign S01E05 - The Demeter**  
-TV-MA-LS 🔓 23:29  
-⌛ October 26, 2026 at 23:59:59 EDT  
-https://www.adultswim.com/videos/scavengers-reign/the-demeter  
-seriesid=`2599126` titleid=`2599131` id=`AaCCUcUxjvfpAIE9VqP8` mediaid=`5d18e958c285a8554aaea09516dec09669c51388`  
-_After an encounter with another survivor, Kamen considers the weight of his actions, while Azi experiences a change of heart._  
-<a href="https://media.cdn.adultswim.com/uploads/20260908/thumbnails/2_26981948532-ScavengersReign_S1_E5.png"><img src="https://media.cdn.adultswim.com/uploads/20260908/thumbnails/2_26981948532-ScavengersReign_S1_E5.png" height="144px" /></a>
-### 2599132
-**Scavengers Reign S01E06 - The Fall**  
-TV-MA-LV 🔓 24:34  
-⌛ October 26, 2026 at 23:59:59 EDT  
-https://www.adultswim.com/videos/scavengers-reign/the-fall  
-seriesid=`2599126` titleid=`2599132` id=`AaCCUeXEjvfpAIE9VqP9` mediaid=`cf83d26525eb096ae3a6195739cae2a772a679c9`  
-_While Ursula faces an all-too familiar adversary, Azi and Levi find themselves pitted against a formidable new foe._  
-<a href="https://media.cdn.adultswim.com/uploads/20260908/thumbnails/2_269820021-ScavengersReign_S1_E6.png"><img src="https://media.cdn.adultswim.com/uploads/20260908/thumbnails/2_269820021-ScavengersReign_S1_E6.png" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+2012528 Blue Exorcist: 1  
+### 2012546
+**Blue Exorcist S01E18 - Gufu**  
+TV-14 🔒 21:58  
+⌛ September 13, 2026 at 02:59:00 EDT  
+https://www.adultswim.com/videos/blue-exorcist/gufu  
+seriesid=`2012528` titleid=`2012546` id=`1_h5BhezQdGqfA-O97bOpA` mediaid=`faf6ddb60ce81b2228db0380cce95a5905b97cf9`  
+_Rin is undergoing training so that he can learn to master his demonic flames. Just then, a giant bird-like demon called Gufu swoops in on him! With Yukio's help, he drives it away, but all of the Cram School members are sent to investigate how the demon infiltrated the academy... Suguro and the others are still investigating when Konekomaru appears, begging for help, with Rin in pursuit. According to Rin, Konekomaru's been possessed by a demon, but no one else can see it. Suguro, mistakenly believing that Rin is attacking Konekomaru, turns on him with hostility!_  
+<a href="https://i.cdn.turner.com/adultswim/big/video/gufu/blueexorcist_cc_18_pt4-02.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/gufu/blueexorcist_cc_18_pt4-02.jpg" height="144px" /></a>
