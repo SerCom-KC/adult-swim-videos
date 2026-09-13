@@ -2,42 +2,44 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: September 13, 2026 at 00:00:14 EDT_
+_Last Update: September 13, 2026 at 00:30:25 EDT_
 ## Video added
 ### Summary
-581006 American Dad: 2  
-### 2069560
-**American Dad S13E07 - Death by Dinner Party**  
-TV-14-DLV 🔒 21:01  
-⌛ September 19, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/death-by-dinner-party  
-seriesid=`581006` titleid=`2069560` id=`AWHnfcH0NWyh42wYnlIQ` mediaid=`e524725c55622f97e042234e1b3e0e191ba02398`  
-_Francine's dinner party goes awry when the mysterious Dinner Party Killer threatens it and the family._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000725179111.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000725179111.jpg" height="144px" /></a>
-### 2069559
-**American Dad S13E06 - Klaustastrophe.tv**  
-TV-14-DLSV 🔒 21:03  
-⌛ September 19, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/klaustastrophe-tv  
-seriesid=`581006` titleid=`2069559` id=`AWHnfmza0KIGIdXCKzuM` mediaid=`9a19cd1fffb4f2e9e19f91443100246620ad253c`  
-_Stan deals with childhood issues of abandonment. Klaus starts a website to embarrass the Smith family about their fails._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000728864112.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-152000728864112.jpg" height="144px" /></a>
+2599126 Scavengers Reign: 1  
+895948 The Eric Andre Show: 1  
+### 2599130
+**Scavengers Reign S01E04 - The Dream**  
+TV-MA-LV 🔓 24:51  
+⌛ October 26, 2026 at 23:59:59 EDT  
+https://www.adultswim.com/videos/scavengers-reign/the-dream  
+seriesid=`2599126` titleid=`2599130` id=`AaCCUYvygU44ry-qCZCO` mediaid=`0f8c799b454bf85df7dba895147550616956eaf5`  
+_Alone and in pursuit of Sam, Ursula resorts to desperate measures, while Kamen continues his hunt amid Hollow's demands._  
+<a href="https://media.cdn.adultswim.com/uploads/20260908/thumbnails/2_2698194770-ScavengersReign_S1_E4.png"><img src="https://media.cdn.adultswim.com/uploads/20260908/thumbnails/2_2698194770-ScavengersReign_S1_E4.png" height="144px" /></a>
+### 2088417
+**The Eric Andre Show S04E01 - T.I.; Abbey Lee Miller**  
+TV-MA-LS 🔓 10:55  
+⌛ October 17, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-eric-andre-show/t-i-abbey-lee-miller  
+seriesid=`895948` titleid=`2088417` id=`v7dRVnV8SU2DkCDTH3ohkA` mediaid=`390da678289427c7b2099fb47685f5b7285fefaf`  
+_Interviews with T.I. and Abbey Lee Miller; Musical guest American Authors_  
+<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341618432-ericandre_401_dup-20160926.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341618432-ericandre_401_dup-20160926.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
-581006 American Dad: 2  
-### 2069552
-**American Dad S12E16 - The Bitchin' Race**  
-TV-14-DLV 🔒 21:14  
+2086543 Brett Gelman's Dinner in America: 1  
+895948 The Eric Andre Show: 1  
+### 2089273
+**Brett Gelman's Dinner in America S??E?? - Brett Gelman's Dinner in America**  
+TV-MA-LV 🔓 24:05  
 ⌛ September 12, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/the-bitchin-race  
-seriesid=`581006` titleid=`2069552` id=`05iJVgiuR_SKZhxuOw-INQ` mediaid=`a559762303882984ec371cb68aeeaee3c22d24c7`  
-_The family competes on the reality show The Bitchin' Race. After Stan and Hayley ditch the less-motivated Steve and Francine and team up, they end up in a Tunisian labor prison._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820790837919.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820790837919.jpg" height="144px" /></a>
-### 2069548
-**American Dad S12E17 - Family Plan**  
-TV-14-DLSV 🔒 21:14  
+https://www.adultswim.com/videos/brett-gelmans-dinner-in-america/brett-gelmans-dinner-in-america  
+seriesid=`2086543` titleid=`2089273` id=`mtqHhbSrTHqb14vlGQoNPg` mediaid=`b31c03103d3f077eaa97b4cbdffba2885f0e5dca`  
+_Brett Gelman hosts a group of esteemed actors in an open forum on the racial problem in America. It doesn't go well._  
+<a href="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321447244-Dinner-In-America-Thumb.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200302/thumbnails/2_20321447244-Dinner-In-America-Thumb.jpg" height="144px" /></a>
+### 2032596
+**The Eric Andre Show S03E01 - Seth Rogen; Asa Akira**  
+TV-MA-L 🔒 11:16  
 ⌛ September 12, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/family-plan  
-seriesid=`581006` titleid=`2069548` id=`pGjzE7geRJu1VCwFhvFK4Q` mediaid=`0f93080aa6b0323ad5903785a29dee7bc94ca049`  
-_Francine reconnects with her birth family when she starts craving the experience of having a big family. Stan becomes a Picker based on his obsession with American Pickers._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820795951913.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-151820795951913.jpg" height="144px" /></a>
+https://www.adultswim.com/videos/the-eric-andre-show/seth-rogen-asa-akira  
+seriesid=`895948` titleid=`2032596` id=`BHK7jhhHQby3_ZfgbBQYDA` mediaid=`8aa5d058687a0de93dcfc2247886c81195fa1ba2`  
+_Interviews with Seth Rogen and Asa Akira; Musical guest Exhumed and The Supremes._  
+<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034161584-ericandre_021_dup-20141023.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034161584-ericandre_021_dup-20141023.jpg" height="144px" /></a>
