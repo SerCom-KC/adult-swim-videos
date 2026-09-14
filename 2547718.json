@@ -217,7 +217,7 @@
         "launch_date": 1789356600,
         "poster": "https://media.cdn.adultswim.com/uploads/20260722/thumbnails/2_267221712107-PresidentCurtis_104_David_Thumbnail_1920x1080.jpg",
         "id": "AZ-LrAacS4HfauEvf2Nl",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1789961340,
@@ -305,6 +305,50 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20260722/thumbnails/2_267221714487-PresidentCurtis_107_Ghosts_Thumbnail_1920x1080.jpg",
         "id": "AZ-Lrm8XmJnHw_h9ubpy",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1791170940,
+        "tms_id": "",
+        "description": "A robbery at Fort Knox puts Curtis and the FBI on a manhunt for the culprit, forcing O'Doyle to confront figures from his past.",
+        "title_suggest": {
+            "input": [
+                "Knox"
+            ]
+        },
+        "title": "Knox",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZ-LbfQEmJnHw_h9ubpt",
+        "duration": 1352.0173,
+        "episode_number": "8",
+        "original_air_date": null,
+        "auth_launch_date": 1789356600,
+        "clip_order": null,
+        "airing_id": "RADS1009072600023009",
+        "media_id": "12bf502698c72299310334ebec7d1c2eb3a2c95c",
+        "modified": 1789136265,
+        "slug": "knox",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20260722/thumbnails/1_26722171863-PresidentCurtis_108_Knox_Thumbnail_1920x1080.jpg",
+        "created": 1784755100,
+        "season_number": "1",
+        "title_id": "2569979",
+        "tv_rating": "",
+        "published": 1789136265,
+        "tags": [],
+        "collection_title": "President Curtis",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20260722/thumbnails/2_26722171863-PresidentCurtis_108_Knox_Thumbnail_1920x1080.jpg",
+        "id": "AZ-LsZv-mJnHw_h9ubp2",
         "auth": true
     }
 ]
