@@ -191,6 +191,53 @@
         "auth": true
     },
     {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1790049540,
+        "tms_id": "EP007164450257",
+        "description": "Stan finds an outlet for his boring stories while teaching young CIA cadets. Klaus becomes a hype man for a rapper.",
+        "title_suggest": {
+            "input": [
+                "The Never-Ending Stories",
+                "Never-Ending Stories",
+                "Stories"
+            ]
+        },
+        "expiration_date": 1786939140,
+        "type": "episode",
+        "title": "The Never-Ending Stories",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1261.7605,
+        "episode_number": "9",
+        "original_air_date": 1524447000,
+        "auth_launch_date": 1789444800,
+        "clip_order": null,
+        "media_id": "ee8ef6617f600da1cc9e9b5d8636851208092da5",
+        "modified": 1789057970,
+        "airing_id": "RADS1009102600023144",
+        "slug": "the-never-ending-stories",
+        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15200100941721.jpg",
+        "created": 1520010097,
+        "season_number": "13",
+        "title_id": "2069562",
+        "tv_rating": "tv-14-dlsv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1789057970,
+        "tags": [],
+        "collection_title": "American Dad",
+        "modified_by": "ODT Listener",
+        "launch_date": 1786334400,
+        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200100941721.jpg",
+        "id": "AWHnqXR3NWyh42wYnlIV",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1777435140,
         "tms_id": "EP007164450369",
         "description": "Steve's efforts to befriend a Swedish exchange student backfire in a big way; The family calls in an animal behaviorist to deal with Klaus.",
@@ -898,54 +945,6 @@
         "launch_date": 1785729600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15199407423806.jpg",
         "cma_id": ""
-    },
-    {
-        "auth": true,
-        "ott_launch_date": null,
-        "auth_expiration_date": 1789444740,
-        "tms_id": "EP007164450246",
-        "description": "Roger and Klaus start having a secret affair after they accidentally end up on an online date together. Steve tries to catch Hayley's pink eye to get out of doing a fitness test at school.",
-        "title_suggest": {
-            "input": [
-                "Kloger"
-            ]
-        },
-        "expiration_date": 1786334340,
-        "title": "Kloger",
-        "type": "episode",
-        "platforms": [
-            "web",
-            "mobile"
-        ],
-        "duration": 1295.03,
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "episode_number": "19",
-        "original_air_date": 1504143000,
-        "clip_order": null,
-        "auth_launch_date": 1788840000,
-        "modified": 1788416185,
-        "media_id": "24c71b235cf3e00dd816ffc2e935025955d9b3c7",
-        "airing_id": "RADS1009022600022124",
-        "id": "gWxgx0z4SRaEsAEM1PYSJA",
-        "slug": "kloger",
-        "views": 3462,
-        "exclude_from_search": false,
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15182081116656.jpg",
-        "created": 1502136876,
-        "season_number": "12",
-        "title_id": "2069550",
-        "tv_rating": "tv-14",
-        "active": false,
-        "ott_expiration_date": null,
-        "blacklist": [],
-        "published": 1788416185,
-        "first_published": 1503807048,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1785729600,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15182081116656.jpg",
-        "cma_id": "1463525"
     },
     {
         "auth": true,
