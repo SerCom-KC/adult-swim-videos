@@ -1,7 +1,6 @@
 {
-    "updated": 1789475426,
-    "added": [],
-    "removed": [
+    "updated": 1789480814,
+    "added": [
         {
             "auth": false,
             "ott_launch_date": 1449870960,
@@ -28,7 +27,7 @@
             "original_air_date": 975301200,
             "clip_order": null,
             "auth_launch_date": 1677646800,
-            "modified": 1762381936,
+            "modified": 1789480066,
             "airing_id": "RADS1011052500067000",
             "media_id": "a452865d62ea61ad07b7b718b518975b90b1d932",
             "id": "6Q4q9jrQTdqM-8UXLBAJmQ",
@@ -42,7 +41,7 @@
             "tv_rating": "tv-pg",
             "active": false,
             "ott_expiration_date": null,
-            "published": 1762381936,
+            "published": 1789480066,
             "tags": [
                 "space ghost coast to coast sgc2c episode 52 suckup talk soup john henson bob goen"
             ],
@@ -57,5 +56,6 @@
             "collection_title_id": "322328",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
