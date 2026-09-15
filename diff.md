@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: September 15, 2026 at 12:30:28 EDT_
+_Last Update: September 15, 2026 at 15:00:29 EDT_
 ## Video added
 ### Summary
-322328 Space Ghost Coast to Coast: 1  
-### 322329
-**Space Ghost Coast to Coast S04E19 - Suckup**  
-TV-PG 🔓 11:52  
-⌛ September 15, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/space-ghost-coast-to-coast/suckup  
-seriesid=`322328` titleid=`322329` id=`6Q4q9jrQTdqM-8UXLBAJmQ` mediaid=`a452865d62ea61ad07b7b718b518975b90b1d932`  
-_Desperate for a new gig, Space Ghost kisses up to "Talk Soup" host John Henson and "Entertainment Tonight" host Bob Goen by telling each that they are "pretty men." Space Ghost even offers to set Henson up with his "sister" Judy. Brak spoils the affair by spilling gravy all over the set._  
-<a href="https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201138375-sgc2c_9719_dst_cid-9131518.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201138375-sgc2c_9719_dst_cid-9131518.jpg" height="144px" /></a>
+2031611 Dragon Ball Z Kai: 1  
+### 2031699
+**Dragon Ball Z Kai S01E88 - Showdown! Cell vs. Goku!**  
+TV-PG 🔒 21:58  
+⌛ September 24, 2026 at 04:59:00 EDT  
+https://www.adultswim.com/videos/dragon-ball-z-kai/showdown-cell-vs-goku  
+seriesid=`2031611` titleid=`2031699` id=`IJJC694wSgKhm7_CjnWgDw` mediaid=`973d7decdc03dd64c9de0b038a1e68b71d2c0fbb`  
+_Goku and Cell prepare to square off in what may be the greatest battle in history! Both fighters are hesitant to reveal their true powers, but once blows are exchanged, the violence quickly escalates!_  
+<a href="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_1912101614118-dragonballzkai_088_air_cid-2XD7C.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_1912101614118-dragonballzkai_088_air_cid-2XD7C.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
