@@ -2,8 +2,10 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: September 15, 2026 at 21:00:40 EDT_
+_Last Update: September 15, 2026 at 22:00:14 EDT_
 ## Video added
+No videos were added.  
+## Video removed
 ### Summary
 2031611 Dragon Ball Z Kai: 1  
 ### 2031690
@@ -14,5 +16,3 @@ https://www.adultswim.com/videos/dragon-ball-z-kai/the-battle-turns-for-the-wors
 seriesid=`2031611` titleid=`2031690` id=`ujRAXL69RHiArJMPy1IaAQ` mediaid=`47af952f0cb53d7e7ed1734f0e40d611f8a3cde0`  
 _Vegeta's unrivaled arrogance and Krillin's unusual affection for Androids help Cell move one step closer to his perfect form. Meanwhile, Gohan struggles to achieve Super Saiyan status!_  
 <a href="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_19121016916-dragonballzkai_079_air_cid-2W69V.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_19121016916-dragonballzkai_079_air_cid-2W69V.jpg" height="144px" /></a>
-## Video removed
-No videos were removed.  
