@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: September 15, 2026 at 23:00:39 EDT_
+_Last Update: September 16, 2026 at 00:00:25 EDT_
 ## Video added
-### Summary
-2031611 Dragon Ball Z Kai: 1  
-### 2031690
-**Dragon Ball Z Kai S01E79 - The Battle Turns for the Worst! Cell Attacks Android 18!**  
-TV-PG-LV 🔒 21:58  
-⌛ September 17, 2026 at 05:29:00 EDT  
-https://www.adultswim.com/videos/dragon-ball-z-kai/the-battle-turns-for-the-worst-cell-attacks-android-18  
-seriesid=`2031611` titleid=`2031690` id=`ujRAXL69RHiArJMPy1IaAQ` mediaid=`47af952f0cb53d7e7ed1734f0e40d611f8a3cde0`  
-_Vegeta's unrivaled arrogance and Krillin's unusual affection for Androids help Cell move one step closer to his perfect form. Meanwhile, Gohan struggles to achieve Super Saiyan status!_  
-<a href="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_19121016916-dragonballzkai_079_air_cid-2W69V.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_19121016916-dragonballzkai_079_air_cid-2W69V.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
-No videos were removed.  
+### Summary
+322328 Space Ghost Coast to Coast: 1  
+### 322329
+**Space Ghost Coast to Coast S04E19 - Suckup**  
+TV-PG 🔓 11:52  
+⌛ September 15, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/space-ghost-coast-to-coast/suckup  
+seriesid=`322328` titleid=`322329` id=`6Q4q9jrQTdqM-8UXLBAJmQ` mediaid=`a452865d62ea61ad07b7b718b518975b90b1d932`  
+_Desperate for a new gig, Space Ghost kisses up to "Talk Soup" host John Henson and "Entertainment Tonight" host Bob Goen by telling each that they are "pretty men." Space Ghost even offers to set Henson up with his "sister" Judy. Brak spoils the affair by spilling gravy all over the set._  
+<a href="https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201138375-sgc2c_9719_dst_cid-9131518.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201138375-sgc2c_9719_dst_cid-9131518.jpg" height="144px" /></a>
