@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: September 15, 2026 at 15:00:29 EDT_
+_Last Update: September 15, 2026 at 21:00:40 EDT_
 ## Video added
 ### Summary
 2031611 Dragon Ball Z Kai: 1  
-### 2031699
-**Dragon Ball Z Kai S01E88 - Showdown! Cell vs. Goku!**  
-TV-PG 🔒 21:58  
-⌛ September 24, 2026 at 04:59:00 EDT  
-https://www.adultswim.com/videos/dragon-ball-z-kai/showdown-cell-vs-goku  
-seriesid=`2031611` titleid=`2031699` id=`IJJC694wSgKhm7_CjnWgDw` mediaid=`973d7decdc03dd64c9de0b038a1e68b71d2c0fbb`  
-_Goku and Cell prepare to square off in what may be the greatest battle in history! Both fighters are hesitant to reveal their true powers, but once blows are exchanged, the violence quickly escalates!_  
-<a href="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_1912101614118-dragonballzkai_088_air_cid-2XD7C.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_1912101614118-dragonballzkai_088_air_cid-2XD7C.jpg" height="144px" /></a>
+### 2031690
+**Dragon Ball Z Kai S01E79 - The Battle Turns for the Worst! Cell Attacks Android 18!**  
+TV-PG-LV 🔒 21:58  
+⌛ September 17, 2026 at 05:29:00 EDT  
+https://www.adultswim.com/videos/dragon-ball-z-kai/the-battle-turns-for-the-worst-cell-attacks-android-18  
+seriesid=`2031611` titleid=`2031690` id=`ujRAXL69RHiArJMPy1IaAQ` mediaid=`47af952f0cb53d7e7ed1734f0e40d611f8a3cde0`  
+_Vegeta's unrivaled arrogance and Krillin's unusual affection for Androids help Cell move one step closer to his perfect form. Meanwhile, Gohan struggles to achieve Super Saiyan status!_  
+<a href="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_19121016916-dragonballzkai_079_air_cid-2W69V.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_19121016916-dragonballzkai_079_air_cid-2W69V.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
