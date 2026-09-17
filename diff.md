@@ -2,8 +2,10 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: September 17, 2026 at 10:00:14 EDT_
+_Last Update: September 17, 2026 at 11:00:14 EDT_
 ## Video added
+No videos were added.  
+## Video removed
 ### Summary
 2031611 Dragon Ball Z Kai: 1  
 ### 2031691
@@ -14,5 +16,3 @@ https://www.adultswim.com/videos/dragon-ball-z-kai/the-tables-are-turned-witness
 seriesid=`2031611` titleid=`2031691` id=`yXZjZBuXTrWeR2BEsUUCHg` mediaid=`48c82edc88ee32e87c489d625b706995c99933bc`  
 _Gohan uses the pain of past failures to make a Super Saiyan breakthrough, and Vegeta is shocked to find he's no match for Cell's formidable perfect form!_  
 <a href="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_191210169159-dragonballzkai_080_air_cid-2W7MN.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_191210169159-dragonballzkai_080_air_cid-2W7MN.jpg" height="144px" /></a>
-## Video removed
-No videos were removed.  
