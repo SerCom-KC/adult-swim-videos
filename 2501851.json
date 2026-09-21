@@ -45,5 +45,53 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20260911/thumbnails/2_269111614273-AS_TTOJM_101_PlatformThumbnail_1920x1090.png",
         "id": "AaCSHCbygU44ry-qCZC-",
         "auth": false
+    },
+    {
+        "auth_expiration_date": 1799989140,
+        "tms_id": "",
+        "description": "I'm going to Hogwarts!",
+        "title_suggest": {
+            "input": [
+                "This idiot is freaking out",
+                "idiot is freaking out",
+                "is freaking out",
+                "freaking out",
+                "out"
+            ]
+        },
+        "title": "This idiot is freaking out",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AaCSGqzsjvfpAIE9VqTd",
+        "duration": 675.4414,
+        "episode_number": "2",
+        "original_air_date": null,
+        "auth_launch_date": 1789963200,
+        "clip_order": null,
+        "airing_id": "RADS1009172600024244",
+        "media_id": "8d38b5f31627e96460dbf8f63147cdeed46929db",
+        "modified": 1789663736,
+        "slug": "this-idiot-is-freaking-out",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20260911/thumbnails/1_269111615397-AS_TTOJM_102_PlatformThumbnail_1920x1090.png",
+        "created": 1789157748,
+        "season_number": "1",
+        "title_id": "2566709",
+        "tv_rating": "",
+        "published": 1789663736,
+        "tags": [],
+        "collection_title": "The Terrors of Jordan Mendoza",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20260911/thumbnails/2_269111615397-AS_TTOJM_102_PlatformThumbnail_1920x1090.png",
+        "id": "AaCSHK6yjvfpAIE9VqTe",
+        "auth": true
     }
 ]
