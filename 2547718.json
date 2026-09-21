@@ -129,7 +129,7 @@
         "launch_date": 1787542200,
         "poster": "https://media.cdn.adultswim.com/uploads/20260722/thumbnails/2_26722179550-PresidentCurtis_102_Triangle_Thumbnail_1920x1080.jpg",
         "id": "AZ-LqgxqmJnHw_h9ubpw",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1788146940,
@@ -261,7 +261,7 @@
         "launch_date": 1789961400,
         "poster": "https://media.cdn.adultswim.com/uploads/20260722/thumbnails/2_26722171398-PresidentCurtis_106_Hollow_Thumbnail_1920x1080.jpg",
         "id": "AZ-LrR0qS4HfauEvf2Nm",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1790566140,
@@ -349,6 +349,50 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20260722/thumbnails/2_26722171863-PresidentCurtis_108_Knox_Thumbnail_1920x1080.jpg",
         "id": "AZ-LsZv-mJnHw_h9ubp2",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1791775740,
+        "tms_id": "",
+        "description": "With Christmas spirit at an all-time low, Curtis attempts to find a fix by deploying a group of synthetic beings, custom-designed to spread cheer.",
+        "title_suggest": {
+            "input": [
+                "Synths"
+            ]
+        },
+        "title": "Synths",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZ-LbfQEmJnHw_h9ubpt",
+        "duration": 1349.1478,
+        "episode_number": "9",
+        "original_air_date": null,
+        "auth_launch_date": 1789961400,
+        "clip_order": null,
+        "airing_id": "RADS1009152600024202",
+        "media_id": "7a68a6ede910d34a2ae10eedb020bbbbf3e3a96f",
+        "modified": 1789524178,
+        "slug": "synths",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20260722/thumbnails/1_26722172001-PresidentCurtis_109_Synths_Thumbnail_1920x1080.jpg",
+        "created": 1784755203,
+        "season_number": "1",
+        "title_id": "2569980",
+        "tv_rating": "",
+        "published": 1789524178,
+        "tags": [],
+        "collection_title": "President Curtis",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20260722/thumbnails/2_26722172001-PresidentCurtis_109_Synths_Thumbnail_1920x1080.jpg",
+        "id": "AZ-Lsy8AmJnHw_h9ubp4",
         "auth": true
     }
 ]
