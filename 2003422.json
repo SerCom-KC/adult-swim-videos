@@ -1,51 +1,5 @@
 [
     {
-        "auth_expiration_date": 1790049540,
-        "tms_id": "",
-        "description": "Louise trains Tina to be the last student standing during a cheese throwing battle.",
-        "title_suggest": {
-            "input": [
-                "Don't Stop Be-Cheesin'",
-                "Stop Be-Cheesin'",
-                "Be-Cheesin'"
-            ]
-        },
-        "title": "Don't Stop Be-Cheesin'",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "4",
-        "original_air_date": null,
-        "auth_launch_date": 1788840000,
-        "clip_order": null,
-        "airing_id": "RADS1009022600022125",
-        "media_id": "5918dd0a7e16f324d8ea5556a3456a57eaa5b93f",
-        "modified": 1788418081,
-        "slug": "dont-stop-be-cheesin",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/1_259221733580-BobsBurgers_1504.jpg",
-        "created": 1758576854,
-        "season_number": "15",
-        "title_id": "2569624",
-        "tv_rating": "tv-pg-l",
-        "published": 1788418081,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250922/thumbnails/2_259221733580-BobsBurgers_1504.jpg",
-        "id": "AZlzWUeEyEF1_1NDe6fi",
-        "auth": false
-    },
-    {
         "auth_expiration_date": 1790135940,
         "tms_id": "",
         "description": "It's a mystery within a mystery as Louise stages a murder mystery in a creepy old dollhouse store for reasons that she has trouble explaining.",
@@ -417,6 +371,54 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291456475-BobsBurgers_1512.jpg",
         "id": "AZmW1blts_ErlMTJpQn_",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1791259140,
+        "tms_id": "",
+        "description": "Tina and the Thundergirls spend the night in the woods, and Tina faces something even scarier than her nemesis, Troop 257.",
+        "title_suggest": {
+            "input": [
+                "The Place Beyond the Pinecones",
+                "Place Beyond the Pinecones",
+                "Beyond the Pinecones",
+                "the Pinecones",
+                "Pinecones"
+            ]
+        },
+        "title": "The Place Beyond the Pinecones",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "14",
+        "original_air_date": null,
+        "auth_launch_date": 1790049600,
+        "clip_order": null,
+        "airing_id": "RADS1009172600024529",
+        "media_id": "76041a8166d894c12849aa6af172bbbb0cf9de22",
+        "modified": 1789665515,
+        "slug": "the-place-beyond-the-pinecones",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_25929155380-BobsBurgers_1514.jpg",
+        "created": 1759172742,
+        "season_number": "15",
+        "title_id": "2569633",
+        "tv_rating": "tv-pg-l",
+        "published": 1789665515,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_25929155380-BobsBurgers_1514.jpg",
+        "id": "AZmW3cwVs_ErlMTJpQoA",
         "auth": true
     },
     {

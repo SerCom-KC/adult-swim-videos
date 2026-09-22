@@ -464,7 +464,7 @@
         "launch_date": 1758600000,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15150981959475.jpg",
         "id": "AV-3J1rFwdpKFAKSbWaw",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1461592740,
@@ -669,7 +669,7 @@
         "cma_id": "2133192"
     },
     {
-        "auth": false,
+        "auth": true,
         "ott_launch_date": null,
         "auth_expiration_date": 1790654340,
         "tms_id": "SH027937280000",

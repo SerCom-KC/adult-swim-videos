@@ -1,53 +1,6 @@
 [
     {
         "ott_launch_date": null,
-        "auth_expiration_date": 1790049540,
-        "tms_id": "EP007164450257",
-        "description": "Stan finds an outlet for his boring stories while teaching young CIA cadets. Klaus becomes a hype man for a rapper.",
-        "title_suggest": {
-            "input": [
-                "The Never-Ending Stories",
-                "Never-Ending Stories",
-                "Stories"
-            ]
-        },
-        "expiration_date": 1786939140,
-        "type": "episode",
-        "title": "The Never-Ending Stories",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1261.7605,
-        "episode_number": "9",
-        "original_air_date": 1524447000,
-        "auth_launch_date": 1789444800,
-        "clip_order": null,
-        "media_id": "ee8ef6617f600da1cc9e9b5d8636851208092da5",
-        "modified": 1789057970,
-        "airing_id": "RADS1009102600023144",
-        "slug": "the-never-ending-stories",
-        "thumbnail": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-1_image-15200100941721.jpg",
-        "created": 1520010097,
-        "season_number": "13",
-        "title_id": "2069562",
-        "tv_rating": "tv-14-dlsv",
-        "blacklist": [],
-        "ott_expiration_date": null,
-        "published": 1789057970,
-        "tags": [],
-        "collection_title": "American Dad",
-        "modified_by": "ODT Listener",
-        "launch_date": 1786334400,
-        "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15200100941721.jpg",
-        "id": "AWHnqXR3NWyh42wYnlIV",
-        "auth": false
-    },
-    {
-        "ott_launch_date": null,
         "auth_expiration_date": 1790135940,
         "tms_id": "EP007164450258",
         "description": "Stan gets in over his head when he runs for mayor.",
@@ -428,6 +381,53 @@
         "launch_date": 1786939200,
         "poster": "https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_207141457360-americandad_1219_air_cid-3TVTG.jpg",
         "id": "AWW0uwTNh5enQuYyIFVK",
+        "auth": true
+    },
+    {
+        "ott_launch_date": null,
+        "auth_expiration_date": 1790654340,
+        "tms_id": "",
+        "description": "Hayley feels left behind after Jeff becomes a star dog racing coach. Steve takes advantage of an empty house.",
+        "title_suggest": {
+            "input": [
+                "Fleabiscuit"
+            ]
+        },
+        "expiration_date": 1787543940,
+        "type": "episode",
+        "title": "Fleabiscuit",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1263.0618,
+        "episode_number": "21",
+        "original_air_date": 1554688800,
+        "auth_launch_date": 1790049600,
+        "clip_order": null,
+        "media_id": "c5d34624f38a11eeefa5b0cf1657725cca48fe85",
+        "modified": 1789672719,
+        "airing_id": "RADS1009172600024528",
+        "slug": "fleabiscuit",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200714/thumbnails/1_207141510121-americandad_1221_air_cid-3V79V.jpg",
+        "created": 1536345117,
+        "season_number": "13",
+        "title_id": "2069574",
+        "tv_rating": "tv-14-dlsv",
+        "blacklist": [],
+        "ott_expiration_date": null,
+        "published": 1789672719,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1786939200,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_207141510121-americandad_1221_air_cid-3V79V.jpg",
+        "id": "AWW1ThNNh5enQuYyIFlW",
         "auth": true
     },
     {
