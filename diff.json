@@ -1,6 +1,55 @@
 {
-    "updated": 1790260511,
+    "updated": 1790267797,
     "added": [
+        {
+            "auth_expiration_date": null,
+            "tms_id": "EP048514990001",
+            "description": "Shinpachi, the son of a sushi chef, is busy preparing mysterious fish for the local customers. Haruko disguised as a hostess, visits the restaurant with the mayor, followed by a Medical Mechanica robot who threatens to destroy the planet.",
+            "title_suggest": {
+                "input": [
+                    "Shinpachi"
+                ]
+            },
+            "title": "Shinpachi",
+            "type": "episode",
+            "expiration_date": 1790481540,
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
+            "collection_id": "AWH9BNOjNWyh42wYnlM8",
+            "duration": 1495.5941,
+            "episode_number": "1",
+            "original_air_date": 1694318400,
+            "auth_launch_date": null,
+            "clip_order": null,
+            "airing_id": "RADS1009282500060822",
+            "media_id": "1103c6207b18d8ad82ba317d354b073cd069ce4d",
+            "modified": 1790267611,
+            "slug": "shinpachi",
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20230911/thumbnails/1_23911108468-FLCLGRUNGE401Shinpachi.png",
+            "created": 1694095580,
+            "title_id": "2218888",
+            "season_number": "4",
+            "tv_rating": "tv-14-lsv",
+            "published": 1790267611,
+            "tags": [],
+            "collection_title": "FLCL",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1759118400,
+            "poster": "https://media.cdn.adultswim.com/uploads/20230911/thumbnails/2_23911108468-FLCLGRUNGE401Shinpachi.png",
+            "id": "AYpv9xxi2rZC6NyF61-u",
+            "auth": false,
+            "collection_slug": "flcl",
+            "collection_title_id": "2218883",
+            "online_exclusives": false
+        }
+    ],
+    "removed": [
         {
             "auth": true,
             "ott_launch_date": null,
@@ -31,7 +80,7 @@
             "original_air_date": 1477195200,
             "clip_order": null,
             "auth_launch_date": 1784692800,
-            "modified": 1790260408,
+            "modified": 1790264040,
             "media_id": "1b91b5742e1eaa4c39412974c021274112362544",
             "airing_id": "RADS1007212600014485",
             "id": "rzNX65WrQlG73V_ESIVJOg",
@@ -46,7 +95,7 @@
             "ott_expiration_date": null,
             "active": false,
             "blacklist": [],
-            "published": 1790260408,
+            "published": 1790264040,
             "first_published": 1476861058,
             "tags": [],
             "collection_title": "Dragon Ball Z Kai",
@@ -59,6 +108,5 @@
             "collection_title_id": "2031611",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
