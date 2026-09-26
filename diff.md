@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: September 26, 2026 at 05:30:40 EDT_
+_Last Update: September 26, 2026 at 17:00:14 EDT_
 ## Video added
 ### Summary
 2031611 Dragon Ball Z Kai: 1  
-### 2031704
-**Dragon Ball Z Kai S01E93 - Unleash the Warrior Within! Gohan Takes the Offensive!**  
-TV-PG-LV 🔒 21:57  
-⌛ December 3, 2026 at 05:29:00 EST  
-https://www.adultswim.com/videos/dragon-ball-z-kai/unleash-the-warrior-within-gohan-takes-the-offensive  
-seriesid=`2031611` titleid=`2031704` id=`vcKft1lyTauQPqCqIfGX8g` mediaid=`0d008bec86a39a54cf39b2501d2ac7a10a34a904`  
-_Gohan's rage boils over as he races to rescue his friends from the brink of death! Next, the boy gives his new powers a whirl in a bone-crushing battle with the menacing Cell Juniors!_  
-<a href="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_1912101615150-dragonballzkai_093_air_cid-2YR0Y.jpg"><img src="https://media.cdn.adultswim.com/uploads/20191210/thumbnails/2_1912101615150-dragonballzkai_093_air_cid-2YR0Y.jpg" height="144px" /></a>
+### 2031620
+**Dragon Ball Z Kai S01E09 - Yamcha's Struggle! The Terrible Saibamen!**  
+TV-PG-LV 🔒 21:01  
+⌛ October 7, 2026 at 05:29:00 EDT  
+https://www.adultswim.com/videos/dragon-ball-z-kai/yamchas-struggle-the-terrible-saibamen  
+seriesid=`2031611` titleid=`2031620` id=`lZP1rIugRTycsrtSf_3YRg` mediaid=`5e80682378fc5f481f30ed3ed106fae4a4e39dca`  
+_The Saiyans have arrived, Goku isn't even on the planet, and the over-matched Z-Fighters represent Earth's last line of defense. When Vegeta and Nappa unleash the gruesome Saibamen, Yamcha picks a fight that could be his last!_  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568402234789.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568402234789.jpg" height="144px" /></a>
 ## Video removed
 No videos were removed.  
