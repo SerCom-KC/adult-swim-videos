@@ -228,6 +228,52 @@
         "auth": false
     },
     {
+        "auth_expiration_date": null,
+        "tms_id": "EP007833440014",
+        "description": "A new IGPX season is about to start. The previous season's experience has matured Takeshi greatly, and he even seems secure and sure. On the other hand, Liz feels the pressure of being called a member of \"the mightier Team Satomi.\"",
+        "title_suggest": {
+            "input": [
+                "A New Challenge",
+                "New Challenge",
+                "Challenge"
+            ]
+        },
+        "title": "A New Challenge",
+        "expiration_date": 1822017540,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "osidPNXcS1yNBAh4Sq1lrQ",
+        "duration": 1371.7704,
+        "episode_number": "1",
+        "original_air_date": "1148178600",
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1009242600025498",
+        "media_id": "610a2f5b8ce5b9d96eed100b7e5cf5e4673a8338",
+        "modified": 1790267610,
+        "slug": "a-new-challenge",
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1790259212,
+        "season_number": "2",
+        "title_id": "627634",
+        "tv_rating": "tv-pg",
+        "published": 1790267610,
+        "tags": [],
+        "collection_title": "IGPX",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1790488800,
+        "poster": "",
+        "id": "AaDTw7AwjvfpAIE9Vqhh",
+        "auth": false
+    },
+    {
         "auth": false,
         "auth_expiration_date": 1782532740,
         "tms_id": "EP007833440004",
