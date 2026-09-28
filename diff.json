@@ -1,7 +1,6 @@
 {
-    "updated": 1790603016,
-    "added": [],
-    "removed": [
+    "updated": 1790604517,
+    "added": [
         {
             "auth_expiration_date": null,
             "tms_id": "EP001022180058",
@@ -29,7 +28,7 @@
             "clip_order": null,
             "airing_id": "RADS1011192500069642",
             "media_id": "620e0ac45cfbdff98075ae3ca3eef9d74ca030e3",
-            "modified": 1763569737,
+            "modified": 1790604306,
             "slug": "boat-show",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_204201139290-sgc2c_9721_dst_cid-9259941.jpg",
@@ -37,7 +36,7 @@
             "season_number": "4",
             "title_id": "322335",
             "tv_rating": "tv-pg",
-            "published": 1763569737,
+            "published": 1790604306,
             "tags": [
                 "space ghost coast to coast sgc2c episode 54 boatshow steve allen musical andy dick"
             ],
@@ -52,5 +51,6 @@
             "collection_title_id": "322328",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
