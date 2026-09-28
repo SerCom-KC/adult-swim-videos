@@ -2,26 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: September 27, 2026 at 03:00:41 EDT_
+_Last Update: September 28, 2026 at 00:00:14 EDT_
 ## Video added
 ### Summary
-2012528 Blue Exorcist: 1  
-### 2012552
-**Blue Exorcist S01E24 - Satan's Spawn**  
-TV-14 🔒 21:49  
-⌛ October 25, 2026 at 02:59:00 EDT  
-https://www.adultswim.com/videos/blue-exorcist/satans-spawn  
-seriesid=`2012528` titleid=`2012552` id=`-9uuRs3ARkmbbSTNrKjmeQ` mediaid=`c455229b52d71fb982a0ea0b95e8ffa26ae60c57`  
-_Hordes of demons are spilling out of Gehenna Gate! And these intruders from the "Empty World" are now indiscriminately attacking the people of True Cross Academy Town! Meanwhile, on the roof of the school building, Rin has been rescued by Suguro and Shiemi and is starting to come to. What Rin sees when he awakens is..._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/satans-spawn/blueexorcist_cc_24_dup-201406261552168145-10.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/satans-spawn/blueexorcist_cc_24_dup-201406261552168145-10.jpg" height="144px" /></a>
+2547718 President Curtis: 1  
+### 2569981
+**President Curtis S01E10 - Timber**  
+ 🔒 22:30  
+⌛ October 18, 2026 at 23:29:00 EDT  
+https://www.adultswim.com/videos/president-curtis/timber  
+seriesid=`2547718` titleid=`2569981` id=`AZ-LtAtnmJnHw_h9ubp5` mediaid=`66cbc922b434e209566ce014ead4066a1ba9bf1f`  
+_When a murderous American legend resurfaces, Curtis rises to the challenge -- but doing so proves to be the ultimate test of his public image._  
+<a href="https://media.cdn.adultswim.com/uploads/20260722/thumbnails/2_267221720434-PresidentCurtis_110_Timber_Thumbnail_1920x1080.jpg"><img src="https://media.cdn.adultswim.com/uploads/20260722/thumbnails/2_267221720434-PresidentCurtis_110_Timber_Thumbnail_1920x1080.jpg" height="144px" /></a>
 ## Video removed
-### Summary
-2012528 Blue Exorcist: 1  
-### 2012548
-**Blue Exorcist S01E20 - Mask**  
-TV-14 🔒 21:58  
-⌛ September 27, 2026 at 02:59:00 EDT  
-https://www.adultswim.com/videos/blue-exorcist/mask  
-seriesid=`2012528` titleid=`2012548` id=`ge4EXhARSDufj9jkI202vg` mediaid=`d2e67b1333f4f185389555bff0a68d41bca9d807`  
-_Southern Cross Monastery, where Rin and Yukio grew up, has come under attack by a mysterious assailant! Leaving behind these cryptic words: "I will never forgive anyone related to Satan," the masked assailant escapes..._  
-<a href="https://i.cdn.turner.com/adultswim/big/video/mask/blueexorcist_cc_20_pt4-02.jpg"><img src="https://i.cdn.turner.com/adultswim/big/video/mask/blueexorcist_cc_20_pt4-02.jpg" height="144px" /></a>
+No videos were removed.  
