@@ -1,104 +1,53 @@
 {
-    "updated": 1790492441,
+    "updated": 1790566408,
     "added": [
         {
-            "auth": true,
-            "ott_launch_date": null,
-            "auth_expiration_date": 1792911540,
-            "tms_id": "EP018691120023",
-            "description": "Hordes of demons are spilling out of Gehenna Gate! And these intruders from the \"Empty World\" are now indiscriminately attacking the people of True Cross Academy Town! Meanwhile, on the roof of the school building, Rin has been rescued by Suguro and Shiemi and is starting to come to. What Rin sees when he awakens is...\r\n",
+            "auth_expiration_date": 1792380540,
+            "tms_id": "",
+            "description": "When a murderous American legend resurfaces, Curtis rises to the challenge -- but doing so proves to be the ultimate test of his public image.",
             "title_suggest": {
                 "input": [
-                    "Satan's Spawn",
-                    "Spawn"
+                    "Timber"
                 ]
             },
-            "title": "Satan's Spawn",
+            "title": "Timber",
+            "expiration_date": null,
             "type": "episode",
-            "expiration_date": 1456050599,
             "platforms": [
-                "web",
-                "mobile"
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
             ],
-            "collection_id": "BJWRPi1uTl2j_nptAdcYOw",
-            "duration": 1309.008,
-            "episode_number": "24",
-            "original_air_date": 1407045600,
+            "collection_id": "AZ-LbfQEmJnHw_h9ubpt",
+            "duration": 1350.1822,
+            "episode_number": "10",
+            "original_air_date": null,
+            "auth_launch_date": 1790566200,
             "clip_order": null,
-            "auth_launch_date": 1790492400,
+            "airing_id": "RADS1009242600025504",
+            "media_id": "66cbc922b434e209566ce014ead4066a1ba9bf1f",
             "modified": 1790268537,
-            "media_id": "c455229b52d71fb982a0ea0b95e8ffa26ae60c57",
-            "airing_id": "RADS1009242600025500",
-            "id": "-9uuRs3ARkmbbSTNrKjmeQ",
-            "slug": "satans-spawn",
-            "views": 2304,
-            "created": 1407370390,
+            "slug": "timber",
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20260722/thumbnails/1_267221720434-PresidentCurtis_110_Timber_Thumbnail_1920x1080.jpg",
+            "created": 1784755260,
             "season_number": "1",
-            "title_id": "2012552",
-            "tv_rating": "tv-14",
-            "active": false,
-            "ott_expiration_date": null,
+            "title_id": "2569981",
+            "tv_rating": "",
             "published": 1790268537,
-            "first_published": 1407370390,
             "tags": [],
-            "collection_title": "Blue Exorcist",
+            "collection_title": "President Curtis",
+            "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1452681000,
-            "poster": "https://i.cdn.turner.com/adultswim/big/video/satans-spawn/blueexorcist_cc_24_dup-201406261552168145-10.jpg",
-            "cma_id": "1168027",
-            "collection_slug": "blue-exorcist",
-            "collection_title_id": "2012528",
+            "launch_date": null,
+            "poster": "https://media.cdn.adultswim.com/uploads/20260722/thumbnails/2_267221720434-PresidentCurtis_110_Timber_Thumbnail_1920x1080.jpg",
+            "id": "AZ-LtAtnmJnHw_h9ubp5",
+            "auth": true,
+            "collection_slug": "president-curtis",
+            "collection_title_id": "2547718",
             "online_exclusives": false
         }
     ],
-    "removed": [
-        {
-            "auth": true,
-            "ott_launch_date": null,
-            "auth_expiration_date": 1790492340,
-            "tms_id": "EP018691120020",
-            "description": "Southern Cross Monastery, where Rin and Yukio grew up, has come under attack by a mysterious assailant! Leaving behind these cryptic words: \"I will never forgive anyone related to Satan,\" the masked assailant escapes...\r\n",
-            "title_suggest": {
-                "input": [
-                    "Mask"
-                ]
-            },
-            "title": "Mask",
-            "type": "episode",
-            "expiration_date": 1453285799,
-            "platforms": [
-                "web",
-                "mobile"
-            ],
-            "collection_id": "BJWRPi1uTl2j_nptAdcYOw",
-            "duration": 1318.015,
-            "episode_number": "20",
-            "original_air_date": 1404626400,
-            "clip_order": null,
-            "auth_launch_date": 1788073140,
-            "modified": 1787649156,
-            "media_id": "d2e67b1333f4f185389555bff0a68d41bca9d807",
-            "airing_id": "RADS1008242600020380",
-            "id": "ge4EXhARSDufj9jkI202vg",
-            "slug": "mask",
-            "views": 1789,
-            "created": 1409838424,
-            "season_number": "1",
-            "title_id": "2012548",
-            "tv_rating": "tv-14",
-            "active": false,
-            "ott_expiration_date": null,
-            "published": 1787649156,
-            "first_published": 1409838424,
-            "tags": [],
-            "collection_title": "Blue Exorcist",
-            "modified_by": "ODT Listener",
-            "launch_date": 1450261800,
-            "poster": "https://i.cdn.turner.com/adultswim/big/video/mask/blueexorcist_cc_20_pt4-02.jpg",
-            "cma_id": "1147965",
-            "collection_slug": "blue-exorcist",
-            "collection_title_id": "2012528",
-            "online_exclusives": false
-        }
-    ]
+    "removed": []
 }

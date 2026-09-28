@@ -173,7 +173,7 @@
         "launch_date": 1788147000,
         "poster": "https://media.cdn.adultswim.com/uploads/20260722/thumbnails/2_267221710389-PresidentCurtis_103_Ex_Thumbnail_1920x1080.jpg",
         "id": "AZ-LqsB_mJnHw_h9ubpx",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1789356540,
@@ -305,7 +305,7 @@
         "launch_date": 1790566200,
         "poster": "https://media.cdn.adultswim.com/uploads/20260722/thumbnails/2_267221714487-PresidentCurtis_107_Ghosts_Thumbnail_1920x1080.jpg",
         "id": "AZ-Lrm8XmJnHw_h9ubpy",
-        "auth": true
+        "auth": false
     },
     {
         "auth_expiration_date": 1791170940,
@@ -393,6 +393,50 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20260722/thumbnails/2_26722172001-PresidentCurtis_109_Synths_Thumbnail_1920x1080.jpg",
         "id": "AZ-Lsy8AmJnHw_h9ubp4",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1792380540,
+        "tms_id": "",
+        "description": "When a murderous American legend resurfaces, Curtis rises to the challenge -- but doing so proves to be the ultimate test of his public image.",
+        "title_suggest": {
+            "input": [
+                "Timber"
+            ]
+        },
+        "title": "Timber",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZ-LbfQEmJnHw_h9ubpt",
+        "duration": 1350.1822,
+        "episode_number": "10",
+        "original_air_date": null,
+        "auth_launch_date": 1790566200,
+        "clip_order": null,
+        "airing_id": "RADS1009242600025504",
+        "media_id": "66cbc922b434e209566ce014ead4066a1ba9bf1f",
+        "modified": 1790268537,
+        "slug": "timber",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20260722/thumbnails/1_267221720434-PresidentCurtis_110_Timber_Thumbnail_1920x1080.jpg",
+        "created": 1784755260,
+        "season_number": "1",
+        "title_id": "2569981",
+        "tv_rating": "",
+        "published": 1790268537,
+        "tags": [],
+        "collection_title": "President Curtis",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20260722/thumbnails/2_267221720434-PresidentCurtis_110_Timber_Thumbnail_1920x1080.jpg",
+        "id": "AZ-LtAtnmJnHw_h9ubp5",
         "auth": true
     }
 ]
