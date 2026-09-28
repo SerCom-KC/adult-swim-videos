@@ -1,49 +1,5 @@
 [
     {
-        "auth_expiration_date": 1790567940,
-        "tms_id": "",
-        "description": "Takemichi renews his determination as he goes back in time yet again, but when he opens his eyes, he finds a girl he doesn't know looking down on him.",
-        "title_suggest": {
-            "input": [
-                "Releap"
-            ]
-        },
-        "title": "Releap",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AZw00-2MNi2EYjVB1WCZ",
-        "duration": 1370.1355,
-        "episode_number": "5",
-        "original_air_date": null,
-        "auth_launch_date": 1787630400,
-        "clip_order": null,
-        "airing_id": "RADS1008242600020294",
-        "media_id": "563fa61633f7bd79da5162303f6fa318afd32a1d",
-        "modified": 1787599744,
-        "slug": "releap",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20260302/thumbnails/1_26321031164-TokyoRevengers_S01_E05_Still.png",
-        "created": 1772465482,
-        "season_number": "1",
-        "title_id": "2584164",
-        "tv_rating": "tv-ma-lv",
-        "published": 1787599744,
-        "tags": [],
-        "collection_title": "Tokyo Revengers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20260302/thumbnails/2_26321031164-TokyoRevengers_S01_E05_Still.png",
-        "id": "AZyvLOks4fEFRoGAPbR7",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1791172740,
         "tms_id": "",
         "description": "Takemichi returns to the present to talk to Osanai, the leader of Moebius, to find out what really happened that day.",
@@ -217,6 +173,50 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20260302/thumbnails/2_26321139573-TokyoRevengers_S01_E09_Still.png",
         "id": "AZyvbDVmc6shItN4M763",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1793595540,
+        "tms_id": "",
+        "description": "In order to protect Draken, Takemichi challenges Kiyomasa one on one to settle things with him once and for all.",
+        "title_suggest": {
+            "input": [
+                "Rerise"
+            ]
+        },
+        "title": "Rerise",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZw00-2MNi2EYjVB1WCZ",
+        "duration": 1365.1972,
+        "episode_number": "10",
+        "original_air_date": null,
+        "auth_launch_date": 1790568000,
+        "clip_order": null,
+        "airing_id": "RADS1009252600025552",
+        "media_id": "62cdc996fa02ff67c668350efb7eecce92f9f984",
+        "modified": 1790313528,
+        "slug": "rerise",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20260302/thumbnails/1_26321145506-TokyoRevengers_S01_E10_Still.png",
+        "created": 1772470022,
+        "season_number": "1",
+        "title_id": "2584169",
+        "tv_rating": "tv-ma-lv",
+        "published": 1790313528,
+        "tags": [],
+        "collection_title": "Tokyo Revengers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20260302/thumbnails/2_26321145506-TokyoRevengers_S01_E10_Still.png",
+        "id": "AZyvcjKoc6shItN4M764",
         "auth": true
     }
 ]

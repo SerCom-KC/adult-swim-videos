@@ -44,7 +44,7 @@
         "launch_date": 1789358400,
         "poster": "https://media.cdn.adultswim.com/uploads/20260911/thumbnails/2_269111614273-AS_TTOJM_101_PlatformThumbnail_1920x1090.png",
         "id": "AaCSHCbygU44ry-qCZC-",
-        "auth": false
+        "auth": true
     },
     {
         "auth_expiration_date": 1799989140,
@@ -92,6 +92,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20260911/thumbnails/2_269111615397-AS_TTOJM_102_PlatformThumbnail_1920x1090.png",
         "id": "AaCSHK6yjvfpAIE9VqTe",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1800593940,
+        "tms_id": "",
+        "description": "Dream where I explore a haunted hospital. It's fine except Steve got a terminal diagnosis. I hope he's okay.",
+        "title_suggest": {
+            "input": [
+                "Sometimes I feel haunted.",
+                "I feel haunted.",
+                "feel haunted.",
+                "haunted."
+            ]
+        },
+        "title": "Sometimes I feel haunted.",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AaCSGqzsjvfpAIE9VqTd",
+        "duration": 647.8806,
+        "episode_number": "3",
+        "original_air_date": null,
+        "auth_launch_date": 1790568000,
+        "clip_order": null,
+        "airing_id": "RADS1009252600025546",
+        "media_id": "911095ba66530826f7ca1f1ce1d76239e6a10233",
+        "modified": 1790312624,
+        "slug": "sometimes-i-feel-haunted",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20260911/thumbnails/1_269111616370-AS_TTOJM_103_PlatformThumbnail_1920x1090.png",
+        "created": 1789157808,
+        "season_number": "1",
+        "title_id": "2566710",
+        "tv_rating": "",
+        "published": 1790312624,
+        "tags": [],
+        "collection_title": "The Terrors of Jordan Mendoza",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20260911/thumbnails/2_269111616370-AS_TTOJM_103_PlatformThumbnail_1920x1090.png",
+        "id": "AaCSHZlKjvfpAIE9VqTf",
         "auth": true
     }
 ]
