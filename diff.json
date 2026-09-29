@@ -1,18 +1,19 @@
 {
-    "updated": 1790615472,
+    "updated": 1790654472,
     "added": [
         {
-            "auth_expiration_date": null,
-            "tms_id": "EP001022180058",
-            "description": "The deep space set comes alive like never before with 11 glorious musical numbers. Space Ghost, Zorak and Moltar are joined by Brak, who performs a melodic Man on the Street duet with the originator of the popular skit, Steve Allen.",
+            "auth_expiration_date": 1791259140,
+            "tms_id": "EP007164450283",
+            "description": "Francine helps Hayley take a break from their marriages. Stan and Jeff pretend to be frontiersmen.",
             "title_suggest": {
                 "input": [
-                    "Boat Show",
-                    "Show"
+                    "An Irish Goodbye",
+                    "Irish Goodbye",
+                    "Goodbye"
                 ]
             },
-            "title": "Boat Show",
-            "expiration_date": 1790654340,
+            "title": "An Irish Goodbye",
+            "expiration_date": 1788148740,
             "type": "episode",
             "platforms": [
                 "android",
@@ -20,37 +21,86 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
-            "duration": 910.6764,
-            "episode_number": "21",
-            "original_air_date": "907385400",
-            "auth_launch_date": null,
+            "collection_id": "kuykLeORSBmAK6JteESFCw",
+            "duration": 1233.2654,
+            "episode_number": "11",
+            "original_air_date": "1561946400",
+            "auth_launch_date": 1790654400,
             "clip_order": null,
-            "airing_id": "RADS1011192500069642",
-            "media_id": "620e0ac45cfbdff98075ae3ca3eef9d74ca030e3",
-            "modified": 1790615225,
-            "slug": "boat-show",
+            "airing_id": "RADS1009262600025795",
+            "media_id": "2b4964d37a410065c9bb5f0d52889d4a535b472c",
+            "modified": 1790416125,
+            "slug": "an-irish-goodbye",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_204201139290-sgc2c_9721_dst_cid-9259941.jpg",
-            "created": 1689872002,
-            "season_number": "4",
-            "title_id": "322335",
-            "tv_rating": "tv-pg",
-            "published": 1790615225,
-            "tags": [
-                "space ghost coast to coast sgc2c episode 54 boatshow steve allen musical andy dick"
-            ],
-            "collection_title": "Space Ghost Coast to Coast",
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200608/thumbnails/1_2068917528-americandad_1311_air_cid-3X8PX.jpg",
+            "created": 1591543641,
+            "season_number": "14",
+            "title_id": "2186660",
+            "tv_rating": "tv-14-dlv",
+            "published": 1790416125,
+            "tags": [],
+            "collection_title": "American Dad",
             "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": 1763614800,
-            "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201139290-sgc2c_9721_dst_cid-9259941.jpg",
-            "id": "AYl0OG7O2rZC6NyF61-M",
-            "auth": false,
-            "collection_slug": "space-ghost-coast-to-coast",
-            "collection_title_id": "322328",
+            "launch_date": 1787544000,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068917528-americandad_1311_air_cid-3X8PX.jpg",
+            "id": "AXKPZLaWRs3h4hI_X4A7",
+            "auth": true,
+            "collection_slug": "american-dad",
+            "collection_title_id": "581006",
             "online_exclusives": false
         }
     ],
-    "removed": []
+    "removed": [
+        {
+            "ott_launch_date": null,
+            "auth_expiration_date": 1790654340,
+            "tms_id": "",
+            "description": "Hayley feels left behind after Jeff becomes a star dog racing coach. Steve takes advantage of an empty house.",
+            "title_suggest": {
+                "input": [
+                    "Fleabiscuit"
+                ]
+            },
+            "expiration_date": 1787543940,
+            "type": "episode",
+            "title": "Fleabiscuit",
+            "platforms": [
+                "android",
+                "ios",
+                "roku",
+                "fire-tv"
+            ],
+            "collection_id": "kuykLeORSBmAK6JteESFCw",
+            "duration": 1263.0618,
+            "episode_number": "21",
+            "original_air_date": 1554688800,
+            "auth_launch_date": 1790049600,
+            "clip_order": null,
+            "media_id": "c5d34624f38a11eeefa5b0cf1657725cca48fe85",
+            "modified": 1789672719,
+            "airing_id": "RADS1009172600024528",
+            "slug": "fleabiscuit",
+            "exclude_from_search": false,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20200714/thumbnails/1_207141510121-americandad_1221_air_cid-3V79V.jpg",
+            "created": 1536345117,
+            "season_number": "13",
+            "title_id": "2069574",
+            "tv_rating": "tv-14-dlsv",
+            "blacklist": [],
+            "ott_expiration_date": null,
+            "published": 1789672719,
+            "tags": [],
+            "collection_title": "American Dad",
+            "disable_ads": false,
+            "modified_by": "ODT Listener",
+            "launch_date": 1786939200,
+            "poster": "https://media.cdn.adultswim.com/uploads/20200714/thumbnails/2_207141510121-americandad_1221_air_cid-3V79V.jpg",
+            "id": "AWW1ThNNh5enQuYyIFlW",
+            "auth": true,
+            "collection_slug": "american-dad",
+            "collection_title_id": "581006",
+            "online_exclusives": false
+        }
+    ]
 }
