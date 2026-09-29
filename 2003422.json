@@ -1,53 +1,5 @@
 [
     {
-        "auth_expiration_date": 1790654340,
-        "tms_id": "",
-        "description": "A family trip to go see Christmas lights turns into a rescue mission, in more ways than one.",
-        "title_suggest": {
-            "input": [
-                "Dog Christmas Day After Afternoon",
-                "Christmas Day After Afternoon",
-                "Day After Afternoon",
-                "After Afternoon",
-                "Afternoon"
-            ]
-        },
-        "title": "Dog Christmas Day After Afternoon",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "9",
-        "original_air_date": null,
-        "auth_launch_date": 1789444800,
-        "clip_order": null,
-        "airing_id": "RADS1009102600023145",
-        "media_id": "5c06e9a6cb43aa6b3665044cea9d2845a914e2c5",
-        "modified": 1789057974,
-        "slug": "dog-christmas-day-after-afternoon",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_259291452404-BobsBurgers_1509.jpg",
-        "created": 1759171963,
-        "season_number": "15",
-        "title_id": "2569628",
-        "tv_rating": "tv-pg-l",
-        "published": 1789057974,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291452404-BobsBurgers_1509.jpg",
-        "id": "AZmW0eurs_ErlMTJpQn-",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1791172740,
         "tms_id": "",
         "description": "Tina, Gene, and Louise strike it rich in the illegal snack business at school.",
@@ -462,6 +414,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291513159-BobsBurgers_1518.jpg",
         "id": "AZmW5mT1s_ErlMTJpQoC",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1791863940,
+        "tms_id": "",
+        "description": "The kids explore a marine scrapyard in search of adventure, but the trip takes a dangerous turn.",
+        "title_suggest": {
+            "input": [
+                "The Dead Bo-ats Society",
+                "Dead Bo-ats Society",
+                "Bo-ats Society",
+                "Society"
+            ]
+        },
+        "title": "The Dead Bo-ats Society",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "19",
+        "original_air_date": null,
+        "auth_launch_date": 1790654400,
+        "clip_order": null,
+        "airing_id": "RADS1009262600025792",
+        "media_id": "e2379ca8811cfff1bb965f7fbc4150f9b5888e1b",
+        "modified": 1790417030,
+        "slug": "the-dead-bo-ats-society",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_259291515504-BobsBurgers_1519.jpg",
+        "created": 1759173356,
+        "season_number": "15",
+        "title_id": "2569638",
+        "tv_rating": "tv-pg-l",
+        "published": 1790417030,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291515504-BobsBurgers_1519.jpg",
+        "id": "AZmW5ysGs_ErlMTJpQoD",
         "auth": true
     }
 ]
