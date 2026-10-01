@@ -2,17 +2,26 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: October 1, 2026 at 01:00:14 EDT_
+_Last Update: October 1, 2026 at 06:00:41 EDT_
 ## Video added
 ### Summary
-340539 Harvey Birdman, Attorney at Law: 1  
-### 639264
-**Harvey Birdman, Attorney at Law S04E01 - Shazzan**  
-TV-14-D 🔒 11:36  
-⌛ November 9, 2026 at 23:59:00 EST  
-https://www.adultswim.com/videos/harvey-birdman-attorney-at-law/shazzan  
-seriesid=`340539` titleid=`639264` id=`AMNl45FYSaqGkZsJ-53iKw` mediaid=`a55c7ad28d4726f40ebdee736fe1429d10bd85b8`  
-_After centuries trapped in Phil's vase, Shazzan pops out by the hand of Peanut.  Or rather, Master Peanut, who proceeds to wish for everything that's, uh, big.  Shazzan, because ostensibly it's a law show, forms a case against his imprisoner, Mufti the Mizwa of Muzzy Tah!  All the while, Avenger  - without warning - speaks, embracing a fresh vocabulary of insults and occasional slurs._  
-<a href="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351425199-harvey_033.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200305/thumbnails/2_20351425199-harvey_033.jpg" height="144px" /></a>
+2031611 Dragon Ball Z Kai: 1  
+### 2031627
+**Dragon Ball Z Kai S01E16 - Defeat the Invincible Vegeta! Work a Miracle, Gohan!**  
+TV-PG-LV 🔒 21:01  
+⌛ October 13, 2026 at 04:59:00 EDT  
+https://www.adultswim.com/videos/dragon-ball-z-kai/defeat-the-invincible-vegeta-work-a-miracle-gohan  
+seriesid=`2031611` titleid=`2031627` id=`HONHtyryQOGgLhN2O1fCOg` mediaid=`8e06856c5f793d09329a6fc0d6765b31f0a5c280`  
+_Krillin and Gohan team up to blast Vegeta with a Spirit Bomb, but the Saiyan prince refuses to die. Things look bad for the Z-Fighters until Yajirobe distracts the enemy long enough for Gohan to undergo a transformation of his own!_  
+<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568403812561.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568403812561.jpg" height="144px" /></a>
 ## Video removed
-No videos were removed.  
+### Summary
+2031611 Dragon Ball Z Kai: 1  
+### 2031612
+**Dragon Ball Z Kai S01E01 - Prologue to Battle! The Return of Goku!**  
+TV-PG-DLV 🔒 22:00  
+⌛ October 1, 2026 at 05:29:00 EDT  
+https://www.adultswim.com/videos/dragon-ball-z-kai/prologue-to-battle-the-return-of-goku  
+seriesid=`2031611` titleid=`2031612` id=`DoxA6OMjSdyjTZMoZzSnwg` mediaid=`39635e30a0a0eff2f70bfc1b8a131d44fd6e0a7f`  
+_Goku is a legendary warrior and the strongest fighter on the planet, but he's about to encounter a foe from out-of-this-world. What brings this new menace to Earth? And what's up with his tail?_  
+<a href="https://media.cdn.adultswim.com/uploads/20240304/thumbnails/2_2434113448-Screenshot2024-03-04at11.33.38AM.png"><img src="https://media.cdn.adultswim.com/uploads/20240304/thumbnails/2_2434113448-Screenshot2024-03-04at11.33.38AM.png" height="144px" /></a>
