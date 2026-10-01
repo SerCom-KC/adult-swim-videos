@@ -2,26 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: October 1, 2026 at 06:00:41 EDT_
+_Last Update: October 1, 2026 at 09:30:38 EDT_
 ## Video added
-### Summary
-2031611 Dragon Ball Z Kai: 1  
-### 2031627
-**Dragon Ball Z Kai S01E16 - Defeat the Invincible Vegeta! Work a Miracle, Gohan!**  
-TV-PG-LV 🔒 21:01  
-⌛ October 13, 2026 at 04:59:00 EDT  
-https://www.adultswim.com/videos/dragon-ball-z-kai/defeat-the-invincible-vegeta-work-a-miracle-gohan  
-seriesid=`2031611` titleid=`2031627` id=`HONHtyryQOGgLhN2O1fCOg` mediaid=`8e06856c5f793d09329a6fc0d6765b31f0a5c280`  
-_Krillin and Gohan team up to blast Vegeta with a Spirit Bomb, but the Saiyan prince refuses to die. Things look bad for the Z-Fighters until Yajirobe distracts the enemy long enough for Gohan to undergo a transformation of his own!_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568403812561.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568403812561.jpg" height="144px" /></a>
+No videos were added.  
 ## Video removed
 ### Summary
 2031611 Dragon Ball Z Kai: 1  
-### 2031612
-**Dragon Ball Z Kai S01E01 - Prologue to Battle! The Return of Goku!**  
-TV-PG-DLV 🔒 22:00  
-⌛ October 1, 2026 at 05:29:00 EDT  
-https://www.adultswim.com/videos/dragon-ball-z-kai/prologue-to-battle-the-return-of-goku  
-seriesid=`2031611` titleid=`2031612` id=`DoxA6OMjSdyjTZMoZzSnwg` mediaid=`39635e30a0a0eff2f70bfc1b8a131d44fd6e0a7f`  
-_Goku is a legendary warrior and the strongest fighter on the planet, but he's about to encounter a foe from out-of-this-world. What brings this new menace to Earth? And what's up with his tail?_  
-<a href="https://media.cdn.adultswim.com/uploads/20240304/thumbnails/2_2434113448-Screenshot2024-03-04at11.33.38AM.png"><img src="https://media.cdn.adultswim.com/uploads/20240304/thumbnails/2_2434113448-Screenshot2024-03-04at11.33.38AM.png" height="144px" /></a>
+### 2031613
+**Dragon Ball Z Kai S01E02 - The Enemy is Goku's Brother?! The Secret of the Mighty Saiyan Warriors!**  
+TV-PG-LV 🔒 21:06  
+⌛ October 2, 2026 at 04:59:00 EDT  
+https://www.adultswim.com/videos/dragon-ball-z-kai/the-enemy-is-gokus-brother-the-secret-of-the-mighty-saiyan-warriors  
+seriesid=`2031611` titleid=`2031613` id=`W4iaMwvjTc-Dov0Bwz5u4w` mediaid=`9aab8633dffe1705947d79be5cf56c7307459a7b`  
+_When Raditz abducts Gohan and announces his plans to conquer Earth, Goku and Piccolo are forced into an uneasy alliance. The two rivals donÆt trust each other but neither of them can defeat the Saiyan on their own!_  
+<a href="https://media.cdn.adultswim.com/uploads/20240307/thumbnails/2_24371348415-Screenshot2024-03-07at1.48.04PM.png"><img src="https://media.cdn.adultswim.com/uploads/20240307/thumbnails/2_24371348415-Screenshot2024-03-07at1.48.04PM.png" height="144px" /></a>
