@@ -274,6 +274,51 @@
         "auth": false
     },
     {
+        "auth_expiration_date": null,
+        "tms_id": "EP007833440015",
+        "description": "Team Satomi is helpless against Team Edgeraid's new trick. While Takeshi was struggling, his machine suffered unbelievable trouble. Mark and Andrei are watching, unable to intervene. What can save Team Satomi from this crisis?",
+        "title_suggest": {
+            "input": [
+                "Feeling Lost",
+                "Lost"
+            ]
+        },
+        "title": "Feeling Lost",
+        "expiration_date": 1822622340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "osidPNXcS1yNBAh4Sq1lrQ",
+        "duration": 1368.1668,
+        "episode_number": "2",
+        "original_air_date": "1148783400",
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1009282600026300",
+        "media_id": "c035869123084c07aa83554fe93663476af07e12",
+        "modified": 1790676258,
+        "slug": "feeling-lost",
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1790633690,
+        "season_number": "2",
+        "title_id": "627635",
+        "tv_rating": "tv-pg",
+        "published": 1790676258,
+        "tags": [],
+        "collection_title": "IGPX",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1791093600,
+        "poster": "",
+        "id": "AaDqFcZ1jvfpAIE9VqmP",
+        "auth": false
+    },
+    {
         "auth": false,
         "auth_expiration_date": 1782532740,
         "tms_id": "EP007833440004",
