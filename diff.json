@@ -1,55 +1,56 @@
 {
-    "updated": 1791097228,
-    "added": [
+    "updated": 1791099040,
+    "added": [],
+    "removed": [
         {
             "auth": true,
             "ott_launch_date": null,
-            "auth_expiration_date": 1793692740,
-            "tms_id": "EP018691120025",
-            "description": "Satan has transformed himself into a gigantic Gehenna Gate, and is attempting to absorb all of Assiah by expanding a rip in the dimension. Rin and Yukio, joined by Shura and Angel, attack the gate, but it's an uphill battle against Satan's overwhelming power. \r\n\r\nMeanwhile, at the school, the exorcists are in a desperate situation, as a myriad of demons attack. Just then, Suguro proposes a strategy for a comeback! But will it work? Rousing themselves into action one last time, Rin and Yukio head toward the gate. To protect their beloved friends, and this world!",
+            "auth_expiration_date": 1791097260,
+            "tms_id": "EP018691120021",
+            "description": "The assailant has escaped, but the monastery attack case is winding down. Just then, an elderly man calling himself Ernst appears before Yukio. He reveals the secret of Yukio and Rin's birth, as well as what the Vatican did their mother. Shocked, Yukio also begins to harbor doubts about the Knights of the True Cross. Meanwhile, the injured assailant has stumbled into Shiemi's garden at the Supply Shop...\r\n\r\n",
             "title_suggest": {
                 "input": [
-                    "Stop, Time",
-                    "Time"
+                    "The Secret Garden",
+                    "Secret Garden",
+                    "Garden"
                 ]
             },
-            "title": "Stop, Time",
+            "title": "The Secret Garden",
             "type": "episode",
-            "expiration_date": 1456050599,
+            "expiration_date": 1453890599,
             "platforms": [
                 "web",
                 "mobile"
             ],
             "collection_id": "BJWRPi1uTl2j_nptAdcYOw",
-            "duration": 1320,
-            "episode_number": "25",
-            "original_air_date": 1407650400,
+            "duration": 1318.018,
+            "episode_number": "21",
+            "original_air_date": 1405231200,
             "clip_order": null,
-            "auth_launch_date": 1791097200,
-            "modified": 1790676258,
-            "media_id": "a6c380102854c8e4d4bf39106ee4c8a5054ec655",
-            "airing_id": "RADS1009282600026302",
-            "id": "0qa07zG9TROm-b8F97XzNw",
-            "slug": "stop-time",
-            "views": 2343,
-            "created": 1408040339,
+            "auth_launch_date": 1788678120,
+            "modified": 1788274829,
+            "media_id": "d2e2ea4b993506963ddc51d3cd9cf7c25a468168",
+            "airing_id": "RADS1009012600022038",
+            "id": "Ebmld-mTQdu1WGCQTu5TVQ",
+            "slug": "the-secret-garden",
+            "views": 1671,
+            "created": 1408040433,
             "season_number": "1",
-            "title_id": "2012553",
+            "title_id": "2012549",
             "tv_rating": "tv-14",
             "active": false,
             "ott_expiration_date": null,
-            "published": 1790676258,
-            "first_published": 1408040339,
+            "published": 1788274829,
+            "first_published": 1408040433,
             "tags": [],
             "collection_title": "Blue Exorcist",
             "modified_by": "ODT Listener",
-            "launch_date": 1453285800,
-            "poster": "https://i.cdn.turner.com/adultswim/big/video/stop-time/blueexorcist_cc_25_dup-201407211049179305-11.jpg",
-            "cma_id": "1167901",
+            "launch_date": 1450866600,
+            "poster": "https://i.cdn.turner.com/adultswim/big/video/the-secret-garden/blueexorcist_cc_21_dup-201406201453148030-11.jpg",
+            "cma_id": "1149265",
             "collection_slug": "blue-exorcist",
             "collection_title_id": "2012528",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
