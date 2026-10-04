@@ -42,5 +42,51 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20261002/thumbnails/2_261021617205-JIRO_S1E1_MainEpisodic_Platform_Still.jpg",
         "id": "AaD-Q70jjvfpAIE9VqqK",
         "auth": false
+    },
+    {
+        "auth_expiration_date": 1792902540,
+        "tms_id": "",
+        "description": "Jiro is tasked with making a special delivery to an LA food festival but must survive a gauntlet of bounty hunter food trucks along the way.",
+        "title_suggest": {
+            "input": [
+                "Meat Is Murder",
+                "Is Murder",
+                "Murder"
+            ]
+        },
+        "title": "Meat Is Murder",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AaD-K7AygU44ry-qCZID",
+        "duration": 1293.3921,
+        "episode_number": "2",
+        "original_air_date": null,
+        "auth_launch_date": 1791088200,
+        "clip_order": null,
+        "airing_id": "RADS1009302600026779",
+        "media_id": "f7ec75adaecf2302e283a9b4c41ec7bcf5a7bb4f",
+        "modified": 1790997551,
+        "slug": "meat-is-murder",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20261002/thumbnails/1_261021619372-JIRO_S1E2_MainEpisodic_Platform_Still.png",
+        "created": 1790972391,
+        "season_number": "1",
+        "title_id": "2601025",
+        "tv_rating": "tv-ma-lv",
+        "published": 1790997551,
+        "tags": [],
+        "collection_title": "GET JIRO",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20261002/thumbnails/2_261021619372-JIRO_S1E2_MainEpisodic_Platform_Still.png",
+        "id": "AaD-RfB2jvfpAIE9VqqL",
+        "auth": true
     }
 ]
