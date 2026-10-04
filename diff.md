@@ -2,67 +2,78 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: October 3, 2026 at 00:00:39 EDT_
+_Last Update: October 4, 2026 at 00:30:14 EDT_
 ## Video added
 ### Summary
 581006 American Dad: 2  
-### 2186668
-**American Dad S14E19 - Eight Fires**  
+2584789 GET JIRO: 1  
+895948 The Eric Andre Show: 1  
+### 2186670
+**American Dad S14E21 - Downtown**  
 TV-14-DLV 🔒 21:03  
-⌛ October 9, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/eight-fires  
-seriesid=`581006` titleid=`2186668` id=`AXKUOWJFRs3h4hI_X4BV` mediaid=`2412130d6a5552f78e822b08ee88af3591e098c6`  
-_Roger helps Francine with her terrible cooking by bringing her to a remote Patagonian island. Stan gets a nail in his head and can't speak._  
-<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_206895827-americandad_1319_air_cid-40TM5.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_206895827-americandad_1319_air_cid-40TM5.jpg" height="144px" /></a>
-### 2186667
-**American Dad S14E18 - No Weddings and a Funeral**  
-TV-14-DLSV 🔒 21:03  
-⌛ October 9, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/no-weddings-and-a-funeral  
-seriesid=`581006` titleid=`2186667` id=`AXKUOOtwC8QgH-t19Jj5` mediaid=`227a8ca62f4142fbe1833efa2c1294ad352383bd`  
-_Klaus leaves the family after one too many harassments. 15 years later, they reconnect for his funeral._  
-<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068957301-americandad_1318_air_cid-3YD31.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068957301-americandad_1318_air_cid-3YD31.jpg" height="144px" /></a>
+⌛ October 10, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/downtown  
+seriesid=`581006` titleid=`2186670` id=`AXKUOl5bC8QgH-t19Jj7` mediaid=`e352edca867a17986f9a34a9dc0813a5791ca7d9`  
+_Hayley drives Steve to a testing center in "no good" downtown but they end up stranded in a worse suburban neighborhood. Stan, Francine, and Roger mistakenly go downtown to rescue them._  
+<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_206895975-americandad_1321_air_cid-46P0N.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_206895975-americandad_1321_air_cid-46P0N.jpg" height="144px" /></a>
+### 2186669
+**American Dad S14E20 - The Hand that Rocks the Rogu**  
+TV-14-DLSV 🔒 21:04  
+⌛ October 10, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/the-hand-that-rocks-the-rogu  
+seriesid=`581006` titleid=`2186669` id=`AXKUOb9LC8QgH-t19Jj6` mediaid=`d6fcf8645e8022d7bdb0529940ab79aa25ab1ed2`  
+_Steve babysits Roger's ex-tumor, Rogu, to prove to Francine that he's ready for the responsibility. Stan and Francine get into trouble in their respective clubs._  
+<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068958281-americandad_1320_air_cid-4101Y.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068958281-americandad_1320_air_cid-4101Y.jpg" height="144px" /></a>
+### 2601024
+**GET JIRO S01E01 - Pilot**  
+TV-MA-LV 🔓 22:29  
+⌛ November 28, 2026 at 23:59:00 EST  
+https://www.adultswim.com/videos/get-jiro/pilot  
+seriesid=`2584789` titleid=`2601024` id=`AaD-Q70jjvfpAIE9VqqK` mediaid=`a37bed456e1a31f7bbb1637f8908f7dfc40d4724`  
+_In a futuristic LA, mysterious Outer Ring sushi chef Jiro sets off a violent chain of events after a customer violates his one rule: no soy sauce._  
+<a href="https://media.cdn.adultswim.com/uploads/20261002/thumbnails/2_261021617205-JIRO_S1E1_MainEpisodic_Platform_Still.jpg"><img src="https://media.cdn.adultswim.com/uploads/20261002/thumbnails/2_261021617205-JIRO_S1E1_MainEpisodic_Platform_Still.jpg" height="144px" /></a>
+### 2088420
+**The Eric Andre Show S04E04 - Tichina Arnold; Steve Schirrpa**  
+TV-MA-LSV 🔓 11:17  
+⌛ November 7, 2026 at 23:59:00 EST  
+https://www.adultswim.com/videos/the-eric-andre-show/tichina-arnold-steve-schirrpa  
+seriesid=`895948` titleid=`2088420` id=`b674dMosR4axV1ya3rK4yg` mediaid=`7b6f6bfa6a43dab16124b5a22111188bb62614c6`  
+_Interviews with Tichina Arnold and Steve Schirripa; Musical guest Ariel Pink_  
+<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341619479-ericandre_404_dup-20160801.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_20341619479-ericandre_404_dup-20160801.jpg" height="144px" /></a>
 ## Video removed
 ### Summary
+2218883 FLCL: 1  
 581006 American Dad: 2  
-581268 Squidbillies: 3  
-### 2186655
-**American Dad S14E06 - Lost Boys**  
-TV-14-DLSV 🔒 21:03  
-⌛ October 2, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/lost-boys  
-seriesid=`581006` titleid=`2186655` id=`AXHljrNBC8QgH-t19ItW` mediaid=`9fa008ca3b1f0d1777291c2107cc06742d3b01d6`  
-_Roger breaks up Steve's friendship with Snot, Barry & Toshi. Jeff realizes he has a flair for house flipping and gets Stan, Francine and Hayley involved._  
-<a href="https://media.cdn.adultswim.com/uploads/20200505/thumbnails/2_20551157419-americandad_1306_air_cid-3WG5F.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200505/thumbnails/2_20551157419-americandad_1306_air_cid-3WG5F.jpg" height="144px" /></a>
-### 2186656
-**American Dad S14E07 - Shark?!**  
-TV-14-DLSV 🔒 21:02  
-⌛ October 2, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/american-dad/shark  
-seriesid=`581006` titleid=`2186656` id=`AXJvyubqC8QgH-t19Jcm` mediaid=`b82b40cdacf62517a95ec85e2d2fd35f7526d809`  
-_Stan has Roger pretend to be a shark to help Steve overcome his fears. Hayley's friend Danuta becomes romantically interested in Klaus._  
-<a href="https://media.cdn.adultswim.com/uploads/20200720/thumbnails/2_207201324519-americandad_1307_air_cid-3WPDR.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200720/thumbnails/2_207201324519-americandad_1307_air_cid-3WPDR.jpg" height="144px" /></a>
-### 2092358
-**Squidbillies S10E04 - The Peep**  
-TV-14 🔓 11:22  
-⌛ October 2, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/the-peep  
-seriesid=`581268` titleid=`2092358` id=`G6cZHTZbSGOfi_kLhIzoFw` mediaid=`62742977319c96a8dd2ffcf9c95202b3d10d93ed`  
-_Sheriff tries stand-up comedy and kills himself._  
-<a href="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141135456-squidbillies_901_dup-20160829.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200414/thumbnails/2_204141135456-squidbillies_901_dup-20160829.jpg" height="144px" /></a>
-### 859422
-**Squidbillies S06E01 - Asbestos I Can**  
-TV-MA 🔓 11:12  
-⌛ October 2, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/asbestos-i-can  
-seriesid=`581268` titleid=`859422` id=`MMqMGcckTNyNq5fGcTcYDQ` mediaid=`5333091509d20c2be6946af690dbadd4a21438e4`  
-_Early's asbestos addiction finally catches up with him._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131321187-squidbillies_503_dup-20110908.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131321187-squidbillies_503_dup-20110908.jpg" height="144px" /></a>
-### 654431
-**Squidbillies S02E08 - Asses to Ashes, Sluts to Dust**  
-TV-MA 🔓 11:14  
-⌛ October 2, 2026 at 23:59:00 EDT  
-https://www.adultswim.com/videos/squidbillies/asses-to-ashes-sluts-to-dust  
-seriesid=`581268` titleid=`654431` id=`xE3wDGOHS4OFhYN8gTKJCw` mediaid=`2d68f47cefa5cb0fe1ce2788ba7c12a80ab5d92c`  
-_Granny cheats death for another week._  
-<a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131115419-squidbillies_015.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131115419-squidbillies_015.jpg" height="144px" /></a>
+895948 The Eric Andre Show: 1  
+### 2218889
+**FLCL S04E02 - Shonari**  
+TV-14-LSV 🔓 25:05  
+⌛ October 3, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/flcl/shonari  
+seriesid=`2218883` titleid=`2218889` id=`AYqBwIPxOz5CkuTcnxJp` mediaid=`c2491a7fa1204632afbd15276fe38c1f351f4943`  
+_In order to save Shonari from a miserable situation, Dainari works hard to buy a ticket to another planet, however he sustains injuries from a yakuza fight. Haruko to the rescue or so he thought but she only makes a chaotic situation worse._  
+<a href="https://media.cdn.adultswim.com/uploads/20230918/thumbnails/2_239181023371-FLCLGRUNGE402Shonari.png"><img src="https://media.cdn.adultswim.com/uploads/20230918/thumbnails/2_239181023371-FLCLGRUNGE402Shonari.png" height="144px" /></a>
+### 2186657
+**American Dad S14E08 - The Long March**  
+TV-14-DLV 🔒 21:01  
+⌛ October 3, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/the-long-march  
+seriesid=`581006` titleid=`2186657` id=`AXJvy6jiC8QgH-t19Jcn` mediaid=`d476de2f0f306f029394c49870cb16a74163f4cd`  
+_Hayley and Jeff move into a van and start living life on the open road. Francine and Steve are haunted by a rideshare driver that they rated poorly._  
+<a href="https://media.cdn.adultswim.com/uploads/20200720/thumbnails/2_207201325408-americandad_1308_air_cid-3X0D3.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200720/thumbnails/2_207201325408-americandad_1308_air_cid-3X0D3.jpg" height="144px" /></a>
+### 2186658
+**American Dad S14E09 - The Hall Monitor and the Lunch Lady**  
+TV-14-DLV 🔒 21:03  
+⌛ October 3, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/the-hall-monitor-and-the-lunch-lady  
+seriesid=`581006` titleid=`2186658` id=`AXJvzECkRs3h4hI_X383` mediaid=`a3ed04fb3471cf9ce5b56a4e90d753a173e6bc17`  
+_Steve goes undercover as a school hall monitor. Roger and Stan go catatonic after witnessing a grisly escalator accident._  
+<a href="https://media.cdn.adultswim.com/uploads/20200707/thumbnails/2_20771216588-americandad_1309_air_cid-3WXYC.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200707/thumbnails/2_20771216588-americandad_1309_air_cid-3WXYC.jpg" height="144px" /></a>
+### 2032599
+**The Eric Andre Show S03E04 - Jillian Barberie; Victor Ortiz**  
+TV-MA-L 🔒 10:51  
+⌛ October 3, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/the-eric-andre-show/jillian-barberie-victor-ortiz  
+seriesid=`895948` titleid=`2032599` id=`_DZgdugoTAS9MSQvAy3Pnw` mediaid=`318cbdb2dfc08e07434b69f1fd1377af12cd5334`  
+_Interviews with Jillian Barberie and Victor Ortiz; Musical guest Mac DeMarco._  
+<a href="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034161679-ericandre_024_dup-20141113.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200304/thumbnails/2_2034161679-ericandre_024_dup-20141113.jpg" height="144px" /></a>
