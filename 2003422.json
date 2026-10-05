@@ -1,5 +1,49 @@
 [
     {
+        "auth_expiration_date": 1791172740,
+        "tms_id": "",
+        "description": "Tina, Gene, and Louise strike it rich in the illegal snack business at school.",
+        "title_suggest": {
+            "input": [
+                "Snackface"
+            ]
+        },
+        "title": "Snackface",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "13",
+        "original_air_date": null,
+        "auth_launch_date": 1789963200,
+        "clip_order": null,
+        "airing_id": "RADS1009172600024221",
+        "media_id": "3809b31b1cdfb7b802df9039a89d6d912df4a727",
+        "modified": 1789656515,
+        "slug": "snackface",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_259291457218-BobsBurgers_1513.jpg",
+        "created": 1759172314,
+        "season_number": "15",
+        "title_id": "2569632",
+        "tv_rating": "tv-pg-l",
+        "published": 1789656515,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291457218-BobsBurgers_1513.jpg",
+        "id": "AZmW10YuyEF1_1NDe6m6",
+        "auth": false
+    },
+    {
         "auth_expiration_date": 1791259140,
         "tms_id": "",
         "description": "Tina and the Thundergirls spend the night in the woods, and Tina faces something even scarier than her nemesis, Troop 257.",
@@ -413,41 +457,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291525539-BobsBurgers_1522.jpg",
         "id": "AZmW8GW9yEF1_1NDe6nE",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1792382340,
-        "created": 1790802757,
-        "tms_id": "",
-        "title_id": "2569643",
-        "season_number": "16",
-        "tv_rating": "tv-pg-dls",
-        "description": "Linda becomes concerned when Gayle turns her love life into a performance art piece.",
-        "title_suggest": {
-            "input": [
-                "Til Death Do Us Art",
-                "Death Do Us Art",
-                "Do Us Art",
-                "Us Art",
-                "Art"
-            ]
-        },
-        "published": 1790818468,
-        "title": "Til Death Do Us Art",
-        "type": "episode",
-        "tags": [],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "",
-        "collection_title": "Bob's Burgers",
-        "original_air_date": 1791154800,
-        "auth_launch_date": 1791172800,
-        "modified_by": "ODT Listener",
-        "airing_id": "RADS1009302600026819",
-        "media_id": "fae7095824017d8c5b6fd07fcdc31207ffe3a8cf",
-        "modified": 1790818468,
-        "slug": "til-death-do-us-art",
-        "id": "AaD0KYgFgU44ry-qCZIC",
         "auth": true
     }
 ]
