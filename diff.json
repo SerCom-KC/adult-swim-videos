@@ -1,7 +1,6 @@
 {
-    "updated": 1791240037,
-    "added": [],
-    "removed": [
+    "updated": 1791242619,
+    "added": [
         {
             "auth_expiration_date": null,
             "tms_id": "",
@@ -29,7 +28,7 @@
             "clip_order": null,
             "airing_id": "RADS1009152600024088",
             "media_id": "ae9ed7330916abf6415a81f858f3ad4f5e8d889b",
-            "modified": 1791235866,
+            "modified": 1791242519,
             "slug": "the-mountain",
             "exclude_from_search": false,
             "thumbnail": "",
@@ -37,7 +36,7 @@
             "season_number": "1",
             "title_id": "2599135",
             "tv_rating": "tv-ma-lv",
-            "published": 1791235866,
+            "published": 1791242519,
             "tags": [],
             "collection_title": "Scavengers Reign",
             "disable_ads": false,
@@ -50,5 +49,6 @@
             "collection_title_id": "2599126",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
