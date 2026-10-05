@@ -1,7 +1,6 @@
 {
-    "updated": 1791231205,
-    "added": [],
-    "removed": [
+    "updated": 1791233724,
+    "added": [
         {
             "auth_expiration_date": null,
             "tms_id": "",
@@ -29,7 +28,7 @@
             "clip_order": null,
             "airing_id": "RADS1009152600024088",
             "media_id": "ae9ed7330916abf6415a81f858f3ad4f5e8d889b",
-            "modified": 1789774188,
+            "modified": 1791233434,
             "slug": "the-mountain",
             "exclude_from_search": false,
             "thumbnail": "",
@@ -37,7 +36,7 @@
             "season_number": "1",
             "title_id": "2599135",
             "tv_rating": "tv-ma-lv",
-            "published": 1789774188,
+            "published": 1791233434,
             "tags": [],
             "collection_title": "Scavengers Reign",
             "disable_ads": false,
@@ -77,7 +76,7 @@
             "clip_order": null,
             "airing_id": "RADS1009242600025492",
             "media_id": "f18917a9f2be1092a93894fd3cdef53371ae47ce",
-            "modified": 1790268532,
+            "modified": 1791233525,
             "slug": "the-return",
             "exclude_from_search": false,
             "thumbnail": "",
@@ -85,7 +84,7 @@
             "season_number": "1",
             "title_id": "2599137",
             "tv_rating": "",
-            "published": 1790268532,
+            "published": 1791233525,
             "tags": [],
             "collection_title": "Scavengers Reign",
             "disable_ads": false,
@@ -98,5 +97,6 @@
             "collection_title_id": "2599126",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
