@@ -1,49 +1,5 @@
 [
     {
-        "auth_expiration_date": 1791172740,
-        "tms_id": "",
-        "description": "Takemichi returns to the present to talk to Osanai, the leader of Moebius, to find out what really happened that day.",
-        "title_suggest": {
-            "input": [
-                "Regret"
-            ]
-        },
-        "title": "Regret",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AZw00-2MNi2EYjVB1WCZ",
-        "duration": 1368.9676,
-        "episode_number": "6",
-        "original_air_date": null,
-        "auth_launch_date": 1788148800,
-        "clip_order": null,
-        "airing_id": "RADS1008252600020472",
-        "media_id": "62ad8018b5fdf7e8d11220e490ae335614554f11",
-        "modified": 1787726542,
-        "slug": "regret",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20260302/thumbnails/1_2632103871-TokyoRevengers_S01_E06_Still.png",
-        "created": 1772465964,
-        "season_number": "1",
-        "title_id": "2584165",
-        "tv_rating": "tv-ma-lv",
-        "published": 1787726542,
-        "tags": [],
-        "collection_title": "Tokyo Revengers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20260302/thumbnails/2_2632103871-TokyoRevengers_S01_E06_Still.png",
-        "id": "AZyvNEUoc6shItN4M76t",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1791777540,
         "tms_id": "",
         "description": "Takemichi goes back to the past and tries to stop the upcoming conflict between the Tokyo Manji Gang and Moebius.",
@@ -217,6 +173,50 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20260302/thumbnails/2_26321145506-TokyoRevengers_S01_E10_Still.png",
         "id": "AZyvcjKoc6shItN4M764",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1794200340,
+        "tms_id": "",
+        "description": "Takemichi manages to defeat Kiyomasa in their one-on-one by sheer tenacity.",
+        "title_suggest": {
+            "input": [
+                "Respect"
+            ]
+        },
+        "title": "Respect",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZw00-2MNi2EYjVB1WCZ",
+        "duration": 1369.4681,
+        "episode_number": "11",
+        "original_air_date": null,
+        "auth_launch_date": 1791172800,
+        "clip_order": null,
+        "airing_id": "RADS1009302600026858",
+        "media_id": "3a70de265a9eb0188b5adcf9e533682ce440704b",
+        "modified": 1790816698,
+        "slug": "respect",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20260302/thumbnails/1_2632115359-TokyoRevengers_S01_E11_Still.png",
+        "created": 1772470392,
+        "season_number": "1",
+        "title_id": "2584170",
+        "tv_rating": "tv-14-lv",
+        "published": 1790816698,
+        "tags": [],
+        "collection_title": "Tokyo Revengers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20260302/thumbnails/2_2632115359-TokyoRevengers_S01_E11_Still.png",
+        "id": "AZyvd9gZc6shItN4M769",
         "auth": true
     }
 ]

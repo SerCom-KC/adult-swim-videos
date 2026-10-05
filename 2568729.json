@@ -1,52 +1,5 @@
 [
     {
-        "auth_expiration_date": 1791172740,
-        "tms_id": "",
-        "description": "Keiji, the wandering rooster, lands in a new city, but a Demon suddenly appears!",
-        "title_suggest": {
-            "input": [
-                "A Rooster Among Cranes",
-                "Rooster Among Cranes",
-                "Among Cranes",
-                "Cranes"
-            ]
-        },
-        "title": "A Rooster Among Cranes",
-        "type": "episode",
-        "expiration_date": null,
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "duration": 1411.0429,
-        "collection_id": "AZzoG3x55hm4q6q--tfK",
-        "episode_number": "1",
-        "original_air_date": 1773547200,
-        "auth_launch_date": 1789358400,
-        "clip_order": null,
-        "airing_id": "RADS1009082600023103",
-        "media_id": "cbfe5f3364177057af7a5ff935f8ab726426e142",
-        "modified": 1789244267,
-        "slug": "a-rooster-among-cranes",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20260313/thumbnails/1_263131949589-RoosterFighter_01.png",
-        "created": 1773423191,
-        "title_id": "2568730",
-        "season_number": "1",
-        "tv_rating": "tv-ma-sv",
-        "published": 1789244267,
-        "tags": [],
-        "collection_title": "Rooster Fighter",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20260313/thumbnails/2_263131949589-RoosterFighter_01.png",
-        "id": "AZzoQmQ54fEFRoGAPbXL",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1791777540,
         "tms_id": "",
         "description": "Keiji's injured soon after he saves Piyoko's \"Pops\" from permanently transforming into a Demon.",
@@ -139,6 +92,53 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20260314/thumbnails/2_26314023110-RoosterFighter_03.png",
         "id": "AZzqlZIX5hm4q6q--tfL",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1792987140,
+        "tms_id": "",
+        "description": "The trio find themselves at a village where the adults have been brainwashed by a Demon.",
+        "title_suggest": {
+            "input": [
+                "Homing In on Desire",
+                "In on Desire",
+                "on Desire",
+                "Desire"
+            ]
+        },
+        "title": "Homing In on Desire",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZzoG3x55hm4q6q--tfK",
+        "duration": 1410.6759,
+        "episode_number": "4",
+        "original_air_date": "1775361600",
+        "auth_launch_date": 1791172800,
+        "clip_order": null,
+        "airing_id": "RADS1009302600026854",
+        "media_id": "bcfc578da1b32247ca41d9c1d76ecf8ea2a179c5",
+        "modified": 1790814895,
+        "slug": "homing-in-on-desire",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20260314/thumbnails/1_26314023589-RoosterFighter_04.png",
+        "created": 1773462245,
+        "season_number": "1",
+        "title_id": "2568733",
+        "tv_rating": "",
+        "published": 1790814895,
+        "tags": [],
+        "collection_title": "Rooster Fighter",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20260314/thumbnails/2_26314023589-RoosterFighter_04.png",
+        "id": "AZzqllBy5hm4q6q--tfM",
         "auth": true
     }
 ]
