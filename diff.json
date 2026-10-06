@@ -1,54 +1,7 @@
 {
-    "updated": 1791234013,
-    "added": [
-        {
-            "auth_expiration_date": null,
-            "tms_id": "",
-            "description": "After reaching an insurmountable obstacle, Azi must learn to trust Kris and Barry. Meanwhile, rough waters test a newly reborn Sam.",
-            "title_suggest": {
-                "input": [
-                    "The Mountain",
-                    "Mountain"
-                ]
-            },
-            "title": "The Mountain",
-            "expiration_date": 1793073599,
-            "type": "episode",
-            "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
-            ],
-            "collection_id": "AaBj71__gU44ry-qCY9O",
-            "duration": 1522.521,
-            "episode_number": "9",
-            "original_air_date": null,
-            "auth_launch_date": null,
-            "clip_order": null,
-            "airing_id": "RADS1009152600024088",
-            "media_id": "ae9ed7330916abf6415a81f858f3ad4f5e8d889b",
-            "modified": 1791233434,
-            "slug": "the-mountain",
-            "exclude_from_search": false,
-            "thumbnail": "",
-            "created": 1789747137,
-            "season_number": "1",
-            "title_id": "2599135",
-            "tv_rating": "tv-ma-lv",
-            "published": 1791233434,
-            "tags": [],
-            "collection_title": "Scavengers Reign",
-            "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1789880400,
-            "poster": "",
-            "id": "AaC1PgzsgU44ry-qCZHZ",
-            "auth": false,
-            "collection_slug": "scavengers-reign",
-            "collection_title_id": "2599126",
-            "online_exclusives": false
-        },
+    "updated": 1791244840,
+    "added": [],
+    "removed": [
         {
             "auth_expiration_date": null,
             "tms_id": "",
@@ -60,7 +13,7 @@
                 ]
             },
             "title": "The Return",
-            "expiration_date": 1793073599,
+            "expiration_date": 1791259199,
             "type": "episode",
             "platforms": [
                 "android",
@@ -76,7 +29,7 @@
             "clip_order": null,
             "airing_id": "RADS1009242600025492",
             "media_id": "f18917a9f2be1092a93894fd3cdef53371ae47ce",
-            "modified": 1791233525,
+            "modified": 1791235865,
             "slug": "the-return",
             "exclude_from_search": false,
             "thumbnail": "",
@@ -84,7 +37,7 @@
             "season_number": "1",
             "title_id": "2599137",
             "tv_rating": "",
-            "published": 1791233525,
+            "published": 1791235865,
             "tags": [],
             "collection_title": "Scavengers Reign",
             "disable_ads": false,
@@ -97,6 +50,5 @@
             "collection_title_id": "2599126",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
