@@ -181,6 +181,52 @@
         "auth": false
     },
     {
+        "auth_expiration_date": 1791259140,
+        "tms_id": "EP007164450283",
+        "description": "Francine helps Hayley take a break from their marriages. Stan and Jeff pretend to be frontiersmen.",
+        "title_suggest": {
+            "input": [
+                "An Irish Goodbye",
+                "Irish Goodbye",
+                "Goodbye"
+            ]
+        },
+        "title": "An Irish Goodbye",
+        "expiration_date": 1788148740,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "kuykLeORSBmAK6JteESFCw",
+        "duration": 1233.2654,
+        "episode_number": "11",
+        "original_air_date": "1561946400",
+        "auth_launch_date": 1790654400,
+        "clip_order": null,
+        "airing_id": "RADS1009262600025795",
+        "media_id": "2b4964d37a410065c9bb5f0d52889d4a535b472c",
+        "modified": 1790416125,
+        "slug": "an-irish-goodbye",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200608/thumbnails/1_2068917528-americandad_1311_air_cid-3X8PX.jpg",
+        "created": 1591543641,
+        "season_number": "14",
+        "title_id": "2186660",
+        "tv_rating": "tv-14-dlv",
+        "published": 1790416125,
+        "tags": [],
+        "collection_title": "American Dad",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1787544000,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068917528-americandad_1311_air_cid-3X8PX.jpg",
+        "id": "AXKPZLaWRs3h4hI_X4A7",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1791345540,
         "tms_id": "EP007164450285",
         "description": "Stan buys the rights a Broadway show after inheriting money from a dead uncle.",
@@ -686,54 +732,6 @@
         "launch_date": 1788753600,
         "poster": "https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068959310-americandad_1322_air_cid-46P0T.jpg",
         "id": "AXKUOra-C8QgH-t19Jj8",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1791863940,
-        "tms_id": "EP007164450359",
-        "description": "While running an errand in Little Columbia, Stan is confronted by his hidden past.",
-        "title_suggest": {
-            "input": [
-                "100 Years A Solid Fool",
-                "Years A Solid Fool",
-                "A Solid Fool",
-                "Solid Fool",
-                "Fool"
-            ]
-        },
-        "title": "100 Years A Solid Fool",
-        "expiration_date": 1789358340,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "kuykLeORSBmAK6JteESFCw",
-        "duration": 1262.895,
-        "episode_number": "1",
-        "original_air_date": "1587346200",
-        "auth_launch_date": 1791259200,
-        "clip_order": null,
-        "airing_id": "RADS1009302600026888",
-        "media_id": "6d7b30a6744c4e0fa261c8c75c342afa602af483",
-        "modified": 1790835605,
-        "slug": "100-years-a-solid-fool",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20210112/thumbnails/1_211121431217-americandad_1401_air_cid-8X9NH-TenYearsASolidFool.jpg",
-        "created": 1610479888,
-        "season_number": "15",
-        "title_id": "2197405",
-        "tv_rating": "",
-        "published": 1790835605,
-        "tags": [],
-        "collection_title": "American Dad",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": 1788753600,
-        "poster": "https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121431217-americandad_1401_air_cid-8X9NH-TenYearsASolidFool.jpg",
-        "id": "AXb4FOmcbxpjZvbXYl98",
         "auth": true
     },
     {
