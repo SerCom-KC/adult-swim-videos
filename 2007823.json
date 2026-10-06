@@ -45,7 +45,7 @@
         "launch_date": 1791259200,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15150986087747.jpg",
         "id": "AV-2_sJ8wdpKFAKSbWYY",
-        "auth": true
+        "auth": false
     },
     {
         "ott_launch_date": 1447789260,
@@ -97,7 +97,7 @@
         "launch_date": 1759809600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15150977957037.jpg",
         "id": "AV-3C18nwdpKFAKSbWZL",
-        "auth": false
+        "auth": true
     },
     {
         "ott_launch_date": 1447789320,
@@ -620,7 +620,7 @@
         "auth": false
     },
     {
-        "auth": true,
+        "auth": false,
         "ott_launch_date": null,
         "auth_expiration_date": 1791259140,
         "tms_id": "SH028157750000",
@@ -817,7 +817,7 @@
         "launch_date": 1759809600,
         "poster": "https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15143258616671.png",
         "id": "AWBbcE9HwdpKFAKSb4fy",
-        "auth": false
+        "auth": true
     },
     {
         "auth": false,
