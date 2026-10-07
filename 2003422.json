@@ -49,53 +49,6 @@
         "auth": true
     },
     {
-        "auth_expiration_date": 1792555140,
-        "tms_id": "",
-        "description": "The family's Labor Day lake trip takes a turn when the Belchers find themselves trapped in their cabin, hiding from what lurks outside.",
-        "title_suggest": {
-            "input": [
-                "The Reeky Lake Show",
-                "Reeky Lake Show",
-                "Lake Show",
-                "Show"
-            ]
-        },
-        "title": "The Reeky Lake Show",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "2",
-        "original_air_date": null,
-        "auth_launch_date": 1791345600,
-        "clip_order": null,
-        "airing_id": "RADS1010012600027189",
-        "media_id": "e93f54e86f2a37f44a19283a9037f64e7d51c62b",
-        "modified": 1790924682,
-        "slug": "the-reeky-lake-show",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181026582-BobsBurgers_1302.jpg",
-        "created": 1758205643,
-        "season_number": "13",
-        "title_id": "2569568",
-        "tv_rating": "tv-pg-l",
-        "published": 1790924682,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181026582-BobsBurgers_1302.jpg",
-        "id": "AZldOQuAs_ErlMTJpQnm",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1791518340,
         "tms_id": "",
         "description": "Tina's lost book of semi-erotic Horse-torical Fiction lands in the hands of a mysterious stranger with nefarious intentions.",
@@ -139,6 +92,54 @@
         "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_25929151237-BobsBurgers_1517.jpg",
         "id": "AZmW47AkyEF1_1NDe6m9",
         "auth": true
+    },
+    {
+        "auth_expiration_date": 1791345540,
+        "tms_id": "",
+        "description": "The Belchers have a wild night at a casino, and Linda learns more about her late grandfather than she wanted to know.",
+        "title_suggest": {
+            "input": [
+                "The Lost City of Atlantic",
+                "Lost City of Atlantic",
+                "City of Atlantic",
+                "of Atlantic",
+                "Atlantic"
+            ]
+        },
+        "title": "The Lost City of Atlantic",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "15",
+        "original_air_date": null,
+        "auth_launch_date": 1790136000,
+        "clip_order": null,
+        "airing_id": "RADS1009172600024744",
+        "media_id": "16e079e4cf7dac0c77b7fabf026dc5f248dfd32f",
+        "modified": 1789711422,
+        "slug": "the-lost-city-of-atlantic",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_25929159231-BobsBurgers_1515.jpg",
+        "created": 1759172968,
+        "season_number": "15",
+        "title_id": "2569634",
+        "tv_rating": "tv-pg-l",
+        "published": 1789711422,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_25929159231-BobsBurgers_1515.jpg",
+        "id": "AZmW4UBkyEF1_1NDe6m8",
+        "auth": false
     },
     {
         "auth_expiration_date": 1791431940,
