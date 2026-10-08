@@ -96,6 +96,52 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1792641540,
+        "tms_id": "",
+        "description": "A school assignment about careers sends Louise spiraling, trying to imagine what her future might hold.",
+        "title_suggest": {
+            "input": [
+                "What About Job?",
+                "About Job?",
+                "Job?"
+            ]
+        },
+        "title": "What About Job?",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "3",
+        "original_air_date": null,
+        "auth_launch_date": 1791432000,
+        "clip_order": null,
+        "airing_id": "RADS1010022600027651",
+        "media_id": "3dfc9ebb47cddd27e44487611e99df1a029d4548",
+        "modified": 1791009429,
+        "slug": "what-about-job",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_259181027498-BobsBurgers_1303.jpg",
+        "created": 1758205673,
+        "season_number": "13",
+        "title_id": "2569569",
+        "tv_rating": "tv-pg-lv",
+        "published": 1791009429,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_259181027498-BobsBurgers_1303.jpg",
+        "id": "AZldOYD1s_ErlMTJpQnn",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1791518340,
         "tms_id": "",
         "description": "Tina's lost book of semi-erotic Horse-torical Fiction lands in the hands of a mysterious stranger with nefarious intentions.",
@@ -138,50 +184,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_25929151237-BobsBurgers_1517.jpg",
         "id": "AZmW47AkyEF1_1NDe6m9",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1791431940,
-        "tms_id": "",
-        "description": "Insomnia sends Bob on a creative spree in the kitchen, but at what cost?",
-        "title_suggest": {
-            "input": [
-                "Insomnibob"
-            ]
-        },
-        "title": "Insomnibob",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "16",
-        "original_air_date": null,
-        "auth_launch_date": 1790222400,
-        "clip_order": null,
-        "airing_id": "RADS1009182600025064",
-        "media_id": "91715f6d57c538b25da2feff7828c4ee5b86e3da",
-        "modified": 1789802305,
-        "slug": "insomnibob",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_259291511170-BobsBurgers_1516.jpg",
-        "created": 1759173082,
-        "season_number": "15",
-        "title_id": "2569641",
-        "tv_rating": "tv-pg-l",
-        "published": 1789802305,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291511170-BobsBurgers_1516.jpg",
-        "id": "AZmW4v6Xs_ErlMTJpQoB",
         "auth": true
     },
     {
