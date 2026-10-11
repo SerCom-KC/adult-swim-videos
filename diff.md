@@ -2,25 +2,60 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: October 10, 2026 at 05:30:37 EDT_
+_Last Update: October 11, 2026 at 00:00:27 EDT_
 ## Video added
-No videos were added.  
+### Summary
+581006 American Dad: 2  
+2584789 GET JIRO: 1  
+### 2197417
+**American Dad S15E12 - Ghost Dad**  
+ 🔒 21:03  
+⌛ October 17, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/ghost-dad  
+seriesid=`581006` titleid=`2197417` id=`AXb8Nb3EQJ_4Uej5kTlN` mediaid=`710148d4b0cfcc77671ef9b3d3fe2bac5cadb4b9`  
+_Stan struggles to cope with the untimely death of his father. Meanwhile, a simple canoeing trip does catastrophic damage to Hayley and Jeff's relationship._  
+<a href="https://media.cdn.adultswim.com/uploads/20210113/thumbnails/2_21113945464-americandad_1413_air_cid-D8CWH-GhostDad.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210113/thumbnails/2_21113945464-americandad_1413_air_cid-D8CWH-GhostDad.jpg" height="144px" /></a>
+### 2197416
+**American Dad S15E11 - Salute Your Sllort**  
+ 🔒 20:59  
+⌛ October 17, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/salute-your-sllort  
+seriesid=`581006` titleid=`2197416` id=`AXb4H0xWbxpjZvbXYl-A` mediaid=`ede68dd32522f2ca79c53ddf0a40d736f48603fc`  
+_Steve's efforts to befriend a Swedish exchange student backfire in a big way; The family calls in an animal behaviorist to deal with Klaus._  
+<a href="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121442446-americandad_1412_air_cid-GW67D-SaluteYourSllort.jpg"><img src="https://media.cdn.adultswim.com/uploads/20210112/thumbnails/2_211121442446-americandad_1412_air_cid-GW67D-SaluteYourSllort.jpg" height="144px" /></a>
+### 2601026
+**GET JIRO S01E03 - The Ortolan**  
+TV-MA-LV 🔒 22:30  
+⌛ October 31, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/get-jiro/the-ortolan  
+seriesid=`2584789` titleid=`2601026` id=`AaENHKFBgU44ry-qCZIJ` mediaid=`bdca8519b34f776d9e0273dcd4bd31fc9da4032f`  
+_Jiro takes on a new apprentice and learns to cook a controversial new dish and finds himself in the crosshairs of a meticulous assassin._  
+<a href="https://media.cdn.adultswim.com/uploads/20261005/thumbnails/2_261051328555-JIRO_S1E3_MainEpisodic_Platform_Still.png"><img src="https://media.cdn.adultswim.com/uploads/20261005/thumbnails/2_261051328555-JIRO_S1E3_MainEpisodic_Platform_Still.png" height="144px" /></a>
 ## Video removed
 ### Summary
-2031611 Dragon Ball Z Kai: 2  
-### 2031625
-**Dragon Ball Z Kai S01E14 - An All-Out Kamehame-Ha! Vegeta's Terrible Transformation!**  
-TV-PG-LV 🔒 21:01  
-⌛ October 10, 2026 at 04:59:00 EDT  
-https://www.adultswim.com/videos/dragon-ball-z-kai/an-all-out-kamehame-ha-vegetas-terrible-transformation  
-seriesid=`2031611` titleid=`2031625` id=`SwBpoD5_SYe2OreP3_bZow` mediaid=`bdb4193dfcea4e7f6e09024b83da8e564bb2b70b`  
-_Vegeta can't handle the fury of Goku's triple Kaio-Ken technique, so the Saiyan warlord unleashes his inner ape. Weakened by his furious onslaught, Goku's only hope to defeat the beast is the mighty Spirit Bomb!_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568403563449.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-15568403563449.jpg" height="144px" /></a>
-### 2031626
-**Dragon Ball Z Kai S01E15 - Goku on the Ropes! Pin Your Hopes on the Spirit Bomb!**  
-TV-PG-LV 🔒 21:00  
-⌛ October 10, 2026 at 05:29:00 EDT  
-https://www.adultswim.com/videos/dragon-ball-z-kai/goku-on-the-ropes-pin-your-hopes-on-the-spirit-bomb  
-seriesid=`2031611` titleid=`2031626` id=`rSe1RkGgQFebyXDv0LRtXA` mediaid=`62382ebad1f78cd98593b5c0f60d891b6445bf33`  
-_As Goku lies exhausted and vulnerable on the field of battle, Gohan and Krillin take aim at Vegeta's only weakness: his tail! If they can take the ape out of the fight, they might have a chance to escape with their lives._  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684033994216.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684033994216.jpg" height="144px" /></a>
+2218883 FLCL: 1  
+581006 American Dad: 2  
+### 2218890
+**FLCL S04E03 - Orinoko**  
+TV-14-S 🔓 23:57  
+⌛ October 10, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/flcl/orinoko  
+seriesid=`2218883` titleid=`2218890` id=`AYqkrolNOz5CkuTcnxQB` mediaid=`a33d55d2a5accdc3721f5613a26557aa3270dbea`  
+_Orinoko's father is a swordsmith, whose skills have rusted with the devastation of the city. In order to help, Orinoko rummages for scrap irons, and she meets Haruko who's also collecting irons to repair her Vespa, but what is her motive?_  
+<a href="https://media.cdn.adultswim.com/uploads/20230927/thumbnails/2_23927132104-FLCLGRUNGE403Orinoko.png"><img src="https://media.cdn.adultswim.com/uploads/20230927/thumbnails/2_23927132104-FLCLGRUNGE403Orinoko.png" height="144px" /></a>
+### 2186669
+**American Dad S14E20 - The Hand that Rocks the Rogu**  
+TV-14-DLSV 🔒 21:04  
+⌛ October 10, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/the-hand-that-rocks-the-rogu  
+seriesid=`581006` titleid=`2186669` id=`AXKUOb9LC8QgH-t19Jj6` mediaid=`d6fcf8645e8022d7bdb0529940ab79aa25ab1ed2`  
+_Steve babysits Roger's ex-tumor, Rogu, to prove to Francine that he's ready for the responsibility. Stan and Francine get into trouble in their respective clubs._  
+<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068958281-americandad_1320_air_cid-4101Y.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_2068958281-americandad_1320_air_cid-4101Y.jpg" height="144px" /></a>
+### 2186670
+**American Dad S14E21 - Downtown**  
+TV-14-DLV 🔒 21:03  
+⌛ October 10, 2026 at 23:59:00 EDT  
+https://www.adultswim.com/videos/american-dad/downtown  
+seriesid=`581006` titleid=`2186670` id=`AXKUOl5bC8QgH-t19Jj7` mediaid=`e352edca867a17986f9a34a9dc0813a5791ca7d9`  
+_Hayley drives Steve to a testing center in "no good" downtown but they end up stranded in a worse suburban neighborhood. Stan, Francine, and Roger mistakenly go downtown to rescue them._  
+<a href="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_206895975-americandad_1321_air_cid-46P0N.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200608/thumbnails/2_206895975-americandad_1321_air_cid-46P0N.jpg" height="144px" /></a>
