@@ -1,54 +1,54 @@
 {
-    "updated": 1791702025,
-    "added": [
+    "updated": 1791703826,
+    "added": [],
+    "removed": [
         {
-            "auth_expiration_date": 1794297540,
-            "tms_id": "",
-            "description": "Rin Okumura has been placed under the supervision of Shura Kirigakure when he learns of the theft of a dangerous item.",
+            "auth": true,
+            "ott_launch_date": null,
+            "auth_expiration_date": 1791702180,
+            "tms_id": "EP018691120022",
+            "description": "In light of the incidents following the monastery attack, Mephisto is dismissed from his post as director. The Order's Supreme Advisors, the Grigori, are ousted as well, paving the way for Ernst to become Pope. And the newly appointed Preceptor of the Japan Branch is revealed to be...\r\n\r\n",
             "title_suggest": {
                 "input": [
-                    "Small Beginnings",
-                    "Beginnings"
+                    "Demon-hunting"
                 ]
             },
-            "title": "Small Beginnings",
+            "title": "Demon-hunting",
             "type": "episode",
-            "expiration_date": null,
+            "expiration_date": 1456050599,
             "platforms": [
-                "android",
-                "ios",
-                "roku",
-                "fire-tv"
+                "web",
+                "mobile"
             ],
             "collection_id": "BJWRPi1uTl2j_nptAdcYOw",
-            "duration": 2140.8387,
-            "episode_number": "1",
-            "original_air_date": 1747544580,
-            "auth_launch_date": 1791702000,
+            "duration": 1318.021,
+            "episode_number": "22",
+            "original_air_date": 1405836000,
             "clip_order": null,
-            "airing_id": "RADS1010052600028141",
-            "media_id": "a3fb5ecf20dba2c910e8d0616deea93b5d1cc761",
-            "modified": 1791280240,
-            "slug": "small-beginnings",
-            "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20250516/thumbnails/1_255161143245-BEX-S02E01.png",
-            "created": 1747084229,
-            "title_id": "2546992",
-            "season_number": "2",
-            "tv_rating": "tv-14-lv",
-            "published": 1791280240,
+            "auth_launch_date": 1789283040,
+            "modified": 1788859011,
+            "media_id": "5841debd711859978640976ea3b695fc8bcb3444",
+            "airing_id": "RADS1009072600023003",
+            "id": "BYutb_1NR6aNfVJsl0ij9Q",
+            "slug": "demon-hunting",
+            "views": 1677,
+            "created": 1408040397,
+            "season_number": "1",
+            "title_id": "2012550",
+            "tv_rating": "tv-14",
+            "active": false,
+            "ott_expiration_date": null,
+            "published": 1788859011,
+            "first_published": 1408040397,
             "tags": [],
             "collection_title": "Blue Exorcist",
-            "disable_ads": false,
             "modified_by": "ODT Listener",
-            "launch_date": null,
-            "poster": "https://media.cdn.adultswim.com/uploads/20250516/thumbnails/2_255161143245-BEX-S02E01.png",
-            "id": "AZbGVbp-C3J9ee8ny7vn",
-            "auth": true,
+            "launch_date": 1451471400,
+            "poster": "https://i.cdn.turner.com/adultswim/big/video/demon-hunting/blueexorcist_cc_22_dup-201406201553256829-11.jpg",
+            "cma_id": "1168111",
             "collection_slug": "blue-exorcist",
             "collection_title_id": "2012528",
             "online_exclusives": false
         }
-    ],
-    "removed": []
+    ]
 }
