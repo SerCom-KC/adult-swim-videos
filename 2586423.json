@@ -1,49 +1,5 @@
 [
     {
-        "auth_expiration_date": 1791777540,
-        "tms_id": "",
-        "description": "Takemichi goes back to the past and tries to stop the upcoming conflict between the Tokyo Manji Gang and Moebius.",
-        "title_suggest": {
-            "input": [
-                "Revive"
-            ]
-        },
-        "title": "Revive",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AZw00-2MNi2EYjVB1WCZ",
-        "duration": 1371.1364,
-        "episode_number": "7",
-        "original_air_date": null,
-        "auth_launch_date": 1788753600,
-        "clip_order": null,
-        "airing_id": "RADS1009022600022119",
-        "media_id": "9e7ad02ecc51a075240797a5876088cb4f578ca3",
-        "modified": 1788327991,
-        "slug": "revive",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20260302/thumbnails/1_2632114382-TokyoRevengers_S01_E07_Still.png",
-        "created": 1772467506,
-        "season_number": "1",
-        "title_id": "2584166",
-        "tv_rating": "tv-ma-lv",
-        "published": 1788327991,
-        "tags": [],
-        "collection_title": "Tokyo Revengers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20260302/thumbnails/2_2632114382-TokyoRevengers_S01_E07_Still.png",
-        "id": "AZyvS8z5c6shItN4M76x",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1792382340,
         "tms_id": "",
         "description": "After the attack initiated by the head of Moebius, Mikey and Draken end up at odds with each other and then go visit Takemichi, who was injured.",
@@ -217,6 +173,50 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20260302/thumbnails/2_2632115359-TokyoRevengers_S01_E11_Still.png",
         "id": "AZyvd9gZc6shItN4M769",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1794805140,
+        "tms_id": "",
+        "description": "After saving Draken's life, Takemichi returns to the future to find that Akkun made his dreams to become a hairstylist come true.",
+        "title_suggest": {
+            "input": [
+                "Revenge"
+            ]
+        },
+        "title": "Revenge",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZw00-2MNi2EYjVB1WCZ",
+        "duration": 1364.5965,
+        "episode_number": "12",
+        "original_air_date": null,
+        "auth_launch_date": 1791777600,
+        "clip_order": null,
+        "airing_id": "RADS1010072600028588",
+        "media_id": "a715ad908157eeb0a67676aad9f8c6ef1e9bdcbb",
+        "modified": 1791352237,
+        "slug": "revenge",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20260302/thumbnails/1_2632128282-TokyoRevengers_S01_E12_Still.png",
+        "created": 1772471341,
+        "season_number": "1",
+        "title_id": "2584171",
+        "tv_rating": "tv-14-dlv",
+        "published": 1791352237,
+        "tags": [],
+        "collection_title": "Tokyo Revengers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20260302/thumbnails/2_2632128282-TokyoRevengers_S01_E12_Still.png",
+        "id": "AZyvhlNXc6shItN4M76_",
         "auth": true
     }
 ]
