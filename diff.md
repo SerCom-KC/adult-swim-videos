@@ -2,10 +2,8 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: October 12, 2026 at 09:00:40 EDT_
+_Last Update: October 12, 2026 at 10:30:15 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
 581268 Squidbillies: 1  
 ### 702540
@@ -16,3 +14,5 @@ https://www.adultswim.com/videos/squidbillies/beast-implants
 seriesid=`581268` titleid=`702540` id=`ZQqbghgCT4uPgG24MjjtRA` mediaid=`6d16c87128f6787bfd24c5529f1ff956d42a44d5`  
 _Granny indulges in the ultimate spa experience._  
 <a href="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131118410-squidbillies_022_bim.jpg"><img src="https://media.cdn.adultswim.com/uploads/20200413/thumbnails/2_204131118410-squidbillies_022_bim.jpg" height="144px" /></a>
+## Video removed
+No videos were removed.  
