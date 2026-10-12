@@ -319,11 +319,8 @@
         "auth": false
     },
     {
-        "created": 1791213255,
+        "auth_expiration_date": null,
         "tms_id": "EP007833440016",
-        "title_id": "627636",
-        "season_number": "2",
-        "tv_rating": "tv-pg",
         "description": "Takeshi smiles and says, \"there is nothing wrong.\" But Liz doesn't believe him. Amy also feels something \"different\" in Liz. Then the young midfielder of Team Satomi is approached by Judy and Max from Team White Snow.",
         "title_suggest": {
             "input": [
@@ -331,22 +328,38 @@
                 "Mind"
             ]
         },
-        "published": 1791275761,
         "title": "Vulnerable Mind",
         "type": "episode",
         "expiration_date": 1823227140,
-        "tags": [],
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
         "collection_id": "osidPNXcS1yNBAh4Sq1lrQ",
         "duration": 1386.3517,
-        "episode_number": "",
-        "collection_title": "IGPX",
+        "episode_number": "3",
         "original_air_date": 1149388200,
-        "modified_by": "ODT Listener",
+        "auth_launch_date": null,
+        "clip_order": null,
         "airing_id": "RADS1010052600028139",
         "media_id": "0387c23077d4ea44a4e4ee2d21bc58955415d1b7",
-        "modified": 1791275761,
-        "launch_date": 1791698400,
+        "modified": 1791825135,
         "slug": "vulnerable-mind",
+        "exclude_from_search": false,
+        "thumbnail": "",
+        "created": 1791213255,
+        "title_id": "627636",
+        "season_number": "2",
+        "tv_rating": "tv-pg",
+        "published": 1791825135,
+        "tags": [],
+        "collection_title": "IGPX",
+        "disable_ads": false,
+        "modified_by": "Jonathan Jackson",
+        "launch_date": 1791698400,
+        "poster": "",
         "id": "AaEMoT0BgU44ry-qCZIE",
         "auth": false
     },
