@@ -188,6 +188,52 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1791777540,
+        "tms_id": "",
+        "description": "Bob competes in a Bachelor-style competition to inherit Mr. Fischoeder's 100-year-old giant tortoise.",
+        "title_suggest": {
+            "input": [
+                "The Shell Game",
+                "Shell Game",
+                "Game"
+            ]
+        },
+        "title": "The Shell Game",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "18",
+        "original_air_date": null,
+        "auth_launch_date": 1790568000,
+        "clip_order": null,
+        "airing_id": "RADS1009252600025511",
+        "media_id": "3550bbcb5697cacc09af8dd9d69c3eb52e7de356",
+        "modified": 1790309913,
+        "slug": "the-shell-game",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_259291513159-BobsBurgers_1518.jpg",
+        "created": 1759173305,
+        "season_number": "15",
+        "title_id": "2569635",
+        "tv_rating": "tv-pg-l",
+        "published": 1790309913,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291513159-BobsBurgers_1518.jpg",
+        "id": "AZmW5mT1s_ErlMTJpQoC",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1791863940,
         "tms_id": "",
         "description": "The kids explore a marine scrapyard in search of adventure, but the trip takes a dangerous turn.",
@@ -405,41 +451,6 @@
         "modified": 1790818468,
         "slug": "til-death-do-us-art",
         "id": "AaD0KYgFgU44ry-qCZIC",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1792987140,
-        "created": 1791333010,
-        "tms_id": "",
-        "title_id": "2569645",
-        "season_number": "16",
-        "tv_rating": "tv-pg-dl",
-        "description": "Louise and Gene try to help Tina clear her name after she is fired as a Hall Monitor.",
-        "title_suggest": {
-            "input": [
-                "The Skids in the Hall",
-                "Skids in the Hall",
-                "in the Hall",
-                "the Hall",
-                "Hall"
-            ]
-        },
-        "published": 1791352234,
-        "title": "The Skids in the Hall",
-        "type": "episode",
-        "tags": [],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "",
-        "collection_title": "Bob's Burgers",
-        "original_air_date": 1791759600,
-        "auth_launch_date": 1791777600,
-        "modified_by": "ODT Listener",
-        "airing_id": "RADS1010072600028551",
-        "media_id": "4ce16081b9abff359d96cea3b3a267bb56707f90",
-        "modified": 1791352234,
-        "slug": "the-skids-in-the-hall",
-        "id": "AaETxI3egU44ry-qCZIn",
         "auth": true
     }
 ]

@@ -1,51 +1,5 @@
 [
     {
-        "auth_expiration_date": 1794805140,
-        "tms_id": "",
-        "description": "In Blue Lock's second selection, a teammate becomes a foe, and a foe becomes a teammate. Isagi meets Itoshi Rin, the strongest egoist he's ever met.",
-        "title_suggest": {
-            "input": [
-                "The Second Selection",
-                "Second Selection",
-                "Selection"
-            ]
-        },
-        "title": "The Second Selection",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "AZw05SoBc6shItN4M7ll",
-        "duration": 1300.566,
-        "episode_number": "12",
-        "original_air_date": null,
-        "auth_launch_date": 1791777600,
-        "clip_order": null,
-        "airing_id": "RADS1010072600028586",
-        "media_id": "fccc46e8808ffaed3428688de7a2ad07f843b7ee",
-        "modified": 1791352242,
-        "slug": "the-second-selection",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20260209/thumbnails/1_26291436485-BlueLock-S01E12.png",
-        "created": 1770667073,
-        "season_number": "1",
-        "title_id": "2584195",
-        "tv_rating": "",
-        "published": 1791352242,
-        "tags": [],
-        "collection_title": "Blue Lock",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20260209/thumbnails/2_26291436485-BlueLock-S01E12.png",
-        "id": "AZxD-2GQNi2EYjVB1WCh",
-        "auth": true
-    },
-    {
         "auth_expiration_date": 1794200340,
         "tms_id": "",
         "description": "Isagi finds the final piece of the puzzle that's necessary for his evolution. The first selection of Blue Lock, where ego comes head-to-head, ends.",
@@ -89,6 +43,50 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20260209/thumbnails/2_2629143599-BlueLock-S01E11.png",
         "id": "AZxD5z7-Ni2EYjVB1WCg",
+        "auth": true
+    },
+    {
+        "auth_expiration_date": 1791777540,
+        "tms_id": "",
+        "description": "Team Z faces an opponent who knows everything about their weapons. But they don't give up the fight, and Isagi continues to believe in himself.",
+        "title_suggest": {
+            "input": [
+                "Rush"
+            ]
+        },
+        "title": "Rush",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "AZw05SoBc6shItN4M7ll",
+        "duration": 1300.8662,
+        "episode_number": "7",
+        "original_air_date": null,
+        "auth_launch_date": 1788753600,
+        "clip_order": null,
+        "airing_id": "RADS1009022600022117",
+        "media_id": "cb21b0020b67f4234fc1f1eb19e70e8f6090a639",
+        "modified": 1788327985,
+        "slug": "rush",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20260209/thumbnails/1_2629142250-BlueLock-S01E07.png",
+        "created": 1770663754,
+        "season_number": "1",
+        "title_id": "2584190",
+        "tv_rating": "",
+        "published": 1788327985,
+        "tags": [],
+        "collection_title": "Blue Lock",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20260209/thumbnails/2_2629142250-BlueLock-S01E07.png",
+        "id": "AZxDyLtRc6shItN4M7nb",
         "auth": true
     },
     {
