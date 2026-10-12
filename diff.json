@@ -1,20 +1,20 @@
 {
-    "updated": 1791824798,
-    "added": [],
-    "removed": [
+    "updated": 1791838032,
+    "added": [
         {
-            "auth_expiration_date": 1697947140,
+            "auth_expiration_date": 1801544340,
             "tms_id": "",
-            "description": "Masaki who's been having a hard time fitting in with his class due to his unique background and character, meets Harumi, who is even more eccentric than he is. She offers to help him off of his worries by bombing the Tsuganei Tower.",
+            "description": "Haruka Sakura, a loner who admires only the strong, enrolls at Furin High to become its top fighter.",
             "title_suggest": {
                 "input": [
-                    "Furu-Bari (Full Barricade)",
-                    "(Full Barricade)",
-                    "Barricade)"
+                    "SAKURA ARRIVES AT FURIN",
+                    "ARRIVES AT FURIN",
+                    "AT FURIN",
+                    "FURIN"
                 ]
             },
-            "title": "Furu-Bari (Full Barricade)",
-            "expiration_date": 1792295940,
+            "title": "SAKURA ARRIVES AT FURIN",
+            "expiration_date": null,
             "type": "episode",
             "platforms": [
                 "android",
@@ -22,34 +22,35 @@
                 "roku",
                 "fire-tv"
             ],
-            "collection_id": "AWH9BNOjNWyh42wYnlM8",
-            "duration": 1395.5608,
+            "collection_id": "AaEX47GCjvfpAIE9VqvA",
+            "duration": 1409.2078,
             "episode_number": "1",
             "original_air_date": null,
-            "auth_launch_date": 1696132800,
+            "auth_launch_date": 1791705600,
             "clip_order": null,
-            "airing_id": "RADS1010192500063859",
-            "media_id": "2fa74c8784ae8819355486d1d4e5084bdf894f45",
-            "modified": 1760885813,
-            "slug": "furu-bari-full-barricade",
+            "airing_id": "RADS1010082600028649",
+            "media_id": "d80605eba0d86847f7f13f6a55389b026ea7e265",
+            "modified": 1791836091,
+            "slug": "sakura-arrives-at-furin",
             "exclude_from_search": false,
-            "thumbnail": "https://media.cdn.adultswim.com/uploads/20230930/thumbnails/1_2393014928-FLCL_501_Broadcast_Master_20230901-116.png",
-            "created": 1696005816,
-            "season_number": "5",
-            "title_id": "2218884",
-            "tv_rating": "tv-14-d",
-            "published": 1760885813,
+            "thumbnail": "https://media.cdn.adultswim.com/uploads/20261012/thumbnails/1_261012166321-WB_AdvStills_Ep157.jpg",
+            "created": 1791464275,
+            "season_number": "1",
+            "title_id": "2600608",
+            "tv_rating": "tv-14-lv",
+            "published": 1791836091,
             "tags": [],
-            "collection_title": "FLCL",
+            "collection_title": "Wind Breaker",
             "disable_ads": false,
-            "modified_by": "ODT Listener",
-            "launch_date": 1760932800,
-            "poster": "https://media.cdn.adultswim.com/uploads/20230930/thumbnails/2_2393014928-FLCL_501_Broadcast_Master_20230901-116.png",
-            "id": "AYrh0v-Nn_kciGPPrCwX",
-            "auth": false,
-            "collection_slug": "flcl",
-            "collection_title_id": "2218883",
+            "modified_by": "undefined undefined",
+            "launch_date": null,
+            "poster": "https://media.cdn.adultswim.com/uploads/20261012/thumbnails/2_261012166321-WB_AdvStills_Ep157.jpg",
+            "id": "AaEbl37agU44ry-qCZJS",
+            "auth": true,
+            "collection_slug": "wind-breaker",
+            "collection_title_id": "2600607",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }
