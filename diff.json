@@ -1,7 +1,6 @@
 {
-    "updated": 1791918159,
-    "added": [],
-    "removed": [
+    "updated": 1791924877,
+    "added": [
         {
             "auth_expiration_date": null,
             "tms_id": "EP001022180043",
@@ -30,7 +29,7 @@
             "clip_order": null,
             "airing_id": "RADS1002112600086371",
             "media_id": "cb6ef187499d1b2fea72e4b8d6468038d328a1cf",
-            "modified": 1770825364,
+            "modified": 1791924661,
             "slug": "dimethyl-pyrimidinol-bisulfite",
             "exclude_from_search": false,
             "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_204201141347-sgc2c_9723_air_cid-9112338.jpg",
@@ -38,7 +37,7 @@
             "season_number": "4",
             "title_id": "322350",
             "tv_rating": "tv-pg",
-            "published": 1770825364,
+            "published": 1791924661,
             "tags": [
                 "sgc2c space ghost coast to coast episode 56 Dimethylpyrimidinol Bisulfite ointment pat boone chuck d"
             ],
@@ -53,5 +52,6 @@
             "collection_title_id": "322328",
             "online_exclusives": false
         }
-    ]
+    ],
+    "removed": []
 }

@@ -689,6 +689,54 @@
         "auth": false
     },
     {
+        "auth_expiration_date": null,
+        "tms_id": "EP001022180043",
+        "description": "Space Ghost and Zorak try to endorse ointment and potted meat to the home viewing audience. Pat Boone sings Space Ghost's praises, while rapper Chuck D is not impressed with the public-service rap performance by the Rappin' Space Goblin.",
+        "title_suggest": {
+            "input": [
+                "Dimethyl Pyrimidinol Bisulfite",
+                "Pyrimidinol Bisulfite",
+                "Bisulfite"
+            ]
+        },
+        "title": "Dimethyl Pyrimidinol Bisulfite",
+        "expiration_date": 1791950340,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "LbVpEFlMR86Yg2sB-nUrrA",
+        "duration": 707.2733,
+        "episode_number": "23",
+        "original_air_date": "891664200",
+        "auth_launch_date": null,
+        "clip_order": null,
+        "airing_id": "RADS1002112600086371",
+        "media_id": "cb6ef187499d1b2fea72e4b8d6468038d328a1cf",
+        "modified": 1791924661,
+        "slug": "dimethyl-pyrimidinol-bisulfite",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/1_204201141347-sgc2c_9723_air_cid-9112338.jpg",
+        "created": 1689872130,
+        "season_number": "4",
+        "title_id": "322350",
+        "tv_rating": "tv-pg",
+        "published": 1791924661,
+        "tags": [
+            "sgc2c space ghost coast to coast episode 56 Dimethylpyrimidinol Bisulfite ointment pat boone chuck d"
+        ],
+        "collection_title": "Space Ghost Coast to Coast",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": 1770872400,
+        "poster": "https://media.cdn.adultswim.com/uploads/20200420/thumbnails/2_204201141347-sgc2c_9723_air_cid-9112338.jpg",
+        "id": "AYl0OmA3Oz5CkuTcnwR8",
+        "auth": false
+    },
+    {
         "auth_expiration_date": 1765947540,
         "tms_id": "EP001022180101",
         "description": "A marketing infomercial about taking advantage of Space Ghost's power, followed by interviews with the winners of the \"Haiku'n for Space Ghost\" contest.",
