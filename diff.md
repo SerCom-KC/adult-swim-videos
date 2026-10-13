@@ -2,17 +2,17 @@
 **This is an auto-generated page based on data pulled from official video APIs and is correct at time of publication. Please do not contact any Adult Swim employee on social media regarding any information this page provides.**  
 **SPOILER ALERT: This page contains thumbnails of full episodes/shorts/etc. that might be spoilery to you. YOU HAVE BEEN WARNED.**  
 
-_Last Update: October 13, 2026 at 06:00:41 EDT_
+_Last Update: October 13, 2026 at 14:00:14 EDT_
 ## Video added
-No videos were added.  
-## Video removed
 ### Summary
-2031611 Dragon Ball Z Kai: 1  
-### 2031628
-**Dragon Ball Z Kai S01E17 - Dawn of a Fierce Battle! The Star of Hope is Piccolo's Homeland!**  
-TV-PG-LV 🔓 21:01  
-⌛ October 13, 2026 at 05:29:00 EDT  
-https://www.adultswim.com/videos/dragon-ball-z-kai/dawn-of-a-fierce-battle-the-star-of-hope-is-piccolos-homeland  
-seriesid=`2031611` titleid=`2031628` id=`SoPuLrePQwWYrcz43TWYTA` mediaid=`a6fa6cf4f2ab20ae55a9cb0212c1c0ff727d54d4`  
-_Vegeta has been defeated, but there's no time to celebrate. The Z-Fighters must find a way to resurrect the friends who died stopping the Saiyan invasion. Fortunately for the fallen, Krillin has a plan!_  
-<a href="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684039873810.jpg"><img src="https://i.cdn.turner.com/adultswim/big/image-upload/thumbnails/thumb-2_image-155684039873810.jpg" height="144px" /></a>
+2599126 Scavengers Reign: 1  
+### 2599135
+**Scavengers Reign S01E09 - The Mountain**  
+TV-MA-LV 🔓 25:22  
+⌛ October 26, 2026 at 23:59:59 EDT  
+https://www.adultswim.com/videos/scavengers-reign/the-mountain  
+seriesid=`2599126` titleid=`2599135` id=`AaC1PgzsgU44ry-qCZHZ` mediaid=`ae9ed7330916abf6415a81f858f3ad4f5e8d889b`  
+_After reaching an insurmountable obstacle, Azi must learn to trust Kris and Barry. Meanwhile, rough waters test a newly reborn Sam._  
+<a href=""><img src="" height="144px" /></a>
+## Video removed
+No videos were removed.  
