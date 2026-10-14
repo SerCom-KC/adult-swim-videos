@@ -237,6 +237,54 @@
         "auth": true
     },
     {
+        "auth_expiration_date": 1793159940,
+        "tms_id": "",
+        "description": "Louise suspects there's something sinister afoot during a Halloween field trip to an apple orchard.",
+        "title_suggest": {
+            "input": [
+                "Apple Gore-Chard! (But Not Gory)",
+                "Gore-Chard! (But Not Gory)",
+                "(But Not Gory)",
+                "Not Gory)",
+                "Gory)"
+            ]
+        },
+        "title": "Apple Gore-Chard! (But Not Gory)",
+        "expiration_date": null,
+        "type": "episode",
+        "platforms": [
+            "android",
+            "ios",
+            "roku",
+            "fire-tv"
+        ],
+        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
+        "duration": 0,
+        "episode_number": "6",
+        "original_air_date": null,
+        "auth_launch_date": 1791950400,
+        "clip_order": null,
+        "airing_id": "RADS1010082600028698",
+        "media_id": "d452e9a66dfaeac81439962ef6c5e6d49caa0de4",
+        "modified": 1791526833,
+        "slug": "apple-gore-chard-but-not-gory",
+        "exclude_from_search": false,
+        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/1_25918112279-BobsBurgers_1306.jpg",
+        "created": 1758209280,
+        "season_number": "13",
+        "title_id": "2569572",
+        "tv_rating": "tv-pg-l",
+        "published": 1791526833,
+        "tags": [],
+        "collection_title": "Bob's Burgers",
+        "disable_ads": false,
+        "modified_by": "ODT Listener",
+        "launch_date": null,
+        "poster": "https://media.cdn.adultswim.com/uploads/20250918/thumbnails/2_25918112279-BobsBurgers_1306.jpg",
+        "id": "AZldcIu8yEF1_1NDe6aX",
+        "auth": true
+    },
+    {
         "auth_expiration_date": 1792036740,
         "tms_id": "",
         "description": "Louise's schoolmate, Arnold, enlists her to direct a promotional video for his new bodyguarding business.",
@@ -279,52 +327,6 @@
         "launch_date": null,
         "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291524288-BobsBurgers_1521.jpg",
         "id": "AZmW736qs_ErlMTJpQoF",
-        "auth": true
-    },
-    {
-        "auth_expiration_date": 1791950340,
-        "tms_id": "",
-        "description": "When Big Bob brings over a kite, Bob is determined to fly it with his kids. Meanwhile, Teddy seeks Linda's help in rehearsing for a play.",
-        "title_suggest": {
-            "input": [
-                "Dad-urday Kite Fever",
-                "Kite Fever",
-                "Fever"
-            ]
-        },
-        "title": "Dad-urday Kite Fever",
-        "expiration_date": null,
-        "type": "episode",
-        "platforms": [
-            "android",
-            "ios",
-            "roku",
-            "fire-tv"
-        ],
-        "collection_id": "Ag5bq7vhQl2cH1JpuViPOw",
-        "duration": 0,
-        "episode_number": "20",
-        "original_air_date": null,
-        "auth_launch_date": 1790740800,
-        "clip_order": null,
-        "airing_id": "RADS1009262600025852",
-        "media_id": "ac2ed1d0520dd08fd06e46a172b63ba05fcc6bf0",
-        "modified": 1790448544,
-        "slug": "dad-urday-kite-fever",
-        "exclude_from_search": false,
-        "thumbnail": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/1_259291523457-BobsBurgers_1520.jpg",
-        "created": 1759173831,
-        "season_number": "15",
-        "title_id": "2569639",
-        "tv_rating": "tv-pg-l",
-        "published": 1790448544,
-        "tags": [],
-        "collection_title": "Bob's Burgers",
-        "disable_ads": false,
-        "modified_by": "ODT Listener",
-        "launch_date": null,
-        "poster": "https://media.cdn.adultswim.com/uploads/20250929/thumbnails/2_259291523457-BobsBurgers_1520.jpg",
-        "id": "AZmW7mnhs_ErlMTJpQoE",
         "auth": true
     },
     {
